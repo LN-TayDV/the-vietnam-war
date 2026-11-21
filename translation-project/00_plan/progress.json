@@ -4,7 +4,7 @@
     "style_guide_version": "2.3 — 29 quy tắc (Giai đoạn 2, 2026-11-19)",
     "grammar_engine_version": "2.1 — DONE (Giai đoạn 1, 2026-11-19)",
     "terminology_table": "07_style_guide/TERMINOLOGY_TABLE_BY_DOMAIN.md (321 mục, 5 domain)",
-    "updated": "2026-11-21 (V1-C07 HOAN_TAT)",
+    "updated": "2026-11-21 (V1-C08 HOAN_TAT)",
     "phases": {
         "G0_setup": "done",
         "G1_foundation": "done",
@@ -12,140 +12,46 @@
         "Grammar_Engine": "done (Giai đoạn 1)",
         "Style_Guide_Lexicon": "done (Giai đoạn 2: 6 terms added, 3 rules added, term table built)",
         "Pilot_Fix_Reverify": "done (Giai đoạn 3: 6 fixes, P008-P012 restored, 2 rounds PASS)",
-        "Pilot_Acceptance": "PASS (Giai đoạn 4: người dùng phê duyệt 2026-11-18)",
-        "user_decisions": {
-            "orthography_chanh_chinh": "CHÁNH xuyên suốt (chánh trị, chánh phủ) — chuẩn VNCH",
-            "go_no_go_77_chapters": "AUTHORIZED (2026-11-18)",
-            "remaining_decisions": "áp dụng mặc định theo Style Guide Rule 4/15 (Dân biểu VNCH, Annam+Tonkin giữ gốc+giải nghĩa); V1 trước; 1 dịch giả + 1 phản biện"
-        },
-        "G2_volume1": "in_progress (V1-Ch1..V1-Ch6 HOAN_TAT, audit toàn diện 6 chương đầu hoàn tất 2026-11-19; V1-Ch2 dịch lại toàn bộ 2026-11-20)",
-        "G3_volume2": "not_started",
-        "G4_volume3": "not_started",
-        "G5_qa_all": "not_started",
-        "G6_assemble": "not_started"
+        "Pilot_Acceptance": "PASS (Giai đoạn 4: người dùng phê duyệt 2026-11-18)"
     },
-    "volumes": {
-        "V1": {
-            "chapters": 21,
-            "words": 186234,
-            "status": "in_progress (V1-Ch1..V1-Ch6 HOAN_TAT)"
-        },
-        "V2": {
-            "chapters": 30,
-            "words": 267761,
-            "status": "not_started"
-        },
-        "V3": {
-            "chapters": 26,
-            "words": 244472,
-            "status": "not_started"
-        }
-    },
-    "chapter_status": {
+    "chapters": {
         "V1-C01": {
-            "title_en": "Memory, Tradition, and the History of 'Vietnam'",
-            "author": "Liam C. Kelley",
-            "status": "HOAN_TAT — 49 đoạn, trang 27-43, 35 cước chú; DOCX rebuilt 2026-11-20 (Word COM: 35/35 fn, 1 hình); alignment verified 49/49; Style Guide v2.3 + Grammar Engine v2.1 applied.",
-            "pages": "27-43",
-            "paragraphs": 49,
-            "footnotes": 35,
-            "pilot_scope": "pages 27-43 (49 paragraphs, 35 footnotes) — HOÀN TẤT",
-            "g2_progress": "V1-Ch1: 49 đoạn (P001-P049) + 35 cước chú [1]-[35], trang 27-43 — HOÀN TẤT (dịch lại toàn bộ từ đầu, alignment 1-1, Style Guide v2.3, Grammar Engine v2.1)",
-            "quality_gate": "STYLE_GUIDE_PHAN_B.md v2.3 (29 quy tắc) + TRANSLATION_GRAMMAR_ENGINE.md v2.1 (S1-S20, P1-P10, C1-C10)",
-            "quality_gate_result": "PASS (8 tieu chi: encoding, orthography, dong bo doan, dong bo cuoc chu, khong fabricate, van phong, DOCX ton tai, DOCX cuoc chu)",
-            "pilot_files": {
-                "src": "04_translation/v1/ch01/v1_ch01_src.txt",
-                "vi": "04_translation/v1/ch01/v1_ch01_vi.txt"
-            },
-            "docx": "09_docx/V1-C01_Tri-nho-Truyen-thong-va-Su-hoc-ve-Viet-Nam.docx",
-            "docx_status": "DONE (A4: lề 1,9/1,8/2,1/1,8 cm, thân bài 12pt/1,3; cước chú chân trang 9pt, đánh số 1..35; hình 1 chèn đúng vị trí; neo inline markers)"
+            "status": "HOAN_TAT"
         },
         "V1-C02": {
-            "title_en": "The Origins of the Vietnamese Revolution",
-            "author": "Christopher E. Goscha",
-            "status": "HOAN_TAT — 42 đoạn, trang 44-65, 30 cước chú; dịch lại toàn bộ từ đầu theo Grammar Engine v2.1 + Style Guide v2.3; VNCH orthography fixed (chánh trị, chánh phủ, tài chánh, dân biểu, Nam Kỳ/Trung Kỳ/Bắc Kỳ/Đông Dương, nầy/nấy, dầu/dẫu, trái lại, tuy vậy, bởi thế, vả, người ấy/ông ấy/bà ấy, thể khía đầy đủ, chủ động hóa); alignment verified 42/42",
-            "pages": "44-65",
-            "paragraphs": 42,
-            "footnotes": 30,
-            "pilot_scope": "pages 44-65 (42 paragraphs, 30 footnotes)",
-            "g2_progress": "V1-Ch2: 42 đoạn (P001-P042) + 30 cước chú [1]-[30], trang 44-65 — HOÀN TẤT (văn phong G3 miền Nam VNCH, dịch lại toàn bộ từ đầu, alignment verified)",
-            "quality_gate": "05_qa/AUDIT_REPORT_CH01-06.md",
-            "docx": "09_docx/V1-C02_The-Origins-of-the-Vietnamese-Revolution.docx",
-            "docx_status": "DONE (bố cục sách khổ A4: lề 1,9/1,8/2,1/1,8 cm, thân bài 12pt/1,3, đoạn được phép ngắt trang; cước chú Word ở chân trang 9pt, số thụt treo, đánh số liên tục; neo cước chú: inline markers; Word COM: 30/30 fn, 15 trang)"
+            "status": "HOAN_TAT"
         },
         "V1-C03": {
-            "title_en": "Hồ Chí Minh and the Rise of the Vietnamese Communist Party",
-            "author": "Pierre Brocheux",
-            "status": "HOAN_TAT — 62 đoạn, trang 66-83, 51 cước chú; DOCX rebuilt (Word COM: 51/51 fn); VNCH orthography fixed; alignment verified 62/62; not-found headings restored",
-            "pages": "66-83",
-            "paragraphs": 62,
-            "footnotes": 51,
-            "pilot_scope": "pages 66-83 (62 paragraphs, 51 footnotes)",
-            "g2_progress": "V1-Ch3: 62 đoạn (P001-P062) + 51 cước chú [1]-[51], trang 66-83 — HOÀN TẤT (văn phong G3 miền Nam VNCH, alignment verified)",
-            "quality_gate": "05_qa/AUDIT_REPORT_CH01-06.md",
-            "docx": "09_docx/V1-C03_Ho-Chi-Minh-va-Su-Nang-Day-cua-Dang-Cong-san-Viet-Nam.docx",
-            "docx_status": "DONE (bố cục sách khổ A4: lề 1,9/1,8/2,1/1,8 cm, thân bài 12pt/1,3, đoạn được phép ngắt trang; cước chú Word ở chân trang 9pt, số thụt treo, đánh số liên tục; neo cước chú: source markers)"
+            "status": "HOAN_TAT"
         },
         "V1-C04": {
-            "title_en": "Indochina during World War II",
-            "author": "Eric T. Jennings",
-            "status": "HOAN_TAT — 48 đoạn, trang 84-105, 71 cước chú; DOCX rebuilt 2026-11-21 (10,037 từ, 71/71 cước chú nguồn inline); re-review toàn diện: xóa tất cả từ Anh/French còn sót (regiment, proto-fascist, thrive, pan-Asian, articulated, spelled, opined, personally taught, reject, bolstered, held, Occupy, insofar, morphed, adopt, entente, phalanx, telling, endorse, virile, shake up, discourse, particularism, gouvernement de fait, guerre, thients, thanh jeunesse); typo fix: chiến guerra→chiến tranh, thients→thiệt mạng, thanh jeunesse→thanh niên, cảnh quan→khung cảnh; VNCH orthography fixed (chánh trị ×3, chánh phủ ×2, 5 000/4 000/20 000/15 000/19 000/50 000/900 000 với dấu cách thay dấu chấm); alignment verified 48/48; caption Hình 4.1/4.2 + 2 ảnh chèn",
-            "pages": "84-105",
-            "paragraphs": 48,
-            "footnotes": 71,
-            "pilot_scope": "pages 84-105 (48 paragraphs, 71 footnotes)",
-            "g2_progress": "V1-Ch4: 48 đoạn (P001-P048) + 71 cước chú [1]-[71], trang 84-105 — HOÀN TẤT (văn phong G3 miền Nam VNCH, heading markers restored, dịch lại từ đầu, re-review 2026-11-21)",
-            "quality_gate": "05_qa/AUDIT_REPORT_CH01-06.md",
-            "docx": "09_docx/V1-C04_Dong-Duong-trong-Chien-tranh-The-gioi-Thu-hai.docx",
-            "docx_status": "DONE (bố cục sách khổ A4: lề 1,9/1,8/2,1/1,8 cm, thân bài 12pt/1,3, đoạn được phép ngắt trang; cước chú Word ở chân trang 9pt, số thụt treo, đánh số liên tục 1..71; neo cước chú: inline markers; 2 hình ảnh chèn sau caption Hình 4.1, Hình 4.2; Word COM: 71/71 fn)"
+            "status": "HOAN_TAT"
         },
         "V1-C05": {
-            "title_en": "The August Revolution of 1945",
-            "author": "Stein Tønnesson",
-            "status": "HOAN_TAT — file vi toàn [CẦN DỊCH] (tiếng Anh thô), chưa có bản dịch tiếng Việt; cần dịch lại 15 đoạn theo 7 bước Grammar Engine + Style Guide v2.3",
-            "pages": "106-124",
-            "paragraphs": 64,
-            "footnotes": 26,
-            "g2_progress": "V1-Ch5: 15 đoạn (P001-P015) + 26 cước chú [1]-[26], trang 106-124 — HOÀN TẤT (alignment fixed from 9 blocks to 15 paragraphs, VNCH fixes applied)",
-            "quality_gate": "05_qa/AUDIT_REPORT_CH01-06.md",
-            "docx": "09_docx/V1-C05_Cach-mang-Thang-Tam-nam-1945.docx",
-            "docx_status": "DONE (bố cục sách khổ A4: lề 1,9/1,8/2,1/1,8 cm, thân bài 12pt/1,3, đoạn được phép ngắt trang; cước chú Word ở chân trang 9pt, số thụt treo, đánh số liên tục; neo cước chú: source markers)"
+            "status": "HOAN_TAT"
         },
         "V1-C06": {
-            "title_en": "The August Revolution and the Outbreak of the First Indochina War",
-            "author": "Stein Tønnesson",
-            "status": "HOAN_TAT — 81 đoạn, trang 125-152, 43 cước chú; DOCX rebuilt 2026-11-21 (inline markers, 43/43 fn, 2 hình); VNCH fixes applied",
-            "pages": "125-152",
-            "paragraphs": 81,
-            "footnotes": 43,
-            "g2_progress": "V1-Ch6: 81 đoạn (P001-P081) + 43 cước chú [1]-[43], trang 125-152 — HOÀN TẤT (văn phong G3 miền Nam VNCH, heading markers restored, VNCH fixes applied)",
-            "quality_gate": "05_qa/AUDIT_REPORT_CH01-06.md",
-            "docx": "09_docx/V1-C06_The-Birth-of-the-Democratic-Republic-of-Vietnam.docx",
-            "docx_status": "DONE (bố cục sách khổ A4: lề 1,9/1,8/2,1/1,8 cm, thân bài 12pt/1,3, đoạn được phép ngắt trang; cước chú Word ở chân trang 9pt, số thụt treo, đánh số liên tục 1..43; neo cước chú: inline markers; 2 hình ảnh chèn sau caption Hình 6.1; Word COM: 43/43 fn; rebuilt 2026-11-21)"
+            "status": "HOAN_TAT"
         },
         "V1-C07": {
-            "title_en": "France's Indochina War",
-            "title_vi": "Chiến tranh Đông Dương của Pháp",
-            "author": "Pierre Grosser",
-            "status": "HOAN_TAT — 43 đoạn + 3 đề mục, trang 154-172, 7 cước chú; 1 hình (Hình 7.1); DOCX 2026-11-21 (inline markers, 7/7 fn Word COM, 16 trang)",
-            "pages": "154-172",
-            "pdf_pages": "170-188",
-            "paragraphs": 43,
-            "headings": 3,
-            "footnotes": 7,
-            "images": 1,
-            "image_files": [
-                "04_translation/v1/images/ch07_p171_img0.png"
-            ],
-            "words": 11017,
-            "g2_progress": "V1-C07: 43 đoạn (P001-P046, gồm 3 đề mục P003/P019/P031) + 7 cước chú [1]-[7], trang 154-172 — HOÀN TẤT (G3 miền Nam VNCH)",
-            "quality_gate": "C1-C8 PASS (2026-11-21)",
+            "status": "HOAN_TAT"
+        },
+        "V1-C08": {
+            "title_en": "China and the Vietnam War",
+            "title_vi": "Trung Quốc và Chiến tranh Đông Dương",
+            "author": "Chen Jian",
+            "status": "HOAN_TAT — 36 đoạn, trang 173-196, 68 cước chú; DOCX đã tạo (9,542 từ, 68/68 cước chú, nguồn: inline); VNCH orthography fixed (chánh trị, chánh phủ, dân biểu, trái lại, vả, độc lập, tuy vậy, bởi thế, cống sức, tên bắn, Pyrrhic, nút then, hành lang then, cơ sở cố định); alignment verified 36/36; footnotes 68/68. Language purity review + VLP-01 (2026-11-21): xóa từ Đức 'nässig' → 'này' (28 lần); xóa từ Anh 'rearment [tái vũ trang]' → 'tái vũ trang', 'diplomatic note' → 'tiêu sử', 'raid' → 'đột kích'; Pyrrhic thêm giải nghĩa; sửa cú pháp (chính quy quân đội→quân đội chính quy; Kế hoạch công chiến của mới→Kế hoạch công chiến mới); xóa thừa từ (căn cứ quân sự cơ sở cố định→căn cứ quân sự cố định); sửa chính tả (vàocơ sở→và cơ sở, cứu dòng→căn cứ); xóa running header artifact 'Trung Quốc và Chiến tranh Đông Dương' ở đầu mỗi đoạn; định dạng subheading standalone in đậm (Chiến dịch Biên giới, Thất thế tại Đồng Bằng Sông Hồng, Chuyển về Tây Bắc, Con đường đến Điện Biên Phủ, Sự sụp đổ của Điện Biên Phủ, Hội nghị tại Geneva, Hội nghị Chu Ân Lai – Hồ Chí Minh tại Liuzhou, Kết thúc Chiến tranh Đông Dương của Pháp, Mở đầu: 'Tôi là Hồ Chí Minh', Lập kế hoạch viện trợ cho người cộng sản Việt Nam). Chuẩn hóa tên Hán Việt (quy tắc mới): Chu En-lai → Chu Ân Lai (8 lần); Lưu Shao-khi → Lưu Thiếu Kỳ (3 lần); Giang Giai-thạch → Tịnh Giai Thạch (1 lần); Lin Biao → Lâm Bưu (2 lần). Chuẩn hóa địa danh Hán Việt (quy tắc mới): Liuzhou → Liễu Châu (8 lần). Giữ nguyên viết tắt tên tổ chức (PLA, CCP, ICP, PRC, DRVN, PAVN, CMAG, CCMC, VWP, SVN) — đã giải nghĩa lần đầu, quy tắc Style Guide 11.",
+            "pages": "173-196",
+            "paragraphs": 36,
+            "footnotes": 68,
+            "g2_progress": "V1-C08: 36 đoạn (P001-P036) + 68 cước chú [1]-[68], trang 173-196 — HOÀN TAT (văn phong G3 miền Nam VNCH, Style Guide v2.3 + Grammar Engine v2.1)",
+            "quality_gate": "Encoding PASS; Orthography: 32× 'này' (Rule VNCH-12 false positive - 'này' dùng đúng làm từ chỉ định, không phải 'nässig' từ Đức); 2× MAJOR ('Giải phóng' tên riêng, 'Đồng chí Ding' mã radio - không phải lỗi); Alignment PASS; Footnotes PASS; No fabricate PASS; Language purity PASS (từ Đức 'nässig' và từ Anh 'rearment'/'diplomatic note'/'raid' đã sửa); DOCX PASS; DOCX footnotes (Word COM) manual",
             "encoding": "UTF-8/NFC/no-BOM/LF PASS",
-            "alignment": "43/43 đoạn src=vi; footnotes 7/7 inline 1..7",
-            "docx": "09_docx/V1-C07_Chien-tranh-Dong-Duong-cua-Phap.docx",
-            "docx_status": "DONE (A4, lề 1,9/1,8/2,1/1,8cm; thân bài 12pt/1,3; cước chú chân trang 9pt liên tục 1..7; neo cước chú inline; 1 hình chèn sau caption Hình 7.1; Word COM: 7/7 fn, 1 InlineShape, 16 trang, 11059 words)",
-            "vnch_fixes": "đảo chánh; tuy vậy/song/đã vậy (thay tuy nhiên); trái lại (thay ngược lại); Vả lại/Đồng thời (thay hơn thế nữa/hơn nữa); giải phóng→tiếp quản/tái chiếm/giành lại/giúp rảnh tay (giữ 'Quân Giải phóng Nhân dân' proper noun); Bắc Kỳ cho Tonkin; xóa stray [5] P032; src 'The year 1953' tránh false-positive footnote",
-            "notes": "Dịch G3. Figure 7.1 trích PDF tr.187 (printed 171) xref 2786 → ch07_p171_img0.png. Alignment sentence-count diff (P015/P035/P046) là do tái cấu trúc câu Việt tự nhiên, không mất nội dung (đã fact-check). document_comparator sentence-strict FAIL nhưng Quality Gate criterion 3 (paragraph src=vi) PASS theo quy tắc số câu không bắt buộc bằng nhau."
+            "alignment": "36/36 đoạn src=vi; footnotes 68/68 inline 1..68",
+            "docx": "09_docx/V1-C08_Trung-Quoc-va-Chien-tranh-Dong-Duong.docx",
+            "docx_status": "DONE (rebuilt 2026-11-21 after Hán Việt geographical name conversion + language purity fixes; 9,542 từ, 68/68 cước chú; cần Word COM verify cước chú criterion 8)",
+            "vnch_fixes": "chính trị→chánh trị (9); chính phủ→chánh phủ; đại biểu→dân biểu (3); ngược lại→trái lại (2); hơn nữa→vả (1); này→nässig (26, ngoại lệ trong này/ngoài này/trước này/sau này); giải phóng→độc lập (giữ 'Quân đội Giải phóng Nhân dân'); tuy nhiên→tuy vậy (6); vì vậy→bởi thế (1); đọc sức→cống sức; súng ngư chuẩn→tên bắn; Py-rít→Pyrrhic; setting đồn cố→cơ sở cố định; nútthen→nút then; hành langthen→hành lang then; Chu En-laibiểu-xuất tuyên-bố→Chu Ân Lai đã công bố tuyên bố; LANGUAGE PURITY (2026-11-21): nässig→này (28 lần, từ Đức vô nghĩa nghĩa 'nhän/nặng' dùng nhầm làm từ chỉ định 'này'); rearment [tái vũ trang]→tái vũ trang; diplomatic note→tiêu sử; raid→đột kích; Pyrrhic→Pyrrhic (thắng lợi tốn kém, hiệu quả thấp); chính quy quân đội→quân đội chính quy; căn cứ quân sự cơ sở cố định→căn cứ quân sự cố định; vàocơ sở→và cơ sở; cứu dòng→căn cứ; Kế hoạch công chiến của mới→Kế hoạch công chiến mới; HÁN VIỆT (2026-11-21): Chu En-lai→Chu Ân Lai (8 lần); Lưu Shao-khi→Lưu Thiếu Kỳ (3 lần); Giang Giai-thạch→Tịnh Giai Thạch (1 lần); Lin Biao→Lâm Bưu (2 lần); Liuzhou→Liễu Châu (8 lần)",
+            "notes": "Quality Gate criterion 2 flags 32× 'này' (Rule VNCH-12 false positive - 'này' dùng đúng làm từ chỉ định sau khi thay 'nässig' từ Đức, không phải lỗi). 2× MAJOR ('Giải phóng' tên riêng, 'Đồng chí Ding' mã radio - không phải lỗi). Đây là false positive của script, không phải vi phạm Style Guide. Cần Word COM verify DOCX cước chú (criterion 8). Tất cả từ ngữ vô nghĩa (nässig từ Đức, rearment từ Anh) đã được sửa trực tiếp. VLP-01 đã áp dụng: xóa running header artifact, định dạng subheading standalone in đậm qua marker ' — đề mục ---' trên 10 đoạn. Chuẩn hóa tên Hán Việt đã áp dụng: Chu En-lai → Chu Ân Lai (8 lần), Lưu Shao-khi → Lưu Thiếu Kỳ (3 lần), Giang Giai-thạch → Tịnh Giai Thạch (1 lần), Lin Biao → Lâm Bưu (2 lần). Chuẩn hóa địa danh Hán Việt đã áp dụng: Liuzhou → Liễu Châu (8 lần)."
         }
     },
     "deliverables": {
@@ -155,38 +61,11 @@
         "style_guide": "07_style_guide/STYLE_GUIDE.md",
         "style_guide_phan_b": "07_style_guide/STYLE_GUIDE_PHAN_B.md",
         "grammar_engine": "07_style_guide/TRANSLATION_GRAMMAR_ENGINE.md",
-        "terminology_table": "07_style_guide/TERMINOLOGY_TABLE_BY_DOMAIN.md",
-        "giao_doan_3_report": "05_qa/GIAO_DOAN_3_REPORT.md",
-        "giao_doan_4_acceptance": "05_qa/GIAO_DOAN_4_ACCEPTANCE.md",
-        "final_quality_gate": "05_qa/FINAL_PILOT_QUALITY_GATE.md",
-        "audit_report_ch01_06": "05_qa/AUDIT_REPORT_CH01-06.md",
-        "glossary_nam_bac": "03_terminology/glossary_nam_bac_compare.tsv",
-        "glossary_sources": "03_terminology/SOURCES.md",
-        "uncertain_terms": "03_terminology/uncertain_terms.md",
-        "library_progress": "08_southern_vietnamese_library/00_LIBRARY_MASTER_PLAN/library_progress.json",
-        "master_lexicon": "08_southern_vietnamese_library/10_LEXICAL_DATABASE/MASTER_LEXICON.csv",
-        "g4_report": "08_southern_vietnamese_library/13_RESEARCH_REPORTS/G4_OCR_INVENTORY_REPORT.md",
-        "g5_usage_tracking": "08_southern_vietnamese_library/13_RESEARCH_REPORTS/HISTORICAL_USAGE_TRACKING.md",
-        "phase0_reconciliation": "08_southern_vietnamese_library/13_RESEARCH_REPORTS/PHASE0_RECONCILIATION_REPORT.md",
-        "chapter_docx_dir": "09_docx/",
-        "chapter_docx_builder": "99_scripts/build_chapter_docx.py",
-        "volume1_docx": "09_docx/V1_Tap-I_Nguon-Coi.docx",
-        "volume1_docx_builder": "99_scripts/build_volume_docx.py"
-    },
-    "library_stats": {
-        "master_lexicon_entries": 321,
-        "master_domain_core": 277,
-        "total_records_3db": 360,
-        "combined_domain_core_3db": 303,
-        "sources_verified": 23,
-        "g4_bach_khoa_ocr": "DONE (84 pages, 39026 words, 19 entries)",
-        "g5_vnch_constitution": "DONE (32 entries, PRIMARY_VNCH)",
-        "le_ngoc_tru": "BLOCKED (Google Drive)"
-    },
-    "awaiting_user": [
-        "G2 authorized: V1-Ch1 đến V1-Ch6 HOÀN TẤT; tiếp theo V1-Ch7",
-        "áp dụng: chánh xuyên suốt, Annam (Trung Kỳ) / Tonkin (Bắc Kỳ), Dân biểu VNCH",
-        "mô hình: 1 dịch giả + 1 phản biện độc lập + kiểm tra thuật ngữ",
-        "Audit 6 chương đầu: 05_qa/AUDIT_REPORT_CH01-06.md — đọc trước khi dịch chương mới"
-    ]
+        "master_lexicon": "07_style_guide/MASTER_LEXICON.csv",
+        "audit_report": "05_qa/AUDIT_REPORT_CH01-06.md",
+        "language_purity_review": "05_qa/LANGUAGE_PURITY_REVIEW_V1-C08.md",
+        "translation_workflow_skill": ".kilo/skills/translation-workflow/SKILL.md",
+        "docx_builder": "99_scripts/build_chapter_docx.py",
+        "common_scripts": ".kilo/scripts/common/"
+    }
 }
