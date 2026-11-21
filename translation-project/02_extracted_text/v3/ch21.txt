@@ -1,0 +1,757 @@
+476
+The environmental history of the Vietnam War is unique in the twentieth 
+century for the unprecedented scale of aerial bombing and use of incendi-
+aries such as napalm, as well as the United States military’s use of tactical 
+herbicides to destroy forest cover in combat zones. The most widely used 
+herbicide was called Agent Orange, named after the orange stripe on drums 
+containing the herbicides 2,4,5-T and 2,4-D. Specially equipped US Air Force 
+cargo planes covered about one-third of South Vietnam’s forests with some 
+21 million gallons of the herbicide. When reports surfaced in 1969 and 1970 
+suggesting that a dioxin contaminant in it caused birth defects, environmen-
+tal and antiwar activists joined forces, labeling this intentional destruction 
+of Vietnam’s forests and widespread toxic exposure “ecocide.”1 The Hanoi 
+government repeatedly decried the herbicide-spraying as a war crime violat-
+ing the 1925 Geneva Protocol banning the use of chemical weapons. After the 
+war, as more veterans reported strange illnesses, class-action lawsuits erupted 
+that held American public attention in the 1980s until, in 1991, the US Congress 
+passed an Agent Orange Act guaranteeing funding for independent scientific 
+research and health care for veterans, at least for US veterans. For the 3–4 mil-
+lion Vietnamese who were exposed to the toxic hotspots where tactical her-
+bicides had leaked into the ground, there was minimal medical support and 
+little in the way of cleanups, until very recently. These two issues, responding 
+to health claims and remediating hotspots, remained top level for over thirty 
+years of US–Vietnam relations, and only in the past decade have both sides 
+reached new agreements as the United States has committed more than $300 
+million for remediation efforts at its former bases.2
+21
+Environmental Legacies of the 
+Vietnam War
+David Biggs
+	1	 See David Zierler, The Invention of Ecocide: Agent Orange, Vietnam and the Scientists Who 
+Changed How We Think about the Environment (Athens, GA, 2011), 122–3.
+	2	 Of the numerous histories of Agent Orange, Edwin A. Martini’s Agent Orange: History, 
+Science, and the Politics of Uncertainty (Amherst, MA, 2012) provides a comprehensive account 
+of the legal and political battles in the postwar era, while Alvin Young’s The History, Use, 
+
+Environmental Legacies of the Vietnam War
+477
+The Agent Orange story is unique for many reasons, and it is addressed 
+in more detail below, as well as in several dozen books and documentaries, 
+but this was just one of a broad spectrum of the war’s environmental lega-
+cies. Drawing on recent trends in environmental and military history, this 
+chapter aims to provide a more comprehensive sketch of the environmental 
+legacies of the Vietnam War. Besides the effects of bombing and herbicides, 
+these include inquiries into the “footprints” of warfare in urban and industrial 
+development, in ethnic and demographic shifts in former war zones, in the 
+dispersion of invasive species, and even in the creation of wilderness or con-
+servation areas. Historians have only recently begun to grapple with a set 
+of military processes called “militarization” that includes not only following 
+events on the battlefield, but also looking at the ways military activity and 
+occupation affect political systems, logistics networks, cultural affairs, tour-
+ism, and migration. Feminist scholar Cynthia Enloe’s studies on militarism, 
+masculinity, and gender relations, especially in the peripheries of American 
+bases in the Philippines and Okinawa, extends analyses of the American mil-
+itary’s influence far beyond the battlefield and the base, exploring military 
+legacies in advertising, sex work, and tourism.3 This chapter considers the 
+Vietnam War’s legacies in a similarly wide-ranging manner but with respect 
+to landscapes and ecosystems. The term “landscape” is used to recognize nat-
+ural and built environments that are understood in both physical and social or 
+cultural terms. Ecosystems describe mostly physical phenomena, including 
+human activities, and they describe larger webs of environmental events con-
+nected to human and nonhuman life, geologic activity, and climatic stimuli.4 
+This chapter considers the environmental legacies of the Vietnam War with 
+respect to a wider set of military processes, the varied landscapes of Vietnam, 
+and rapidly changing ecosystems.
+The environmental legacies of the Vietnam War extend far beyond areas 
+scarred by bombing or toxic chemicals. Military activities such as base oper-
+ations, road construction, and population resettlement remade landscapes, 
+from the Chinese border to Thailand, Laos, Cambodia, and the Mekong 
+River Delta. War left indelible footprints on Vietnamese cities, from Soviet- 
+and East German–designed housing blocks built in the North to airports, 
+	3	 Cynthia Enloe, Bananas, Beaches and Bases: Making Feminist Sense of International Politics 
+(Berkeley, 2014).
+	4	 I address these issues specifically in Vietnam and not just for the Vietnam War but 
+over Vietnam’s long twentieth century. See David Biggs, Footprints of War: Militarized 
+Landscapes in Vietnam (Seattle, 2018).
+Disposition and Environmental Fate of Agent Orange (New York, 2009) provides a comprehen-
+sive account of the military’s development and use of Agent Orange and other herbicides.
+
+David Biggs
+478
+highways, and deep-sea ports built in the South. The war accelerated new 
+trends in agriculture, and it dramatically reworked the ethnic landscapes of 
+Vietnam’s Highlands. From an historical perspective, the challenge in study-
+ing the Vietnam War’s environmental legacies begins with the problem of 
+contextualization. How might one tease out specific impacts from the 1960–
+75 era versus decades of military conflict that preceded it or events that fol-
+lowed in the Third Indochina War? How did legacies differ from one regional 
+context to another? Many impacts, including those of Agent Orange, were 
+targeted to specific locales, so how can we assess environmental legacies 
+without losing these local particularities of place and ecology?
+Timescapes
+In environmental history, establishing the temporal boundaries of an envi-
+ronmental event is an important starting point for any study, especially a 
+war, as it concerns agency. Agency in environmental history concerns both 
+human and nonhuman actors, from governments and militaries to plants and 
+animals, geology, weather, and climate. There is often a presentist bias in 
+military environmental history that assumes prewar landscapes and environ-
+ments were stable, for example such tropes as the eternal Vietnamese village 
+or views on preconflict forests as pristine wilderness. Vietnam’s early modern 
+history shows that villages and forests were far from stable in this sense and 
+were repeatedly subjected to volatile political and environmental changes. 
+Civil conflicts like the Tây Sơn Rebellion (1778–1802) erupted in part because 
+rural communities in central Vietnam had disintegrated under a mix of eco-
+logical and political pressures.5 This social, economic, and environmental 
+volatility continued in the 1800s, and it contributed to France’s military suc-
+cesses in creating the colony of Cochinchina in 1862 and Indochina in 1884. 
+The colonial government targeted newly acquired “empty” spaces, such as 
+delta swamps and the terres rouges forests, for “reclamation” and conversion 
+into rice and rubber plantations. These plantation belts shattered traditional, 
+ethnic landscapes as millions of ethnic Vietnamese migrants from the north 
+moved into them. Such spaces became “engines” of the modern, colonial 
+economy, and in the 1930s communist activists targeted them in order to 
+	5	 Historians George Dutton and Li Tana highlight the fractures that split rural com-
+munities, especially from the Nguyễn Lords who ruled the southern region from Phú 
+Xuân (Huế). See Li Tana, Nguyễn Cochinchina: Southern Vietnam in the Seventeenth and 
+Eighteenth Centuries (Ithaca, 1998) and George Dutton, The Tây Sơn Uprising: Society and 
+Rebellion in Eighteenth-Century Vietnam (Honolulu, 2006).
+
+Environmental Legacies of the Vietnam War
+479
+attract thousands of supporters from the working poor.6 The Việt Minh and, 
+later, the National Front for the Liberation of Southern Vietnam (NLF, or 
+Viet Cong) led military assaults on these spaces in the French Indochina War 
+and the Vietnam War, culminating in devastating battles such as Operation 
+Junction City (February–March 1967) that involved tens of thousands of 
+troops and became one of the largest airmobile assaults in modern warfare. 
+Returning to the question of agency and temporal boundaries, the prewar 
+environmental history of such places as the Michelin Rubber Plantation, 
+located some 45 miles (75 kilometers) north of Saigon, mattered greatly in 
+shaping the place of the 1967 offensive. This rubber-plantation landscape pos-
+sessed a type of agency in drawing communist military units and held a key 
+strategic value to them and their American adversaries.
+Attention to environmental prehistory is important when studying the 
+legacies of the Vietnam War, because it establishes longer-term patterns of 
+urban and rural development in Vietnam that ebbed and flowed beyond the 
+staccato disruptions of military events. In the example above, prewar activ-
+ities such as the colonial-era development of rubber plantations and the rise 
+of communist cells among plantation workers in the 1930s played formative 
+roles in attracting NLF cadres to the area in the 1960s. This dynamism was 
+also important to postconflict legacies; communist cadres saw the rubber 
+plantations as key to their nation-building ambitions, too. American military 
+actions such as widespread bombing and defoliation had the short-term effect 
+of destroying thousands of hectares of rubber trees, but these violent “open-
+ings” also accelerated the Socialist Republic of Vietnam (SRVN)’s effort to 
+reestablish rubber plantations by clearing forests and opening up thousands 
+more hectares. State-owned and later private companies took advantage of 
+the war’s disturbances to expand the industry, as indigenous communities 
+were shattered and thousands of People’s Army of Vietnam (PAVN) veterans 
+agreed to settle there. At the same time that these new migrants settled in 
+the terres rouges, they also were unwittingly exposed to the residues of toxic 
+chemicals and unexploded bombs, so the “legacy” of the war here was mixed. 
+Now, almost fifty years since the war’s end in 1975, the effects of chemical 
+exposure and unexploded ordnance have largely subsided and given way to a 
+decades-long process of “re-greening,” where wild forests of dipterocarps and 
+other old-growth species have given way to endless, green rows of rubber 
+trees.
+	6	 See Michitaki Aso, Rubber and the Making of Vietnam: An Ecological History, 1897–1975 
+(Chapel Hill, NC, 2019).
+
+David Biggs
+480
+The term “timescape” is a relatively new invention introduced by scholars 
+interested in the long-term effects of toxic accidents, but scholarly interest in 
+this issue of temporal agency between war and the environment goes back 
+more than a century.7 Historians of the Roman empire, for example, noted 
+that military occupations such as the Emperor Claudius’ troops camping 
+around a strategic bridge crossing the River Thames in 43 CE gave rise to a 
+nucleus of markets outside the camps that grew into the City of London. On 
+the Red River in northern Vietnam, a similar urban polity grew up around 
+a series of Chinese citadels located on both banks of the Red River in what 
+is now downtown Hanoi. However, it was only in the early twentieth cen-
+tury that historians and social scientists began to consider how wartime dis-
+ruptions might stimulate major economic and environmental shifts. German 
+economist Werner Sombart published in 1913 a sort of prowar book titled 
+Krieg und Kapitalismus that pointed to the destruction of forests in Prussia’s 
+1870 war with France as key to the postwar rise of industrial society in the 
+Ruhr Valley and the creation of the German state.
+Sombart and his German “historical school” colleagues, however, were 
+unprepared for the scale of destruction that swept the Western Front from 
+1914 to 1918; but one idea that Sombart cribbed from Friedrich Nietzsche, cre-
+ative destruction, lived on in economic circles, especially after World War II. 
+This term is especially useful for exploring issues of war’s agency in reshaping 
+environments and economies. The Austrian economist Joseph Schumpeter 
+popularized the term in 1942 to explain how disruptions of capitalist business 
+cycles that periodically laid waste to outmoded industries were necessary. 
+American development economists pointed to the economic miracles of West 
+Germany and Japan in the 1950s as confirming the net-positive gains wrought 
+by the United States aggressively investing in the rebuilding of German and 
+Japanese cities and industries. In the 1960s, American economists like Walt 
+Rostow drew from these examples of creative destruction to create what his-
+torian Michael E. Latham describes as a modernization ideology. Especially 
+during the Vietnam War, hundreds of American social scientists joined the 
+Kennedy and Johnson administrations to support nation-building in South 
+Vietnam. Even as most of these individuals turned against the war, a few – 
+like the Harvard political scientist Samuel Huntington in 1968 – continued to 
+	7	 Barbara Adam’s Timescapes and Modernity: The Environment and Invisible Hazards (London, 
+1998) is one of the first works to focus on the centrality of time in understanding envi-
+ronmental issues; and more recently Rob Nixon’s Slow Violence and the Environmentalism 
+of the Poor (Cambridge, MA, 2013) pays closer attention to the politics of state responses 
+to toxic events.
+
+Environmental Legacies of the Vietnam War
+481
+argue that the increasingly horrific scale of aerial bombing, unprecedented 
+in the history of warfare, would in the end produce a new, more urban soci-
+ety. He infamously justified American practices of carpet-bombing in South 
+Vietnam for causing this “forced draft urbanization.”8
+This attention on war’s agency in shaping postwar environments and con-
+cerns about the relative timescapes of these changes are also tied to another rel-
+atively new concept in global environmental history: what some have termed 
+the Great Acceleration. The Great Acceleration refers to dramatic surges in 
+growth rates for a wide variety of human activities that, in turn, have affected 
+global climate and advanced social processes called “globalization.” Major fac-
+tors in this acceleration include the shift in energy regimes from relying on man-
+ual labor, animal draft power, and foot travel to reliance on fossil fuels, internal 
+	8	 Samuel Huntington, “The Bases of Accommodation,” Foreign Affairs 46 (4) (1968), 
+642–56.
+Figure 21.1  Four US Air Force Ranch Hand C-123s spray a communist jungle position 
+with defoliating liquid (September 30, 1965).
+Source: Bettmann / Contributor / Bettmann / Getty Images.
+
+David Biggs
+482
+combustion engines, and motorized transport.9 Historians of the Vietnam War 
+have yet to analyze the war within this framework of the Great Acceleration. 
+One of the most impressive constructions by communist forces, the network 
+of trails and supply lines called the Hồ Chí Minh Trail, offers a unique site 
+for examining this Great Acceleration in Vietnam. US President Lyndon B. 
+Johnson’s call for bombing of the North in Operation Rolling Thunder in 1965 
+was a calculated effort to thoroughly demoralize North Vietnam’s leaders and 
+people by showing the modern, destructive capabilities of the American mili-
+tary. While the bombing cost thousands of lives and inflicted unprecedented 
+damage, it also bolstered the decision of the ruling Politburo to engage in a 
+“total war,” in which hundreds of thousands of young men and women joined 
+in efforts to expand the Hồ Chí Minh Trail.10 From 1964 to 1975, the nature of 
+the fighting, especially the bombing campaigns, accelerated the construction of 
+a Vietnamese network of trails, roads, and small cities into the Highland areas 
+of Vietnam, as well as in eastern Laos and Cambodia. While communist forces 
+may have traveled by foot in the early years, by the late 1960s they had devel-
+oped ingenious methods to disguise trucks, distribute radio and wired commu-
+nications, and even to supply petrol through plastic pipelines.
+The environmental history of the Hồ Chí Minh Trail is still largely unexam-
+ined; but a more multisided examination of the Great Acceleration here suggests 
+that the unimaginable intensity of American military activity, from bombing and 
+defoliation to large-unit battles, had devastating impacts on ecosystems, but also 
+spurred on a response from communist forces. This response continued after 
+the war’s end, as veterans of the People’s Liberation Armed Forces (PLAF, the 
+armed wing of the NLF) and the PAVN migrated to Highland areas; and they 
+and their descendants have continued to play central roles in the development 
+of these areas through a mix of military and privately owned companies engaged 
+in forestry, mining, and infrastructure development and tourism. Only when a 
+top-secret unit of the US Military Assistance Command, Vietnam (MACV), the 
+Special Operations Group, noted the networks of plastic fuel pipelines running 
+hundreds of miles along these trails in 1968 did the most senior American military 
+planners finally grasp these accelerating effects of bombing on Hanoi’s “total war” 
+strategy. In this sense, the Vietnam War accelerated what had before 1945 been a 
+very slow process: the Vietnamese state’s expansion into Highland regions.
+	9	 J. R. McNeil and Peter Engelke’s book, The Great Acceleration: An Environmental History 
+of the Anthropocene since 1945 (Cambridge, MA, 2016), provides a highly accessible intro-
+duction to these ideas.
+	10	 For an in-depth discussion of decision-making in Hanoi, see Pierre Asselin, Hanoi’s 
+Road to the Vietnam War, 1954–1965 (Berkeley, 2013).
+
+Environmental Legacies of the Vietnam War
+483
+Environmental Legacies in the Many Spaces of the 
+Vietnam War
+Another pitfall in assessing the environmental legacies of a war is a certain “geo-
+body bias,” whereby the environmental impacts of such actions as bombing are 
+considered uniformly across a country despite incredible diversity in its geography. 
+Barry Weisberg’s 1970 book, Ecocide in Indochina,11 is a good example, for it empha-
+sizes American military operations, such as the use of napalm and Agent Orange, 
+but shows little comprehension about where these events took place. Wars are not 
+fought uniformly across a country but are instead concentrated on strategic spaces, 
+lines of communication, and politically important terrains. Map 21.1, showing 
+	11	 Barry Weisberg, Ecocide in Indochina: The Ecology of War (San Francisco, 1970).
+Map 21.1  US bombing missions 1962–75.
+Source: Map by author.
+
+David Biggs
+484
+every American bombing mission undertaken during the war with a total tonnage 
+over 10,000 lbs, highlights this fact, with the majority of heavy bombing missions 
+targeting key routes of the Hồ Chí Minh Trail, especially the major staging areas 
+in Laos and Cambodia.
+The environmental legacies of the war, whether American bombing or 
+communist mobilizations, had very different effects depending on the terrain 
+and location. Thus, it is incredibly difficult to consider the environmental 
+legacies of the Vietnam War in any comprehensive sense across Vietnam’s 
+entire territory; it makes far more sense to consider the impacts of war in 
+specific regions or terrains.
+The Mekong Delta, stretching south and west of Saigon, was a key 
+back-theater of the war that saw comparatively little bombing but was vital 
+to American attempts at nation-building and counterinsurgency. This region 
+was South Vietnam’s rice bowl, roughly 5 million hectares of marshes, river 
+branches, and arroyos crisscrossed by almost 6,000 miles (10,000 kilometers) 
+of canals. Even within the delta, there was extensive ecological variation, 
+from giant, bowl-like depressions such as the Plain of Reeds, which was a 
+major base area for the NLF, to riverside cities like Mỹ Tho, which were vital 
+centers for commerce and new initiatives like the introduction of high-yield 
+or “miracle” rice. One of the war’s biggest impacts here in the 1960s was a 
+revolution in mechanization. For the first time since the American civil war, 
+the US Navy, along with the army’s 9th Infantry, mobilized a brown-water 
+fleet to conduct amphibious operations along the delta’s canals and rivers. 
+Until 1970, they operated a giant floating base near Mỹ Tho on the Tiền 
+Giang River. However, the impact of mechanization was felt most by the 
+concurrent import of millions of small motors as part of the United States’ 
+economic initiatives. Mỹ Tho became a major center of shops offering 4- and 
+6-horsepower engines, especially Kohler engines, for use as boat motors or 
+irrigation pumps. Enterprising local mechanics found ways to modify the 
+engines for dual use as “shrimp-tail” outboard motors or, when attached 
+within a water pipe, as a pump for lifting water. The result was a quiet rev-
+olution of sorts. A Dutch team visiting the delta in 1975 estimated that as 
+many as 1 million engines were in use, and veterans of the NLF noted the 
+extraordinary impact that these small motors had for their mobilization of 
+troops across the delta’s marshes and swamps.12 While the war left few scars 
+from bombing here, the introduction of small motors radically altered water 
+regimes and the expansion of farming into flood-prone areas.
+	12	 See David Biggs, Quagmire: Nation-Building and Nature in the Mekong Delta (Seattle, 2010).
+
+Environmental Legacies of the Vietnam War
+485
+Vietnam’s cities, especially Saigon, Đà Nẵng, and Hanoi, experienced 
+major environmental shifts as a result of the war. The dominant disruption in 
+Northern cities was American strategic bombing. Architecturally, heavy bomb-
+ing of Northern cities such as Vinh produced openings postwar for new residen-
+tial designs by East German and Soviet architects. Socialist-style housing blocks 
+popped up in the ruins of devastated urban quarters. Anthropologist Christina 
+Schwenkel’s Building Socialism13 highlights the intricate ways that these new 
+urban spaces, created in the wake of American bombing, in turn produced new 
+social identities, new urbanisms. Especially in the present, as Vietnamese cities 
+look to raze these old quarters to build high-rises, many urban historians and 
+activists are reconsidering the legacies of socialist-inspired housing blocks.
+Vietnam’s third-largest city, Đà Nẵng, mushroomed in size in direct 
+response to American-funded base construction that actually began during 
+the French Indochina War. Following the establishment of the US Operations 
+Mission in 1950, American military officials at the embassy in Hanoi and con-
+sulate in Saigon began looking for a new airbase that would fall outside the 
+range of Chinese bombers. Indochina’s northern bases at Hải Phòng and 
+Hanoi were well within range of Chinese bases on Hainan Island. Americans 
+began funding base development at Tourane (Đà Nẵng) in 1952 as deliveries 
+of US aircraft to French forces increased. After 1954, this aid continued under 
+the guise of “civil aviation” support, so that by 1965 Đà Nẵng’s dual runways 
+could handle the largest military and civil aircraft. The commitment of US 
+ground forces in March 1965 commenced with marines landing on the beach 
+at Đà Nẵng, and US military construction battalions or “Seabees” set to work 
+building a deep-water port, communication facilities, and depots essential 
+for the storage of everything from munitions and chemical agents to frozen 
+meats and Budweiser beer. Anthropologist Heonik Kwon’s Ghosts of War14 
+follows the history of the communities that grew up on the fringes of this city 
+of bases around Đà Nẵng. Ethnically it was quite complex. Besides interac-
+tions between Vietnamese and American troops, thousands of South Korean 
+troops operated on the periphery of Đà Nẵng and other cities.
+Similar expansions of military facilities along the coast of South Vietnam 
+created new urban and port infrastructure in coastal towns, including Quy 
+Nhơn, Phan Rang, Nha Trang, and Saigon. Quy Nhơn and Phan Rang were 
+until 1960 relatively tiny ports that, for most of the French Indochina War, 
+	13	 Christina Schwenkel, Building Socialism: The Afterlife of East German Architecture in Urban 
+Vietnam (Durham, NC, 2020).
+	14	 Heonik Kwon, Ghosts of War (Cambridge, 2013).
+
+David Biggs
+486
+were controlled by the Việt Minh. US forces in 1964–5 took control over large 
+swaths of land outside these towns, and built airports and shipping terminals. 
+Nha Trang was South Vietnam’s center for its Marine Corps, and nearby Cam 
+Ranh Bay was selected by US planners for construction of a major, deep-water 
+port servicing large ships and submarines. American military construction 
+commenced in Saigon at the river terminal and around Tân Sơn Nhất Air 
+Base in 1965, but after the 1968 Tet Offensive, American forces and the US 
+military command moved north of the city into sprawling bases and logistics 
+hubs in neighboring Đồng Nai province. As in Đà Nẵng, this spate of urban–
+military expansion has had dramatic environmental legacies with respect to 
+urban environments in Vietnam. Đà Nẵng eclipsed Huế as the commercial 
+center of central Vietnam, and especially in Vietnam’s present-day economic 
+boom, it plays an important regional role in Southeast Asia as a logistics 
+hub connecting Laos and northern Thailand to sea terminals. After 1975, the 
+Soviet Union moved its ships into the Cam Ranh Port, and this legacy of the 
+Soviet naval presence has helped to make Nha Trang a favored destination 
+today for Russian tourists. Meanwhile, former American base areas north of 
+Saigon, like the US Army’s post at Long Bình, now host some of the world’s 
+largest industrial parks and air-cargo facilities. Hồ Chí Minh City will open its 
+new international airport at another former base here, Long Thành, in 2025.
+As depicted in most of the literature and movies on the Vietnam War, the 
+Central Highlands and adjacent areas in Cambodia and Laos feature as the pri-
+mary backdrops for the war’s main battles. Still, the Highlands region is incred-
+ibly varied in ecological and social terms, and every valley has its own unique 
+social and ecological features. There are 54 recognized ethnic groups in Vietnam 
+and 109 distinct languages, and the majority of this ethnic and linguistic diver-
+sity is concentrated in the Highlands of northern and central Vietnam. One of 
+the most important defining features for many upland valleys was the relation-
+ship between “headwater” (nguồn nước) or “upland” (miền thượng) peoples and 
+their “lowland” (miền hạ) neighbors. While much attention is placed on the 
+north-to-south movement of troops on the Hồ Chí Minh Trail, east–west links 
+following rivers were equally important. These upland–lowland relationships 
+existed long before the war or the colonial era, and they feature in a number 
+of works on ethnic Kinh/Vietnamese state relationships with the Highlands.15
+	15	 In the Northern Highlands, see James Anderson, The Rebel Den of Nong Tri Cao: Loyalty 
+and Identity along the Sino-Chinese Frontier (Seattle, 2007); and Christian Lentz, Contested 
+Territory: Dien Bien Phu and the Making of Northwest Vietnam (New Haven, 2019). For 
+the Central Highlands, see Oscar Salemink, The Ethnography of Vietnam’s Central 
+Highlanders: A Historical Contextualization, 1850–1990 (Honolulu, 2003).
+
+Environmental Legacies of the Vietnam War
+487
+Similarly, scholars of Laos and Cambodia such as Vatthana Pholsena, Oliver 
+Tappe, and Jonathan Padwe have analyzed these north–south and east–west 
+relationships in the war-torn highland areas outside Vietnam.16 Historic tran-
+sit routes linked the Vietnamese coast with the interiors of Cambodia and 
+Laos, and they followed rivers and traversed key mountain passes. As key 
+lines of communication for communist troops, they were primary targets for 
+much of the American military’s bombing and defoliation. During the war, 
+these routes facilitated the mass migrations of lowland peoples, especially 
+Kinh/Vietnamese, along with ethnic Khmer and Lao peoples, into Highland 
+communities. During and after the Vietnam War, many soldiers settled here 
+permanently, with many marrying indigenous peoples and establishing new 
+towns. Many communist base areas, such as Nam Đông and A Luôi in Thừa 
+Thiên Huế province, have since developed into towns because they were 
+not only important logistics points during the war, but also ever since. One 
+of the most embattled highways of the war, Highway 9, was an ancient route 
+connecting the Se Pon River and the Mekong River in Savannahket province 
+with the Thạch Hãn River and the South China Sea in Quảng Trị province. 
+This east–west “road” ran just south of the demilitarized zone (DMZ); the US 
+marine base at Khe Sanh guarded the eastern half, while PAVN forces estab-
+lished depots and base areas on the western half in Laos.
+Finally, with respect to the spaces of the war, they not only included regions 
+of Vietnam and contiguous areas across the border, but also a number of 
+rear areas that have received comparatively little attention. One of the most 
+important external areas in Southeast Asia was northeast Thailand, where 
+US airbases at Udorn, Nakhon Phanom, and Ubon Ratchathani supported 
+much of the bombing missions along the Hồ Chí Minh Trail. US forces also 
+operated around the Thai capital at Bangkok, where the US Embassy was an 
+important nerve center for coordinating military efforts in the larger region. 
+Offshore from Vietnam there were also important maritime anchorages for 
+military forces. Communist forces maintained a north–south “sea trail” for 
+ferrying troops and supplies in and out of estuaries along Vietnam’s sinuous 
+coast; and throughout the war, US Navy aircraft carriers and support vessels 
+anchored about 90 miles (145 kilometers) offshore from North Vietnam and 
+used the spot as a base for launching airstrikes.
+	16	 Vatthana Pholsena and Oliver Tappe (eds.), Interactions with a Violent Past: Reading 
+Post-conflict Landscapes in Cambodia, Laos, and Vietnam (Singapore, 2013); and Jonathan 
+Padwe, Disturbed Forests, Fragmented Memories: Jarai and Other Lives in the Cambodian 
+Highlands (Seattle, 2020).
+
+David Biggs
+488
+Finally, the Vietnam War had environmental consequences on the home-
+front in the United States, especially at sites where logistical support for the 
+war was concentrated. US Seabees managed much of the base construction 
+work in Vietnam, and three NCB centers at Quonset Point, Rhode Island, 
+Gulfport, Michigan, and Port Hueneme, California coordinated much of the 
+logistical support for one of the largest base construction programs of any 
+military force in modern history. The Vietnam War transformed many local 
+economies in the United States and abroad as demands for supplies and sup-
+port created thousands of military and civilian jobs. This was especially true 
+around naval shipyards, aircraft manufacturing plants, and on the peripheries 
+of large bases such as the US First Marine Division’s headquarters at Camp 
+Pendleton. Some 200,000 soldiers trained at this base before deploying to 
+Vietnam, and in 1975 Pendleton was the first American base to receive thou-
+sands of Vietnamese refugees.
+The American closure of bases in Vietnam beginning in 1971 and ending in 
+1973 had major environmental consequences for base landscapes in Vietnam 
+as well as overseas. In Vietnam, the sudden closure of once-sprawling bases 
+such as the army’s Camp Eagle near Huế in 1972 left the formidable base city, 
+which had hosted five helipads and some 15,000 troops, in ruins. The South 
+Vietnamese government responded with alarm at the condition of these 
+newly transferred bases, noting the ruins of wrecked machinery, hastily cov-
+ered waste dumps, and largely unusable infrastructure. American contractors 
+responsible for everything from water and electricity to perimeter lighting 
+systems pulled out their equipment with the troops.17 The abandonment of 
+the bases, first by Americans and then in March 1975 by South Vietnamese 
+troops, left several dozen ghost towns mostly lining the coastal Highway 1, 
+from the DMZ south to the Mekong Delta. The end of the Vietnam War 
+also affected base environments and local economies in the United States. 
+Thousands of workers were laid off as the US government mothballed ships 
+and transferred base properties like Quonset Point to economic development 
+authorities.
+Bombing Legacies
+No place in history endured as much concentrated bombing as did Indochina 
+in the Vietnam War, especially along the deeply contested Highland trails. 
+Out of 1.5 million recorded bombing missions, more than 800,000 involved 
+	17	 Biggs, Footprints of War, 183–6.
+
+Environmental Legacies of the Vietnam War
+489
+conventional or general-purpose bombs, which produced roughly 50 percent 
+of the total tonnage of all bombs dropped, 7.5 million tons. Of the conventional 
+bombs, roughly 75 percent were dropped in high-altitude bombing strikes 
+carried out by the long-range strategic B-52 bomber. Each plane was capable 
+of carrying up to 70,000 lbs of bombs, and most missions involved five or six 
+bombers taking off from a US base in Guam or, later in the war, from Thailand. 
+For given targets, usually key logistical points along the Hồ Chí Minh Trail, the 
+planes collectively could drop between 200,000 and 400,000 lbs of bombs, with 
+500- and 750-lb bombs being the most common. These were unguided bombs 
+filled with various compounds containing trinitrotoluene (TNT) and ranged in 
+weight from 250 to 2,000 lbs. As with aerial bombing in previous wars, one of 
+the biggest drawbacks to these munitions was the collateral damage caused as 
+they drifted beyond specific military targets. Average accuracy for high-altitude 
+bombing missions was roughly 50 percent. The practice of saturation or 
+carpet-bombing along the Hồ Chí Minh Trail and on certain North Vietnamese 
+cities turned forests, fields, and towns into cratered moonscapes. The Vietnam 
+War was exceptional for the scale of conventional bombing.18 Roughly 3.5 mil-
+lion tons of conventional bombs fell over Indochina, compared with about 2 
+million tons dropped in all theaters of World War II. Exploding bombs pulver-
+ized the ground into craters ranging 50–200 meters in size, and they sent deadly 
+shrapnel flying up to 400 meters from the blast point.19 Conventional bombing 
+was most concentrated on the major supply routes for the PAVN and at such 
+key junctions of the Hồ Chí Minh Trail as Xepon in Laos. Women volunteers 
+serving in logistics units like the PAVN’s 559th Transportation Battalion suf-
+fered especially high casualties because they camped at fixed locations along the 
+trails. Director Lưu Trọng Ninh’s popular 1997 film, Ngã ba Đồng Lộc (The Girls 
+of Dong Loc Junction), tells the story of ten women aged 17–24 years who were 
+killed when a single bomb struck their cave in 1968.
+Besides conventional bombing, antipersonnel munitions or cluster bombs 
+left some of the most pernicious legacies of the war in rural communities, 
+	18	 These statistics are derived from analysis of the US Air Force Theater History of 
+Operations database, providing details of every logged bombing mission undertaken 
+by US forces. For details about the creation of the THOR GIS, see Sarah Loicano, 
+“US Air Force: Historic Airpower Database Now Online”: www.af.mil/News/Article-
+Display/Article/466817/historic-airpower-database-now-online/. The air force no 
+longer provides public access to this database, but it is available as an open-source 
+dataset at data.world – “Vietnam War THOR Data”: https://data.world/datamil/
+vietnam-war-thor-data.
+	19	 Joseph Hupy, “The Environmental Footprint of War,” Environment and History 14 
+(2008), 405–21.
+
+David Biggs
+490
+especially in the hills of Indochina. Whereas unexploded, conventional 
+bombs in the 250–2,000 lb range were large-sized and therefore relatively 
+easy to detect, antipersonnel cluster bomblets were tiny and easily missed. 
+One cluster bomb contained hundreds of tennis ball–sized bombs designed 
+to spread far on impact and then detonate, each spreading enough shrapnel 
+to kill several people. American forces used these munitions along the supply 
+routes of the Hồ Chí Minh Trail, especially in the mountains of Laos, and an 
+estimated 80 out of 270 million bomblets did not explode on impact. Again, 
+considering the issues of scale and time, the fruit-sized shapes of these tiny, 
+unexploded bomblets laying buried over several million acres of hillside have 
+proven most difficult to remove, and because of their shape they especially 
+appeal to children.20 Similar to antipersonnel cluster bombs, land mines were 
+ubiquitous in the war and used by all sides, usually deployed by ground forces 
+to secure perimeters and no man’s lands around camps. Land mines presented 
+less of a postwar hazard than bomblets along the former Hồ Chí Minh Trail, 
+but when the Third Indochina War broke out between the Khmer Rouge 
+and the PAVN, landmine use escalated in Cambodia’s northwest provinces.
+Chemical Legacies
+The chemical legacies of the war not only included the highly controversial 
+herbicide Agent Orange, but also two very common chemical agents: incen-
+diary bombs known as napalm and helicopter-dropped barrels of highly con-
+centrated tear gas. Napalm was invented by chemists at Harvard University in 
+1942 and became an ideal munition for Allied airstrikes in Europe and Japan, 
+with one single night’s strike on Tokyo March 9–10, 1945 killing an estimated 
+100,000 civilians. Napalm is made from relatively common ingredients: gas-
+oline fuel and a gelling agent made from a combination of a petroleum dis-
+tillate (naphthenic acid) and palm oil (palmitic acid). In the Vietnam War, 
+besides US jets dropping napalm munitions, the US Army Chemicals Corps 
+employed a tactic called a “flame drop,” where cargo helicopters dropped 
+a dozen or more 55-gallon drums of napalm over a suspected enemy base 
+or encampment.21 As an incendiary, napalm burned off on impact and left 
+relatively few physical remains. Images of napalm strikes, especially a pho-
+tograph of an accidental South Vietnamese strike hitting a village north of 
+	20	 Poet and anthropologist Leah Zani addresses the legacies of antipersonnel munitions in 
+Laotian towns in Bomb Children: Life in the Former Battlefields of Laos (Durham, NC, 2019).
+	21	 For a history of napalm, especially its use in the Vietnam War, see Robert M. Neer, 
+Napalm: An American Biography (Cambridge, MA, 2013), 109–25.
+
+Environmental Legacies of the Vietnam War
+491
+Saigon in 1972, became some of the most recognizable images of the war. 
+Nick Ut’s photograph of that strike, especially an image of napalm burning 
+9-year-old Phan Thị Kim Phúc, was titled “The Terror of War” and won a 
+1973 Pulitzer Prize.
+While the use of napalm has figured prominently in images and debates 
+since the early 1970s, another major chemical munition, CS gas, has remained 
+largely absent. This is no doubt due to a widespread understanding that 
+tear gas, in most circumstances, is nonlethal, a riot-control agent. However, 
+American troops used it in such massive and concentrated forms that it did 
+cause death by asphyxiation; and after the war, buried caches of CS in metal 
+drums remained a toxic legacy for communities that often had no knowl-
+edge of their existence. During the war, US Army Chemical Corps units 
+arranged bulk drops of CS in its powdered, concentrated form to penetrate 
+underground bunkers and tunnel systems. They prepared “smoke drops” 
+similar to “bulk flame drops,” where a “Chinook” CH-47 cargo helicopter 
+dropped a dozen or more 55-gallon drums filled with CS and connected to 
+small explosive fuses that detonated the barrels just before impact, spreading 
+the dust into a giant cloud. Communist forces hiding in tunnels reported that 
+soldiers who couldn’t escape in time died of asphyxiation, as the powdered 
+concentrate stuck to tunnel walls, their clothes, and their airways.22 Even fifty 
+years later, buried drums of CS are still found intact at waste sites in Vietnam, 
+Cambodia, and Laos.
+Of all chemical agents used in the war, Agent Orange, together with two 
+other herbicides, Agent White and Agent Blue, has received the most atten-
+tion not only for its targeting of ecosystems, but also for the dioxin contam-
+inant associated with dozens of illnesses. Agent Orange comprised the bulk 
+of the US military’s tactical herbicide program known as Operation Ranch 
+Hand. The term “tactical” is important, because what most differentiated 
+these herbicides from commercial ones available throughout the United 
+States and the West was not their chemistry but their intended end use. Agent 
+Orange was a 50/50 blend of two commercially popular, broadleaf herbicides: 
+2,4,5-T and 2,4-D. The term “broadleaf” meant that they were designed to kill 
+plants with broad leaves such as tree saplings and weeds, but to spare grasses, 
+including bamboo and grain crops such as rice. This feature made both herbi-
+cides very popular in the 1950s for use on golf courses, roadsides, and farms.
+Even though scientists working for the military first tested these herbi-
+cides during World War II, they didn’t scale up production in time before 
+	22	 Biggs, Footprints of War, 170–3.
+
+David Biggs
+492
+the atomic bombings in Japan. Just weeks after the Japanese surrender, one 
+worker from a Philadelphia-area chemical company filed a patent for “her-
+bicides,” and after much legal wrangling and the passage of national legis-
+lation governing pesticide use in 1948, companies such as Dow, Monsanto, 
+and Dupont began manufacturing herbicides. The two herbicides in Agent 
+Orange became the most common and most popular herbicides on the mar-
+ket by 1960. Against this background of a boom in “commercial” herbicides, 
+part of the Green Revolution, the US Army commenced studies on the “tac-
+tical” uses of herbicides in Vietnam to reveal enemy lines of communication 
+and deny them forest cover. In 1963, military researchers created a specifi-
+cation for a 50/50 blend of these two herbicides, naming this specification 
+“Agent Orange” after a requirement that chemical manufacturers paint an 
+orange stripe on the drummed chemical to distinguish it from two other her-
+bicides, Agent White and Agent Blue. White was, like Orange, a broadleaf 
+herbicide but, instead of the dioxin-laced 2,4,5-T, it blended 2,4-D with a dif-
+ferent herbicide made by Dupont called picloram.23 Agent Blue was designed 
+specifically to kill grasses, meaning bamboo and especially rice fields, and its 
+active ingredient was an arsenical herbicide. All of the color names for tactical 
+herbicides derived from the army’s military specifications, or “milspec,” as a 
+means to tell them apart.
+Because these otherwise commercially available herbicides were, like 
+napalm, CS gas, and bombs, destined for tactical or combat uses, their entire 
+history, from initial production at American factories to shipping, storage in 
+Vietnam, use in combat zones, and disposal, was documented separately from 
+nontactical chemicals, including the very same herbicides destined for conven-
+tional uses. In other words, the same, dioxin-contaminated herbicide, 2,4,5-T, 
+was being used in the 1960s by homeowners, farmers, and groundskeepers. 
+American military forces used commercial herbicides containing 2,4,5-T at air 
+bases such as Andersen AFB in Guam. What this labeling difference means 
+with respect to environmental legacies of the Vietnam War is that a highly 
+detailed paper trail exists for the dioxin-laced Agent Orange, document-
+ing every mission and the location of almost every barrel produced, while 
+records detailing the decades-long use of commercial 2,4,5-T herbicides along 
+runways, roads, and golf courses are largely absent. This uncertainty about 
+associations of the highly toxic 2,3,7,8-TCDD dioxin to either Agent Orange 
+	23	 Besides Young’s (2009) comprehensive study, for this background, see David Biggs, 
+“Following Dioxin’s Drift: Agent Orange Stories and the Challenge of Metabolic 
+History,” International Review of Environmental History 4 (1) (2018), 7–31.
+
+Environmental Legacies of the Vietnam War
+493
+or a commercial source continues to surface in such places as Okinawa, South 
+Korea, and Guam, where the US military denies using Agent Orange, and 
+records detailing commercial herbicide use are largely absent.
+The legacy of Agent Orange and the tactical herbicide program is so well 
+covered in books, documentary films, and ongoing scientific studies that it 
+greatly overshadows all other stories of the war’s legacies. An active dialogue 
+about ecocide and the toxicity of Agent Orange accompanied the program 
+throughout the war, as scientists, military experts, and public groups studied 
+their effects. After the war, Vietnamese and American scientists and policy-
+makers continued a series of studies and dialogues, while American veterans 
+experiencing clusters of cancers and children born with severe birth defects 
+joined a class-action lawsuit suing the chemical companies.24
+Besides herbicides, American troops introduced large quantities of insec-
+ticides, including the synthetic organic compound Dichlorodiphenyltri-
+chloroethane (DDT). Like the phenoxy herbicides in Agent Orange, DDT 
+began as a product of American military research in World War II. It proved 
+extremely effective in stopping insect-borne illnesses such as malaria, dengue 
+fever, plague, and typhus by killing insects.25 The US Army’s Chemical Corps 
+platoons, the same units tasked with preparing napalm and CS drops in com-
+bat zones, also coordinated regular spraying of bases and “showers” for rou-
+tine decontamination. Sprayer planes and trucks routinely fogged American 
+base cantonments, and US aid programs introduced DDT and other insecti-
+cides to South Vietnam as commercial imports.
+Conclusion
+Besides these multiple elements and approaches to the environmental legacies 
+of the war, consideration is due to the ways in which public responses to news 
+of saturation bombing, incendiaries, and herbicides have contributed to global 
+environmental movements since the early 1970s. The Agent Orange issue in 
+many respects catalyzed public attention in 1970 because it merged public 
+interests in two previously unrelated issues: anger over the war in Vietnam 
+and public concern about oil spills, toxic waste, and the environment. On 
+January 1, 1970, the National Environmental Policy Act took effect, establishing 
+requirements for all federal agencies to produce environmental assessments, 
+	24	 For their detailed histories of wartime debates on ecocide and postwar lawsuits, see 
+Zierler, The Invention of Ecocide and Martini, Agent Orange.
+	25	 For his discussion of DDT, see Edmund Russell, War and Nature: Fighting Humans and 
+Insects with Chemicals from World War I to “Silent Spring” (Cambridge, 2001).
+
+David Biggs
+494
+and over the summer of that year the administration of US President Richard 
+Nixon worked out plans with Congress to form the Environmental Protection 
+Agency. On April 15, 1970, Nixon ordered a partial ban on the use of the herbi-
+cide 2,4,5-T at home; the next day, he ordered the US military to cease flying all 
+missions using Agent Orange in Vietnam. One week later, the first Earth Day 
+became the United States’ largest-ever protest, with over 20 million people 
+participating at sites nationwide. The organizers of Earth Day included promi-
+nent critics of the war, such as US Senator Gaylord Nelson (D-Wisconsin) and 
+student activists like Denis Hayes, who had led antiwar protests since the mid-
+1960s. Meanwhile, US bombing in Indochina continued to escalate, especially 
+bombing in Laos and Cambodia, and antiwar protests erupted at American 
+university campuses. The May 4, 1970 protest at Kent State left four students 
+dead and nine wounded when Ohio National Guard troops fired live rounds 
+into the crowd. Five days later, more than 100,000 protested in Washington, 
+and for the remainder of 1970 anti–Vietnam War protests coincided with envi-
+ronmental protests and legislative action, including passage of the Clean Air 
+Act and Clean Water Act.
+During that same year, a growing coalition of scientists, especially plant sci-
+entists and geneticists, brought long-brimming concerns about Agent Orange 
+to public attention. The American Association for the Advancement of Science 
+(AAAS) had, since 1966, supported a herbicide commission tasked with more 
+scientific research on Operation Ranch Hand and the long-term impacts of 
+herbicides in Vietnam. After a graduate student leaked a 1969 report suggest-
+ing that 2,4,5-T caused birth defects in mice, AAAS scientists persuaded the 
+US government to support an investigative mission in Vietnam. In August 
+1970, they toured defoliated areas of South Vietnam, and months later they 
+published reports calling for an end to the United States’ use of herbicides as 
+weapons. David Zierler’s The Invention of Ecocide details how these scientists 
+worked with sympathetic politicians and antiwar activists to force the end of 
+Operation Ranch Hand in 1971. It also notes that Nixon used the opportunity 
+to score political points by urging the US Senate to finally commit the United 
+States to the 1925 Geneva Protocol banning use of chemical weapons.26 Over 
+successive years, this organization of scientists galvanized a broader move-
+ment of scientists and nongovernmental organizations (NGOs) concerned at 
+the proliferation of chemical, biological, and radioactive weapons. Scientists 
+such as Yale botanist Arthur Galston, one of the first to coin the term “eco-
+cide,” forged international connections with scientists in Europe, the Soviet 
+	26	 Zierler, The Invention of Ecocide, 122–36.
+
+Environmental Legacies of the Vietnam War
+495
+Union, and China to raise public attention about the threat of these unusual 
+weapons. Ultimately, these efforts helped spur the United States and most 
+other nations to sign on to a new treaty, a convention banning environmental 
+modification tactics in warfare, in 1977.
+In the last two decades since the US Congress passed the 1991 Agent Orange 
+Act, and with the restoration of diplomatic ties with Vietnam in 1994, both 
+governments have increased their cooperation on a host of lingering envi-
+ronmental problems, especially the removal of unexploded ordnance and the 
+remediation of sites affected by Agent Orange. Besides these formal exchanges, 
+many NGOs such as Peace Trees Vietnam have channeled support, especially 
+from American veterans of the war, to locally focused projects, including the 
+removal of mines and unexploded ordnance, as well as the planting of thou-
+sands of trees.27 The American philanthropy Ford Foundation was a major 
+nongovernment player in supporting dialogues between Vietnamese and 
+American experts over Agent Orange from the establishment of its office 
+in Hanoi in 1991 until 2011, when another philanthropy, the Aspen Institute, 
+took over leading this US–Vietnam dialogue.28 Because of these long-term 
+reconciliation efforts and mostly open American records, the Vietnam War 
+presents historians with many opportunities to explore the long-term envi-
+ronmental consequences of war.
+	27	 Peace Trees Vietnam; information available online at www.peacetreesvietnam.org/.
+	28	 See the “Ford Foundation’s landmark work on Agent Orange transitions to Aspen 
+Institute, May 5, 2011”: www.fordfoundation.org/the-latest/news/ford-foundations-
+landmark-work-on-agent-orange-transitions-to-aspen-institute/. See also the Aspen 
+Institute’s “The Agent Orange in Vietnam Program”: www.aspeninstitute.org/
+programs/agent-orange-in-vietnam-program/.

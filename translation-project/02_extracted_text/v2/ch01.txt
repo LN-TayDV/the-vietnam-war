@@ -1,0 +1,1348 @@
+27
+Americans long have sought answers, even blame, for their lost war in 
+Vietnam. Literature on the conflict’s military dimensions – at least those 
+works arguing the war was winnable – contend the United States squandered 
+its chances for victory in Southeast Asia because of a misguided strategy. Such 
+narratives claim that, once President Lyndon B. Johnson deployed American 
+ground combat troops to South Vietnam, General William C. Westmoreland, 
+head of the US Military Assistance Command, Vietnam (MACV), pursued 
+an ill-advised strategy of attrition. Rather than concentrating on population 
+security and counterinsurgency, Westmoreland instead wrongly engaged in 
+a conventional war aimed at little more than racking up high body counts.1 
+Worse, the storyline continues, MACV’s commander implemented this strat-
+egy despite being presented with a clear alternative from US Marine Corps 
+commanders operating in the northern provinces of South Vietnam. There, 
+marines focused more appropriately on winning the “hearts and minds” of 
+the local population. Their supposed successes implied that Westmoreland 
+had missed a grand opportunity to win the war in Vietnam.
+Nowhere was this better illustrated than on Life magazine’s cover in 
+late August 1967. With his back to the camera, a young Vietnamese boy 
+on crutches strolls beside an American marine carrying fishing poles in 
+one hand and rifle in the other. According to editor George Hunt, Ngo 
+Cuoc, called “Louie” by his American companions, is “bright, tough and 
+high-spirited.” His habit of calling marines “Sweetheart” and his crutches, 
+provided by a US medical team, point to the kindhearted warrior image so 
+1
+Reconsidering American Strategy  
+in Vietnam
+Gregory A. Daddis
+	1	 For an example calling Westmoreland’s a “search and destroy” strategy, see George C. 
+Herring, America’s Longest War: The United States and Vietnam, 1950–1975, 4th ed. (New 
+York, [1979] 2002), 179. Robert D. Schulzinger argues the “tokens of progress in the war 
+became the ‘body count’”: A Time for War: The United States and Vietnam, 1941–1975 (New 
+York, 1997), 182. For an alternative view, see Gregory A. Daddis, Westmoreland’s War: 
+Reassessing American Strategy in Vietnam (New York, 2014).
+
+Gregory A. Daddis
+28
+carefully constructed on the magazine’s cover. But for the rifle and military 
+jeep in the photograph’s background, “Louie” and his fishing partner might 
+be heading to the local pond in almost any rural American town. Despite a 
+full-scale war raging for nearly two years, the image is one of compassion 
+rather than destruction. Coupled with the picture, the cover story’s title, 
+“To Keep a Village Free,” indicates that the US Marines in Hòa Hiệp had 
+found a better way to help South Vietnam protect itself from the dangers of 
+a staunch communist insurgency. Their mission was not only to defend but 
+also to befriend.2
+This idyllic depiction on Life’s cover has become a mainstay of historical 
+critiques condemning American strategy in Vietnam. Take, for instance, 
+Andrew Krepinevich’s well-received The Army and Vietnam. In a scathing anal-
+ysis of the US Army’s performance, Krepinevich denounced senior military 
+leaders for their obsession with conventional tactics in a war requiring a more 
+enlightened strategic approach. To the former West Point faculty mem-
+ber, the army “left counterinsurgency to the RVNAF [Republic of Vietnam 
+Armed Forces], while US commanders went out in search of the big battles.” 
+Moreover, when presented with a different approach, the marines’ Combined 
+Action Platoon (CAP) concept, the army’s reaction “was ill-disguised disap-
+pointment, if not outright disapproval.” The missed opportunity could not 
+be more discouraging. If only army leaders had broken free of their conven-
+tional mindsets and listened to their marine brethren, who believed that the 
+CAP model of saturating the countryside with small, American-led security 
+units offered a surer path toward victory, the war might well have turned out 
+differently. “Casualties would have been minimized, and population security 
+enhanced,” argued Krepinevich.3
+Such counterfactuals found broad acceptance in both postwar memoirs 
+and scholarly monographs. In his 1970 account Strange War, Strange Strategy, 
+marine general Lewis W. Walt argued that of all the innovations in Vietnam 
+“none was as successful, as lasting in effect, or as useful for the future as the 
+Combined Action Program.” Less than a decade later, RAND analyst Douglas 
+Blaufarb opined that CAP tactics, “if used on a wider scale, could have made a 
+	2	 George P. Hunt, “Louie, the Boy on the Cover,” and Don Moser, “Their Mission: 
+Defend, Befriend,” Life, August 25, 1967, 3, 25.
+	3	 Andrew F. Krepinevich, Jr., The Army and Vietnam (Baltimore, 1986), 168, 174, 176. More 
+recently, John Southard has argued that “American generals initiated an annihilation 
+strategy against an enemy that chose a different approach”: Defend and Befriend: The US 
+Marine Corps and Combined Action Platoons in Vietnam (Lexington, KY, 2014), 5. The latest 
+addition to the literature is Ted N. Easterling, War in the Villages: The US Marine Corps 
+Combined Action Platoons in the Vietnam War (Denton, TX, 2021).
+
+Reconsidering American Strategy in Vietnam 
+29
+vast difference in the war for the countryside.”4 More recent pundits followed 
+suit. Foreign-policy analyst Max Boot contended in 2002 that Westmoreland’s 
+“big war stymied pacification efforts” and thus “the Combined Action 
+Program was never more than a sideshow to the army’s conventional cam-
+paign.” In Learning to Eat Soup with a Knife, John Nagl similarly blamed MACV’s 
+commander for his narrow-minded advocacy of a “‘search and destroy’ strat-
+egy.” Despite encouraging results – Nagl contended that the CAP program 
+“worked almost immediately” – Westmoreland ignored prevailing evidence 
+and refused to “widen the concept to include army units.”5 In short, the gen-
+eral chose a strategy of firepower over winning hearts and minds.
+Such conventional wisdom, however, presents a flawed picture of 
+American strategy under Westmoreland. MACV’s commander, like his suc-
+cessor Creighton Abrams, never subscribed to an “either–or” approach to 
+confronting a political–military threat inside South Vietnam’s borders. At 
+no point did Westmoreland concentrate solely on conventional battle at the 
+expense of counterinsurgency. Likewise, the general never believed local 
+civic action or pacification programs were a magic bullet to convince Hanoi’s 
+leaders their own war was unwinnable. In reality, American strategy from 
+1964 to 1968 rested on a belief that South Vietnam faced a dual threat – both 
+conventional and unconventional – requiring a similarly comprehensive 
+response. A reexamination of American strategy under Westmoreland and 
+the marines’ Combined Action Program reveals no “missed opportunity,” 
+a conclusion that raises important questions about the limits of American 
+military power abroad in the mid-1960s and how historical myths can distort 
+interpretations of the past.
+Westmoreland’s War: Myth versus Reality
+If one accepts claims that the US Army in Vietnam simply conducted 
+“search and destroy” missions supporting an imprudent strategy of attri-
+tion, the marines’ Combined Action Program surfaces as an attractive 
+	4	 Lewis W. Walt, Strange War, Strange Strategy: A General’s Report on Vietnam (New York, 
+1970), 105; Douglas S. Blaufarb, The Counterinsurgency Era: US Doctrine and Performance, 
+1950 to Present (New York, 1977), 257–8.
+	5	 Max Boot, The Savage Wars of Peace: Small Wars and the Rise of American Power (New York, 
+2002), 307; John Nagl, Learning to Eat Soup with a Knife: Counterinsurgency Lessons from 
+Malaya and Vietnam (Chicago, 2002), 156–8. Of note, the US Army’s manual on counterin-
+surgency used CAPs as a historical vignette because the program was “a model for coun-
+tering insurgencies”: Department of the Army, Field Manual 3–24, Counterinsurgency, 
+December 2006, 5–25.
+
+Gregory A. Daddis
+30
+alternative. Clearly, popular narratives of the Vietnam War build from the 
+foundation of attrition warfare. Veterans and historians alike have con-
+demned Westmoreland for relying “mainly on massive operations con-
+ducted by brigade and division and multi-division sized forces.”6 Rather than 
+concentrating on population security and helping build bonds between rural 
+inhabitants and the Saigon government, MACV’s commander chose instead 
+to grind down the enemy through superior firepower.7 Almost all the clichés 
+of Vietnam are present in these indictments – attrition, search and destroy, 
+body count. Worse, the supposed infatuation with killing the enemy led to 
+untold civilian suffering as murder, rape, torture, and abuse, at least accord-
+ing to one account, became “virtually a daily fact of life throughout the years 
+of the American presence in Vietnam.”8 Not merely had Westmoreland lost 
+the war through his faulty strategy: he also oversaw the destruction of a 
+countryside and its people.
+As compelling as this narrative appears, especially for Americans seeking 
+to lay blame for their lost war, reevaluating the historical record finds that 
+Westmoreland waged a far different war. First, the general used the word 
+“attrition” not simply to describe combat operations but to portray the war 
+in Vietnam as a protracted conflict. In mid-1965, Westmoreland wrote to 
+Chairman of the Joint Chiefs of Staff Earle Wheeler that US forces would be in 
+for the “long pull.” Describing the escalating conflict that summer, MACV’s 
+commander saw “no likelihood of achieving a quick, favorable end to the 
+war.”9 Two years later, Westmoreland repeated the warning both privately 
+and publicly. In a January 1967 message to Wheeler, the general concluded 
+	6	 Dave Richard Palmer, Summons of the Trumpet: US–Vietnam in Perspective (San Rafael, 
+CA, 1978), 119.
+	7	 Lewis Sorley, for example, argued that the general’s approach was “to wage a war of 
+attrition, using search and destroy tactics, in which the measure of merit was body 
+count”: Westmoreland: The General Who Lost Vietnam (New York, 2011), 90. For a review 
+of Sorley that highlights the biographer’s quest to vilify Westmoreland, see Andrew J. 
+Birtle, “In Pursuit of the Great White Whale: Lewis Sorley’s Westmoreland: The General 
+Who Lost Vietnam,” Army History (Summer 2012), 26–31. For a nuanced counterargument 
+to claims made by Sorley and Nagl, see Dale Andrade, “Westmoreland Was Right: 
+Learning Wrong Lessons from the Vietnam War,” Small Wars and Insurgencies 19, 2 
+(June 2008), 146–50.
+	8	 Nick Turse, Kill Anything That Moves: The Real American War in Vietnam (New York, 
+2013), 6. See also Anthony James Joes, The War for South Viet Nam, 1954–1975, rev. 
+ed. (Westport, CT, 2001), 117; in this telling, the “number of enemy dead became 
+an obsession, encouraging commanders to shoot first and ignore the political 
+consequences.”
+	9	 Westmoreland to Wheeler, June 24, 1965, in Foreign Relations of the United States, 1964–1968 
+[hereafter cited as FRUS with volume and year], vol. III, Vietnam, June–December 1965 
+(Washington, DC, 1996), 42.
+
+Reconsidering American Strategy in Vietnam 
+31
+the enemy was “waging against us a conflict of strategic political attrition in 
+which, according to his equation, victory equals time plus pressure.” That 
+April, Westmoreland spoke at the annual luncheon of the Associated Press. 
+While praising his soldiers’ accomplishments, the general summarily dis-
+missed notions of gaining an easy victory. “I do not see any end of the war 
+in sight.”10 Even when the president called Westmoreland and Ambassador 
+Ellsworth Bunker home in November to offer “proof” of the war’s progress 
+to support a White House–directed salesmanship campaign, the two warned 
+that the American effort in Vietnam was “not a short-range proposition.”11 
+Attrition, in truth, meant more than just body counts.
+Second, Westmoreland never subscribed to a strategic approach in which 
+killing was the ultimate goal. The so-called search-and-destroy strategy was a 
+term constructed by critics aiming to simplify MACV’s multifaceted concept 
+for waging a complex war. To both his subordinates and the larger American 
+public, Westmoreland was clear – the threat to South Vietnam required more 
+than simply applying firepower. The general saw his principal objective as 
+maintaining and expanding military and political control in key population 
+areas while seeking to “restore security, develop Vietnamese allegiance to 
+the GVN [Government of South Vietnam], and to degrade the effectiveness 
+of the Viet Cong [VC] apparatus.”12 Westmoreland believed pacifying South 
+	10	 Westmoreland to Wheeler, January 2, 1967, quoted in William Conrad Gibbons, The 
+US Government and the Vietnam War. Executive and Legislative Roles and Relationships, 
+Part IV: July 1965–January 1968 (Washington, DC, 1994), 530; “Text of Westmoreland’s 
+Address at AP Meeting and of His Replies to Questions,” New York Times, April 25, 1967. 
+In his memoirs, Westmoreland argued he had no “expectation and made no prediction 
+whatsoever as to terminal date”: William C. Westmoreland, A Soldier Reports (Garden 
+City, NY, 1976), 172.
+	11	 Peter Grose, “War of Attrition Called Effective by Westmoreland,” New York Times, 
+November 20, 1967. Of note, that same year MACV’s campaign plan explicitly con-
+cluded that, “despite known losses, [the enemy] has been able to maintain a propor-
+tional counter buildup to the growth of US … forces”: John Prados, Vietnam: The History 
+of an Unwinnable War, 1945–1975 (Lawrence, KS, 2009), 181. Westmoreland facilitated the 
+impression that progress was being made in late 1967, an inopportune mistake given 
+the enemy’s Tet Offensive of early 1968. On the president’s salesmanship campaign, see 
+Larry Berman, Lyndon Johnson’s War: The Road to Stalemate in Vietnam (New York, 1989), 
+114–38.
+	12	 Wheeler to Sharp and Westmoreland, November 20, 1965, Folder 7, Box 2, Official 
+Correspondence, Series I, W. C. Westmoreland Collection, p. 2, US Army Military 
+History Institute, Carlisle Barracks, Pennsylvania [hereafter cited as MHI]. It is import-
+ant to note that Westmoreland never relied solely on the term “search and destroy” 
+strategy when outlining his approach to the war. That September, the general also 
+stated in an MACV directive that “the ultimate aim is to pacify the Republic of Vietnam 
+by destroying the VC – his forces, organization, terrorists, agents, and propagandists – 
+while at the same time reestablishing the government apparatus, strengthening GVN 
+military forces, and re-instituting the services of the Government”: quoted in John M. 
+
+Gregory A. Daddis
+32
+Vietnam meant destroying not only enemy main-force units but also the 
+political infrastructure that sustained a deep-rooted insurgency.
+Without question, Westmoreland’s faith in the ability of American military 
+force to strengthen the bonds between the civilian population and the Saigon 
+government was misplaced. It is doubtful that any foreign force entering into 
+the long Vietnamese civil war could have fortified such bonds. Still, the gen-
+eral grasped the struggle’s larger political aspects. As he publicly declared in 
+April 1967, “I think it’s impossible in view of the nature of the war – a war of 
+subversion and invasion, a war in which political and psychological factors 
+are of such consequence – to sort out the war between the political and the 
+military.”13
+Westmoreland’s point about subversion and invasion is crucial when con-
+sidering the viability of the marines’ Combined Action Program. The National 
+Liberation Front (NLF) insurgency posed a multilayered threat within South 
+Vietnam’s borders. As the 1965 MACV command history noted, in facing the 
+insurgent menace, “it was apparent that RVNAF strength was insufficient 
+for both offensive operations and support of the pacification program.” Nor 
+did it help that Saigon’s government appeared “unstable and ineffective” to 
+the point that MACV considered it in “near-paralysis.”14 Yet the insurgency 
+and Saigon’s political woes represented only a portion of the threat to South 
+Vietnam’s future.
+Of particular concern to Westmoreland were the armed forces of North 
+Vietnam, “which were backing the uncompromising political stance of Hanoi 
+with significant military capability.” MACV had to consider not only the 
+insurgency’s political cadre and local militia units but also People’s Army of 
+Vietnam (PAVN) regulars. In 1966 alone, the American command estimated 
+Carland, “Winning the Vietnam War: Westmoreland’s Approach in Two Documents,” 
+Journal of Military History 68, 2 (April 2004), 558. Krepinevich, a critic, relies heavily on 
+this term in his chapter “A Strategy of Tactics” in The Army and Vietnam.
+	13	 “Text of Westmoreland’s Address at AP Meeting.” Less than a year earlier, 
+Westmoreland had emphasized that the enemy’s “determined campaign to gain con-
+trol of South Vietnam” was indeed a campaign against “its land, its people, and its 
+government”: text of cable from General Westmoreland, August 26, 1966, in FRUS, 
+1964–1968, vol. IV, Vietnam, 1966 (Washington, DC, 1998), 604.
+	14	 Command History, 1965, 2, Headquarters, USMACV, Secretary of Joint Staff (MACJ03), 
+Entry MACJ03, Military History Branch, Box 2, RG 472, National Archives and Records 
+Administration, College Park, Maryland [hereafter cited as NARA]. One 1967 report 
+saw benefits in fighting the enemy near the border. “It takes much longer and costs 
+more casualties (particularly civilian casualties) to defeat the enemy forces once they 
+have become entrenched in the populated areas”: “A Systems Analysis View of the 
+Vietnam War: 1965–1972, Vol. 4 – Allied Ground and Naval Operations,” Geog. V. 
+Vietnam-319.1, US Army Center of Military History, Fort McNair, Washington, DC, 51 
+[hereafter cited as CMH].
+
+Reconsidering American Strategy in Vietnam 
+33
+Hanoi had infiltrated some 48,400 soldiers into South Vietnam. (Another 
+25,600 infiltrators may also have entered, though hard intelligence proved 
+elusive.)15 Even if Westmoreland had wanted to concentrate on securing the 
+South Vietnamese population from the insurgency, PAVN regular units pre-
+cluded him from focusing exclusively on one type of threat.
+So too did the larger mission from President Johnson. The March 1964 
+National Security Action Memorandum (NSAM) 288 stated that the US 
+objective in Vietnam was a “stable and independent noncommunist gov-
+ernment.”16 Westmoreland’s military strategy thus derived from the 
+broad principle that Saigon’s government needed to function in a secure 
+environment. Military victories alone were insufficient for achieving this 
+ambitious political goal. Of course, security required military action, and 
+Westmoreland developed plans that included destruction of PAVN forces, 
+protection of the people, liberation of populated areas dominated by the 
+NLF, and destruction of enemy base areas inside South Vietnam.17 Thus, 
+any focus on battle had to facilitate larger objectives of helping develop and 
+maintain a viable local government. As Johnson articulated in late 1966, suc-
+cess “must also be brought about through the effective application of broad 
+and comprehensive politico-economic-sociological-psychological programs 
+designed both to improve the well-being of and to orient the population 
+toward the central government.”18 Had Westmoreland concentrated solely 
+on body counts, he would have been out of step with the mission articulated 
+by civilian policymakers.
+	15	 Command History, 1966, 19, 22, Headquarters, USMACV, Entry MACJ03, Box 3, RG 
+472, NARA. On the interrelationships between the conventional war and pacification, 
+see Carland, “Winning the Vietnam War,” 554. A lack of firm intelligence, according to 
+one US Marine Corps (USMC) captain, put “Marines in the unhappy position of having 
+to ‘lead with their chins’ in order to make contact with the enemy”: quoted in Robert 
+B. Asprey, War in the Shadows: The Guerrilla in History (Garden City, NY, 1975), 1155.
+	16	 NSAM 288 quoted in Gibbons, The US Government and the Vietnam War, 45.
+	17	 Supporting tasks in USMACV Command History, 1967, 339, Office of Secretary, Joint 
+Staff, Mil. Hist. Branch, Entry MACJ03, Box 5, RG 472, NARA. The Joint Chiefs also 
+listed MACV’s “essential” requirements in late 1965: assist the government of South 
+Vietnam to defeat the VC and extend governmental control, conduct combat oper-
+ations to secure bases and lines of communication, defend major population centers, 
+conduct securing and civic action operations, and conduct search and destroy opera-
+tions against the VC and VC bases. Of note, search and destroy composed only one 
+element of these requirements. See Wheeler to Sharp and Westmoreland, November 
+20, 1965, MHI.
+	18	 Johnson quoted in USMACV Command History, 1967, 307, NARA. For a discussion 
+about problems devising strategy at the national level, where unexamined assumptions 
+about the utility of force drove debate inside the Johnson White House, see Gordon M. 
+Goldstein, Lessons in Disaster: McGeorge Bundy and the Path to War in Vietnam (New York, 
+2008), 177–82.
+
+Gregory A. Daddis
+34
+Certainly, offensive operations were necessary to Westmoreland’s stra-
+tegic concept. In 1965 alone, Hanoi sent seven regiments and twenty sepa-
+rate battalions down the Hồ Chí Minh Trail into South Vietnam. Adopting 
+a strictly counterinsurgency approach made little sense unless coupled with 
+plans to defeat these North Vietnamese regulars. As Westmoreland noted, 
+the “essential tasks of revolutionary development and nation building cannot 
+be accomplished if enemy main forces can gain access to the population cen-
+ters and destroy our efforts.”19 Still, MACV focused on population security. 
+Despite the presence of large enemy formations, Westmoreland believed the 
+insurgency inside South Vietnam “must eventually be defeated among the 
+people in the hamlets and towns.” To accomplish this goal, however, meant 
+securing the country from well-organized and equipped forces while simulta-
+neously securing the people from “the guerrilla, the assassin, the terrorist and 
+the informer.”20 Westmoreland argued that American troops could contrib-
+ute best in the first category while the South Vietnamese could make better 
+progress in the second. The problem, as MACV saw it, was that communist 
+forces were drawing the Army of the Republic of Vietnam (ARVN) away 
+from the population. Thus, if American units could construct a shield behind 
+which the ARVN could operate, insurgents would be cut off from external 
+support and, over time, population security attained.
+MACV’s resultant three-phase strategic concept first sought to “halt the 
+losing trend” by the end of 1965. To do so required defending political and 
+population centers while strengthening the RVNAF and preserving areas 
+under governmental control. Next, Westmoreland would resume the offen-
+sive to destroy enemy forces and reinstitute rural construction activities. 
+During this crucial phase, MACV hoped to expand pacification operations 
+by providing security to the people. This point, often underappreciated by 
+Westmoreland’s detractors, served as the centerpiece of US military strat-
+egy inside South Vietnam. Offensive operations were not an end unto them-
+selves. Rather, American troops would “participate in clearing, securing, 
+	19	 Text of cable from General Westmoreland, August 26, 1966, FRUS, 1964–1968, vol. IV, 
+605; information on enemy regiments is in Prados, Vietnam, 153. On Westmoreland’s 
+strategy achieving positive results, see Phillip B. Davidson, Vietnam at War: The History, 
+1946–1975 (Novato, CA, 1988), 365. Of note, PAVN main-force units often did avoid 
+direct confrontation with US and ARVN forces, thus requiring a tactical response that 
+surely resembled classic counterinsurgency operations.
+	20	 The Pentagon Papers: The Defense Department History of United States Decisionmaking in 
+Vietnam (Senator Gravel ed.), 5 vols. (Boston, 1971–2), vol. IV, 606. MACV believed that 
+the enemy was “augmenting their capabilities for the gradual transition to conven-
+tional warfare”: USMACV Command History, 1965, 14, NARA. See also Mark Moyar, 
+Triumph Forsaken: The Vietnam War, 1954–1965 (Cambridge, 2006), 407.
+
+Reconsidering American Strategy in Vietnam 
+35
+reserve reaction and offensive operations as required to support and sustain 
+the resumption of pacification.” Only by securing cleared areas could allied 
+troops help extend the government’s control over the population. In the final 
+phase, Westmoreland sought the insurgency’s complete destruction while 
+offering assistance to the Republic of Vietnam (RVN) for maintaining internal 
+order and protecting its borders. Though MACV ostensibly aimed to com-
+plete this final phase by the end of 1967, Westmoreland warned that any time-
+line for American withdrawal would depend on enemy resistance.21
+Without question, Westmoreland’s was an ambitious strategy, argu-
+ably outside allied troop capabilities. Yet to discount that strategy as simply 
+“search and destroy” or “attrition” misses the nuances of a complex war 
+and a reasoned American approach to fighting it. Far from being wedded 
+to a conventional approach, Westmoreland realized the importance of the 
+village war, local politics, and limiting civilian casualties. Moreover, he 
+understood the effect a burgeoning American presence was having on the 
+local population. While emphasizing the necessity of US forces moving at 
+will through the countryside, he also stressed that they should “constantly 
+demonstrate their concern for the safety of noncombatants – their compas-
+sion for the injured – their willingness to aid and assist the sick, the hungry 
+and the dispossessed.”22 Clearly, this balancing act required skill and matu-
+rity on the part of American soldiers and marines. Westmoreland was ask-
+ing them to simultaneously destroy and build. Still, MACV’s commander 
+realized the final battle would be “for the hamlets themselves” and, as such, 
+American forces would be drawn “toward the people and the places where 
+they live.”23
+	21	 Overview of MACV’s concept in USMACV Command History, 1965, 141–4, NARA; 
+Gibbons, The US Government and the Vietnam War, 45; and FRUS, 1964–1968, vol. IV, 414–
+15. Westmoreland offers his perspective in A Soldier Reports, 175–6. Of course, MACV 
+never fully accomplished its goal of clearing populated areas of communist influence. 
+Leslie H. Gelb and Richard K. Betts note that The Pentagon Papers’ “analysts deduced a 
+prognosis for victory by the end of 1967 in this plan. But the wording of the plan was 
+imprecise about the terminal date … and Westmoreland maintained that he neither 
+stated nor intended a prediction of victory for 1967”: The Irony of Vietnam: The System 
+Worked (Washington, DC, 1979), 132.
+	22	 Minimizing Non-Combatant Battle Casualties, October 9, 1965, MACV Directives 
+525-3, MACV Command Historian Collection, MHI. On NLF propaganda, see 
+USMACV Command History, 1965, 9, NARA. On the American presence, see 
+U. S. Grant Sharp and William C. Westmoreland, Report on the War in Vietnam 
+(Washington, DC, 1969), 105.
+	23	 Quoted in Gibbons, The US Government and the Vietnam War, 71. On Westmoreland 
+attempting to “enforce strict rules of engagement designed to minimize civilian casu-
+alties and property damage,” see Graham A. Cosmas, MACV: The Joint Command in the 
+Years of Escalation, 1962–1967 (Washington, DC, 2006), 407.
+
+Gregory A. Daddis
+36
+Contemporary counterinsurgency doctrine supported such operational 
+concepts. So too did prevailing theories on revolutionary warfare. The 
+army’s field manual on “Counterguerrilla Operations” advised command-
+ers to pay special attention to local inhabitants and assess their loyalty, 
+morale, and strength of will for resisting insurgencies. Moreover, doctrine 
+recommended that US forces make “maximum use of existing police and 
+paramilitary forces.”24 In fact, internal defense was deemed the host nation’s 
+primary responsibility, with Americans advising and assisting. Providing 
+security meant more than military action. Thus, as the marines’ counter-
+insurgency manual noted: “A number of diversified actions such as tactical 
+operations, psychological warfare, civil populace control, and civic action 
+(political, social, and economic) are conducted concurrently.”25 Both doctrine 
+and theory, however, suggested a sequential approach to counterinsurgency. 
+Marines might conduct a number of concurrent operations but providing 
+security ranked first among all other considerations. The message was clear. 
+Defeating the enemy preceded pacification and government stability.26
+Of course, the enemy’s defeat required important contributions from 
+local forces. South Vietnam’s military structure included not only the ARVN 
+but also regional and local militia units that Westmoreland needed to con-
+sider. MACV thus proposed to accentuate the unique strengths of both US 
+and South Vietnamese forces. Relying on their advantages in mobility and 
+firepower, American troops would operate against large enemy formations 
+away from population centers. Because of their “greater compatibility with 
+the people,” the ARVN and local militia units would secure the population 
+	24	 Department of the Army, Field Manual 31-16, Counterguerrilla Operations, February 1963, 
+23–4; Department of the Army, Field Manual 31-16, Counterguerrilla Operations, March 
+1967, 29. In the early 1960s, Americans often used the words “counterinsurgency” and 
+“counterguerrilla” interchangeably.
+	25	 Department of the Navy, FMFM 8-2, Counterinsurgency Operations, December 1967, 
+42. On marine doctrine modeling army doctrine, see Andrew J. Birtle, US Army 
+Counterinsurgency and Contingency Operations Doctrine, 1942–1976 (Washington, DC, 
+2006), 399.
+	26	 Accepted French notions clearly influenced American thinking. In his popular trea-
+tise on counterinsurgency, French officer David Galula laid out a systematic process 
+for a successful strategy. Galula’s first step, “destruction or expulsion of the insurgent 
+forces,” set the foundation for counterinsurgents who would then reestablish author-
+ity over the population and destroy the insurgents’ political organization. See David 
+Galula, Counterinsurgency Warfare: Theory and Practice (New York, [1964] 2005), 107. For 
+a recent critique questioning the success of Galula’s own counterinsurgency operations 
+in Algeria, see Grégor Mathias, Galula in Algeria: Counterinsurgency Practice versus Theory 
+(Santa Barbara, CA, 2011). Of note, Westmoreland also relied on the experiences of US 
+Army units stationed in Korea that had been “involved in extensive civic action since 
+the armistice in 1953”: The Situation in I Corps, November 15, 1965, 1965 Folder, Box 4, 
+William E. DePuy Papers, MHI.
+
+Reconsidering American Strategy in Vietnam 
+37
+once cleared of enemy influence.27 Westmoreland worried, though, that, as 
+pacification efforts expanded in 1966 and 1967, local Popular Forces (PFs) – in 
+essence, village militia – might not meet the demands of providing village 
+security. Still, MACV envisioned a symbiotic relationship between American 
+and South Vietnamese allies. US forces would help the ARVN dislodge the 
+communists from contested locales while militia units would help control 
+these “cleared” areas. Only then would allied operations have a “lasting 
+effect.”28
+The varying capabilities within the South Vietnamese defense establish-
+ment matched the war’s grand mosaic. Given vast regional differences in 
+geography, demographics, and political support for the Saigon government, 
+strategic flexibility remained a priority throughout Westmoreland’s tenure. 
+MACV thus determined that all operations “would be conducted through cen-
+tralized direction, but decentralized execution.”29 In reality, Westmoreland 
+had little choice. The heavily populated Mekong Delta presented immensely 
+different challenges than provinces along the Laotian border or the demili-
+tarized zone (DMZ) between North and South Vietnam. Whereas residents 
+in the southern delta encountered a largely insurgent threat, US marines in 
+the northern provinces grappled with NLF and North Vietnamese main-force 
+units which had infiltrated the country via the Hồ Chí Minh Trail. Hence, the 
+conventional tactics employed by the US Army’s 1st Cavalry Division at the 
+famous 1965 battle in the Ia Đrăng Valley, while wholly appropriate against 
+PAVN regiments, often proved counterproductive in more populated areas. 
+As one MACV officer recalled, “each situation required different military tac-
+tics and a different mixture of military and political” action.30
+	27	 Westmoreland, A Soldier Reports, 176. For a discussion on local “territorial forces,” see 
+James Lawton Collins, Jr., The Development and Training of the South Vietnamese Army, 
+1950–1972 (Washington, DC, [1975] 2002), 71–4. In the words of a senior ARVN general, 
+one of the “major goals of MACV in South Vietnam was to help the RVNAF improve 
+their combat effectiveness so that they would eventually be capable of defending their 
+country unaided.” See Ngo Quang Truong, “RVNAF and US Operational Cooperation 
+and Coordination,” in Lewis Sorley (ed.), The Vietnam War: An Assessment by South 
+Vietnam’s Generals (Lubbock, TX, 2010), 153.
+	28	 Gibbons, The US Government and the Vietnam War, 15; for problems with expansion, 
+see Richard A. Hunt, Pacification: The American Struggle for Vietnam’s Hearts and Minds 
+(Boulder, 1995), 74. It is important to note that the inability of the CAP program to 
+expand because of this limitation proved Westmoreland’s fears well founded.
+	29	 USMACV Command History, 1966, 341, NARA.
+	30	 Phillip B. Davidson, Secrets of the Vietnam War (Novato, CA, 1990), 20. The best work on 
+the November 1965 Ia Đrăng battles remains Harold G. Moore and Joseph L. Galloway, 
+We Were Soldiers Once … and Young (New York, 1993). The division used similar tac-
+tics in the densely populated Bình Định province during 1966 as part of Operations 
+Masher/White Wing and Thayer.
+
+Gregory A. Daddis
+38
+The war’s mosaic nature is worth considering when evaluating arguments that 
+a nationwide adoption of the marines’ Combined Action Program would have led 
+to victory. Westmoreland understood early on that there was no single answer 
+for the complex political–military conflict that was at once a war of internal sub-
+version and one of external invasion. By necessity, MACV’s strategy was multi-
+faceted. Never did Westmoreland concentrate solely on a “big unit war” at the 
+expense of counterinsurgency. Historian John Prados has usefully summarized 
+the elements of Westmoreland’s approach “as isolation of the battlefield, pacifica-
+tion of the villages, and main force combat.”31 All of these elements factored into 
+the larger objective of sustaining an independent, noncommunist South Vietnam. 
+The US Marine Corps, however, believed they had found a better way.
+The Marines Weigh In
+In March 1965, the first contingent of marines landed at Đà Nẵng in Quảng 
+Nam province. Their mission, to defend American air bases supporting the 
+	31	 John Prados, “American Strategy in Vietnam,” in David L. Anderson (ed.), The Columbia 
+History of the Vietnam War (New York, 2011), 251.
+Figure 1.1  US Army officer William Westmoreland (center) with Nguyễn Cao Kỳ (right), 
+Chief of the Vietnam Air Force, in Đà Nẵng (July 18, 1964).
+Source: Michael Ochs Archives / Stringer / Michael Ochs Archives / Getty Images.
+
+Reconsidering American Strategy in Vietnam 
+39
+bombing of North Vietnam, called for setting up three defensive “enclaves” 
+at Phú Bài, Đà Nẵng, and Chu Lai. By June’s end, seven battalions were 
+operating in I Corps, the five northernmost provinces of South Vietnam. 
+Designated the III Marine Amphibious Force (MAF) under the command of 
+Major General Lewis W. Walt, the security force had no immediate plans 
+for conducting nonmilitary civic action programs.32 Base security ranked as 
+the primary focus in these early months. Walt, though, was anxious to pro-
+tect the local civilian population and soon gained Westmoreland’s approval 
+to conduct more ambitious operations against the NLF insurgency. As the 
+marines expanded from their enclaves, they met more than just isolated guer-
+rilla units. In August, during Operation Starlight, the marines battled a full 
+NLF infantry regiment in the coastal lowlands near Chu Lai. Inflicting more 
+than 700 enemy casualties, the operation indicated that protecting the popu-
+lation would require heavy fighting.33
+Walt, however, concluded that defending his base areas required pacifying 
+the population and weeding out the insurgency. Security meant patrolling, 
+and patrolling meant close contact with South Vietnamese civilians. Judging 
+that the main threat came from local guerrillas, III MAF commanders advo-
+cated a clear-and-hold approach in which hamlets would be taken apart “bit by 
+bit,” cleared of enemy influence, and then put back “together again.”34 Such 
+an approach obviously put civilians in a vulnerable position. As the official 
+Marine Corps history noted, civilians in combat zones “presented difficulties. 
+The first attempts to evacuate them were difficult; the people were frightened 
+and did not trust the Marines.” Moreover, the Americans had to make grim 
+	32	 On the deployment and early mission of III MAF, see Willard Pearson, The War in 
+the Northern Provinces, 1966–1968 (Washington, DC, 1975), 6; Keith F. Kopets, “The 
+Combined Action Program: Vietnam,” Military Review 82, 4 (July–August 2002), 78; 
+and Allan R. Millett, Semper Fidelis: The History of the United States Marine Corps (New 
+York, 1980), 565. On lacking a formal organization for civic action, see William D. 
+Parker, US Marine Corps Civil Affairs in I Corps, Republic of Vietnam, April 1966 to April 
+1967 (Washington, DC, 1970), 2. Michael E. Peterson argues that the “CAP concept 
+was inaugurated as an experiment and as a ‘filler’ tactic to extend base defense”: The 
+Combined Action Platoons: The US Marines’ Other War in Vietnam (Westport, CT, 1989), 
+32. In the spring of 1965, there were some 18,000 marines covering roughly 239 square 
+miles (620 square km) with a civilian population of 77,000 people: Parker, US Marine 
+Corps Civil Affairs in I Corps, 6.
+	33	 More on the expanding mission can be found in Sharp and Westmoreland, Report on the 
+War in Vietnam, 99, 109, and The Pentagon Papers (Senator Gravel ed.), vol. III, 459.
+	34	 USMC Colonel Edwin H. Simmons, quoted in Michael A. Hennessy, Strategy in Vietnam: 
+The Marines and Revolutionary Warfare in I Corps, 1965–1972 (Westport, CT, 1997), 70; for 
+patrolling see Millett, Semper Fidelis, 570; for the guerrilla threat, see Cosmas, MACV, 
+402. On the necessity of governments to “first establish strategic bases” as part of any 
+counterinsurgency campaign, see John J. McCuen, The Art of Counter-Revolutionary War: 
+The Strategy of Counterinsurgency (St. Petersburg, FL, [1966] 2005), 324.
+
+Gregory A. Daddis
+40
+choices when facing stubborn resistance. “Although attempts were made to 
+avoid civilian casualties, some villages were completely destroyed by sup-
+porting arms when it became obvious that the enemy occupied fortified posi-
+tions in them.” Both Westmoreland and Walt might have seen pacification as 
+the “ultimate goal,” yet early experiences suggested counterinsurgency could 
+be just as destructive as conventional warfare.35
+Still, Walt deemed population security key and the village war central to 
+victory. The III MAF commander learned, though, that as marines expanded 
+outward insurgents often flowed back into “liberated” areas. Worse, one 
+officer recalled, the ARVN, supposedly maintaining security in cleared areas, 
+“came not to stay, but to loot, collect back taxes, reinstall landlords, and 
+conduct reprisals against the people.” To remedy this problem, marines in 
+Phú Bài formed a Joint Action Company with local PFs to help disrupt NLF 
+activities.36 Despite these tactical innovations, Walt increasingly disagreed 
+with Westmoreland over strategy. The MACV commander worried that 
+continued occupation of defensive enclaves along the coastline would cede 
+the countryside to enemy main-force units. Westmoreland later argued that, 
+with the enemy “free to recruit in regions the Marines had yet to enter and to 
+operate in nearby hills with impunity, every subsequent move … to extend 
+the peripheries of the beachheads would become progressively more difficult 
+and would make the beachheads more vulnerable.” Walt retorted that the 
+bulk of I Corps’ population resided along the coast. Strikes against commu-
+nist main-force units were necessary, but providing day-to-day population 
+security mattered most.37
+	35	 Jack Shulimson and Charles M. Johnson, US Marines in Vietnam: The Landing and the 
+Buildup, 1965 (Washington, DC, 1978), 82. On the relationship between extension of 
+base security and marine influence, see ibid., 133. For pacification as the “ultimate goal,” 
+see Westmoreland, A Soldier Reports, 82.
+	36	 William R. Corson, The Betrayal (New York, 1968), 174. For the Joint Action Company, 
+see Lawrence A. Yates, “A Feather in Their Cap? The Marines’ Combined Action 
+Program in Vietnam,” in William R. Roberts and Jack Sweetman (eds.), New 
+Interpretations in Naval History: Selected Papers from the Ninth Naval History Symposium 
+Held at the United States Naval Academy, 18–20 October 1989 (Annapolis, MD, 1991), 310.
+	37	 Westmoreland, A Soldier Reports, 200; for the marines’ response, see Hennessy, Strategy 
+in Vietnam, 75; and Millett, Semper Fidelis, 567. The account of the Bình Nghı̃a CAP 
+by Francis J. West, Jr., is illustrative as it highlights the “system of small, relentless 
+patrols” used by the marines to cover a “village” that was a “two-mile long complex 
+of six hamlets”: The Pragmatists: A Combined Action Platoon in I Corps (Santa Monica, 
+CA, 1968), 5, 11. On the traditional marine view of countering insurgencies, see United 
+States Marine Corps, Small Wars Manual (Washington, DC, 1940), SWM 1-7, 1–15; Victor 
+H. Krulak, First to Fight: An Inside View of the US Marine Corps (Annapolis, MD, 1984), 190. 
+A contemporary marine pamphlet bolstered claims about population security leading 
+to victory: “A guerrilla force can exist only if it has the cooperation of the people.” 
+
+Reconsidering American Strategy in Vietnam 
+41
+Westmoreland, for his part, believed conventional enemy offensives 
+required a response. The I Corps Tactical Zone (CTZ) particularly trou-
+bled him. Roughly 200 miles long and varying in width from 30 to 80 
+miles (50–130 km), I Corps included more than 2.5 million inhabitants 
+living on a diverse landscape – coastal lowlands, a hilly piedmont region, 
+and jungle highlands. Regional transportation facilities, according to 
+one American officer, were “poorly developed.”38 Geographical con-
+cerns aside, Westmoreland worried most about the enemy buildup just 
+outside South Vietnam’s boundaries. All but one of I Corps’ five prov-
+inces bordered either Laos or the DMZ separating the two Vietnams. 
+Westmoreland thus felt it urgent to “prevent the enemy from generat-
+ing a major offensive designed to ‘liberate’ the provinces” in I Corps.39 
+Intelligence reports of the enemy deploying anti-aircraft weapons south-
+ward and stockpiling supplies just outside South Vietnam’s borders only 
+heightened his fears. So too did the fact that the number of main-force 
+NLF battalions in I CTZ doubled during 1965, reaching fifteen by year’s 
+end. In March 1966, two full PAVN regiments attacked a Special Forces 
+camp in Thừa Thiên province.40 Westmoreland could not ignore local 
+insurgents within the villages, but neither could he disregard the conven-
+tional threat to South Vietnam.
+While Walt and Lieutenant General Victor H. Krulak, commander of the 
+Fleet Marine Force, Pacific, agreed with MACV on the need for a “multi-
+pronged effort,” they lashed out at criticisms that their “offensive pace” was 
+“inordinately slow.” Walt acknowledged the fifteen confirmed enemy battal-
+ions and sensed an increasing threat in late 1965. Yet the infiltration of PAVN 
+units into South Vietnam reinforced marine views that MACV’s strategy, 
+	38	 I CTZ data from “A Marine’s Guide to the Republic of Vietnam,” 12–19, TTUVA; and 
+Pearson, The War in the Northern Provinces, 2–5. At peak strength in 1968, III MAF in 
+Vietnam numbered 85,755 marines. In 1969, the US Marine Corps as a whole reached its 
+peak strength for the entire war at 314,917: Millett, Semper Fidelis, 560.
+	39	 Westmoreland quoted in The Pentagon Papers (Senator Gravel ed.), vol. IV, 336. The 
+marines’ official history acknowledged that “III MAF forces simultaneously faced large-
+scale attacks from NVA [North Vietnamese army] and VC units throughout I Corps”: 
+Gary L. Telfer and Lane Rogers, US Marines in Vietnam: Fighting the North Vietnamese, 
+1967 (Washington, DC, 1984), 7. See also Hennessy, Strategy in Vietnam, 108.
+	40	 Westmoreland, A Soldier Reports, 200–1; Pearson, The War in the Northern Provinces, 6.
+Such arguments, though, downplayed the support the NLF received from North 
+Vietnam. See “A Marine’s Guide to the Republic of Vietnam,” 38, Folder 09, Box 01, 
+Peter Swartz Collection, Vietnam Archive, Texas Tech University, Lubbock, Texas 
+[hereafter cited as TTUVA]. Larry E. Cable argues that marine doctrine was “predi-
+cated upon the notion that success in counterinsurgency operations rested ultimately 
+upon the effective application of force”: Conflict of Myths: The Development of American 
+Counterinsurgency Doctrine and the Vietnam War (New York, 1986), 167.
+
+Gregory A. Daddis
+42
+aiming to “attrit the enemy to a degree which makes him incapable of prose-
+cuting the war,” was “inadequate.”41
+In truth, Walt’s and Krulak’s criticisms missed their mark on two levels. 
+First, the marine commanders underappreciated that enemy main-force units 
+operating so close to sanctuaries outside South Vietnam did not require the 
+population’s support for survival. Without question, relationships between 
+main forces, smaller units, and hamlet organizations existed in the marines’ 
+“three-front war.” Success in pacification, however, did not lead necessarily 
+to starvation and thus defeat of the enemy’s big units.42 Second, Krulak in par-
+ticular mislabeled MACV strategy as simple attrition. More accurately, Walt 
+wrote Westmoreland in late 1965 that he understood his primary missions 
+were “to defend the established bases … to support the RVNAF effort, and 
+to provide a security shield behind which the ARVN can develop a rural con-
+struction program.” Clearly commanders debated how best to create such 
+a shield, yet Krulak’s assessment that MACV did not understand the critical 
+importance of the people was simply wrong.43
+Westmoreland unquestionably saw enemy main-force units as the most 
+pressing threat to South Vietnam’s security. Yet his skepticism about the 
+marines’ concept resulted not from some narrow devotion to attrition but 
+rather from a clear-sighted understanding of the war’s environment. The 
+tasks MACV assigned to I Corps units illustrate a balanced approach with 
+which Walt and Krulak actually agreed. Westmoreland directed the marines 
+to develop and protect secure base areas, coordinate their operations with the 
+RVNAF, maintain reserves for exploitation, and conduct a “vigorous rural 
+	41	 Krulak, First to Fight, 198. On the marines’ “three-pronged strategy,” see Bruce C. 
+Allnutt, Marine Combined Action Capabilities: The Vietnam Experience (McLean, VA, 1969), 
+8. On Secretary of the Navy Paul H. Nitze criticizing III MAF’s pace, see Hennessy, 
+Strategy in Vietnam, 91.
+	42	 Ward Just, “It’s a 3-Front War in I Corps Area as Marines Fight for Pacification,” 
+Washington Post, April 13, 1967. On marines misjudging the enemy, see Cosmas, MACV, 
+403. Walt argued after the war that insurgents “must have a friendly population, not 
+actively friendly, but sympathetic”: Strange War, Strange Strategy, 81. Robert Buzzanco 
+concludes that Krulak’s proposed “solutions, more air power and pacification, were 
+neither militarily appropriate nor politically feasible”: Masters of War: Military Dissent 
+and Politics in the Vietnam Era (New York, 1996), 250.
+	43	 Walt to Westmoreland, November 19, 1965, 5, Folder 7, Box 2, Official Correspondence, 
+Series I, W. C. Westmoreland Collection, MHI. Touring I Corps in November 1965, 
+Westmoreland’s operations officer, William DePuy, found that, outside “the Marine 
+enclaves, the VC have been gaining in strength while the ARVN has barely been hold-
+ing its own.” DePuy equally worried about “insecure areas” due to problems with the 
+pacification cadre being able “to provide long term hamlet-by-hamlet security”: “The 
+Situation in I Corps,” MHI. Of course, MACV struggled throughout the war to success-
+fully secure the population.
+
+Reconsidering American Strategy in Vietnam 
+43
+construction program.” Stressing protection of the people, III MAF opera-
+tions were to “concentrate on heavily populated areas to clear villages and 
+hamlets in the coastal region. Such operations would require maximum 
+mobility, discriminatory use of firepower, and flexibility in adjusting to the 
+situation.”44 Given concerns over the ARVN’s lackluster rural pacification 
+efforts, Westmoreland unsurprisingly advocated marine participation in 
+local area security. Even Krulak admitted the Vietnamese military had “little 
+stomach” for the day-to-day task of protecting the population. Moreover, a 
+singular approach to pacification miscalculated the reality of available man-
+power resources. When asked in late 1966 how many Americans were needed 
+to secure and pacify South Vietnam, Marine Corps commandant Wallace 
+M. Greene, Jr., said it would take “as many as 750,000 troops.”45 Surely 
+Westmoreland would have welcomed that number.
+Leaders in the Hanoi Politburo equally debated the appropriate role of 
+military force in their strategy to unite Vietnam. The decision to commit 
+PAVN regulars did not come easily. Yet after tumultuous deliberations 
+among party leaders, some of whom advocated a more cautious approach, 
+General Secretary Lê Duẩn’s campaign to escalate the war militarily won the 
+day. Never losing sight of the political struggle, Lê Duẩn argued it was neces-
+sary to “smash the enemy’s military forces.” Thus, the armed struggle played 
+a “direct and decisive role.”46 By 1965, Hanoi had committed itself to full-
+fledged escalation. Both the military forces and civilian population in I Corps 
+witnessed the results. Journalist Robert Shaplen reported in 1967 that the 
+enemy was employing “sophisticated Russian howitzers, artillery, mortar, 
+	44	 USMACV Command History, 1965, 144–5, NARA. For similar tasks assigned to 
+US Army units during Operation Fairfax around Saigon, see Cosmas, MACV, 404. 
+Westmoreland’s emphasis on “maximum mobility,” however, meant that US clearing 
+operations in populated regions would be characterized by a transience that ensured 
+they had little lasting impact on pacification.
+	45	 George C. Wilson, “Gen. Greene Decries Gloom over Pacifying Viet Interior,” 
+Washington Post, November 17, 1966; Krulak, First to Fight, 195. While conducting a dis-
+persed area security mission in Bình Định, the ARVN 22nd Division was trounced by 
+several NLF regiments, thus leaving a lasting impression on Westmoreland: Hennessy, 
+Strategy in Vietnam, 76. Still, in his official report, Westmoreland argued that, to suc-
+ceed, pacification had to be a “genuinely Vietnamese endeavor although supported 
+by United States advice, military support, commodities, and funds”: Sharp and 
+Westmoreland, Report on the War in Vietnam, 229.
+	46	 Political Bureau’s Resolution on South Vietnam, November 1963, 8, 13, Folder 09, Box 
+01, Douglas Pike Collection: Unit 06-Democratic Republic of Vietnam, TTUVA. See 
+also Merle L. Pribbenow II, “General Võ Nguyên Giáp and the Mysterious Evolution 
+of the Plan for the 1968 Tết Offensive,” Journal of Vietnamese Studies 3 (Summer 2008), 
+2–3. In late 1963, the Politburo was already speaking in terms of developing a “general 
+offensive and general uprising” to win final victory in South Vietnam.
+
+Gregory A. Daddis
+44
+and rockets” just south of the DMZ.47 Marine intelligence indicated in late 
+1967 that forty-three PAVN and eighteen NLF battalions were operating in 
+I Corps alone, not including the DMZ. If some Hanoi leaders still thought 
+in terms of protracted warfare, Lê Duẩn was undeniably seeking a decisive 
+battlefield victory to force the collapse of Saigon’s “puppet army” and the 
+expulsion of US troops from Vietnam.48
+Thus, marine criticisms that Westmoreland’s strategy failed to account 
+for local security undervalue Lê Duẩn’s own commitment to winning the 
+war through decisive military action. Such assessments equally dismiss the 
+parallels between marine and army approaches to civic action and assist-
+ing the local population. Both services agreed that aggressive patrolling 
+and offensive operations kept the enemy off balance. Marines in Vietnam 
+likely supported army Lieutenant Colonel John McCuen’s contention that 
+local “militia should be the backbone of self-defence.” Lieutenant Colonel 
+Samuel Smithers’s belief that “the Viet Cong ultimately must be chal-
+lenged and defeated in the village and the hamlet where they maintain 
+their primary effort” would also have gained approval.49 One US Army 
+War College student in early 1968, assessing the two services’ approaches 
+to civic action, found the concepts adopted by the two to be “identical.” 
+Even in South Vietnam, Westmoreland took interest in the marines’ 
+County Fair program despite concerns that pacification-oriented programs 
+	47	 Robert Shaplen, “Viet Nam: Crisis of Indecision,” Foreign Affairs 46, 1 (October 1967), 
+96. On logistical support from the population, see Warren Wilkins, Grab Their Belts to 
+Fight Them: The Viet Cong’s Big Unit War against the US, 1965–1966 (Annapolis, MD, 2011), 
+139. David W. P. Elliott, though, notes the near-symbiotic relationship between main-
+force units and the insurgency. “The threat of the big units in the mountains relieved 
+pressure from the guerrillas in the delta, who in turn recruited and sent supplies to 
+the big units.” See Elliott, “Hanoi’s Strategy in the Second Indochina War,” in Jayne 
+S. Werner and Luu Doan Huynh (eds.), The Vietnam War: Vietnamese and American 
+Perspectives (Armonk, NY, 1993), 71.
+	48	 Operations of US Marine Forces, Vietnam, September 1967, Folder 11, Box 08, Larry 
+Berman Collection (Presidential Archives Research), TTUVA; Lien-Hang T. Nguyen, 
+Hanoi’s War: An International History of the War for Peace in Vietnam (Chapel Hill, NC, 
+2012), 89; Ang Cheng Guan, The Vietnam War from the Other Side: The Vietnamese 
+Communists’ Perspective (New York, 2002), 103. The marines’ official history notes that 
+the enemy escalation along the DMZ in 1967 and the need to respond to that threat 
+“dashed any hopes that the Marines may have had to push a strong population control 
+strategy”: Jack Shulimson, Leonard A. Blasiol, Charles R. Smith, and David A. Dawson, 
+US Marines in Vietnam: The Defining Year, 1968 (Washington, DC, 1997), 608.
+	49	 McCuen, The Art of Counter-Revolutionary War, 108; Samuel W. Smithers, Jr., “Combat 
+Units in Revolutionary Development,” Military Review 47, 10 (October 1967), 37; for 
+aggressive offensive operations, see Cable, Conflict of Myths, 168. Birtle argues per-
+suasively that “Army efforts to bolster village security differed from Marine activities 
+more in style than in substance”: US Army Counterinsurgency and Contingency Operations 
+Doctrine, 401.
+
+Reconsidering American Strategy in Vietnam 
+45
+might dissipate US strength and leave American units vulnerable to enemy 
+main-force attacks.50
+Programs like the County Fair – in which marines surrounded a village 
+to root out insurgents while concurrently establishing dental and medical 
+aid stations, conducting a census, and providing “native entertainment” – 
+illustrated a population-centric approach.51 Officers such as Walt and Krulak 
+might acknowledge the presence of PAVN regulars in I Corps but they still 
+believed that defeating the insurgency would lead to local security and the 
+enemy’s ultimate downfall. Marines participating in Operation Golden 
+Fleece, consequently, sought to protect farmers during the harvest season. 
+If the NLF were kept from collecting rice taxes, the population might see 
+clear rewards from receiving governmental protection. Yet whether through 
+commodity distribution or medical care, the marines’ “emphasis was on 
+short-term, high-impact, low-cost projects.”52 Few questioned whether such 
+projects would be sustainable, especially in the absence of American troops 
+and support. But, by the summer of 1965, the marines had already convinced 
+themselves that they alone held the key to victory in Vietnam.
+CAPs: The False Alternative
+Still tied to their enclaves in mid-1965, marines at Phú Bài drafted plans to 
+incorporate local Popular Forces into their base security system. By inte-
+grating militia platoons with marine rifle squads, the allies might enlarge 
+their enclaves thanks to additional manpower from these newly combined 
+units. Marines would enter a nearby village and provide military training 
+to the PFs, while patrolling the local countryside and participating in civic 
+action. Encouraged by upbeat reports, Walt authorized an expansion of 
+the program in January 1966. By July, III MAF had thirty-eight Combined 
+Action Platoons spread across the three marine enclaves. Each of these CAPs 
+consisted of one thirteen-man marine squad and a PF platoon of thirty-four 
+	50	 William J. Ankley, “Civic Action – Marine or Army Style?” 8, 13, January 11, 1968, 
+Student Essay, US Army War College, MHI. As Ankley found, the Marine Corps did 
+not even possess a “published reference on the subject of civic action,” instead relying 
+on “the texts published by the Army’s Civil Affairs School.” Of note, the US Army 
+defined “civic action” as the “use of preponderantly indigenous military forces on proj-
+ects useful to the local population at all levels,” whether they be education, training, or 
+economic development: ibid., 2. For County Fairs, see Jack Shulimson, US Marines in 
+Vietnam: An Expanding War, 1966 (Washington, DC, 1982), 233.
+	51	 Krulak, First to Fight, 187.
+	52	 Shulimson and Johnson, US Marines in Vietnam: The Landing and the Buildup, 144; Parker, 
+US Marine Corps Civil Affairs in I Corps, 10, 29.
+
+Gregory A. Daddis
+46
+South Vietnamese.53 According to one veteran, the scheme was simple. “If 
+the PFs could be properly trained in firearms and squad tactics, if they could 
+be instilled with pride and discipline, they just might be transformed into a 
+viable, cohesive unit to augment the CAP Marines in the villes.” Paternalistic 
+notions aside – could Americans truly instill pride in rural villagers? – the 
+marines did their best to coordinate with Vietnamese district chiefs. Though 
+Walt wanted to establish seventy-five CAPs by year’s end, fifty-seven com-
+bined platoons were operating by the opening of 1967, an impressive growth 
+even if it was not as much as Walt had hoped.54
+The program’s expansion meant that recruiting capable marines for CAP 
+duty quickly became a concern. Though ostensibly admitting only volun-
+teers, the program accepted many men who were “volunteered” by their 
+commanders. Moreover, participants needed a level of maturity to train 
+local militiamen while facilitating a village’s economic and social growth. A 
+CAP School at Đà Nẵng consequently taught a wide array of subjects, from 
+Vietnamese language and customs to civic action and patrolling techniques. 
+An emphasis on military training illustrated that many CAP marines were 
+not infantrymen but came instead from combat support units.55 More impor-
+tantly, the volume of tactical instruction belied arguments that marines 
+promoted a less violent approach to counterinsurgency. Of all the CAP pacifi-
+cation progress indices, “destruction of organized VC military forces” ranked 
+first. Thus, the training of local militia endeavored to “bring the PF soldier 
+to a state of military proficiency by which he is capable of providing his own 
+village/hamlet defense.” Certainly, CAP marines supported “nation-building 
+activities,” but contemporary directives on village pacification made clear 
+that security mattered most. Thus, CAP members heard familiar tasks in their 
+	53	 Shulimson, US Marines in Vietnam: An Expanding War, 239; Kopets, “The Combined 
+Action Program: Vietnam,” 78; Blaufarb, The Counterinsurgency Era, 256; Truong, 
+“RVNAF and US Operational Cooperation and Coordination,” 154. Within the first 
+4 CAP villages were 16 hamlets with a combined population of some 14,000 people: 
+Allnutt, Marine Combined Action Capabilities, 9. A thirteen-man marine squad included 
+a squad leader and three four-man fire teams. A navy medical corpsman and marine 
+radio operator were assigned to each Combined Action Platoon.
+	54	 Al Hemingway, Our War Was Different: Marine Combined Action Platoons in Vietnam 
+(Annapolis, MD, 1994), 4. Edward F. Palm also speaks of the need to “train and inspire 
+the PFs” in “Tiger Papa Three: A Memoir of the Combined Action Program, Part I,” 
+Marine Corps Gazette (January 1988), 34. Figures are from Peterson, The Combined Action 
+Platoons, 32. It is important to note that, while the CAP program unfolded, “regular 
+Marine battalions stationed in the region lent support by conducting small-unit patrols 
+and search-and-destroy operations”: Birtle, US Army Counterinsurgency and Contingency 
+Operations Doctrine, 399.
+	55	 Peterson, The Combined Action Platoons, 33, 48; Telfer and Rogers, US Marines in Vietnam: 
+Fighting the North Vietnamese, 193; Southard, Defend and Befriend, 48–50.
+
+Reconsidering American Strategy in Vietnam 
+47
+mission briefs: seek and destroy the Viet Cong, defend against VC attacks and 
+subversion, and develop the PFs’ ability to resist the insurgency.56
+Such phrases should not surprise, given received wisdom on the relation-
+ships between security and pacification. Marines presumed that, once they 
+gained the trust of the local militia and then the people, villagers would pro-
+vide them with intelligence on the NLF’s military operations and political 
+infrastructure. In short, the marines believed “security for the rural population 
+remained the basic requirement for pacification.” Senior leaders at MACV 
+agreed wholeheartedly. Ambassador Robert Komer, head of MACV’s revo-
+lutionary development program, noted that “sustained territorial security” 
+was the “indispensable first stage of pacification.”57 Perhaps, but did progress 
+in security truly lead to pacified areas? Given that MACV defined pacification 
+as linking the South Vietnamese villager to a distant central government in 
+Saigon, such notions rested on dubious hypotheses. Not only was defining 
+and measuring security difficult but, even once the area was secured, many 
+villagers found little reason to throw their support behind a shaky Saigon 
+government. CAP members surely aspired to a “unity of interest between 
+the South Vietnamese villager and the individual Marine.”58 Yet too often 
+the local populace maintained its own agenda while navigating through a 
+complex war in which the threat of returning insurgents made throwing 
+one’s open support behind American troops a dangerous proposition.
+As the CAP program expanded, so too did opportunities for daily contact 
+with the rural population. Official reports suggested encouraging results. A 
+combined action unit in a village usually served to keep the indiscriminate 
+use of American firepower away, surely important for building relations 
+with local militia. Between August and December 1966, some 39,000 Popular 
+	56	 Training goal in 3rd CAG Command Chronology for the period June 1–30, 1969, July 
+14, 1969, 3rd Combined Action Group, Box 300, Records of the USMC, RG 127, NARA. 
+Indices can be found in Parker, US Marine Corps Civil Affairs in I Corps, 17. For the CAPs’ 
+role in village pacification, see Robert D. Campbell, Analysis of the Marine Pacification 
+System (Alexandria, VA, 1968), 5.
+	57	 R. W. Komer, “Impact of Pacification on Insurgency in Vietnam,” 5, August 1970, 
+Folder 5, Box 15, Douglas Pike Collection: Unit 01-Assessment and Strategy, TTUVA. 
+MACV’s “Guide for Province and District Advisors” equally claimed that the “key 
+to pacification [was] the provision of sustained territorial security”: 2–6, February 1, 
+1968, Historian’s Files, CMH. For marines’ belief in security, see Telfer and Rogers, 
+US Marines in Vietnam: Fighting the North Vietnamese, 183; for intelligence from the peo-
+ple, see Walt, Strange War, Strange Strategy, 82. Komer’s program was known as Civil 
+Operations and Revolutionary Development Support (CORDS).
+	58	 Shulimson, US Marines in Vietnam: An Expanding War, 243. Francis J. West, Jr., found 
+that NLF units might leave an area “but return often enough (once or twice a year) to 
+keep their power recognized by the villagers”: The Enclave: Some US Military Efforts in Ly 
+Tin District, Quang Tin Province, 1966–1968 (Santa Monica, CA, 1969), vi.
+
+Gregory A. Daddis
+48
+Forces had deserted, yet none involved troops assigned to combined action 
+units. Other figures noted that PFs assigned to CAPs were achieving impres-
+sive “kill ratios” against the Viet Cong. One report boasted that these trends 
+“underscore the improved military performance that is possible through the 
+melding of highly motivated professional Marines with heretofore poorly led, 
+inadequately trained, and uninspired Vietnamese.”59 The lessons were clear. 
+With the proper leadership, local militia could defeat the NLF insurgency, 
+provide security to the population, and help turn the tide of a stalemated war.
+Below the surface, however, problems were brewing. The “crash course” 
+in language and cultural instruction left marines ill equipped to deal with the 
+intricacies of South Vietnam’s village life. As journalist Frances FitzGerald 
+found, American troops walked “through the jungle or through villages 
+among small yellow people, as strange and exposed among them as if they 
+were Martians.” Because many battalion commanders resisted giving up their 
+best marines, the quality of CAP members ran the gamut from “outstand-
+ing to abysmal.”60 Thus, through a lack of professional education, persistent 
+language difficulties, the environment’s unfamiliar nature, and the uneven 
+quality of the marines themselves, the CAP program actually exposed larger 
+issues with American intervention in Vietnam. One marine made a com-
+mon assumption that potentially undermined the very presence of combined 
+action units. “Anyone seen or heard moving around in the dark of night was 
+considered to be VC and shot without hesitation.” Such aggressiveness may 
+have kept local insurgents off balance but also risked innocent civilian casu-
+alties as marines shouldered the responsibility for village security. ARVN 
+Lieutenant General Nguyễn Đức Thắng, for example, opposed the combined 
+action concept because he felt the South Vietnamese were “inclined to sit 
+back and let the Marines” do all the work.61
+	59	 Figures in Shulimson, US Marines in Vietnam: An Expanding War, 240. Although the 
+official narrative suggested marines lived among the people, at least one CAP veteran 
+noted that “most of the Marines stayed very close to the compound – except when 
+ambushes or patrols called.” See James Walker Trullinger, Jr., Village at War: An Account 
+of Revolution in Vietnam (New York, 1980), 118.
+	60	 Frances FitzGerald, Fire in the Lake: The Vietnamese and the Americans in Vietnam (Boston, 
+1972), 370; the quote “outstanding to abysmal” can be found in Kopets, “The Combined 
+Action Program: Vietnam,” 79. For language problems, see Peterson, The Combined 
+Action Platoons, 24. According to one veteran, “officers were aware from their own 
+surveys that over 40 percent of the Marines disliked the Vietnamese”: Robert A. Beebe 
+quoted in John Prados (ed.), In Country: Remembering the Vietnam War (Lanham, MD, 
+2011), 95.
+	61	 Nguyễn Đức Thắng quoted in Hunt, Pacification, 108. For shooting without hesitation, 
+see Barry L. Goodson, Cap Môt: The Story of a Marine Special Forces Unit in Vietnam, 
+1968–1969 (Denton, TX, 1997), 114.
+
+Reconsidering American Strategy in Vietnam 
+49
+In fact, the Popular Forces remained a nagging weakness. Lieutenant 
+Colonel William R. Corson, the CAP program’s first director in February 
+1967, argued that PFs were “the building blocks upon which a successful 
+strategy in Vietnam could have been based.”62 While many marines sym-
+pathized with their ill-equipped, untrained allies, harsh realities undermined 
+Corson’s lofty aspirations. For one thing, district and village chiefs controlled 
+PF units, not the marines. CAP sergeants and corporals thus found their influ-
+ence circumscribed by a separated chain of command. As advisors, marines 
+could coordinate and cajole but not command. Edward Palm, a CAP patrol 
+leader, noted that this separation inhibited relationships with the local militia. 
+“Despite numerous suggestions, complaints, and threats, we were never able 
+to form integrated, cohesive patrolling teams. It was the luck of the draw 
+every time out.” Perhaps unavoidably, Palm recalled the “inevitable suspi-
+cion” that “our PFs were in league with the enemy and were tipping them off 
+about our patrols.”63 True, PF soldiers were a mixed lot. If marines coming 
+from combat service support units “lacked skills in scouting and patrolling,” 
+some PFs joined up for the sole reason of avoiding conscription into the reg-
+ular army. Thus, the marines’ official history arrived at a somber evaluation. 
+“The PFs were to provide continuous security in the hamlets, but events had 
+proved conclusively that they were incapable of carrying out their mission.”64
+If local militia effectiveness proved elusive, the growing conventional 
+threat in I Corps during 1967 equally placed strains on the CAP program. 
+As Hanoi sent more PAVN units into South Vietnam’s northern provinces, 
+marine commanders dispatched their own troops forward into battle. Walt 
+found his Vietnamese counterparts slow to pick up the pacification slack. 
+Worse, large-scale military operations not only ravaged the countryside but 
+also drove thousands of villagers out of their homes and into resettlement 
+camps. Even before the “border battles” of late 1967, at least 300,000 people 
+	62	 Corson in Hemingway, Our War Was Different, 51. “A Marine’s Guide to the Republic 
+of Vietnam” noted that “PF members are full time volunteers recruited within their 
+native villages and hamlets to protect their own families and property”: 8, TTUVA. 
+Experience, however, suggested otherwise. As one marine lieutenant colonel recalled, 
+“not one PF” in his battalion’s tactical area of responsibility (TAOR) “was a resident 
+of either village … all the eligible resident males, who should have been members of 
+the PF platoons, were gone! They had been drafted into the ARVN, joined the VC, 
+or deserted the village”: Max McQuown quoted in Telfer and Rogers, US Marines in 
+Vietnam: Fighting the North Vietnamese, 190.
+	63	 Palm in Hemingway, Our War Was Different, 35; Edward F. Palm, “Tiger Papa Three: 
+The Fire Next Time,” Marine Corps Gazette (February 1988), 67; for chain-of-command 
+issues, see Yates, “A Feather in Their Cap?” 312; and Shulimson, US Marines in Vietnam: 
+An Expanding War, 240.
+	64	 Shulimson and Johnson, US Marines in Vietnam: The Landing and the Buildup, 146.
+
+Gregory A. Daddis
+50
+in I Corps had become refugees. The Tet Offensive in early 1968 caused a 
+further spike in the number of displaced persons.65 Not only did Combined 
+Action Platoons struggle to meet demands of this human suffering, they 
+found it increasingly difficult to maintain their own security. While Walt 
+hoped to expand the CAP program, his combined action marines were suffer-
+ing two and half times the number of casualties as their PF counterparts. So 
+many CAPs had been overrun during the Tet Offensive that III MAF decided 
+“to reduce their vulnerability by operating thereafter as mobile units without 
+a fixed base.” Though controversial, the pronouncement meant the marines 
+more closely mirrored the mobile advisory concept adopted by MACV in 
+mid-1967.66 Walt and Krulak might disparage Westmoreland’s focus on the 
+“big unit war” but Lê Duẩn’s commitment to military action left them little 
+choice but to follow suit.
+Because of this dual threat – from outside South Vietnam’s borders and 
+inside its villages and hamlets – the marines’ aspirations of providing lasting 
+population security ultimately came up short. Without question, CAPs put 
+their shoulders into it. In a two-month summer period of 1966, the combined 
+action unit at Fort Page engaged in more than seventy firefights. During the 
+1967 national election period, III MAF as a whole conducted an average of 
+1,240 small-unit patrols, ambushes, and company-sized search-and-destroy 
+missions a day. The results, however, proved disappointing. Los Angeles Times 
+correspondent Jack Foisie found that, even “after the areas behind the US 
+line of advance have been cleared of the enemy, harassment continues unless 
+the villages are garrisoned.”67 Yet III MAF never possessed the manpower 
+	65	 Refugee numbers can be found in Millett, Semper Fidelis, 575; and Hennessy, Strategy in 
+Vietnam, 133. Millett argues the “NVA penetration across the DMZ sent strategic rever-
+berations throughout III MAF and produced new concern at MACV with the pattern 
+of operations in I Corps”: Semper Fidelis, 576. On resettlement camps, see Prados, In 
+Country, 97. For the impact of Tet on marine pacification operations, see Shulimson 
+et al., US Marines in Vietnam: The Defining Year, 604–6.
+	66	 CAP casualty rates can be found in Birtle, US Army Counterinsurgency and Contingency 
+Operations Doctrine, 400. On operating as mobile units, see Yates, “A Feather in Their 
+Cap?” 316. On MATs, see Jeffrey J. Clarke, Advice and Support: The Final Years, 1965–
+1973 (Washington, DC, 1988), 236; and Terry T. Turner, “Mobile Advisory Teams in 
+Vietnam: A Legacy Remembered,” On Point: The Journal of Army History 16, 4 (Spring 
+2011), 34–41. Of course, one might question the marines’ ability to bridge the cultural 
+gap and gain the trust of local population given that no CAP unit developed intelli-
+gence of the impending Tet Offensive in early 1968.
+	67	 Jack Foisie, “Marines Command Viet Militia Force,” Washington Post, June 23, 1966; 
+for Fort Page, see Shulimson, US Marines in Vietnam: An Expanding War, 242; for III 
+MAF average, see Operations of US Marine Forces, Vietnam, TTUVA. Hennessy notes 
+that “Civic Action was really conducted in the ‘spare time’ of the marines, because 
+large-unit, base defense, and counter-guerrilla operations accounted for 35 percent, 50 
+percent, and 15 percent of their effort, respectively”: Strategy in Vietnam, 93.
+
+Reconsidering American Strategy in Vietnam 
+51
+to sustain its security advances. Moreover, a garrison state hardly encour-
+aged loyalty to Saigon’s government. Marines involved in both large-unit 
+and combined action operations surely made inroads against the insurgency 
+by keeping the enemy off balance and driving wedges between the popula-
+tion and the NLF. The question of sustainability, though, remained. As one 
+senior ARVN officer recalled, the “security attained was not a guarantee that 
+it would be immune to enemy spoiling actions and that the trend was irre-
+versible. The results only reflected the situation at a certain time; they did not 
+represent the kind of solid, permanent achievements that defied retrogres-
+sion.” One CAP veteran was more succinct: “We had managed neither to 
+protect our village nor secure the support of the people.”68
+Contemporary literature, however, presented a sanguine picture. Laying 
+the foundation for future “lost opportunity” narratives, marines highlighted 
+the number of villagers voting in the 1967 election. Mayors, once “scared off 
+by the Viet Cong,” were returning to their hamlets. The Marine Corps Gazette 
+boasted of militia taking “heart from the Marines’ firepower and combat 
+aggressiveness” and that civic action was having a “significant role in the trans-
+formation” of villages under the Corps’ protection.69 Corson himself offered 
+up impressive figures. In hamlets with CAPs, four out of five hamlet chiefs 
+resided full time in their homes. “In hamlets without a CAP,” the program 
+director claimed, “29 per cent have functioning hamlet councils; in those with 
+a CAP 93 per cent have reached this level of progress.” Corson even main-
+tained in a 1967 interview with the Washington Post that 1,000 marines were 
+providing security for 250,000 people. (Journalist Ward Just called the remark 
+“startling.”)70 Even civilian think tanks such as the Hudson Institute offered 
+measured praise. One 1967 report acknowledged that the CAPs had “not 
+	68	 Tran Dinh Tho, “Pacification,” in Sorley (ed.), The Vietnam War, 258; Palm, “Tiger Papa 
+Three, Part I,” 35.
+	69	 Election results can be found in Wilson, “Gen. Greene Decries Gloom over Pacifying 
+Viet Interior.” See also David A. Clement, “Le My: Study in Counterinsurgency,” 
+Marine Corps Gazette (November 1967), 20; George Wilson, Jack Childs, Norman 
+MacKenzie, and Michael Sweeney, “Combined Action,” Marine Corps Gazette (October 
+1966), 29. One Marine Corps officer claimed that successful revolutionary develop-
+ment meant a “hamlet has become a community of responsibility”: Richard C. Kriegel, 
+“Revolutionary Development,” Marine Corps Gazette (March 1967), 40. For a counterar-
+gument, see Palm, “Tiger Papa Three: The Fire Next Time,” 68.
+	70	 Figures in Corson, The Betrayal, 187; Just, “It’s a 3-Front War.” Corson’s claims are 
+worth questioning. Even in the most famous memoir of a CAP unit, The Village, Francis 
+J. West, Jr., concluded that “the Marine command wished to clearly demonstrate the 
+wisdom of combined units. This they were never to do to their own satisfaction, let 
+alone that of the US Army. The combined units seemed too fragile, the American role 
+too temporary, other demands for US manpower too powerful”: The Village (New 
+York, 1972), 256.
+
+Gregory A. Daddis
+52
+eliminated the infrastructure in every hamlet,” nor “have they ever been able 
+to feel they could leave a village safely behind.” Nonetheless, they promoted 
+an enhanced “mobile defense capability … based on local intelligence.” As the 
+report concluded, the combined action approach “should be applied to a solid 
+mass of villages, as they [CAPs] have not been up to now.”71
+Despite these glowing testimonies, the marines’ inability to link secu-
+rity with social and economic development plagued the CAP program and 
+illustrated fundamental inconsistencies with the larger American presence 
+in South Vietnam. In areas in which they operated, combined units often 
+increased the level of security among the local villages and hamlets. Yet phys-
+ical control of the population hardly addressed social grievances or economic 
+hardships. In truth, development rarely achieved “revolutionary” levels. In 
+large part, the Saigon government was still grappling with ways to extend its 
+influence into the rural countryside. As The Pentagon Papers authors realized, 
+“despite their good intentions to work through the existing GVN structure, 
+the Marines found in many cases that the existing structure barely existed, 
+except on paper, and in other cases that the existing structure was too slow 
+and too corrupt for their requirements.”72 Too often the governmental chain 
+from hamlet to Saigon was either broken or indifferent to the people’s needs. 
+As much as marine officers wanted to help win villagers’ “allegiance and loy-
+alty,” no foreign occupation force could serve as a surrogate for functioning 
+local government. And no amount of tactical skill in providing village secu-
+rity or in training PF militia could overcome inherent weaknesses within the 
+South Vietnamese political community. Too many rural people simply felt 
+out of step with their government in Saigon.73
+To his credit, Westmoreland gave I Corps’ leadership space to experiment 
+with CAPs while confronting the PAVN threat across South Vietnam’s bor-
+der. Arguments that MACV vetoed plans for expansion of the program fall 
+flat. In the end, the Marine Corps itself allocated less than 2 percent of its 
+	71	 Raymond D. Gastil, Counterinsurgency and South Vietnam: Some Alternatives (Croton-on-
+Hudson, NY, 1967), 11–19. For a more recent, and fuller, account of the CAPs, see Jim 
+Seaton, “A Political-Warrior Model: The Combined Action Program,” Armed Forces and 
+Society 20, 4 (Summer 1994), 549–63.
+	72	 The Pentagon Papers (Senator Gravel ed.), vol. II, 535. For social and economic inequities, 
+see George R. Vickers, “US Military Strategy and the Vietnam War,” in Werner and 
+Huynh (eds.), The Vietnam War, 124. It is important to note that destruction of enemy 
+combat units did not necessarily mean elimination of the NLF political infrastructure: 
+Tho, “Pacification,” 221.
+	73	 Krulak quoted in Yates, “A Feather in Their Cap?” 310. See also Jeffrey Record, The 
+Wrong War: Why We Lost in Vietnam (Annapolis, MD, 1998), 139. The government 
+of South Vietnam is given as part of the problem in Peterson, The Combined Action 
+Platoons, 115.
+
+Reconsidering American Strategy in Vietnam 
+53
+manpower to CAPs.74 In late 1967, for instance, 1,343 marines and 2,074 PF 
+members were assigned to combined action units. Never did the program 
+exceed 2,500 marines, even when III MAF reached its peak of roughly 85,000 
+troops in 1968. Despite such a large presence, Westmoreland reasoned that III 
+MAF controlled only 2 percent of the terrain and 13 percent of the population 
+in all of I Corps.75 As with “security,” the word “control” surely held diverse 
+meanings. Still, the few villages in which the CAPs operated hardly served as 
+a paradigm for marine operations in the country’s northernmost provinces. 
+Westmoreland correctly realized, given Hanoi’s intentions, that scattered 
+combined action units did little to secure the population from the main-force 
+threat. In Douglas Blaufarb’s words, the marines’ failure “to link the various 
+CAPs together into an interlocking and mutually supporting network” only 
+exacerbated the MACV commander’s concerns.76 Marines, however, tended 
+to blame such shortcomings on Westmoreland’s strategy of attrition.
+While this popular narrative has appealed to a broad audience for decades, 
+it ignores the realities behind MACV strategy and the tactical problems and 
+solutions shared by the US Army and Marine Corps in Vietnam. In his offi-
+cial report on the war, Westmoreland noted that “cordon and search” and 
+County Fair operations, “first developed by the Marines,” were adopted by 
+all ground commands. Though Walt disagreed with MACV’s emphasis on 
+larger, offensive operations, he conceded during and after the war that he 
+could not ignore enemy main-force units.77 Moreover, Westmoreland argued 
+	74	 Allnutt notes that, in 1968, “Marine Corps strength in Vietnam was about 80,000, and 
+the number of CAPs ranged around 100, meaning that less than 1.5% of the Marines in 
+Vietnam were in the Combined Action Program.” The CAPs did, however, suffer 3.2 
+percent of all Marine casualties, indicating the amount of effort spent on security. See 
+Allnutt, Marine Combined Action Capabilities, 11–12.
+	75	 Figures are from Operations of US Marine Forces, Vietnam, TTUVA; Hemingway, 
+Our War Was Different, 177; and Millett, Semper Fidelis, 572. These numbers include navy 
+corpsmen assigned to the program. As an indication of progress, the first CAPs to be 
+deployed in the Phú Bài base area in 1965 were still in the same villages four years later 
+as the PF had not reached a level to provide local security on their own. See Allnutt, 
+Marine Combined Action Capabilities, 62.
+	76	 Blaufarb, The Counterinsurgency Era, 258. In comparing the army and marine approaches, 
+Birtle argues that “neither service was any more successful than the other in promoting 
+village security”: US Army Counterinsurgency and Contingency Operations Doctrine, 401.
+	77	 Sharp and Westmoreland, Report on the War in Vietnam, 121; L. W. Walt, interview 
+by Paige E. Mulhollan, January 24, 1969, Oral History Collection, Lyndon B. Johnson 
+Library, Austin, Texas, 4; Walt to Westmoreland, November 19, 1965, 2, MHI. Cosmas 
+finds that Krulak’s description of marine strategy “was actually a balance of pacification 
+and offensive action”: MACV, 404. Even Sir Robert Thompson, the British counter-
+insurgency “expert” who felt CAPs worked “superbly,” acknowledged that offensive 
+operations “into contested and enemy held areas” were still necessary: No Exit from 
+Vietnam (New York, 1969), 198.
+
+Gregory A. Daddis
+54
+that he “simply had not enough numbers to put a squad of Americans in 
+every village and hamlet.” Although Krepinevich later countered that “it was 
+not necessary to place army squads in every village simultaneously” if one fol-
+lowed the “oil spot” principle of steady expansion, at least some veterans had 
+doubts. One CAP member disputed that “we could ever have found enough 
+Marines with the intelligence and sensitivity to make it work on a large scale, 
+nor could we have provided the language and cultural training.”78 Critics of 
+America’s lost war, however, concluded that “if only” Westmoreland had 
+followed the marines’ approach, the war “might have” turned out differently.
+Conclusions: The Perils of Mythmaking
+Proponents of the CAP alternative have long relied on counterfactual argu-
+ments that, under closer scrutiny, call into question whether Westmoreland 
+missed a grand opportunity to win the war. In truth, US Army units exper-
+imented with pacification just as the Marine Corps did – oftentimes, with 
+similarly mixed results. In the 1st Infantry Division, operations such as Rolling 
+Stone sought to balance the interrelated fields of civic action, psychological 
+warfare, and combat operations. By providing long-term security to the pop-
+ulation in Bình Dương province, the division hoped to achieve its primary 
+objective of opening the area to “RVN economic and military influence.”79 
+Similar goals guided the 25th Infantry Division. In May 1966, Westmoreland 
+directed commanders to work more closely with their ARVN counterparts 
+“in order to improve their morale, efficiency and effectiveness.” Soon after-
+wards, the 25th instituted the Combined Lightning Initial Project (CLIP), 
+modeled on the marines’ Combined Action Program, to help achieve the 
+division’s pacification goals. Soldiers not only trained local PFs, but also con-
+ducted clear and hold missions to “help expand the security ‘oil spot’” around 
+the division’s Củ Chi base camp. In the 4th Infantry Division, operating along 
+Cambodia’s border, the “Good Neighbor” program equally sought to balance 
+local security with the threat posed by PAVN main-force units.80
+	78	 CAP member Palm in Hemingway, Our War Was Different, 39; Westmoreland, A Soldier 
+Reports, 202. On Krepinevich’s counterarguments, see The Army and Vietnam, 175–6.
+	79	 Operational Report – Lessons Learned, January 1–April 30, 1966, 1st Infantry Division, 
+5, MHI. See also Combat Operations Report, 1st Brigade, 1st Infantry Division, March 
+28, 1966, Folder 58, Box 01, William E. LeGro Collection, TTUVA.
+	80	 Westmoreland quoted in Clarke, Advice and Support, 184; for CLIP, see Boyd T. 
+Bashore, “Revolutionary Development Support in the Republic of Vietnam: Tropic 
+Lightning Helping Hand and ‘The Other War,’” January 19, 1968, 19–20, Student Essay, 
+US Army War College, MHI. For the Good Neighbor Program, see “CI” File Folder, 
+Box 1, Richard M. Lee Papers, MHI. On problems with the 25th Infantry approach, 
+
+Reconsidering American Strategy in Vietnam 
+55
+The experiences of these US Army divisions directly challenge popu-
+lar “lost war” narratives. Army commanders weighed offensive operations 
+against pacification efforts just like their marine brethren. The failure of both 
+services says more about the inability of Americans to resolve underlying 
+problems within the South Vietnamese political community than it does 
+about US military strategy. CAPs simply could not achieve the “credible per-
+manence” so necessary for gaining the population’s true support.81 Especially 
+after the 1968 Tet Offensive and the de-Americanization of the war, villagers 
+were unconvinced the marines would not abandon them. Lacking a long-
+term commitment to their security, many rural peasants deemed it too risky 
+to support the Saigon government over the NLF. Thus, Americans remained 
+little more than an occupation force. In the process, persistent questions 
+over the legitimacy of the government of South Vietnam made any gains 
+against the National Liberation Front fragile at best.82 True, the NLF’s influ-
+ence waned in the years following Tet, but it seems doubtful though that 
+any expansion of the CAP program would have been enough to break the 
+communists’ will. In short, there were some political issues that military force 
+simply could not resolve.83
+Perhaps this uncomfortable truth helps explain why the false alternative of 
+the marines’ Combined Action Program remains so congenial. In the after-
+math of Vietnam, Americans wanted to believe there was a better way, that 
+	81	 For “credible permanence,” see Truong, “RVNAF and US Operational Cooperation 
+and Coordination,” 158. See also Birtle, US Army Counterinsurgency and Contingency 
+Operations Doctrine, 399. As an example of problematic narratives, Seaton argues the 
+CAPs “sought to relegitimize traditional Vietnamese lines of authority at the lowest 
+levels.” Left unstated is how such a goal was possible for outside military forces to 
+achieve: Seaton, “A Political-Warrior Model,” 556.
+	82	 On strategy being inextricable from politics, see Jeffrey Clarke, “On Strategy and the 
+Vietnam War,” in Lloyd J. Matthews and Dale E. Brown (eds.), Assessing the Vietnam 
+War: A Collection from the Journal of the US Army War College (Washington, DC, 1987), 75. 
+For an example of lack of cooperation with the local community, see Hemingway, Our 
+War Was Different, 156; for replacing infrastructures, see Campbell, Analysis of the Marine 
+Pacification System, 34; for the occupation force assessment, see Peterson, The Combined 
+Action Platoons, 88.
+see Richard A. Hunt, “Strategies at War: Pacification and Attrition in Vietnam,” in 
+Richard A. Hunt and Richard H. Shultz, Jr. (eds.), Lessons from an Unconventional War: 
+Reassessing US Strategies for Future Conflicts (New York, 1982), 35–6.
+	83	 Even Corson admitted the “failure of the RF [Regional Forces] to carry their share of 
+the load”: The Betrayal, 85. See also Bernard Weinraub, “US Attempt to Use Vietnamese 
+in GI Units Is Partly Successful,” New York Times, August 13, 1967. On the question of 
+III MAF programs increasing the effectiveness of the government of South Vietnam, 
+see Millett, Semper Fidelis, 572. On the larger problems of trying to achieve “moral attri-
+tion” against one’s enemy, see J. Boone Bartholomees, Jr., “The Issues of Attrition,” 
+Parameters 40, 1 (Spring 2010), 13–14.
+
+Gregory A. Daddis
+56
+victory lay within their grasp. The alternative, though, was a myth. At its peak 
+in 1969, there were only 114 CAPs for an I Corps population of roughly 2.5 mil-
+lion people. Evidence also indicated that in the “‘softer’ areas of civic action, 
+psychological operations, and general institution- and nation-building” CAPs 
+never performed all that well.84
+Yet, long before the war’s end, the marines already had judged their 
+program a success. In May 1968, Krulak called on his colleagues to “stand 
+up to their Army critics and extol the ‘proud’ record of the Marine Corps 
+in Vietnam.” In Krulak’s view, his officers would have to defend the Corps’ 
+“right to fight by reciting its record of ‘achievement’ in Vietnam” since 
+“our postwar survival may well turn on our ability to articulate our contri-
+bution.” Suppressing the limits of the CAP program thus not only helped 
+to honor the sacrifices of young marines but, perhaps more importantly, 
+to solidify the Corps’ reputation in a war already being condemned by 
+critics as a failure. Krulak, in a large sense, was setting the foundations 
+for a key myth of the Vietnam War: Westmoreland’s strategy of attrition 
+had flopped while the Marine Corps’ strategy of population security had 
+measured up.85
+Though such narratives have found receptive audiences over the past 
+five decades, especially those hoping to salvage one military branch’s rep-
+utation after the American loss in Vietnam, the reality proves much more 
+complicated. Westmoreland never made exclusive choices between attrition 
+and counterinsurgency. The Combined Action Program thus ranked as one 
+among many tools used by American military officers to help sustain a ten-
+uous South Vietnam government under assault from both political and mili-
+tary agents. There existed no “magic solution” to the dual threat of external 
+	84	 For “softer” areas, see Allnutt, Marine Combined Action Capabilities, 69. Figures are from 
+The Vietnamese Village 1970, Handbook for Advisors, Folder 02, Box 01, Ronald Tausch 
+Collection, TTUVA; W. D. Sharpe, Population of Vietnam, November 1, 1966, Folder 
+24, Box 15, Douglas Pike Collection: Unit 06-Democratic Republic of Vietnam, TTUVA; 
+and Fraser Fowler, “The USMC’s Combined Action Platoons: A Counterinsurgency 
+Success in Vietnam and Why It Failed to Derail US Military Strategy,” Canadian Army 
+Journal 12, 1 (Spring 2009), 98. According to West, there were roughly 400 villages in I 
+Corps: The Pragmatists, 1. A 1962 province study calculated the number at 569 villages in 
+the 5 northernmost provinces: Provinces of Viet Nam, 20 August 1962, Folder 04, Box 
+05, John Donnell Collection, TTUVA. MACV estimated there were between 2,100 and 
+2,552 villages and between 10,000 and 12,000 hamlets in all of South Vietnam.
+	85	 John W. Finney, “Gen. Krulak Urges Marines to Resist Detractors in Army,” New York 
+Times, May 13, 1968. The authors of The Pentagon Papers argued that “the Marine strat-
+egy was judged successful, at least by the Marines, long before it had even had a real 
+test”: The Pentagon Papers (Senator Gravel ed.), vol. II, 535. On the ultimately irreconcil-
+able problems with the marine approach, see also Buzzanco, Masters of War, 253; and 
+Asprey, War in the Shadows, 1182.
+
+Reconsidering American Strategy in Vietnam 
+57
+invasion and internal subversion.86 Hence, the CAP “alternative” should be 
+viewed as historical myth built by proud marine officers and uncritical mili-
+tary historians. Certainly, studying the merits of the marine approach offers 
+valuable historical perspectives. But myths based on “if only” arguments do 
+little to further our understanding of the Vietnam War. By judging that war 
+only through stories we find congenial, through narratives in which victory 
+always is possible, history loses its functionality for deeper understanding. In 
+the end, counterfactuals based on false alternatives take us only so far.
+	86	 No “magic solution” is from USMACV Command History, 1966, 65, NARA. For a cri-
+tique of the myths surrounding counterinsurgency and the utility of force, see Gian 
+Gentile, Wrong Turn: America’s Deadly Embrace of Counterinsurgency (New York, 2013), 
+139–40.

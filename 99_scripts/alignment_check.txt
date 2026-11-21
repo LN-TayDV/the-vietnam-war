@@ -1,0 +1,19 @@
+=== KIEM TRA ALIGNMENT VA ENCODING ===
+
+SRC file: v1_ch01_src.txt
+VI file: v1_ch01_vi.txt
+
+--- Encoding ---
+SRC BOM: False, VI BOM: False
+SRC CRLF: False, VI CRLF: False
+SRC LF-only: True, VI LF-only: True
+SRC NFC: True, VI NFC: True
+
+--- Alignment ---
+SRC so doan: 49
+VI so doan: 49
+SRC cac so: ['001', '002', '003', '004', '005'] ... ['045', '046', '047', '048', '049']
+VI cac so: ['001', '002', '003', '004', '005'] ... ['045', '046', '047', '048', '049']
+Marker khop 1-1: True
+
+--- Ket thuc ===

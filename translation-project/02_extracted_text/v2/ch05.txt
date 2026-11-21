@@ -1,0 +1,630 @@
+117
+It has become an article of faith among neo-orthodox observers who want to 
+picture the Vietnam War as a United States victory that the guerrilla enemy 
+was defeated. In some formulations this goes so far as to claim the insur-
+gents were vanquished on the way to the defeat of the North Vietnamese 
+main forces by American air power. Let us postpone that overarching ques-
+tion while laying the groundwork to consider it by looking at “pacification,” 
+which in Vietnam came to mean organized efforts to root out the adversary’s 
+apparatus across the broad extent of South Vietnam. The story is both more 
+complex and less clear than neo-orthodox proponents would have it; and the 
+record is also more nuanced than the views of those who favor the insur-
+gents, the National Front for the Liberation of South Vietnam (NLF).
+The American war in Vietnam is often described as a struggle for the 
+“hearts and minds” of the Vietnamese people. This chapter will examine 
+United States efforts to stimulate Saigon’s government in this enterprise. It 
+will also look at “nation-building,” a complementary set of foreign assistance 
+and aid programs that Washington intended to create a robust Republic of 
+Vietnam that could offer an attractive alternative to the NLF. The approach 
+will be partly thematic and partly chronological, opening with the defini-
+tional problem and a general description of the conflict terrain, then turning 
+to a narrative showing the progression of how various Saigon regimes and 
+American actors gradually shifted to a countrywide focus on a “war in the 
+villages.”
+What Were the Americans Up To?
+The first problem is one of definition. Despite probably millions of words, 
+even pages, devoted to this topic, in public speeches, secret documents, and 
+oral briefings, during the war there was no generally accepted definition 
+of “pacification.” The September 1974 edition of the Department of Defense 
+5
+The Conundrum of Pacification
+John Prados†
+
+John Prados
+118
+Dictionary of Military and Associated Terms, for example, contains no entry on 
+this key principle of the war.1 A standard source such as Spencer C. Tucker’s 
+The Encyclopedia of the Vietnam War gives this meaning: the “array of programs 
+that sought to bring security, economic, development, and local government 
+to rural South Vietnam.”2 That text fails to define pacification as a process, 
+but merely pictures it as a collection of programmatic elements. Similarly, the 
+history crafted by Richard A. Hunt, a foremost expert on the subject, reports 
+that “Pacification encompassed both military efforts to provide security and 
+programs of economic and social reform and required both the US Army 
+and a number of US civilian agencies to support the South Vietnamese.”3 In 
+essence pacification remained in the eye of the practitioner – and the pulling 
+and hauling among different actors with differing interests and perceptions of 
+the task bedeviled this effort throughout the period.
+Richard Hunt’s description has the virtue of pointing to the Saigon gov-
+ernment. The United States may have been the main actor in pacification 
+but US actions were in support of the South Vietnamese, who held the real 
+responsibility. Never could the United States do whatever it wanted, and 
+from beginning to end the South Vietnamese commitment remained prob-
+lematic. Former CIA officer Thomas Ahern, author of the agency’s official 
+history of pacification in the war, quotes Saigon’s deputy defense minister’s 
+telling comment to the CIA’s chief of operations for South Vietnam. This was 
+late 1954, and the two were in Vı̃nh Long city, a Mekong provincial capital, 
+for the baptism of a child of Ngô Đình Nhu. The CIA man asked how far out 
+from Saigon the government’s control extended. “As long as we’re here it’s 
+this far, but when we go back to Saigon it goes back with us.”4
+On the American side, the administration of President Dwight D. 
+Eisenhower took a conventional view of developing the South Vietnamese 
+military, but did provide economic aid aimed at subsidizing land reform, and 
+other elements that would become elements of pacification. President John 
+F. Kennedy may not have had a comprehensive definition of the phenom-
+enon, but his promulgation of a doctrine of “counterinsurgency” offered 
+a readymade framework with which to understand the struggle. It was 
+	1	 Joint Chiefs of Staff, Department of Defense Dictionary of Military and Associated Terms 
+(Washington, DC, 1974).
+	2	 Spencer C. Tucker (ed.), The Encyclopedia of the Vietnam War: A Political, Social, and 
+Military History (New York, 1998), 313.
+	3	 Richard A. Hunt, Pacification: The American Struggle for Vietnam’s Hearts and Minds 
+(Boulder, 1995), 2.
+	4	 Thomas L. Ahern, Jr., Vietnam Declassified: The CIA and Counterinsurgency (Lexington, 
+KY, 2010), 7.
+
+The Conundrum of Pacification
+119
+counterinsurgency, rather than pacification, that would frame early United 
+States efforts. This subsumed “civic action” – a limited form of relating to 
+people – but was largely built around security tactics. Counterinsurgency 
+would be applied as the United States induced Saigon to fight the NLF guer-
+rillas on their own terms. Later, President Lyndon B. Johnson, champion of 
+the Great Society in the United States, devoted major attention to nonmili-
+tary aspects of the conflict, and this “other war” became the foundation for 
+the comprehensive pacification attempted at the midpoint of the Vietnam 
+War. At its highest level the development inherent to the other war would be 
+called “nation-building.” In the villages at the micro level the sides contested 
+the loyalties of the South Vietnamese people.
+This other war was a fundamentally political conflict in which pacification, 
+or the push to uproot the adversary’s networks in the villages, became a pri-
+mary warfighting mechanism. Nation-building sought to create and improve 
+South Vietnamese institutions and productive means sufficiently to give 
+the populace a stake in supporting the Saigon government. One important 
+scholar of the process has labeled it “inventing Vietnam.”5 Counterinsurgency 
+continued to be pursued, identifying specialized forces and means, acting 
+alongside the social and political aspects of building popular support. While 
+all these elements had formed part of the South Vietnamese struggle from 
+the beginning, their application varied in depth and over time. The sides 
+thus began to implement strategies and tactics that were not fully under-
+stood, under leaders and commanders who varied in their approaches to the 
+problem.
+The Era of Special Warfare
+The early months following the 1954 Geneva Agreements, when the gov-
+ernment of Ngô Đình Diệm was busy establishing itself, pushing out from 
+Saigon, in the way that Ngô Đình Nhu did for his son’s baptism, were a major 
+piece of the action for pacification. The first big pushes were into Cà Mau 
+province, at the southern tip of Vietnam, and Bình Định on the central coast. 
+Already, American advisors were promoting a “people first” approach while 
+French officers – still in Vietnam at the time – emphasized security. By 1956 
+the French were forced out. Consolidating his power, Diệm relied on mili-
+tary force. South Vietnamese civilian agencies did not seem to understand 
+	5	 James M. Carter, Inventing Vietnam: The United States and State Building, 1954–1968 
+(Cambridge, 2008).
+
+John Prados
+120
+that people had any role at all, while US aid focused on more conventional 
+assistance.6
+President Diệm’s approach successfully wore down the South Vietnamese 
+political–religious sects, and the former Việt Minh cadres who had stayed 
+in the South after Geneva were shrunk to a small, hard kernel. By the end 
+of 1957 an estimated 65,000 people had been arrested and several hundred 
+killed. A government decree imposed the death penalty for membership in 
+the Communist Party. Executions later averaged 150 a month.7
+Cadres begged Hanoi authorities for permission to take up arms, permis-
+sion that only came in 1959. By then the pent-up energy among this cadre was 
+enormous, and their upsurge exploded across South Vietnam. The Southern 
+resistance built considerable strength in the villages by creating “parallel hier-
+archies” of interlocking movements – from farmers’ or women’s groups and 
+health cooperatives to quasi-governmental entities that performed functions 
+identical to Saigon government organs. Thus it enlisted people in ways that 
+compromised them insofar as Saigon was concerned.
+At the end of 1960 the Southern resistance gave itself a fresh, united-front 
+cloak by creation of the National Liberation Front (NLF). The NLF supple-
+mented its organizational efforts with forceful acts against official govern-
+ment representatives, in effect closing Saigon officials out of many areas of 
+South Vietnam. The relative strength of the government versus NLF hierar-
+chies defined progress.
+Early experts who believed in people-first approaches held out for supplies 
+of potable water, blankets, mosquito nets, and the like. This became known 
+as “civic action.” Major initiatives established medical clinics or centered 
+on land reform. Several ordinances, culminating in No. 57 of October 1956, 
+sought to provide “land to the tiller,” going one better over the Việt Minh, 
+who had enjoyed good success during the French war with a program of 
+this type (in contrast to the North’s disastrous mid-1950s attempt at collec-
+tivization). In the early 1960s Saigon claims for land expropriated from rich 
+landowners ranged as high as a half-million hectares. Later study showed the 
+households benefiting from the program to be a tiny fraction of the millions 
+of peasants who lived on the land.8
+	6	 This according to Rufus Phillips, a member of the Lansdale Mission and the major 
+American participant. See Phillips, Why Vietnam Matters: An Eyewitness Account of Lessons 
+Not Learned (Annapolis, MD, 2008), 32–3, 74, 85–6.
+	7	 John Prados, Vietnam: The History of an Unwinnable War, 1945–1975 (Lawrence, KS, 
+2009), 57.
+	8	 Edward Miller, Misalliance: Ngo Dinh Diem, the United States, and the Fate of South Vietnam 
+(Cambridge, MA, 2013), 158–70.
+
+The Conundrum of Pacification
+121
+Another Diệm program, called “land development,” even better illustrated 
+the direction Saigon had taken. Here the proposition was to homestead wil-
+derness, or underutilized land, and build a new class of Saigon loyalists by 
+giving them title. Washington subsidized land development to the tune of 
+$10 million. Most of the land “developed” was in the Central Highlands or 
+the western Mekong Delta. The “plateaux montagnards du sud,” the Central 
+Highlands, were largely tribal lands belonging to a range of primitive soci-
+eties that cohabited South Vietnam with the Vietnamese. In French colonial 
+times the Highlands, and the “Montagnard” peoples who lived there, had 
+been administered separately from lowland Vietnamese. This minimized 
+contact between Montagnards and lowlanders – just as well since Vietnamese 
+frequently viewed Montagnards in racialist terms. The western Mekong lands 
+were those of the sects Diệm had overpowered in 1955. In fact, in both arenas 
+development had a political content. Diemist land “development” effectively 
+annexed Montagnard or sect land to distribute to Vietnamese homesteaders – 
+often members of the diaspora migrating from North Vietnam. Put differ-
+ently, the most significant land redistribution in South Vietnam amounted 
+to an act of imperialism – Vietnamese seizing land from tribes or religious 
+minorities to hand to other, favored, Vietnamese. Ngô Đình Diệm visited the 
+Highlands only once, when he went to Buôn Mê Thuột in February 1957, and 
+it is not surprising that an attempt was made to assassinate him there.9
+President Diệm’s policies illustrated the dichotomy that persisted between 
+United States and South Vietnamese pacification leaders throughout the con-
+flict. Americans were torn between different visions of technique, and they 
+may not have had a clear definition of the process or their goal, but the Saigon 
+hierarchy had different purposes and objectives altogether. This dichotomy 
+played out in pacification efforts throughout the Vietnam War.
+Despite President Diệm’s strenuous efforts, the resistance that opposed 
+him scored gains quite quickly once it took to the field. Members of the 
+Southern resistance openly say that the Diemists whittled them down prac-
+tically to the nub, a fact that only underlines the degree of their success. By 
+April 1959 – a month before Hanoi even approved the creation of the Trường 
+Sơn Strategic Supply Route (known to Americans as the Hồ Chí Minh Trail) – 
+the CIA was already reporting the resistance had achieved nearly complete 
+control of whole villages and districts in Cà Mau province, the part of South 
+	9	 Po Dharma with Mak Phoeum, Du FLM au FULRO. Une lutte des minorités du sud indo-
+chinois, 1955–1975 (Paris, 2006), 28. For the Montagnards more generally, see Gerald C. 
+Hickey, Free in the Forest: Ethnohistory of the Vietnamese Central Highlands, 1954–1976 (New 
+Haven, 1982).
+
+John Prados
+122
+Vietnam furthest away from Hanoi’s control. This was more than eighteen 
+months before the rebels created their NLF. Here they perfected the tech-
+niques of parallel hierarchies and political struggle (đấu tranh) they would 
+use throughout.
+Pacification as conventionally pictured started right then. Diệm 
+approved a program for population relocation into so-called agrovilles, 
+theoretically separating peasants from the Liberation Front cadres seeking 
+their support. The arrangement also permitted Saigon’s security forces to 
+keep an eye on suspect villagers. Proponents claimed the “agricultural vil-
+lages” would enable the Saigon government to furnish goods and services 
+which peasants had never had access to. Peasants disliked being uprooted 
+from their land, and living in the agroville but farming as before they had 
+even further to travel to and from work each day. The promised goods and 
+services proved thin, and late. Worse, Saigon officials sought to finance the 
+agrovilles internally – with peasants contributing labor to build communal 
+facilities and forced to buy their new plots of land and even to dismantle 
+their own village homes to build the new houses. The failure was such 
+that, within six months of its March 1960 inception, the plans were scaled 
+back by 75 percent. Fewer than 50,000 people – a tenth of the original antic-
+ipated number – finally lived in agrovilles, which were effectively mori-
+bund by early 1962.10
+Diệm and his officials were largely responsible for the agroville formula. 
+After that, counterinsurgency experts followed with all kinds of possibilities. 
+Many were impressed with the British campaign in Malaya, where an ethnic 
+Chinese insurgency movement was being progressively defeated, and “popu-
+lation relocation” – the strategy of moving the people off the land, now given 
+a formal name – was seen to have played a major role. Robert Thompson, a 
+veteran of the Malaya campaign, arrived in Saigon in 1961 as chief of a British 
+Advisory Office, and he urged on Diệm a new variant of population reloca-
+tion. In Vietnam, Saigon leaders and Americans would call it the “Strategic 
+Hamlet Program.” North Vietnamese observers coined the name “special 
+warfare.” Thompson with Diệm, and CIA station chief William Colby with 
+Ngô Đình Nhu, Diệm’s brother and éminence grise, proposed new population 
+defense schemes which merged into the Strategic Hamlet Program and got 
+underway early in 1962. By then John Kennedy, the apostle of counterinsur-
+gency, was sitting in the White House, and the United States was supporting 
+the Saigon government’s program.
+10  Miller, Misalliance, 177–84.
+
+The Conundrum of Pacification
+123
+Ngô Đình Nhu chaired the committee of Saigon officials who led the 
+program, and Nhu spoke of social transformation through relocation. Colby 
+had similar ideas, and US aid supported some modest improvements in the 
+standard of living for the peasantry. But forcible relocation, corruption, poor 
+security, and failure to engage the populace to explain Saigon’s intentions 
+collectively revealed the inadequacy of implementation. North Vietnamese 
+adversaries worried about the roughly 12,000 strategic hamlets that were 
+created, but many of them were really no more than bamboo barriers sur-
+rounding peasant shacks, without even radios to summon help. The ham-
+let defenses required insurgents to mass for attacks, affording the South 
+Vietnamese army opportunities for countermoves, but that was a limited 
+gain, especially if Saigon troops, due to poor communications, never learned 
+of the guerrilla threats. The showcase for strategic hamlets was Operation 
+Sunrise, begun in the spring of 1962 to pacify a notorious Liberation Front 
+hotbed north of Saigon, the sector called War Zone D. Six months into the 
+effort just four of fourteen projected strategic hamlets had been set up, and 
+the first one was already falling apart. Countrywide, the program had come 
+to a standstill by the summer of 1963, and after the coup that overthrew Diệm 
+the strategic hamlets were largely abandoned.11
+The coup against President Diệm ushered in a period of intense political 
+infighting in Saigon. Immediate successors, the military strongmen Dương 
+Văn Minh and Nguyễn Khánh, made halfhearted efforts to reenergize pacifi-
+cation programs but were obliged to keep much of their attention constantly 
+on Saigon politics. There were seven military coups or attempted coups 
+between November 1963 and mid-1966. American enthusiasm for pacification 
+stumbled on Saigon’s inward focus. CIA authority Thomas Ahern observes, 
+“the six counterinsurgency programs sponsored or encouraged by CIA in 
+concert with the Diệm government all achieved their greatest effectiveness 
+by late 1962. Thereafter a variety of causes inhibited further progress.”12
+	11	 Ahern, Vietnam Declassified, 76–84. The important exception to this description con-
+cerns the Montagnard villagers discussed earlier. In a second, simultaneous “Village 
+Defense Program,” the CIA, the South Vietnamese, and US Special Forces organized 
+Highland villages for defense, creating armed units to range the hills. Tens of thou-
+sands of tribesmen, sect members, and other minorities were recruited over time. I put 
+this subject to the side here because “pacification,” in any real sense, was not pursued 
+in the Montagnard program and, indeed, mobilizing the tribes and emphasizing their 
+autonomy in the long run could only antagonize the Saigon government, which ended 
+by undercutting the program, even fighting Montagnard nationalists, the opposite of 
+pacification. See John Prados, The Blood Road: The Ho Chi Minh Trail and the Vietnam 
+Road (New York, 1999), 40–60, 103–6, 115–19.
+	12	 Ahern, Vietnam Declassified, 90.
+
+John Prados
+124
+The Other War
+In addition to the overthrow and murder of Ngô Đình Diệm, November 
+1963 brought the assassination of President Kennedy. LBJ, his vice president 
+and successor, came to the table with a very different attitude. Johnson had 
+made his way in American politics with social and economic programs, all the 
+way back to the 1930s, such as rural electrification and the Tennessee Valley 
+Authority. LBJ appreciated – more than had Kennedy – the importance of 
+giving South Vietnamese citizens a stake in the conflict. If Johnson could have 
+bought the hearts and minds of the Vietnamese peasantry, he would have.13 
+This president not only devoted more attention to these elements of the con-
+flict, he also coined the term the “other war” to connote this aspect.14 Indeed 
+the first summit conference between American and South Vietnamese lead-
+ers took place at Honolulu in 1966 specifically to focus on economic and social 
+features of the war. President Johnson’s efforts led to the elaboration of actual 
+management structures on the US side of the pacification mission.
+A structure to actually conduct pacification operations was a Johnson-era 
+innovation that had not even been dreamed of before. Ambassador Henry 
+Cabot Lodge actually took the first steps in the autumn of 1965, when he cre-
+ated a committee within the US mission under Deputy Ambassador William 
+J. Porter.15 In Washington, the Vietnam Coordinating Committee chaired by 
+the State Department began parallel deliberations. Early in January 1966 a 
+conference at Warrenton, Virginia, brought together officials from both sides 
+of the Pacific, crystallizing thoughts of providing more structure – a single 
+manager – for pacification initiatives. This thinking was taking hold when 
+LBJ held his summit at Honolulu in February.16 Shortly thereafter, on the 
+National Security Council staff, the president designated Deputy National 
+Security Advisor Robert J. Komer as his point man for all things related to 
+the “other war.” Johnson also affirmed Lodge’s choice of William Porter to 
+pull together pacification elements within the US mission to South Vietnam. 
+In National Security Action Memorandum (NSAM) 343 of March 28, 1966, 
+LBJ put his instructions in a formal directive. This directive – almost the 
+	13	 Lloyd C. Gardner, Pay Any Price: Lyndon Johnson and the Wars for Vietnam (Chicago, 
+1997).
+	14	 Prados, Vietnam: The History of an Unwinnable War, 156.
+	15	 See Cable, Saigon 1100, Henry Cabot Lodge–Dean Rusk, For the President, September 
+30, 1965, in Foreign Relations of the United States, 1964–1968, vol. III, Vietnam, June–December 
+1965 (Washington, DC, 1996), 422.
+	16	 Thomas W. Scoville, Reorganizing for Pacification Support (Washington, DC, 1999), 
+18–23.
+
+The Conundrum of Pacification
+125
+last NSAM on Vietnam strategy President Johnson would ever approve – 
+­indicates the seriousness with which he saw this matter.
+By December a more formal entity, the Office of Civil Operations, had 
+been created within the mission structure. For the first time this brought 
+the related elements of the CIA, the United States Agency for International 
+Development (USAID), and the spin doctors of the Joint United States Public 
+Affairs Office (JUSPAO) together for a coordinated effort. But pacification 
+work still suffered from a relative lack of resources compared to those for 
+fighting. Komer argued that until military resources could be funneled into 
+pacification few hearts or minds would ever be won. The result, in May 
+1967, would be creation of an organization directly subordinate to General 
+William C. Westmoreland, the US military commander in Vietnam. Called 
+Civil Operations and Revolutionary Development Support (CORDS), the 
+organization provided a command center for all aspects of pacification activ-
+ity. President Johnson appointed Komer to lead CORDS as a deputy to 
+Westmoreland and with protocol rank of ambassador. In 1968 CIA official 
+William E. Colby came to CORDS as Komer’s assistant, succeeding him that 
+summer. Komer and Colby became the sparkplugs of US pacification efforts.
+In the field, meanwhile, various people from the CIA and USAID were busily 
+crafting tactics and techniques, and had been since Diệm’s time. Oftentimes 
+formulas devised in one place seemed quite successful, but failed badly when 
+applied across the board. Other times Saigon officials objected to projects, 
+appropriated money the United States had intended to finance initiatives, or 
+dragged their feet when implementing both US and South Vietnamese pro-
+grams. A partial list of the programs and devices would include armed mili-
+tias (such as Sea Swallows, Civil Guard, Combined Action Platoons, Regional 
+Forces/Popular Forces), strike teams (CounterTerror Teams, People’s Action 
+Teams, Provincial Reconnaissance Units), encouragement of defection proj-
+ects (chiêu hồi, Kit Carson Scouts), territorial control efforts (chiến thắng, hợp 
+tác), forcible relocation into defended villages, information-gathering and 
+village surveillance teams (Census Grievance, Revolutionary Development), 
+neutralization of the guerrilla hierarchy (Phoenix, Phượng hoàng), and more.
+A critical element remained the fuzziness of the strategic picture. Judgments 
+on control over the districts and provinces had long been based on the simple 
+opinions of Saigon officials as reviewed by their American advisors. The softness 
+of this data was plain. After an October 1966 visit to the war zone, Secretary of 
+Defense Robert McNamara asked CIA director Richard M. Helms to craft a more 
+refined method. Brainstorming overnight at CIA headquarters, with officers 
+including some from the Special Assistant for Vietnam Affairs (SAVA), others of 
+
+John Prados
+126
+the Saigon Station, and USAID officials, came up with a report card schema, sub-
+sequently refined by SAVA Philip Carver and approved at the US Embassy two 
+months later. American advisors along with their South Vietnamese counter-
+parts would complete monthly reports grading their areas on ninety-seven dif-
+ferent political, socioeconomic, and security criteria. As a check on Vietnamese 
+overoptimism the Americans in addition filed separate report cards.
+The data was compiled in Saigon and used to rank villages in what became 
+known as the Hamlet Evaluation Survey (HES). Hamlets were graded A through 
+E, with the ones labeled A considered fully loyal to Saigon, B hamlets slightly 
+less well controlled, C ones relatively stable, then D and E were contested in 
+worsening degrees. Liberation Front–controlled hamlets were not graded. While 
+elaborate, HES could not escape from subjectivity – or from the exigencies of 
+war. Beyond dispute the Tet Offensive set back pacification. In its wake CORDS 
+initiated Operation Recovery to regain the lost ground, while a programmatic 
+response called the Accelerated Pacification Campaign soon appeared. As part 
+of the latter, the HES report cards were stripped down, losing grades for land 
+reform, transportation improvement, public health, eradication of illiteracy, and 
+agricultural improvement – and eliminating the requirement to identify corrup-
+tion among South Vietnamese officials. Meanwhile, it turns out, roughly 20 per-
+cent of the 67.2 percent of villages rated as secure (graded A to C) at the time 
+of Tet had not actually been evaluated at all. In 1970 the “secure” percentage 
+was arbitrarily reduced but soon reached a staggering 95 percent. There was an 
+improvement from pacification but it remains difficult to identify precisely – the 
+provinces and districts across South Vietnam that were considered dangerous had 
+long been so. There was a Vietnam data problem that persisted throughout.17
+At the same time the growing violence of the war itself had the effect 
+of destroying many hamlets and villages and driving people off the land. 
+Between 1964 and 1972 the proportion of South Vietnamese living in the cities 
+increased 13 percent. Excepting Saigon, where much migration had occurred 
+before 1960, large fractions of the population had arrived within the past five 
+or ten years. The number of urban centers with 100,000 to 299,999 citizens 
+increased from two to six during the stipulated period, and ones peopled by 
+up to 100,000 people grew from fifteen to twenty-eight. The military cor-
+relation is clear: questioned as to why they had moved, from 1964 to 1966, 
+	17	 Prados, Vietnam: The History of an Unwinnable War, 321–5. On the HES statistics, see 
+the US government data in the charts printed (the same data, respectively in 1968 and 
+1972) in U. S. Grant Sharp and William C. Westmoreland, Report on the War in Vietnam 
+(Washington, DC, 1968), 199; and Walt W. Rostow, The Diffusion of Power (New York, 
+1972), 442.
+
+The Conundrum of Pacification
+127
+55 percent gave war-related reasons and another 16 percent wanted more 
+opportunity; in 1967–8 the war-related figure rose to 63 percent. In 1969–71 
+war-related migrants diminished to 36 percent but those who had left the land 
+for opportunity’s sake remained high at 14 percent.18
+Another complicating element in the picture was the evolution of US strategy 
+and politics. After 1968 it became perfectly evident to all sides that the United 
+States could not afford to send additional ground troops to South Vietnam. 
+Peace negotiations telegraphed the United States need to end the war. American 
+politics made apparent the diminution of US power. Yet it was at that same time 
+that CORDS hit its stride and the Americans began an intensive campaign of 
+pacification. Much like the North Vietnamese army, the Liberation Front had an 
+incentive to wait out Vietnamization and the US withdrawal. It is simply not pos-
+sible to determine how much of what could be observed in the pacification data 
+was attributable to guerrillas’ deliberate strategy versus actual improvement.
+One observable was the recorded level of terrorist incidents. This figure 
+increased steadily after 1968, more than doubling by the time it peaked in 1971. 
+In their councils the American commanders viewed this as the Liberation Front, 
+increasingly desperate, trying to attain by violence what it could no longer do by 
+political struggle (đấu tranh). But there was a half-empty/half-full problem with 
+the water in this glass. The data could equally well be read as retaliation for the 
+counterinsurgent violence of the Phoenix Program. Or the statistic might mean 
+something different from how it was taken. Thừa Thiên province included the 
+city of Huế, certainly making it a priority pacification sector. Statistics kept by 
+the senior US advisor in Thừa Thiên show that levels of all kinds – from terrorist 
+incidents to NLF armed attacks – were virtually identical for the month before 
+1968’s Tet Offensive and the one before 1972’s Easter Offensive.19 A CIA report 
+one month into the Easter Offensive reported damage to pacification programs 
+in places where major fighting was in progress, but also in Bình Định province 
+and in the Mekong Delta. The report observed, “In a short time, the Mekong 
+Delta has changed from the most secure and prosperous part of the country 
+to a source of considerable apprehension.”20 Whatever pacification had accom-
+plished does not seem to have affected the raw military capability of the People’s 
+Liberation Armed Forces (PLAF) or the North Vietnamese at their side.
+	18	 Allan E. Goodman and Lawrence M. Franks, “The Dynamics of Migration to Saigon, 
+1964–1972,” Pacific Affairs 48, 2 (Summer 1975), 199–214.
+	19	 Prados, Vietnam: The History of an Unwinnable War, 326.
+	20	 CIA, Intelligence Memorandum, “Pacification in South Vietnam: A Preliminary 
+Damage Assessment,” DDI No. 0858/72, April 25, 1972 (declassified November 18, 
+2008), 5, CIA Electronic Reading Room.
+
+John Prados
+128
+Uphill Battle
+In the early days of CORDS the Americans engaged in what they called 
+Project TAKEOFF, which was an effort to create a more solid footing 
+for a variety of pacification initiatives. This included elements ranging 
+from building more prisons to house enemy suspects, to greater efforts 
+to induce defections from the Liberation Front, to increasing capacity to 
+handle refugees, to police and military support and mounting a dedicated 
+attack on the NLF infrastructure, to land reform. Those things the United 
+States could do on its own moved ahead, albeit with the kinds of inter-
+nal conflicts within the US mission already mentioned. Those things that 
+depended on the Saigon government did not exactly languish, but they 
+were not pursued with the energy the Americans deemed appropriate. 
+For someone like Robert Komer, whose antics earned him the sobriquet 
+“Blowtorch Bob,” that state of affairs had to be extremely frustrating. But 
+Komer continued to work as a booster for Vietnam pacification, report-
+ing in 1971 that total US/South Vietnamese funding for pacification had 
+Figure 5.1  Vietnamese women and children huddle together as US soldiers enter their 
+village (May 12, 1967).
+Source: Bettmann / Contributor / Bettmann / Getty Images.
+
+The Conundrum of Pacification
+129
+mushroomed from $582 million in 1965 to more than $1.5 billion pro-
+grammed for 1970.21
+The analyst who compiled the portion of The Pentagon Papers which dealt 
+with this aspect of the war trenchantly commented, “the Vietnamese have 
+not yet convinced many people that they attach the same importance to [paci-
+fication] as we do.”22 This was apparent in many ways, every day. The field 
+agent Frank Scotton, whom superiors sent to take the temperature of South 
+Vietnamese officers on the possibility they might fear the expansion of local 
+militias, found the chief of the army’s Political Warfare Department entirely 
+concerned with being a watchdog for army loyalty.23 A National Intelligence 
+Estimate in January 1969 concluded that “Saigon now seems finally to have 
+accepted the need for a vigorous pacification effort. However progress may 
+still be hampered by the political situation.”24
+Or take the case of Trần Ngọc Châu, among South Vietnam’s most success-
+ful practitioners of the art of pacification, whose efforts had largely succeeded 
+in pacifying Kiến Hòa province in the Mekong Delta. The techniques Colonel 
+Châu pioneered included the “Census Grievance” and “Revolutionary 
+Development” initiatives, which the Americans picked up but which were 
+viewed with suspicion in Saigon – no Saigon leader after Diệm ever showed 
+up in Châu’s province. The CIA funded a school at Vũng Tàu to teach these 
+methods. Châu was taken away from his province to head it. General Nguyễn 
+Đức Thắng, head of a new Ministry for Rural Construction, issued the order, 
+which Châu later decided had really emanated from his American counter-
+parts.25 Although he was among the Vietnamese most dedicated to the effort, 
+Châu soon found the CIA and others had completely different recipes for what 
+he should be doing – and they held the purse strings.26 He was soon obliged 
+to try and put a Vietnamese face on a student strike by South Vietnamese 
+	21	 Robert W. Komer, “Impact of Pacification on Insurgency in South Vietnam,” Journal of 
+International Affairs 25, 1 (Spring 1971), 297.
+	22	 The Pentagon Papers: The Defense Department History of United States Decisionmaking on 
+Vietnam (Senator Gravel ed.), 5 vols. (Boston, 1971–2), vol. II, 515.
+	23	 Frank Scotton, Uphill Battle: Reflections on Viet Nam Counterinsurgency (Lubbock, TX, 
+2014), 131.
+	24	 CIA, Special National Intelligence Estimate, “The Pacification Effort in Vietnam,” 
+SNIE 14-69, January 16, 1969 (declassified November 11, 1978), 1 (italics added). A copy of 
+this appears in the disc accompanying the compendium Estimative Products on Vietnam, 
+1948–1975 (CIA, Center for the Study of Intelligence, National Intelligence Council, 2005-
+03, April 2005).
+	25	 Trần Ngọc Châu with Ken Fermoyle, Vietnam Labyrinth: Allies, Enemies, and Why the US 
+Lost the War (Lubbock, TX, 2012), 224–5.
+	26	 Ibid., 231–47.
+
+John Prados
+130
+trainees at the Vũng Tàu school, even while General Thắng was caught in 
+between Saigon pretenders Nguyễn Văn Thiệu and Nguyễn Cao Kỳ in their 
+power struggle. Kỳ wanted to make Thắng’s ministry the focal point for pro-
+grams, while Thiệu wanted to locate pacification within the National Police.
+A 1967 reshuffle sent Thắng to the Joint General Staff, where he complained 
+that South Vietnamese corps commanders were sabotaging pacification.27 In 
+December 1967 a set of province rankings prepared for Ambassador Komer 
+put Châu’s province, Kiến Hòa, so successfully secured in Châu’s time, as the 
+ninth worst among the South’s forty-four provinces. After the Tet Offensive, 
+a CORDS survey ranked it among the most adversely impacted provinces.
+The CIA’s historian of pacification identifies a “gradual drift toward conven-
+tional operations.” Commenting on versions of the hunter–killer teams that 
+were attacking local NLF, Trần Ngọc Châu found them to be merely improved 
+versions of similar programs Saigon, or the French before that, had run. Châu 
+estimated that, as a rule of thumb, every cadre killing “created at least five new 
+hard-core National Liberation Front supporters, often more.”28 That was nev-
+ertheless the tactic CORDS proposed, and Nguyễn Văn Thiệu’s government 
+approved, for neutralizing the NLF apparat in the Phoenix Program.
+The Phoenix Program (which the South Vietnamese called Phượng hoàng) 
+sought to weaken the Liberation Front’s administrative structure by arresting 
+or killing NLF operatives in the villages and the higher-up district or prov-
+ince committees. In July 1968 President Thiệu issued a decree establishing 
+the program and locating it within the Saigon bureaucracy. The CIA and 
+Military Assistance Command, Vietnam (MACV) assisted with intelligence, 
+training and weapons, small-unit leadership, and advice. Interrogation cen-
+ters at district and province levels, as well as in Saigon, would develop new 
+information and feed the dossiers that supposedly identified enemy cadres. 
+The interrogations generated attendant charges of torture, arbitrary impris-
+onment, and other abuses. United States authorities remained uncomfortable 
+with these charges and, when “Vietnamization” became US policy, progres-
+sively scaled back their participation. The CIA ended its official support in 
+1970 although it continued to serve as a conduit for US funds to the South 
+Vietnamese engaged in these activities. A few agency officers continued to 
+liaise with Saigon’s Phượng hoàng apparat. MACV ended the service of its 
+Phoenix advisors in 1971, although in August 1972 more than one hundred 
+military personnel were still helping the Vietnamese in some capacity.
+27	 Ahern, Vietnam Declassified, 281–2.
+28	 Ibid., 217; Châu, Vietnam Labyrinth, 241.
+
+The Conundrum of Pacification
+131
+President Thiệu not only approved Phoenix, he also designated goals for 
+the number of NLF cadres to be neutralized, and he located a central bureau 
+for the program within his own office. That changed in May 1970 when 
+Thiệu relocated the Phoenix office within the National Police. The program 
+had to surmount numerous obstacles, including early goals more ambitious 
+than could be handled, a lack of trained lawyers and of prosecutors for those 
+arrested and put on trial, arbitrary criteria for judgment, corruption, limited 
+space to house prisoners, and so on. Building more prisons had been a goal 
+of Project TAKEOFF, the CORDS precursor to Phoenix. Another precursor 
+had been the Intelligence Coordination and Exploitation (ICEX) program, 
+which sought to overcome the biggest obstacle, a lack of detailed knowledge 
+of the NLF apparatus. Creating the Provincial Reconnaissance Units (PRUs) 
+was another headache, but ultimately a force of more than 4,400 soldiers was 
+mobilized in units nominally under South Vietnamese command but in prac-
+tice often led by Americans.
+The quality of intelligence remained the most important determinant in the 
+success of Phoenix against the NLF infrastructure. The intelligence remained 
+uneven throughout. Orrin DeForest, a former detective who had joined the 
+CIA and previously worked in Japan, took charge of the spy info for the III 
+Corps region, the portion of South Vietnam that covered the areas outside 
+Saigon and in the Mekong Delta. He believed in classic techniques rather than 
+torture, tricking enemies into revealing key information.29 Statistics indeed 
+show that III Corps proved the most successful in neutralizing actual NLF 
+higher-ups rather than just bodies – studies using data from the end of 1970 
+projected that III Corps, though “neutralizing” about the same proportion 
+of the NLF as other regions, had gotten twice as many cadres ranking at the 
+district level or higher. Over South Vietnam as a whole there were 19,534 
+neutralizations in 1969 but fewer than 150 were of high-level cadres, and just 
+one was an NLF official Phoenix had specifically targeted. Of 22,341 neutral-
+izations in 1970, high-level cadres more than doubled (to 357) but those elim-
+inated specifically from the NLF hierarchy were reduced (to an estimated 
+7,800). Considering that these identifications were based upon soft data, that 
+the NLF infrastructure was believed to number between 65,000 and 80,000 
+people, and that the United States had little understanding of the NLF’s abil-
+ity to replace its losses, the Phoenix results are indeterminate at best.
+	29	 Orrin DeForest and David Chanoff, Slow Burn: A Legendary CIA Man’s Intelligence War in 
+Vietnam (New York, 1991). Figures are from John Prados, William Colby and the CIA: The 
+Secret Wars of a Controversial Spymaster (Lawrence, KS, 2009), 225–8.
+
+John Prados
+132
+In March 1969 the PRUs were designated an element of Saigon’s National 
+Police. By 1971 the CIA station was reporting that the police executive was 
+passive, leaving all decisions back with Saigon’s prime minister. Meanwhile 
+Phoenix became steadily more controversial in the United States, with charges 
+that it was an assassination program.30 Hearings in the US Congress chal-
+lenged William Colby, and the sinister reputation made Phoenix increasingly 
+problematic.31 At length, as part of Vietnamization, US military personnel 
+were withdrawn from CORDS, Phoenix, and the PRUs. The CIA removed 
+the last of its people in summer 1972. South Vietnam continued Phoenix as 
+the Phượng hoàng program but, judging from the large numbers of Liberation 
+Front agents and supporters who bubbled up from the populace during the 
+last days of Saigon, Saigon’s special effort proved little more successful than 
+the American one.
+Counterinsurgency in the Vietnam War ended more or less where it had 
+begun, with the bulk of efforts devoted to security measures. The kinds of 
+social and economic programs that might have gained the loyalty of South 
+Vietnamese peasants were given lip service, and discontinued whenever 
+resources were thin. Corruption diluted whatever was left. Differences 
+between the United States and the Saigon government on the importance 
+of these programs also weakened them. The opportunity to drain the sea in 
+which the guerrilla fish swam was lost. If Saigon was going to emerge victo-
+rious from the war that had begun with Ngô Đình Diệm’s repression, that 
+outcome would not be the result of pacification.
+	30	 Ahern, Vietnam Declassified, 345; Hunt, Pacification, 234–51.
+	31	 United States Congress (91/2), Senate, Foreign Relations Committee, Hearings: Vietnam 
+Policy and Prospects; also (92/1), Senate, Judiciary Committee, Hearings: War-Related 
+Civilian Problems in Indochina; and House, Committee on Government Operations, 
+Hearings: US Assistance Programs in Vietnam (all Washington, DC, 1970–1).

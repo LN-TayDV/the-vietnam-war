@@ -1,0 +1,80 @@
+{
+  "project": "Southern Vietnamese Economic, Political, Geographical & Historical Language Library (VNCH 1954-1975)",
+  "version": "2.0",
+  "scope": "kinh_te, chinh_tri, dia_ly, lich_su (+ ho_tro for orthography/grammar/vocabulary foundation)",
+  "updated": "2026-11-18",
+  "phase_status": {
+    "G0_inventory": "done",
+    "G1_dictionaries_orthography": "in_progress",
+    "G2_domain_vocabulary_econ_politics": "done",
+    "G3_domain_vocabulary_geo_history": "done",
+    "G4_ocr_normalize": "partial",
+    "G5_lexicon_db": "in_progress",
+    "G6_grammar_style": "partial",
+    "G7_book_standards": "pending",
+    "G8_write_test": "pending"
+  },
+  "sources": {
+    "verified_total": 23,
+    "downloaded_fulltext": 5,
+    "online_fulltext": 2,
+    "restricted": 3,
+    "print_only": 4
+  },
+  "corpus": {
+    "total_words": 1785128,
+    "files": ["LeVanDuc_QuyenThuong_AL.txt", "LeVanDuc_QuyenHa_MX.txt", "BachKhoa_405.txt", "BachKhoa_405_OCR/page_001-084.txt", "HienPhap_VNCH_1967_SRC-023.txt"],
+    "ocr_quality": "LeVanDuc usable (minor noise); BachKhoa 405 re-OCR clean (Tesseract 5.4.0 + vie); BachKhoa old djvu.txt heavily noisy",
+    "page_markers": "BachKhoa 405 OCR has page-level mapping (page_map.json)"
+  },
+  "lexicon": {
+    "master_entries": 315,
+    "master_unique": 314,
+    "master_duplicates": ["nayı (x2, POSSIBLE_DUPLICATE, SRC-021)"],
+    "master_domain_core": 271,
+    "terminology_entries": 25,
+    "orthography_rules": 20,
+    "total_records_3db": 360,
+    "combined_domain_core_3db": 303,
+    "verified_breakdown_master": {"VERIFIED": 290, "CROSS_VERIFIED": 2, "PARTIALLY_VERIFIED": 1, "UNVERIFIED": 3, "OCR_PENDING": 19},
+    "domain_distribution_master": {"kinh_te": 84, "chinh_tri": 94, "lich_su": 49, "dia_ly": 44, "ho_tro": 44},
+    "source_distribution_master": {"SRC-001": 176, "SRC-021": 50, "SRC-002": 38, "SRC-023": 32, "SRC-009": 19},
+    "new_entries_g4_bach_khoa": 19,
+    "new_entries_g5_constitution": 32,
+    "new_entries_total_g4_g5": 51,
+    "metrics_definition": {
+      "master_entries": "So dong du lieu trong MASTER_LEXICON.csv (tru header)",
+      "master_unique": "So tu_chuan duy nhat (1 ban trung nay)",
+      "master_domain_core": "So dong ML co muc_loi_vuc != ho_tro",
+      "total_records_3db": "Tong ML + TERMINOLOGY + ORTHOGRAPHY",
+      "combined_domain_core_3db": "Tong domain-core ca 3 CSDL"
+    }
+  },
+  "g4_summary": {
+    "bach_khoa_405": {"status": "DONE", "pages": 84, "ocr_engine": "Tesseract 5.4.0 + vie", "words_extracted": 39026, "entries_mined": 19},
+    "le_ngoc_tru_1959": {"status": "BLOCKED", "reason": "Google Drive login required"},
+    "le_ngoc_tru_1972": {"status": "BLOCKED", "reason": "Google Drive/Scribd login required"}
+  },
+  "g5_summary": {
+    "vnch_constitution_1967": {"source_id": "SRC-023", "type": "PRIMARY_VNCH", "entries_mined": 32, "status": "DONE"},
+    "historical_usage_tracking": "8 terms tracked across 3 sources (Lê Văn Đức, Bách Khoa, Hiến pháp)"
+  },
+  "verification_semantics": {
+    "note": "VERIFIED chi xac minh nguon, KHONG xac minh muc do pho bien. OCR_PENDING = can doi chieu anh goc.",
+    "new_status_values": ["OCR_PENDING", "OCR_REVIEW_REQUIRED"]
+  },
+  "key_gaps": [
+    "Le Ngoc Tru 1959/1972 full text (BLOCKED — Google Drive)",
+    "Bach Khoa full 426 issues (only 1 OCR'd)",
+    "VNCH specialized economic documents (reports, budgets, banking)",
+    "S Su Dia journal (history corpus)",
+    "Page numbers for Le Van Duc entries (use PDF)",
+    "Historical usage layer 4-8 for most terms (NOT_YET_RESEARCHED)"
+  ],
+  "next_actions": [
+    "Phase 5: Prepare STYLE_GUIDE Phan B",
+    "Phase 6: Pilot V1-Ch1 translation for approval",
+    "G5 continued: mine more VNCH specialized documents (economic reports, legal texts)",
+    "G4 continued: OCR more Bach Khoa issues if available"
+  ]
+}

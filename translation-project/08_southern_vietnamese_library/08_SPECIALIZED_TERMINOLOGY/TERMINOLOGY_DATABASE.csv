@@ -1,0 +1,26 @@
+thuat_ngu_en	nghia_viet	dang_nam_bo	dang_bac_bo	cach_chon	nguon_tham_chieu	linh_vuc	muc_xac_minh	ghi_chu	muc_loi_vuc	muc_phu	thoi_ky_lich_su	phan_loai_khu_vuc	van_phong
+National Liberation Front	Mặt Trận Giải Phóng Miền Nam	Mặt Trận Giải Phóng Miền Nam	Mặt trận Dân tộc Giải phóng miền Nam Việt Nam	Mặt Trận Giải Phóng Miền Nam (MTGPMN)	VNCH; Bách Khoa	chinh_tri_quan_su	VERIFIED	Tên chính thức Nam	chinh_tri	to_chuc_chinh_tri	viet_nam_cong_hoa	nam_bo	chinh_thuc
+Army of the Republic of Vietnam	Quân Lực Việt Nam Cộng Hòa	Quân Lực Việt Nam Cộng Hòa	Quân đội Việt Nam Cộng hòa	Quân Lực Việt Nam Cộng Hòa (QLVNCH)	VNCH	quan_su	VERIFIED		lich_su	lich_su_quan_su	viet_nam_cong_hoa	nam_bo	chinh_thuc
+Republic of Vietnam	Việt Nam Cộng Hòa	Việt Nam Cộng Hòa	Việt Nam Cộng hòa	Việt Nam Cộng Hòa	VNCH	chinh_tri	VERIFIED		chinh_tri	nha_nuoc_chu_quyen	viet_nam_cong_hoa	nam_bo	chinh_thuc
+Democratic Republic of Vietnam	Việt Nam Dân Chủ Cộng Hòa	Việt Nam Dân Chủ Cộng Hòa	Việt Nam Dân chủ Cộng hòa	Việt Nam Dân Chủ Cộng Hòa	trung tính	chinh_tri	VERIFIED		chinh_tri	nha_nuoc_chu_quyen	viet_nam_dan_chu_cong_hoa	bac_bo	chinh_thuc
+Tet Offensive	Tổng Công Kích Tết Mậu Thân	Tổng Công Kích Tết Mậu Thân	Tiến công Tết Mậu Thân 1968	Tổng Công Kích Tết Mậu Thân	VNCH	quan_su_lich_su	VERIFIED		lich_su	lich_su_quan_su	chien_tranh_viet_nam	chung	chinh_thuc
+Paris Peace Accords	Hiệp Định Ba Lê	Hiệp Định Ba Lê	Hiệp định Paris	Hiệp Định Ba Lê	VNCH	ngoai_giao	VERIFIED		lich_su	lich_su_ngoai_giao	chien_tranh_viet_nam	chung	chinh_thuc
+Geneva Accords	Hiệp Định Genève	Hiệp Định Genève	Hiệp định Genève	Hiệp Định Genève	trung tính	ngoai_giao	VERIFIED		lich_su	lich_su_ngoai_giao	chien_tranh_viet_nam	chung	chinh_thuc
+Central Highlands	Cao Nguyên Trung Phần	Cao nguyên Trung phần	Tây Nguyên	Cao Nguyên Trung Phần	VNCH	dia_danh	VERIFIED	Không dùng 'Tây Nguyên' (Bắc)	dia_ly	dia_ly_hanh_chinh	viet_nam_cong_hoa	nam_bo	chinh_thuc
+DMZ	vùng phi quân sự	vùng phi quân sự	khu phi quân sự	vùng phi quân sự	VNCH	quan_su	VERIFIED		lich_su	lich_su_quan_su	chien_tranh_viet_nam	mien_trung	chinh_thuc
+Ho Chi Minh Trail	đường mòn Hồ Chí Minh	đường mòn Hồ Chí Minh	đường Hồ Chí Minh	đường mòn Hồ Chí Minh	trung tính	quan_su_dia_danh	VERIFIED		lich_su	lich_su_quan_su	chien_tranh_viet_nam	mien_trung	trung_tinh
+17th parallel	vĩ tuyến 17	vĩ tuyến 17	vĩ tuyến 17	vĩ tuyến 17	trung tính	dia_danh_lich_su	VERIFIED		dia_ly	dia_ly_chinh_tri	chien_tranh_viet_nam	mien_trung	trung_tinh
+land reform	cải cách điền địa	cải cách điền địa	cải cách ruộng đất	cải cách điền địa	VNCH	chinh_tri_kinh_te	VERIFIED		kinh_te	nong_nghiep_chinh_sach	viet_nam_cong_hoa	nam_bo	chinh_thuc
+strategic hamlet	ấp chiến lược	ấp chiến lược	ấp chiến lược	ấp chiến lược	VNCH	quan_su_hanh_chinh	VERIFIED		lich_su	lich_su_quan_su	viet_nam_cong_hoa	nam_bo	chinh_thuc
+refugee	người tản cư	người tản cư	đồng bào di cư	người tản cư	VNCH	xã_hoi	VERIFIED	1954: 'đồng bào di cư' (Bắc di cư vào Nam)	lich_su	lich_su_xa_hoi	chien_tranh_viet_nam	chung	trung_tinh
+government	chính phủ	chánh phủ	chính phủ	chánh phủ	VNCH	chinh_tri	VERIFIED	Chính tả Nam: 'chánh phủ'	chinh_tri	nha_nuoc_chinh_quyen	viet_nam_cong_hoa	nam_bo	chinh_thuc
+politics	chính trị	chánh trị	chính trị	chánh trị	VNCH	chinh_tri	VERIFIED		chinh_tri	ly_luan_chinh_tri	viet_nam_cong_hoa	nam_bo	chinh_thuc
+finance	tài chính	tài chánh	tài chính	tài chánh	VNCH	kinh_te	VERIFIED		kinh_te	tai_chinh_ngan_hang	viet_nam_cong_hoa	nam_bo	chinh_thuc
+airplane	máy bay	phi cơ	máy bay	phi cơ	VNCH	quan_su_hang_khong	VERIFIED		lich_su	lich_su_quan_su_khong_quan	viet_nam_cong_hoa	nam_bo	trung_tinh
+airport	sân bay	phi trường	sân bay	phi trường	VNCH	quan_su_hang_khong	VERIFIED		lich_su	lich_su_quan_su_khong_quan	viet_nam_cong_hoa	nam_bo	trung_tinh
+missile	tên lửa	hỏa tiễn / phi đạn	tên lửa	hỏa tiễn / phi đạn	VNCH	quan_su_vu_khi	VERIFIED		lich_su	lich_su_quan_su_vu_khi	viet_nam_cong_hoa	nam_bo	trung_tinh
+Cao Nguyên Trung Phần	Cao Nguyên Trung Phần	Cao nguyên Trung phần	Tây Nguyên	Cao Nguyên Trung Phần	VNCH	dia_danh	VERIFIED		dia_ly	dia_ly_hanh_chinh	viet_nam_cong_hoa	nam_bo	chinh_thuc
+An Nam / Annamite	An Nam / người An Nam	An Nam	An Nam / Việt Nam	An Nam (thời thuộc địa)	sử Pháp	lich_su_dia_danh	VERIFIED		dia_ly	dia_danh_lich_su	thoi_thuoc_dia	mien_trung	trung_tinh
+Cochinchina	Đông Dương / Nam Kỳ	Nam Kỳ	Nam Kỳ / Nam Bộ	Nam Kỳ (thời thuộc địa)	sử Pháp	lich_su_dia_danh	VERIFIED		dia_ly	dia_danh_lich_su	thoi_thuoc_dia	nam_bo	trung_tinh
+Tonkin	Bắc Kỳ	Bắc Kỳ	Bắc Kỳ	Bắc Kỳ	sử Pháp	lich_su_dia_danh	VERIFIED		dia_ly	dia_danh_lich_su	thoi_thuoc_dia	bac_bo	trung_tinh
+Annam	Trung Kỳ	Trung Kỳ	Trung Kỳ	Trung Kỳ	sử Pháp	lich_su_dia_danh	VERIFIED		dia_ly	dia_danh_lich_su	thoi_thuoc_dia	mien_trung	trung_tinh

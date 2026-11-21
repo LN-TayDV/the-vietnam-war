@@ -1,0 +1,13 @@
+IN BODY:
+nay: 16
+na: 1
+cho khong: 0
+ma khong: 1
+  Context na: ... Kỳ. Cạnh tranh giữa hai nhóm này gay gắt. VNQDĐ nhắm đặc biệt ...
+  Context ma khong: ...n bố trung thành với vua Việt mà không còn cai trị thuộc địa nữa.
+
+-...
+
+IN FOOTNOTES:
+nay: 0
+na: 0

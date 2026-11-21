@@ -1,0 +1,812 @@
+433
+Between 1961 and 1963, US President John F. Kennedy strengthened and 
+transformed the American commitment to the Republic of Vietnam (RVN, 
+better known as “South Vietnam”). Building upon the program he inherited 
+from President Dwight D. Eisenhower, Kennedy provided Saigon with eco-
+nomic aid, military assistance, and political support – and increasing numbers 
+of US troops – in quantities that underscored the perceived importance of 
+South Vietnam to US national security. He did so to help the RVN stanch a 
+communist insurgency south of the 17th parallel that was receiving increasing 
+amounts of support from fellow communists living north of that line. At no 
+time did he fundamentally revisit that commitment, nor did he evaluate it in 
+the context of a more searching review of American grand strategy. In short, 
+Kennedy sustained and enhanced the US commitment to South Vietnam 
+largely because Washington had already made it.
+The durability of that commitment, as well as its meaning for Kennedy, 
+remains contested. Much as JFK has eluded the grasp of biographers in search 
+of his core convictions, scholars, journalists, and pundits continue to debate 
+his approach to Vietnam, endowing his public and private pronouncements 
+with extraordinary import. They could hardly do otherwise, given the course 
+of the war following his death. Early, favorable treatments qualified his role in 
+the conflict, drawing a distinction between his actions and the more expansive 
+measures adopted by his successor, President Lyndon B. Johnson. Subsequent 
+work, more critical of Kennedy writ large, faulted JFK for narrowing Johnson’s 
+options.1 Still later accounts emphasized Kennedy’s reservations about the war 
+20
+Kennedy and Vietnam
+Marc J. Selverstone
+	1	 For representative favorable accounts, see Arthur M. Schlesinger, Jr., A Thousand Days: 
+John F. Kennedy in the White House (Boston, 1965) and Theodore C. Sorensen, Kennedy 
+(New York, 1965). For more critical works, see David Halberstam, The Best and the 
+Brightest (New York, 1972) and Lawrence J. Bassett and Stephen E. Pelz, “The Failed 
+Search for Victory: Vietnam and the Politics of War,” in Thomas G. Paterson, Kennedy’s 
+Quest for Victory: American Foreign Policy, 1961–1963 (Oxford, 1989), 223–52.
+
+Marc J. Selverstone
+434
+and even the likelihood of him extricating the United States from the looming 
+tragedy – a virtual history that is, ultimately, unknowable.2
+More evident is Kennedy’s inability to escape the tensions at work in his 
+approach to Vietnam. By the end of his administration, he had become frus-
+trated with and discouraged by the actions of his ally in the conflict, South 
+Vietnamese president Ngô Đình Diệm. Yet even as he sanctioned the withdrawal 
+of American soldiers from Vietnam and expressed his concerns about the war, 
+Kennedy was still invested in winning it. Those conflicting imperatives shaped 
+his program in ways he was unable to reconcile. In the end, Kennedy’s Vietnam 
+policy was defined by his failure to align US objectives with Washington’s means 
+for achieving them, and by the resulting drift toward deeper engagement.
+*
+Kennedy entered the presidency without a well-formed national security 
+strategy. He was highly conscious of flashpoints likely to pose problems in 
+the years ahead, but he never calibrated ends and means in ways that prior-
+itized and resourced the matters that came before him. Nor did he establish 
+a systematic process to assess those challenges, having replaced the bureau-
+cratized Eisenhower machinery with an ad hoc, task-force approach to policy 
+formation. Berlin, Laos, Cuba, the balance of payments, nuclear weapons – all 
+received concerted attention, but often as discrete challenges disaggregated 
+from a conceptual whole. As a result, his engagement with these concerns, 
+including his eventual absorption with Vietnam, would remain episodic and, 
+to a large extent, improvised.3
+Kennedy’s approach to national security flowed from that reactive stance. 
+In fact, it amounted to a posture more than a strategy. “Flexible response,” 
+a concept that aimed to shift the country’s emphasis away from nuclear 
+weapons and massive retaliation, sought to grant Kennedy greater latitude to 
+address a range of military contingencies. Offering a slate of options of gradu-
+ated intensity, flexible response allowed him to meet all levels of provocation, 
+	2	 John M. Newman, JFK and Vietnam: Deception, Intrigue, and the Struggle for Power (New 
+York, 1992); Fredrik Logevall, “Vietnam and the Question of What Might Have Been,” 
+in Mark J. White (ed.), Kennedy: The New Frontier Revisited (New York, 1998), 19–62; 
+David Kaiser, American Tragedy: Kennedy, Johnson, and the Origins of the Vietnam War 
+(Cambridge, MA, 2000); Robert Dallek, An Unfinished Life: John F. Kennedy, 1917–1963 
+(Boston, 2003); Howard Jones, Death of a Generation: How the Assassinations of Diem and 
+JFK Prolonged the Vietnam War (Oxford, 2003); James G. Blight, Janet M. Lang, and David 
+A. Welch, Vietnam if Kennedy Had Lived: Virtual JFK (Lanham, MD, 2009).
+	3	 Marc J. Selverstone, “John F. Kennedy and the Lessons of First-Year Stumbles,” in 
+Michael Nelson, Jeffrey L. Chidester, and Stefanie Georgakis Abbott (eds.), Crucible: The 
+President’s First Year (Charlottesville, VA, 2018), 101–6.
+
+Kennedy and Vietnam
+435
+from the brushfire wars of the developing world to the conventional and 
+nuclear exchanges of state-based conflict. While Kennedy expanded the 
+United States’ strategic arsenal by procuring more nuclear warheads and 
+augmenting their delivery systems, he greatly enhanced the nation’s conven-
+tional and unconventional warfare capabilities – necessities, as he put it, for 
+defending freedom in its “hour of maximum danger.”4
+Kennedy’s alarming rhetoric, which he delivered repeatedly during his 
+first year in office, reflected a consensus, shared broadly in the United States, 
+about the malign intentions of international communism. While those fears 
+had grown following World War II, and especially as the Cold War envel-
+oped both Asia and Europe, they encompassed new worries that commu-
+nism was on the march and setting its sights on the postcolonial world. Of 
+particular concern was the speech on “wars of national liberation” that Soviet 
+premier Nikita S. Khrushchev delivered two weeks before Kennedy’s inaugu-
+ral in January 1961. Although Khrushchev’s primary audience was a socialist 
+camp embroiled in an ever-widening Sino-Soviet split, his focus on develop-
+ing nations alarmed JFK, who made it required reading for his national secu-
+rity team. The prospect of a newly energized Cold War on the periphery thus 
+created threats and opportunities for an administration that was younger and 
+more activist than its predecessor.
+Those threats, whether perceived or real, challenged the credibility of 
+Kennedy officials as responsible stewards of the national interest. Though 
+populated in key posts by nominal Republicans, the Kennedy administration 
+and the Democrats who ran it recognized the burden of governing as the party 
+that “lost” both China and the US atomic monopoly during the late 1940s. 
+Comprising a self-professed New Generation of Americans, those officials sig-
+naled a willingness to experiment in the international field, particularly in areas 
+where they found the previous administration wanting. Kennedy was deter-
+mined to engage the decade’s brushfire wars to prevent the further erosion, 
+as he saw it, of the West’s position in the Cold War. Failure to do so would 
+result in blowback for both party and nation, and especially for Kennedy, who 
+sought to convey an image of strength in foreign affairs. The dictates of credi-
+bility spoke to the dangers of appearing weak and of accommodating commu-
+nist gains in a seemingly zero-sum battle between East and West.5
+	4	 “Inaugural Address,” 20 January 1961, Public Papers of the Presidents of the United States: 
+John F. Kennedy, hereafter PPP:JFK (Washington, DC, 1962), 1961:1–3, Doc. 1.
+	5	 John Lewis Gaddis, Strategies of Containment: A Critical Reappraisal of US National Security 
+Policy, rev. ed. (Oxford, 2005 [1982]), 197–234; Robert J. McMahon, “Credibility and World 
+
+Marc J. Selverstone
+436
+*
+While international developments shaped the contours of US policy toward 
+Vietnam, a series of political, institutional, and intellectual currents shaped 
+the nature of Kennedy’s commitment. Several of them transcended the 
+Kennedy administration, taking root prior to the 1960s and persisting well 
+beyond it. Their influence during the Kennedy years was nevertheless acute 
+and greatly affected the nature of the US project in Vietnam.
+For Kennedy, Vietnam’s problems were part and parcel of the broader 
+challenges facing countries in the Global South. JFK had been more finely 
+attuned to these issues than most elected officials in Washington. Visiting 
+Southeast Asia during a 1951 trip designed to enhance his stature for a Senate 
+run the following year – he had been elected to the House in 1946 – Kennedy 
+witnessed the strength of nationalism coursing through Indochina during the 
+Franco-Việt Minh War. That experience informed his critique of French pol-
+icy and Washington’s support of it, as well as positions he later took as a US 
+senator. His subsequent criticism of the French in Algeria reflected an aware-
+ness of the changing tides of history, and his interest in Africa and Asia high-
+lighted the need to engage the developing world more proactively than was 
+currently the case. His appraisal of those dynamics remained couched within 
+a Cold War framework, however – and a partisan one at that – especially as 
+he burnished a national reputation and made a run at the presidency in 1960. 
+Those impulses collided in Kennedy’s approach to Vietnam. Championing 
+Ngô Đình Diệm and the fledgling state he was building, Kennedy regarded 
+South Vietnam as “the keystone to the arch, the finger in the dike” in the 
+“Free World”’s struggle against communism in Southeast Asia.6 Success in 
+Vietnam was thus crucial and depended largely on American aid if the West 
+were to win the “hearts and minds” of the postcolonial world.
+That battle took shape alongside prevailing assumptions about societies 
+emerging from colonial rule. Theories about modernization, which traced 
+those transitions from their preindustrial roots to economic maturity, gained 
+traction in the postwar years in conjunction with a reverence for social sci-
+ence and its insights about national development. Incubating at universities 
+and think tanks such as the Massachusetts Institute of Technology (MIT) 
+	6	 Fredrik Logevall, Embers of War: The Fall of an Empire and the Making of America’s Vietnam 
+(New York, 2012, xi–xv, 286–7, 665–6; Fredrik Logevall, JFK: Coming of Age in the American 
+Century (New York, 2020), 574–8.
+Power: Exploring the Psychological Dimension in Postwar American Diplomacy,” 
+Diplomatic History 15 (4) (Fall 1991), 455–71.
+
+Kennedy and Vietnam
+437
+and RAND, modernization offered explanations for the social, economic, 
+and political conditions at work in developing societies. But it also sought 
+to channel those communities toward progressively greater productivity, 
+democracy, and stability. Kennedy initiatives such as the Peace Corps and the 
+Alliance for Progress, as well as the Agency for International Development 
+(AID) and the Foreign Assistance Act that created it, reflected the modern-
+izing impulse at work in the postwar era, as well as the more deeply seated 
+missionary impulse animating it. Those initiatives and institutions spoke 
+to the dangers of the modernizing process and the fear that communists 
+would exploit its frictions and instabilities. In South Vietnam, those dynam-
+ics informed a raft of civic action and rural affairs projects following Diệm’s 
+ascendance in the mid-1950s. By the early 1960s, they would lead US officials 
+to embrace the thrust of the Strategic Hamlet Program, which Saigon devised 
+to build self-sufficient enclaves loyal to the RVN and hostile to the commu-
+nists. Each of these efforts signaled a belief in the malleability of societies and 
+a commitment on the part of US officials to bend them to their will.7
+That reflex to impose allegedly universal concepts upon the developing 
+world dovetailed with an activist posture that Kennedy adopted and radiated. 
+He had vowed to “get the country moving again” during the 1960 presiden-
+tial campaign and his frustration with the perceived torpor and drift of the 
+Eisenhower years was central to his electoral appeal. Kennedy and his band 
+of “action intellectuals” pledged to usher the United States into the New 
+Frontier of the 1960s, challenging Americans to accept risk and sacrifice in 
+their promotion of liberty and prosperity. His was an administration that 
+vowed to do hard things, whether expanding the welfare state and going to 
+the Moon or bearing the burden of its international demands and obligations. 
+Although Kennedy described himself as a pragmatic realist – an “idealist with-
+out illusions” – his policies projected an ethos of romantic daring, of exuber-
+ant energy, and set the country on course that promised greater engagement 
+in national life and greater activism in world affairs.8
+That sense of boldness expressed itself as a quasi-cult of toughness – an 
+assertive posture that informed Kennedy-era policymaking. Cultivating 
+a hypermasculine ethic, the administration sought to enact hard-headed 
+	7	 For overviews, see Michael Latham, Modernization as Ideology: American Social Science and 
+“Nation Building” in the Kennedy Era (Chapel Hill, NC, 2000); Nils Gilman, Mandarins of 
+the Future: Modernization Theory in Early Cold War America (Baltimore, 2004); for tensions 
+between the United States and South Vietnamese approaches, see Daniel Immerwahr, 
+Thinking Small: The United States and the Lure of Community Development (Cambridge, MA, 
+2015), 127–8.
+	8	 Schlesinger, Thousand Days, 95.
+
+Marc J. Selverstone
+438
+solutions to a series of problems at home and abroad. Whether redressing the 
+humiliation at the Bay of Pigs, preserving Western rights in a divided Berlin, 
+or contesting the placement of Soviet missiles in Cuba, Kennedy sought to 
+validate his inaugural pledge to “pay any price” and “bear any burden” to 
+“assure the survival and the success of liberty.” Informed by their collective 
+upbringing in an “imperial brotherhood” of elite institutions, Kennedy offi-
+cials would apply brains and brawn to the management of national problems, 
+and the hothouse environment in which they worked informed elements of 
+both the Kennedy style and Kennedy policy.9
+Yet for all the macho talk emanating from the White House, Kennedy dis-
+played a more subtle appreciation of power and its uses than did many of 
+his aides. Rather than double down on his vow to “oppose any foe” in the 
+twilight struggle of the Cold War, Kennedy showed a willingness to absorb 
+potentially damaging political hits, to parry communist provocations, and 
+to respond creatively to international challenges.10 In several cases, it would 
+be his capacity for empathy, rather than an impulse toward confrontation, 
+that marked his pursuit of the national interest. Whether neutralizing Laos, 
+accommodating to the Berlin Wall, or negotiating a resolution of the Cuban 
+Missile Crisis, Kennedy demonstrated a reflex toward restraint and reflection 
+that also marked his approach toward Vietnam.
+*
+His engagement with Vietnam was, and would remain, intermittent, as it was 
+one of numerous challenges Kennedy faced when he assumed the presidency. 
+Berlin, Cuba, Laos, the strategic balance – these and other demands, foreign 
+and domestic, would absorb his attention and crowd out time to work on 
+Vietnamese matters that were challenging to begin with and growing pro-
+gressively worse. Between Kennedy’s election and his inauguration, antipathy 
+toward Diệm had risen to such levels that elements of the South Vietnamese 
+military had sought to overthrow his government; weeks later, Southern 
+Vietnamese communists, with support and direction from the North, formed 
+the National Front for the Liberation of Southern Vietnam (NLF) to guide 
+the revolt against the Ngôs. The implications of those developments would 
+soon become clear. Although Kennedy’s two transition meetings with out-
+going president Dwight D. Eisenhower failed to touch on Vietnam directly, 
+	9	 “Inaugural Address,” 1; Robert D. Dean, Imperial Brotherhood: Gender and the Making of 
+Cold War Foreign Policy (Amherst, MA, 2001).
+	10	 “Inaugural Address.”
+
+Kennedy and Vietnam
+439
+JFK received a briefing on the RVN’s prospects at the end of his first week 
+in office. It came from Air Force Colonel Edward Lansdale, whose experi-
+ence in the country dated to the earliest days of the Diệm regime. The pic-
+ture Lansdale painted was a damning one, leading Kennedy to frame it as the 
+“worst” problem the administration now faced.11
+But it was not the most immediate, as Kennedy was confronting impend-
+ing crises near and far, including those of his own making. Tensions in Laos 
+threatened to erupt into superpower proxy war as competing commu-
+nist, neutralist, and royalist factions vied for control after the collapse of a 
+power-sharing arrangement. National security officials considered the deploy-
+ment of ground troops and even nuclear weapons to forestall a communist 
+triumph before Kennedy bluffed all sides with a show of force. Washington’s 
+reluctance to Americanize the conflict and further militarize it, combined 
+with Moscow’s unwillingness to do the same, ultimately led Kennedy and 
+Khrushchev to neutralize the kingdom, a lone, encouraging result from their 
+otherwise frank and chilly meeting that June in Vienna. Negotiations over the 
+fate of Laos would ensue against the backdrop of political intrigue and the 
+occasional battlefield flare-up, but by July 1962, diplomats from 14 nations had 
+fashioned a deal, albeit shaky, to remove the country from the chessboard of 
+Cold War competition. Still, the failure of North Vietnamese forces to vacate 
+Laos, in accordance with the agreement hammered out at Geneva, facilitated 
+the continued infiltration of communist forces into South Vietnam, further 
+complicating efforts to secure its independence.
+Kennedy’s initial decisions on Laos, and ultimately on Vietnam, also took 
+shape in the context of the disastrous Bay of Pigs operation of mid-April 
+1961. Planning to unseat Cuban strongman Fidel Castro had begun in March 
+1960 and had continued throughout the year, even as presidential candi-
+date Kennedy chastised the ruling Republicans for allowing Castro to con-
+solidate power on their watch. By the time of Kennedy’s inauguration, the 
+covert operation had evolved from a guerrilla infiltration into an amphibious 
+invasion. It soon became clear that Kennedy had failed to ask the right ques-
+tions and review key particulars. Ultimately, he took responsibility for the 
+ensuing debacle, though not without his own press leaks distributing blame. 
+Still, he saw a silver lining in the episode: If it wasn’t for the Bay of Pigs, he 
+remarked on more than one occasion, “we’d be in Laos by now – and that 
+would be a hundred times worse.”12 His skepticism about the “expert” advice 
+	11	 W. W. Rostow, The Diffusion of Power: An Essay in Recent History (New York, 1972), 265.
+	12	 Sorensen, Kennedy, 644; Schlesinger, Thousand Days, 339.
+
+Marc J. Selverstone
+440
+he received, from intelligence as well as from military officials, remained 
+throughout his time in office and conditioned his assessment of recommen-
+dations on Vietnam.
+In fact, the Cuban fiasco affected Kennedy’s decision-making for the rest 
+of his presidency. For starters, it left him more inclined to trust his own judg-
+ment on national security matters. But it also led him to centralize planning 
+and policy more fully within the White House. National Security Advisor 
+McGeorge Bundy moved formally into its West Wing and established a 
+Situation Room in the basement, improving the flow of critical information 
+to and from the president’s staff. Retired general Maxwell Taylor, the epit-
+ome of the action-intellectual soldier-statesman, became Kennedy’s personal 
+military advisor, mediating between the Oval Office and the Joint Chiefs of 
+Staff. And both Special Counsel Ted Sorensen and Attorney General Robert 
+F. Kennedy – men whose portfolios bore little relation to foreign policy but 
+whose loyalty and judgment the president valued – became increasingly 
+engaged on a range of international problems.13
+Given his absorption in the Caribbean and Laotian troubles, Kennedy 
+turned his attention to Saigon only after the end of the Cuban operation. The 
+day after its ignominious conclusion, the president empaneled an interagency 
+task force, chaired by Deputy Secretary of Defense Roswell L. Gilpatric, to 
+evaluate the situation in Vietnam. By mid-May, JFK had implemented its rec-
+ommendations: an increase in economic aid; the use of psychological and 
+covert operations; an expansion of the South Vietnamese army; and the dis-
+patch of US Special Forces to train the South Vietnamese military. Those mea-
+sures coincided with the visit to Saigon of Vice President Lyndon B. Johnson, 
+who sought to convey the depth of the United States’ commitment to the 
+RVN. Collectively, those actions, along with the continued use of the task 
+force approach, comprised an effort to assist the South Vietnamese in wag-
+ing their war against the Vietnamese communists. Although control of the 
+“Presidential Program” would migrate nominally to the State Department, 
+real power flowed through the Pentagon, which controlled most of the pro-
+gram’s resources, decision-making, and direction.
+Kennedy’s interest in Vietnam also reflected his fascination with counter-
+insurgency and his determination to enhance the nation’s unconventional 
+capabilities. Tailored to the military demands of the era, which were likely 
+to feature sublimited guerrilla engagements more than the set-piece battles 
+of conventional conflict, counterinsurgency appealed to JFK’s activist agenda 
+13  Selverstone, “John F. Kennedy.”
+
+Kennedy and Vietnam
+441
+and willingness to confront communism on the global periphery. Kennedy 
+thus took steps to develop the tools for meeting the communists on every 
+front. He called for the creation of a special school for counterinsurgency; 
+directed the Pentagon to inventory American paramilitary assets; asked AID 
+to consider further support for local forces; enhanced the federal machin-
+ery to promote and support such forces; augmented and expanded existing 
+means for improving counterinsurgency techniques and operations; created 
+a senior-level special group as a clearing house on counterinsurgency (staff-
+ing it with some of his most trusted aides, including his brother Robert); and 
+established a national counterinsurgency doctrine to guide all federal agen-
+cies involved in such efforts. In short, Kennedy embraced counterinsurgency 
+wholeheartedly and recalibrated the machinery of government to further its 
+development.14
+South Vietnam was a proving ground for this type of warfare. As much 
+as its defense stemmed from concerns about US credibility and the activa-
+tion of “domino” dynamics – the fear that Saigon’s fall would lead neighbor-
+ing and otherwise vulnerable states to collapse as well – its security became 
+equally compelling because of the challenge itself. Incorporating elements of 
+nation-building, special operations, covert warfare, and military assistance, 
+the counterinsurgency program in South Vietnam was emblematic of the 
+challenges of the New Frontier, demanding a response from the “best and 
+the brightest” that Kennedy had assembled for that very purpose. The oppor-
+tunity to experiment with an array of newly designed tools appealed to senior 
+officials, including Kennedy and McNamara, who likened Vietnam to a lab-
+oratory for their efforts. In all, the program to aid the RVN in its war against 
+the NLF and its military arm, the People’s Liberation Armed Forces (PLAF), 
+was one that Kennedy embraced and continued to expand throughout his 
+time in office.
+*
+The most critical moment for doing so came in the fall of 1961. An increase 
+in PLAF operations, the infiltration of additional forces from North Vietnam 
+into South Vietnam, and the collapse of RVN defenses in several provinces 
+presented Saigon with an increasingly parlous situation. Diệm requested fur-
+ther American assistance and Kennedy responded by sending a fact-finding 
+team, headed by Taylor and the National Security Council’s Walt Rostow, 
+	14	 For writing on Kennedy and unconventional war, see Jeff Woods, “Brushfire Wars,” in 
+Marc J. Selverstone, A Companion to John F. Kennedy (Malden, MA, 2014), 436–57.
+
+Marc J. Selverstone
+442
+to assess Saigon’s needs. The report they submitted reflected their anxiety 
+about the war and proposed a more sweeping effort to stanch the commu-
+nist onslaught. In addition to recommending that the United States increase 
+South Vietnam’s capacity to provide for its own defense, Taylor called for the 
+insertion of up to 8,000 American combat troops, ostensibly to provide flood 
+relief following catastrophic rains, as a means of stiffening Saigon’s morale 
+and stopping the infiltration of soldiers and supplies.
+Kennedy, however, rejected the use of US combat troops. Dubious of 
+the merits of a deeper commitment, he stood virtually alone among senior 
+national security officials in calling for a more deliberate and restrained 
+response. Much preferring the provision of aid and assistance so that South 
+Vietnam could manage its own affairs, Kennedy sent additional military 
+advisors rather than combat units to assist the RVN. Although he remained 
+steadfast in opposing the introduction of combat troops, he placed no ceil-
+ing on the insertion of military advisors. Their numbers would expand 
+exponentially – from less than 700 to more than 16,700 – during his time in 
+office.
+Indeed, Kennedy’s aversion to a combat-troop deployment failed to pre-
+vent his program from assuming a militarized cast. Following discussion of 
+the Taylor Report, Kennedy consented to a range of measures intended to 
+improve Saigon’s fighting capacity, as well as its ability to win the political 
+struggle against the NLF. Beyond the deployment of military advisors, the 
+provision of economic aid, and renewed attention to civil affairs, Kennedy 
+authorized the introduction of fixed-wing aircraft and greater use of heli-
+copter squadrons and seaborne units, and expanded intelligence opera-
+tions. In time, he would support the use of herbicides to deny the PLAF 
+the cover of foliage and the availability of foodstuffs in the countryside. 
+He also elevated the profile of both the US–RVN relationship and the US 
+military mission in South Vietnam (Figure 20.1). To signal their heightened 
+importance and direction of an increasingly complex and wide-ranging 
+operation, Kennedy sanctioned the establishment of a “limited partner-
+ship” between Washington and Saigon, as well as the creation of MACV – 
+the Military Assistance Command, Vietnam – with a four-star general 
+at the helm. In time, MACV would not only direct the assistance effort 
+but assume the functions of the US Military Assistance Advisory Group – 
+headed by a three-star general – that in one form or another had been 
+operating in Vietnam since 1950.
+While MACV sought to improve the capabilities of the Republic of Vietnam 
+Armed Forces (RVNAF), the counterinsurgency revolved around initiatives 
+
+Kennedy and Vietnam
+443
+designed to protect the population and isolate the communists. Those 
+efforts took shape through the Strategic Hamlet Program, conceived of and 
+administered by Saigon, but supported by US and British officials. In seek-
+ing to create an archipelago of self-sufficient, noncommunist villages loyal 
+to the government, Saigon, Washington, and London all borrowed from 
+the recent past. Prior attempts to create model villages or agrovilles had 
+met with mixed success throughout Southeast Asia, but planners hoped a 
+more targeted and systematic program would guide the social revolution in 
+a favorable direction. That transformation, which sought to counter the mal-
+adies of “communism, underdevelopment, and disunity,” required the mass 
+mobilization of society but on a local level. Entire villages were uprooted 
+and forced to secure their own provisions, often without compensation. 
+Ultimately, the program failed to provide its promised benefits, alienating 
+many of those swept up in the experiment and providing valuable grist for 
+communist propaganda. But it was indicative of the era. As much as its imple-
+mentation collapsed under its own weight and mismanagement, its focus on 
+progress, nation-building, and “rational engineering” reflected a belief in 
+Figure 20.1  John F. Kennedy meeting with Nguyễn Đình Thuận, Chief Cabinet Minister 
+to President Ngô Đình Diệm of South Vietnam. Thuận delivered a letter from Diệm 
+regarding the communist threat to his country (June 14, 1961).
+Source: Bettmann / Contributor / Bettmann / Getty Images.
+
+Marc J. Selverstone
+444
+social science and the possibility of translating concepts about modernization 
+and development from theory into practice.15
+*
+While American and Vietnamese officials continued to tout reports of prog-
+ress throughout 1962, troubling signs were apparent. In early January 1963, a 
+military engagement at Ấp Bắc, 35 miles (55 kilometers) southwest of Saigon, 
+seemed to indicate growing confidence among the communists and a will-
+ingness to stand and fight rather than hit and run; three Americans died in 
+the skirmish, which resulted in the downing of five US helicopters. Military 
+officials put a positive spin on the battle, but Kennedy was troubled by crit-
+ical reporting of it. Likely more disturbing was the about-face of Senator 
+Mike Mansfield (D-Montana), whose long-standing support of Diệm was 
+eroding, as was his confidence in the prospect of victory. His gloomy, pri-
+vate report to Kennedy in December 1962, following an extended trip to 
+the region, became public the following February, contributing to a more 
+widely shared sense of concern in the early months of 1963. Those worries 
+were as palpable in South Vietnam as they were in the United States. RVN 
+displeasure with US officials, the US media, and especially with the growing 
+number of US personnel in-country – a challenge to the Ngôs’ control of the 
+populace and their stance as nationalists – led Diệm and Nhu to lobby for 
+sending some of them home.
+By then, the NLF was controlling ever larger swaths of the South 
+Vietnamese countryside. Reports from the field indicated that the number 
+of fulltime communist guerrillas had expanded from 4,000 in early 1960 to 
+23,000 in 1963, with upward of 100,000 part-time fighters joining the hard-core 
+PLAF.16 Their control of the countryside likewise expanded over the course 
+of Kennedy’s presidency. By the fall of 1962, the NLF could claim roughly 20 
+percent of South Vietnamese villages and 9 percent of its rural population 
+and exercised varying degrees of control over another 47 percent of the vil-
+lages.17 Those numbers would continue to grow throughout 1963, with the 
+PLAF in the ascendance. By the fall of that year, communist forces were also 
+	15	 Philip E. Catton, Diem’s Final Failure: Prelude to America’s War in Vietnam (Lawrence, KS, 
+2003); Edward Miller, Misalliance: Ngo Dinh Diem, the United States, and the Fate of South 
+Vietnam (Cambridge, MA, 2013).
+	16	 “A Program of Action,” Annex 1, United States–Vietnam Relations, 1945–1967 (hereafter 
+US–VR), 11:89–90; RFE 1, September 29, 1961, ibid.; RFE-59, December 3, 1963, US–VR, 
+12:488.
+	17	 RFE-59, December 3, 1962, US–VR, 12:488.
+
+Kennedy and Vietnam
+445
+enjoying a downward trend in casualties, weapons losses, and defections, 
+while engaging more readily in armed attacks and violent incidents.18
+Political developments had by then turned concern into crisis. In early May, 
+an armed attack by RVN forces on Buddhist celebrants in Huế sparked a pro-
+tracted confrontation between South Vietnam’s largest religious group and 
+the Saigon government, casting further doubt on Diệm’s ability to unify his 
+country in its fight against the communists. Following the incident, US offi-
+cials caucused on how best to resolve the tensions. But the self-immolation 
+of a Buddhist monk one month later – a martyrdom photographed and pub-
+lished in media outlets around the world – heightened unease in Saigon and 
+Washington. Kennedy groused at advisors who failed to alert him to the 
+Buddhists as a political force and called on them to impose more effective 
+leverage against the Diệm government.19
+They hoped to do so through a change in representation. Ambassador 
+Frederick E. Nolting, Jr., who had tried to mollify Diệm since his posting 
+to Saigon in early 1961, had fallen out with officials at the State Department 
+and the White House who thought him ineffectual. The administration thus 
+turned to Henry Cabot Lodge, Jr., a choice with bipartisan appeal, to manage 
+relations with Diệm. Kennedy had a history with Lodge, besting him in their 
+Massachusetts Senate race of 1952 and then again in 1960, when Lodge ran as 
+vice president on the Republican (also known as the “Grand Old Party” or 
+GOP) ticket. Lodge’s fluency in French, as well as his personality and stat-
+ure – he had been ambassador to the United Nations during the Eisenhower 
+administration, and had a long family pedigree of government service – made 
+him an attractive candidate for the challenging post.
+But it was the political cover Lodge offered that made him so valuable. 
+The administration was taking increasing fire for its handling of Diệm, 
+heightening the stakes of its escalating commitment. Partisan battles over 
+Vietnam had emerged after the creation of MACV and the expansion of the 
+Presidential Program in 1962; the sniping continued as GOP figures charged 
+JFK with fighting an undeclared war, especially with reports of American 
+casualties and managed news appearing in the press. The difficulties of 1963 – 
+Ap Bac, the Mansfield Report, the “Buddhist Crisis” – only heightened the 
+likelihood that Vietnam would emerge as a campaign issue the following 
+year. Although a Harris poll indicated popular support for Kennedy’s policy 
+by margins of two to one, the presence of Lodge on the Kennedy team was 
+18	 RFE-90, October 22, 1963, US–VR, 12:579–82.
+19	 Jones, Death of a Generation, 271.
+
+Marc J. Selverstone
+446
+meant to insulate the administration from partisan attack. His selection as 
+ambassador, therefore, was a shrewd but fateful decision. Fully convinced 
+of his own rectitude, Lodge approached his mission with an imperious and 
+unilateral bearing that, combined with his deep skepticism about Diệm, left 
+him favorably disposed toward supporting a coup.
+*
+Recent events in South Vietnam gave Lodge little reason to think otherwise. 
+On the eve of his arrival – and likely because of it – Nhu’s forces launched 
+raids on the pagodas and jailed thousands of protestors, many of them stu-
+dents. Diệm instituted martial law, raising the stakes in his showdown with 
+the Buddhists and his standoff with the Americans. Days later, on August 24, 
+the State Department’s George Ball, Averell Harriman, and Roger Hilsman, 
+along with Michael Forrestal at the White House – officials who had been 
+deeply critical of the Ngôs – cabled Lodge, acknowledging that Diệm’s abil-
+ity to “rid himself” of Nhu would likely determine the future of US support 
+for the RVN president. More senior officials at State, the Pentagon, and the 
+CIA, who were not party to the wire, railed against the freewheeling of their 
+subordinates. Kennedy, too, snapped at aides who circumvented a more 
+deliberative policy process. But his failure to institute a more rigorous system 
+of policymaking, as well as profound fissures on Vietnam policy itself, shaped 
+an environment that allowed for improvisation and indiscipline.
+The August 24 missive – Cable 243 – touched off a mini-crisis within the 
+administration. For the first time since the fall of 1961, senior US officials held 
+sustained discussions about the direction of American policy. In fact, for the 
+first time in his presidency, Kennedy engaged in daily, high-level meetings on 
+South Vietnam. They lasted the better part of a week, as the White House 
+struggled to keep abreast of developments, including talk of coup plotting, 
+and what the United States should do about it. Significantly, the adminis-
+tration never reversed the thrust of Cable 243, an implicit acknowledgment 
+of its willingness to drop Diệm. But the coup fizzled; Nhu sniffed it out and 
+divided the generals, who themselves were unsure of American support. The 
+United States was thus in no better position after those events than before 
+they occurred. In fact, given the rancor between pro- and anti-Diệm factions 
+on Kennedy’s team and Diệm’s knowledge of Washington’s scheming, the 
+administration was much worse off.
+Searching for firmer footing, Kennedy launched several initiatives – public 
+as well as private – to provide him with better information about the war 
+and better leverage against the RVN. In appearances on US television news 
+
+Kennedy and Vietnam
+447
+programs, JFK discussed the challenges facing Vietnam and the nature of 
+US assistance. Speaking with CBS anchor Walter Cronkite on September 
+2, Kennedy emphasized the need for changes in RVN policy and personnel 
+to gain the allegiance of the Vietnamese people – a thinly veiled suggestion 
+to lessen Nhu’s influence. Washington could provide assistance and advice, 
+Kennedy said, but the war was South Vietnam’s to win or lose. The United 
+States would nevertheless remain in Vietnam, a mantra Kennedy had long 
+voiced and which he repeated in a subsequent interview with NBC’s David 
+Brinkley and Chet Huntley. At several points in that latter conversation, he 
+warned against American impatience and affirmed his belief in the domino 
+theory, referencing the dangers of China’s regional ambitions – a key con-
+cern to US officials – and the risk of American withdrawal. While he likely 
+overstated his belief in domino dynamics, he still subscribed to a worldview, 
+grounded in the importance of credibility and the dangers of appearing weak, 
+that argued for staying engaged.20
+All the while, Kennedy remained disheartened by Diệm’s leadership, 
+confounded by brother Nhu and the irresponsible pronouncements of his 
+wife, Trần Lệ Xuân, and increasingly alarmed by the trajectory of events. As 
+summer turned to fall, Kennedy’s frustrations boiled over and contributed 
+to his worry that Diệm might ultimately lose the war – a concern clearly 
+evident on the recordings he secretly made of White House conversations 
+that September.21 These sources reinforce the argument that Kennedy’s 
+primary focus was on progress in the counterinsurgency, and that related 
+developments in Vietnam – Diệm’s failure to broaden his political base, his 
+crackdown on protestors, his mistreatments of the Buddhists – mattered only 
+insofar as they affected the war effort.
+Kennedy’s resolve to continue the fight also reflected his aversion to a 
+compromise solution that would have removed Vietnam as a site of Cold 
+War competition. Responding to an August 29 appeal from French president 
+Charles de Gaulle to explore the possibility of neutralizing Vietnam, Kennedy 
+dismissed the gambit outright. With Laos continuing to teeter politically, 
+JFK had little interest in pursuing a similar solution across the shared bor-
+der; it was a position the administration had long held. Kennedy’s rejection 
+	20	 “Transcript of Broadcast with Walter Cronkite Inaugurating CBS Television News 
+Program,” September 2, 1963, PPP:JFK, 1963: 650–3, Doc. 340; “Transcript of Broadcast 
+on NBC’s ‘Huntley-Brinkley Report,’” September 9, 1963, ibid., 658–61, Doc. 349.
+	21	 Meeting Tape 111, September 19, 1963; Meeting Tape 112, September 23, 1963; Meeting 
+Tape 114/A49, all in Papers of John F. Kennedy (hereafter JFK Papers), President’s 
+Office Files (hereafter POF), Presidential Recordings, JFKL.
+
+Marc J. Selverstone
+448
+of neutralization also stemmed, in part, from friction with Paris over alli-
+ance matters in Europe and de Gaulle’s lack of full support for American 
+efforts in Southeast Asia. In fact, suspicions that the French were engaged in 
+back-channel meddling with Nhu, leading toward possible talks with Hanoi 
+and the ouster of American advisors, worried Kennedy aides who feared that 
+events were slipping out of their control.22
+To regain the administration’s balance, Kennedy dispatched a series of 
+fact-finding teams to South Vietnam. Their purpose, ostensibly, was to col-
+lect better information about the military and political situations so the pres-
+ident and his aides might devise an effective response. Yet Kennedy was also 
+reacting to reports of disarray within his administration; the search for bet-
+ter policy, therefore, reflected his need to project an air of competence and 
+a sense of unity. Nevertheless, a joint mission from the State and Defense 
+departments, headed by Joseph Mendenhall and Lieutenant General Victor 
+Krulak, delivered a report so incongruous in its findings that Kennedy jok-
+ingly wondered whether the two had visited the same country. Seeking clar-
+ity, JFK sent the more senior team of Defense Secretary McNamara and Joint 
+Chiefs of Staff Chair Taylor for a week-long visit to assess the state of the 
+war, as well as actions Washington might take to improve Diệm’s chances 
+of victory.
+The report they delivered in October unified the administration around 
+measures they hoped would ensure better performance from Diệm’s gov-
+ernment. Tying together policies that had been percolating for months and 
+preserving the pragmatic thrust of Kennedy’s program – supporting those 
+activities that helped the counterinsurgency and opposing those that hin-
+dered it – the report called for economic sanctions on South Vietnamese infra-
+structure projects, import programs, and security forces.23 Acknowledging 
+the tenacity of the Diệm regime and the likelihood of having to live with it, 
+Kennedy harbored faint hope that the sanctions would leverage Diệm into 
+better performance. But he also recognized that they might reinvigorate plan-
+ning for a coup – a development he was prepared to accept.
+The McNamara-Taylor report also recommended the gradual withdrawal 
+of US troops from Vietnam. Planning for their removal had begun informally 
+in May 1962, when McNamara first asked Harkins about a calendar for their 
+	22	 See, for instance, Saigon to State, August 31, 1963, and Memorandum of a 
+Conversation, August 31, 1963 in Department of State, Edward C. Keefer (ed.), Foreign 
+Relations of the United States, 1961–1963 (Washington, DC, 1991), vol. IV, 67, 72, docs. 34 
+and 37.
+	23	 McNamara-Taylor Report, October 2, 1963, US–VR, 12:554–73.
+
+Kennedy and Vietnam
+449
+departure. Two months later, he directed Harkins to initiate formal planning 
+for a reduction in force, part of a comprehensive effort to harmonize all ele-
+ments of the counterinsurgency. That planning continued over the next fif-
+teen months and landed on Kennedy’s desk in early October 1963. Although 
+JFK had long been open to drawing down troops if the opportunity arose, the 
+documentary record is virtually silent on his connection to such planning. On 
+the other hand, the record shows clearly that McNamara was the prime advo-
+cate for withdrawing almost all US troops by 1965.24
+That timetable signified more than simple frustration with the war, as 
+it was central to McNamara’s vision of a more coordinated approach to 
+Vietnam and a more systematized method for devising and implementing 
+defense policy. Indeed, the impetus to change the nature of the counterinsur-
+gency program in Vietnam from one of ad hoc, makeshift responses to that 
+of a sustained, comprehensive approach took shape alongside a similar effort 
+to conceive of the entire Pentagon budget according to more long-range, 
+coordinated estimates. As McNamara made clear upon taking command at 
+the Pentagon, he intended to rationalize its budget process, rein in wasteful 
+spending and duplication, and impose the strictures of sound business prac-
+tices upon Department of Defense operations.25
+Those measures heightened the value of relying on indigenous forces for 
+local defense. The cost of stationing troops overseas had been increasing 
+dollar expenditures abroad and the outward flow of gold, leaving Kennedy 
+greatly worried about a ballooning balance of payments deficit. Lowering the 
+nation’s military profile in Europe, where the majority of its overseas forces 
+were stationed, thus became a major administration initiative, with implica-
+tions for the United States’ force structure and the health of its finances. To 
+address the diminution of deployments abroad, McNamara emphasized the 
+need for greater air and sealift capacity, measures that addressed both mili-
+tary and economic concerns.
+That desire to limit the number of troops abroad sparked a similar urge 
+to bring some of them home. In addition to considering a reduction of force 
+in Europe, McNamara worried about conditions in Korea, where thousands 
+of US troops reinforced efforts to preserve the peace along the 38th parallel. 
+He was troubled by the amount of assistance flowing to Seoul and the bal-
+looning budget for arming and equipping its forces. Korea thus stood as a 
+	24	 Marc J. Selverstone, The Kennedy Withdrawal: Camelot and the American Commitment to 
+Vietnam (Cambridge, MA, 2022).
+	25	 Selverstone, The Kennedy Withdrawal, 78–88.
+
+Marc J. Selverstone
+450
+cautionary tale about making long-term, open-ended commitments to the 
+developing world. McNamara made clear to Kennedy his interest in scaling 
+down that commitment and the danger of letting a similar situation develop 
+in Vietnam.26
+Those fiscal concerns dovetailed with Kennedy’s preferred approach to 
+Vietnam, which held that the United States should provide local forces with 
+the tools to manage their own defense. The president thus seems to have 
+endorsed McNamara’s planning for withdrawal, but not without reservation. 
+At key points in 1963, following meetings with senior officials on Vietnam, 
+McNamara briefed the president on the scope and progress of withdrawal 
+planning. At each juncture, which included one-on-one encounters as well 
+as sessions with other officials present, Kennedy voiced his skepticism about 
+the merits and context of a US troop withdrawal. In both May and October 
+of 1963, in remarks captured on his White House taping system, the president 
+stressed his reluctance to remove those troops in the face of adverse military 
+conditions. Having shared those sentiments in private as well as in widely 
+attended meetings, those comments most likely represented Kennedy’s gen-
+uine concern about the circumstances of an American withdrawal.27
+To be sure, Kennedy’s private reservations reinforced as well as clashed 
+with his public statements about the virtues of the American presence in 
+Vietnam. In press conferences and televised interviews, JFK maintained 
+that the United States would stay in Vietnam to help Saigon confront the 
+communist challenge. At the same time, he also expressed – repeatedly and 
+consistently – his belief that the war was Saigon’s to win or lose. The tension 
+between those conflicting positions, which Kennedy was never able to rec-
+oncile, had been present in his approach to Vietnam since the earliest days of 
+his administration. Still, his reluctance to accept a South Vietnamese defeat, 
+reflected in his apparent willingness to delay a US withdrawal, continued to 
+drive policy and lay at the heart of his thinking about Vietnam.
+With the presentation of the McNamara-Taylor Report on October 2, with-
+drawal planning had reached maturity. Its two strands – the removal of 1,000 
+troops by the end of that year and practically all the rest by the end of 1965 – 
+developed separately but came together in a White House statement follow-
+ing a day of high-level meetings. Both strands worked to counter headwinds 
+the administration was facing in Washington as well as in Saigon. At home, 
+Kennedy sought to mollify congressmen frustrated not only with Diệm’s 
+27	 Selverstone, The Kennedy Withdrawal, 124–5, 158–62, 170–2, 181–2.
+26	 Meeting Tape 65, JFK Papers, POF, Presidential Recordings, JFKL.
+
+Kennedy and Vietnam
+451
+behavior but with the disbursement of foreign aid; JFK had been facing a 
+bipartisan backlash against American largesse for the better part of eighteen 
+months and hoped that a firmer and more unified approach to Saigon might 
+rescue his broader aid package. Abroad, the withdrawal plan functioned as 
+both bait and leverage. While it acknowledged the adverse impact that US 
+troops were having on RVN politics – Diệm feared the increasing contact 
+between Americans and South Vietnamese – it also began the countdown on 
+a US departure. As both a carrot and a stick, the planned withdrawal offered 
+multiple means to wrest better performance out of Saigon.28
+That performance was essential, as earlier optimism about the war was fad-
+ing. While McNamara and Taylor described the military effort as unaffected 
+by the “Buddhist Crisis,” privately the defense secretary was deeply worried 
+about the course of events. Additional study by the State Department, which 
+used the Pentagon’s own figures on the war, suggested that momentum now 
+lay with the PLAF.29 It would swing even further in their direction following 
+the early November coup against Diệm and Nhu – an operation the United 
+States ultimately sanctioned and supported – as the communists took advan-
+tage of the chaos and disorganization following the fall of the Ngôs.30
+Kennedy’s appraisal of those developments remains somewhat shrouded. 
+While he expressed shock upon learning that Diệm and Nhu had been mur-
+dered, his assessment of the war itself is difficult to discern. He had long 
+received a steady stream of conflicting reports, leaving him none the wiser 
+about its progress. Most likely, his frustrations with Diệm and his skeptical 
+bearing left him more bearish than bullish about its prospects, even after 
+Diệm’s demise. But they also left him no less committed to a successful 
+outcome.31
+*
+Given the war’s subsequent trajectory, Kennedy’s own assassination, just 
+weeks after the killing of Diệm and Nhu, has generated endless speculation 
+about the meaning and direction of his Vietnam policy. Several aides later 
+argued that JFK was fully intent on withdrawing from Vietnam. Their tes-
+timonies have appeared in memoirs, biographies, oral histories, and schol-
+arly works, and have been joined by the reflections of friends and journalists, 
+	28	 Selverstone, The Kennedy Withdrawal, 158–203.
+	29	 RFE-90, October 22, 1963, US–VR, 12:579–82.
+	30	 For a narrative of the coup, see Jones, Death of a Generation, 386–434.
+	31	 Dictabelt 52.1, JFK Papers, POF, Presidential Recordings, JFKL; Selverstone, The 
+Kennedy Withdrawal, 195–6.
+
+Marc J. Selverstone
+452
+as well as military and public officials. From the observations of assistants 
+Kenneth O’Donnell and Dave Powers to the pained reflections of Defense 
+Secretary Robert McNamara, many of these accounts state flatly that Kennedy 
+was determined to reduce the United States’ involvement in Vietnam. At the 
+very least, they maintain, he would not have escalated in the fashion of LBJ.32 
+Most of these claims appeared after US prospects in the war had dimmed or 
+after the fighting had ended altogether. Several were infused with more than 
+a wisp of Camelot nostalgia. New sources, such as Kennedy’s White House 
+tapes, continue to stir debate about the president’s ultimate aims, with a con-
+sensus acknowledging the reality of withdrawal planning, if not his definitive 
+commitment to seeing it through.
+In the end, Kennedy sought to have it both ways. While loath to deploy 
+combat troops in support of Saigon, JFK appeared equally committed to win-
+ning the war against the communists. While open to reducing those troops 
+already in-country, he wavered on the timing of their possible withdrawal. 
+And while publicly hawkish about the need to remain in Vietnam, he pri-
+vately questioned the virtues of an extended commitment. He was a con-
+flicted Cold Warrior, especially on Vietnam, and the tensions in his policies 
+grew ever sharper as he sought greater room to enact them.
+Ultimately, Kennedy’s commitment to Saigon, which escalated through-
+out his time in office, was less than iron clad. For all the rhetoric about South 
+Vietnam as an outpost of freedom, Kennedy never defined its preservation as 
+a vital American interest – not when his 1961 task force highlighted the dan-
+gers of Saigon’s collapse; not when he entered into a “limited partnership” 
+with the RVN later that year; not when economic and military aid began to 
+flow more freely in 1962; and not when a host of military and political trou-
+bles arose in 1963, demanding more of his public and private attention. The 
+“survival and the success of liberty,” as Kennedy noted in his inaugural, was 
+an important American concern, but its realization in Southeast Asia was not 
+an essential one.
+The commitment to Ngô Đình Diệm was equally instrumental. Kennedy 
+genuinely admired the South Vietnamese president but backed Diệm only 
+so long as he was able to prosecute the counterinsurgency effectively. When 
+Diệm proved wanting, Kennedy indicated his disapproval, setting in motion 
+a series of events that led to Diệm’s downfall. The November 1963 coup failed 
+	32	 Kenneth P. O’Donnell and David F. Powers, with Joe McCarthy, “Johnny, We Hardly 
+Knew Ye”: Memories of John Fitzgerald Kennedy (Boston, 1972); Robert S. McNamara, with 
+Brian VanDeMark, In Retrospect: The Tragedy and Lessons of Vietnam (New York, 1995).
+
+Kennedy and Vietnam
+453
+to calm the upheaval in Saigon; in fact, it generated lasting turmoil in South 
+Vietnamese politics, endowing the RVN state with a pervasive instability it 
+was never able to overcome. Hanoi’s own escalatory measures would render 
+Saigon’s position increasingly dire, and it would fall to Kennedy’s successor 
+to manage the deteriorating state of affairs. Still, the rhetoric of Kennedy’s 
+commitment, and the policies that flowed from it, diminished LBJ’s room 
+for maneuver as surely as they were designed to preserve that flexibility for 
+JFK himself. In the end, that may have been the most consequential legacy of 
+Kennedy’s policy toward Vietnam.

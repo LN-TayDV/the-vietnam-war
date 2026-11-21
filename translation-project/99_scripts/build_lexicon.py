@@ -1,0 +1,441 @@
+# -*- coding: utf-8 -*-
+"""
+build_lexicon.py — Unified lexicon management for MASTER_LEXICON.csv
+
+Subcommands:
+    build       - Create MASTER_LEXICON.csv from scratch (initial population)
+    update      - Append new terms from audit/translation to existing lexicon
+    verify      - Check lexicon integrity (duplicates, missing fields, encoding)
+    stats       - Show statistics (count by verification, domain, etc.)
+
+Columns (16):
+    tu_chuan, loai_tu, nghia, cach_dung, vi_du_nguyen_ban, nguon, trang,
+    thoi_ky, muc_xac_minh, linh_vuc, ghi_chu,
+    muc_loi_vuc, muc_phu, thoi_ky_lich_su, phan_loai_khu_vuc, van_phong
+"""
+
+import csv
+import sys
+import os
+from pathlib import Path
+from collections import Counter
+
+BASE = Path(__file__).resolve().parents[2] / "translation-project" / "08_southern_vietnamese_library"
+OUT_FILE = BASE / "10_LEXICAL_DATABASE" / "MASTER_LEXICON.csv"
+
+# Column definitions
+COLUMNS = [
+    "tu_chuan", "loai_tu", "nghia", "cach_dung", "vi_du_nguyen_ban",
+    "nguon", "trang", "thoi_ky", "muc_xac_minh", "linh_vuc", "ghi_chu",
+    "muc_loi_vuc", "muc_phu", "thoi_ky_lich_su", "phan_loai_khu_vuc", "van_phong"
+]
+
+# Initial seed data (11 columns + 5 extended = 16)
+SEED_ROWS = [
+    ("sĩ phu", "danh_tu", "Tầng lớp trí thức, kẻ sĩ (gốc Hán-Việt)", "Dùng chỉ giới trí thức Nho học",
+     "Đôi chục năm nay sĩ phu ta có một cái sỉ nhục khó chịu…", "SRC-021", "", "1932", "CROSS_VERIFIED",
+     "van_hoa_hoc_thuat", "Từ Hán-Việt, dùng phổ biến ở Nam; Phan Khôi dùng",
+     "lich_su", "lich_su_xa_hoi", "lich_su", "chung", "trang_nghiem"),
+    ("bổn quốc", "danh_tu", "Đất nước, quốc gia (cách nói cũ)", "Nói văn vẻ, trang trọng",
+     "…không có tự điển của người bổn quốc làm ra cho thật đúng đắn.", "SRC-021", "", "1932", "VERIFIED",
+     "chinh_tri_van_hoc", "Cách nói Nam Bộ; bổn = bản (đất nước)",
+     "chinh_tri", "nha_nuoc_chu_quyen", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"),
+    ("bổn cảo", "danh_tu", "Bản thảo, bản nháp", "Chỉ bản viết chưa hoàn thiện",
+     "Bộ Tự điển đây mới là bổn cảo chớ chưa phải đã thành sách rồi.", "SRC-021", "", "1932", "VERIFIED",
+     "van_hoc", "Dạng Nam Bộ của 'bản thảo'",
+     "ho_tro", "tu_vung_van_hoc", "", "chung", "van_hoc"),
+    ("chớ", "liên_tu", "Nhưng, mà (nhấn mạnh, tương phản)", "Nối vế câu, nhấn mạnh ý đối lập",
+     "Bộ Tự điển đây mới là bổn cảo chớ chưa phải đã thành sách rồi.", "SRC-021", "", "1932", "CROSS_VERIFIED",
+     "van_dung_thuong_ngay", "Từ Nam Bộ đặc trưng; thay cho 'mà/nhưng'",
+     "ho_tro", "lien_tu_ngu_phap", "", "nam_bo", "van_dung"),
+    ("nầy", "tinh_tu", "Này (chỉ vật gần)", "Thay 'này' trong văn viết Nam trước 1975",
+     "Ta thử hỏi tại sao bộ Tự điển nầy không in ngay thành sách…", "SRC-021", "", "1932", "VERIFIED",
+     "chinh_ta", "Chính tả Nam Bộ: 'nầy' thay 'này'",
+     "chinh_ta", "van_dung", "viet_nam_cong_hoa", "nam_bo", "van_viet"),
+    ("chừng nào", "phó_tu", "Bao nhiêu, mức nào (chừng mực)", "Dùng với 'càng…càng…'",
+     "…càng phân chừng nào lại càng lộn xộn chừng nấy.", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "'chừng nấy' = chừng ấy (Nam Bộ)",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("nấy", "tinh_tu", "Ấy, đó (thay cho 'ấy' trong Nam Bộ)", "Đi với 'chừng' → 'chừng nấy'",
+     "…càng phân chừng nào lại càng lộn xộn chừng nấy.", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "Dạng Nam Bộ của 'ấy'",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("giục giã", "động_tu", "Thúc đẩy, khuyến khích", "Làm cho mau, cho mạnh",
+     "…như vậy là giục giã cho hội ấy làm mau rồi bộ Tự điển vậy.", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "Từ Nam Bộ, sắc thái thân mật khích lệ",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("rút ruột", "động_tu", "Thẳng thắn, thật lòng (rút ruột)", "Nói thiệt tình",
+     "Cái đời tôi… chỉ có chực chỉ trích mà thôi. (ngữ cảnh thẳng thắn)", "SRC-021", "", "1932", "PARTIALLY_VERIFIED",
+     "van_dung", "Cần kiểm thêm ví dụ trong Lê Văn Đức",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("vặt vãnh", "tính_tu", "Không quan trọng, vụn vặt", "Chỉ việc nhỏ nhặt",
+     "Còn mấy điều vặt vãnh sau, tôi chỉ nói sơ qua…", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "Từ Nam Bộ",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("sỉ nhục", "danh_tu", "Sự nhục nhã, mất mặt", "Nói sự ô nhục",
+     "…sĩ phu ta có một cái sỉ nhục khó chịu…", "SRC-021", "", "1932", "VERIFIED",
+     "chinh_tri_van_hoc", "Dạng 'sỉ' (Nam) của 'sĩ nhục'",
+     "chinh_tri", "nha_nuoc_chu_quyen", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"),
+    ("cấm kỵ", "danh_tu", "Điều kiêng kỵ, điều cấm", "Chỉ điều tối kỵ",
+     "…đã phạm vào sự cấm kỵ ở chỗ đó…", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("lộn xộn", "tính_tu", "Rối rối, không ngăn nắp", "Mô tả sự rối",
+     "…càng phân chừng nào lại càng lộn xộn chừng nấy.", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("thiệt hành", "động_tu", "Thực hành, thi hành", "Thực hiện việc gì",
+     "…có điều thiệt hành thì rất khó.", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "Dạng Nam của 'thực hành'",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("giá ngự", "động_tu", "Đánh giá, lượng định (chữ Hán)", "Xét đoán, định giá",
+     "…họ có một cái phép để giá ngự…", "SRC-021", "", "1932", "VERIFIED",
+     "hoc_thuat", "Từ Hán-Việt cổ; dùng trong khảo cứu",
+     "hoc_thuat", "hoc_thuat", "", "chung", "trang_nghiem"),
+    ("não tủy", "danh_tu", "Cốt tủy, tinh túy", "Chỉ phần cốt lõi",
+     "…nên đem cái não tủy khoa học mà rót vào đó.", "SRC-021", "", "1932", "VERIFIED",
+     "hoc_thuat", "Não tủy = cốt tủy",
+     "hoc_thuat", "hoc_thuat", "", "chung", "trang_nghiem"),
+    ("phổ thông", "tính_tu", "Thông dụng, phổ biến rộng", "Chỉ điều ai cũng biết",
+     "…từ ngữ phổ thông được dùng tại miền Nam… (chỉ dẫn dự án)", "SRC-021", "", "1932", "UNVERIFIED",
+     "hoc_thuat", "Cần kiểm chứng thêm",
+     "hoc_thuat", "hoc_thuat", "", "chung", "trang_nghiem"),
+    ("trứ thuật", "danh_tu", "Sự trước tác, viết sách", "Chỉ việc viết sách",
+     "Nhà trứ thuật đời nay, khi biên tập các sách…", "SRC-021", "", "1932", "VERIFIED",
+     "hoc_thuat", "Trước tác = trứ thuật (Hán-Việt)",
+     "hoc_thuat", "hoc_thuat", "", "chung", "trang_nghiem"),
+    ("trước tác", "động_tu/danh_tu", "Viết sách, tác phẩm", "Chỉ việc sáng tác",
+     "…các sách 'loại thơ' như là tự điển… (ngữ cảnh trước tác)", "SRC-021", "", "1932", "VERIFIED",
+     "hoc_thuat", "Dạng Nam 'trước tác' song hành 'trứ thuật'",
+     "hoc_thuat", "hoc_thuat", "", "chung", "trang_nghiem"),
+    ("loại thơ", "danh_tu", "Thể loại sách tra cứu (từ điển, bách khoa)", "Chỉ nhóm sách tham khảo",
+     "…nhứt là các sách 'loại thơ' như là tự điển, từ nguyên, bách khoa", "SRC-021", "", "1932", "VERIFIED",
+     "hoc_thuat", "Cách gọi sách tra cứu thời Nam Bộ",
+     "hoc_thuat", "hoc_thuat", "", "chung", "trang_nghiem"),
+    ("nhứt", "tinh_tu", "Nhất (trong 'nhứt là')", "Nhấn mạnh 'nhất là'",
+     "…nhứt là các sách 'loại thơ'…", "SRC-021", "", "1932", "VERIFIED",
+     "chinh_ta", "Chính tả Nam: 'nhứt' thay 'nhất'",
+     "chinh_ta", "chinh_ta", "viet_nam_cong_hoa", "nam_bo", "van_viet"),
+    ("mua đồng niên", "cụm_tu", "Mua trọn năm (định kỳ)", "Mua báo/tạp chí cả năm",
+     "…ai mua đồng niên 12 tập thì 2$00…", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung_thuong_ngay", "'đồng niên' = cả năm; cách nói Nam Bộ",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("bổn báo", "danh_tu", "Tờ báo này (của tôi/chúng tôi)", "Tự xưng khiêm nhường",
+     "…chúng tôi xin giới thiệu tập Tự điển ấy cho độc giả Phụ nữ tân văn… (bổn báo)", "SRC-021", "", "1932", "VERIFIED",
+     "bao_chi", "'bổn' = này (khiêm nhường)",
+     "bao_chi", "bao_chi", "viet_nam_cong_hoa", "nam_bo", "van_dung"),
+    ("gởi", "động_tu", "Gửi (thư từ)", "Dạng Nam của 'gửi'",
+     "Theo như bức thơ của hội Khai trí… gởi cho bổn báo", "SRC-021", "", "1932", "VERIFIED",
+     "chinh_ta", "Chữ Nam: 'gởi' thay 'gửi'",
+     "chinh_ta", "chinh_ta", "viet_nam_cong_hoa", "nam_bo", "van_viet"),
+    ("thơ", "danh_tu", "Thư (bức thư)", "Thay 'thư' trong Nam Bộ",
+     "Theo như bức thơ của hội Khai trí…", "SRC-021", "", "1932", "VERIFIED",
+     "chinh_ta", "Nam Bộ: 'thơ' = thư; 'bức thơ' = bức thư",
+     "chinh_ta", "chinh_ta", "viet_nam_cong_hoa", "nam_bo", "van_viet"),
+    ("hết thảy", "tinh_tu", "Tất cả, mọi người", "Chỉ toàn bộ",
+     "…mong rằng hết thảy anh chị em mua mỗi người lấy một phần", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "'hết thảy' = tất cả (Nam Bộ)",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("may sao", "cụm_tu", "May thay, may mà", "Biểu thị sự may mắn",
+     "May sao có hội Khai trí tiến đức đã ra vai gánh lấy công cuộc nầy!", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("ra vai", "động_tu", "Nhận lãnh, đảm nhận", "Nhận việc khó",
+     "…hội Khai trí… đã ra vai gánh lấy công cuộc nầy", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("công cuộc", "danh_tu", "Sự nghiệp, công việc lớn", "Chỉ việc trọng đại",
+     "…đã ra vai gánh lấy công cuộc nầy", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("đôi chục", "định_lượng", "Khoảng hai mươi", "Ước lượng số",
+     "Đôi chục năm nay sĩ phu ta…", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("vả", "liên_tu", "Huống chi, lại còn (nhấn mạnh thêm ý)", "Bổ sung lý lẽ",
+     "Vả cái a nếu là cái rèn bằng sắt…", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "Dùng thay 'hơn nữa' trong văn trang trọng",
+     "ho_tro", "lien_tu_ngu_phap", "", "nam_bo", "van_dung"),
+    ("quào", "động_tu", "Cào (gộp lúa)", "Chỉ động tác cào gom",
+     "Cái trang Nam kỳ làm bằng săng, để quào lúa", "SRC-021", "", "1932", "VERIFIED",
+     "nong_ngiep_Nam_Bo", "Từ Nam Bộ chỉ việc cào lúa",
+     "nong_nghiep", "nong_nghiep", "", "nam_bo", "trang_nghiem"),
+    ("săng", "danh_tu", "Một loại tre/ống (địa phương Nam)", "Vật liệu làm nông cụ",
+     "…làm bằng săng, để quào lúa…", "SRC-021", "", "1932", "VERIFIED",
+     "nong_ngiep_Nam_Bo", "Từ Nam Bộ",
+     "nong_nghiep", "nong_nghiep", "", "nam_bo", "trang_nghiem"),
+    ("bù quào", "danh_tu", "Cái cào (Nam Bộ)", "Nông cụ",
+     "…không răng gọi bằng trang, có răng gọi bằng bù quào.", "SRC-021", "", "1932", "VERIFIED",
+     "nong_ngiep_Nam_Bo", "Từ Nam Bộ",
+     "nong_nghiep", "nong_nghiep", "", "nam_bo", "trang_nghiem"),
+    ("trang", "danh_tu", "Cái cào lúa (địa phương Nam)", "Nông cụ",
+     "…có phải là cái trang của Nam kỳ đâu?", "SRC-021", "", "1932", "VERIFIED",
+     "nong_ngiep_Nam_Bo", "Từ Nam Bộ; không phải 'trang' (trang giấy)",
+     "nong_nghiep", "nong_nghiep", "", "nam_bo", "trang_nghiem"),
+    ("răng", "tinh_tu", "Răng (cái răng cào)", "Danh từ chỉ răng",
+     "…không răng gọi bằng trang, có răng gọi bằng bù quào.", "SRC-021", "", "1932", "VERIFIED",
+     "nong_ngiep_Nam_Bo", "",
+     "nong_nghiep", "nong_nghiep", "", "nam_bo", "trang_nghiem"),
+    ("sai", "tính_tu", "Sai, không đúng", "Chỉ điều sai",
+     "Nói vậy thì sai quá.", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("chừng", "phó_tu", "Mức độ, chừng mực", "Chỉ mức độ",
+     "…càng phân chừng nào lại càng lộn xộn chừng nấy.", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("bấy lâu nay", "cụm_tu", "Bấy lâu nay, suốt thời gian qua", "Chỉ khoảng thời gian dài",
+     "Ủa! chúng mình làm cái gì bấy lâu nay mà kỳ quá vậy!", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("chúng mình", "đại_tu", "Chúng ta (thân mật)", "Ngôi thứ nhất số nhiều",
+     "Ủa! chúng mình làm cái gì bấy lâu nay…", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "Nam Bộ; thân mật",
+     "van_dung", "van_dung", "viet_nam_cong_hoa", "nam_bo", "van_dung"),
+    ("kỳ", "tính_tu", "Lạ, kỳ quặc", "Chỉ điều lạ",
+     "…mà kỳ quá vậy!", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("chực", "động_tu", "Chực, nhắm, toan", "Chỉ ý định",
+     "…chỉ có chực chỉ trích mà thôi.", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "Nam Bộ: 'chực' = toan/chực",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("cầm", "động_tu", "Cho là, coi là", "Xem là",
+     "…thì tôi dám cầm người ấy là nói bậy.", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "Nam Bộ: 'cầm' = cho là",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("nói bậy", "cụm_tu", "Nói sai, nói láo", "Chỉ lời sai",
+     "…thì tôi dám cầm người ấy là nói bậy.", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("bậy", "tính_tu", "Sai, quấy", "Chỉ điều sai",
+     "…thì tôi dám cầm người ấy là nói bậy.", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("làm gì", "cụm_tu", "Thì đã sao, mặc kệ", "Biểu thị bất chấp",
+     "…thì họ làm gì tôi?", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "Cấu trúc Nam Bộ 'làm gì' = mặc kệ",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("hệ trọng", "tính_tu", "Quan trọng, hệ trọng", "Chỉ điều quan trọng",
+     "…tôi lấy làm hệ trọng nhứt là sự phân loại…", "SRC-021", "", "1932", "VERIFIED",
+     "van_dung", "",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("hèn chi", "cụm_tu", "Hèn chi, huống hồ", "Nối lý lẽ",
+     "(ngữ cảnh suy luận) ", "SRC-021", "", "1932", "UNVERIFIED",
+     "van_dung", "Cần kiểm chứng",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+    ("sổ", "danh_tu", "Sổ sách (ghi chép)", "—",
+     "(chưa dùng trong mẫu)", "SRC-021", "", "1932", "UNVERIFIED",
+     "van_dung", "Chưa xác minh",
+     "van_dung", "van_dung", "", "nam_bo", "van_dung"),
+]
+
+
+# New terms from Audit 6 chapters (15 columns -> will pad to 16)
+AUDIT_TERMS = [
+    ["chánh phủ", "danh_tu", "Cơ quan cao nhất trong nước, do Thủ Tướng đứng ra lập, điều khiển cai trị và ngoại giao.", "Chánh phủ Việt Nam Cộng Hòa.", "Hiến pháp VNCH 1967, Điều 67: 'Thủ Tướng điều khiển Chánh phủ'.", "SRC-023", "", "1967", "VERIFIED", "chinh_tri", "Chính thức VNCH; khác 'chính phủ' hiện nay.", "chinh_tri", "nha_nuoc_chinh_quyen", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["chánh trị", "danh_tu", "Việc cai trị, việc nước; hoạt động chính trị theo hệ thống VNCH.", "Hoạt động chánh trị; lý do chánh trị.", "Lê Văn Đức 1970: 'chánh trị' dùng xuyên suốt.", "SRC-001", "", "1970", "VERIFIED", "chinh_tri", "Viết 'chánh' không phải 'chính'.", "chinh_tri", "ly_luan_chinh_tri", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["chánh đảng", "danh_tu", "Đảng chính quyền, đảng lãnh đạo nhà nước VNCH.", "Đảng nhân dân, đảng chánh đảng.", "Hiến pháp VNCH 1967.", "SRC-023", "", "1967", "VERIFIED", "chinh_tri", "Khác với 'chính đảng' hiện nay.", "chinh_tri", "dang_phai_chinh_tri", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["đảo chánh", "danh_tu", "Cuộc đảo chính (dùng 'chánh' theo chuẩn VNCH).", "Cuộc đảo chánh năm 1963.", "Lê Văn Đức 1970.", "SRC-001", "", "1970", "VERIFIED", "chinh_tri", "Viết 'chánh' không phải 'chính'.", "chinh_tri", "ly_luan_chinh_tri", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["tài chánh", "danh_tu", "Việc quản lý tiền bạc, ngân sách của nhà nước; khác 'tài chính'.", "Bộ Tài Chánh; Tổng trưởng Tài Chánh.", "Lê Văn Đức 1970; Hiến pháp VNCH 1967.", "SRC-001", "", "1970", "VERIFIED", "kinh_te", "Chuẩn VNCH; 'tài chính' là hiện nay.", "kinh_te", "tai_chinh_ngan_hang", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["dân biểu", "danh_tu", "Người được bầu đại diện cho dân trong Hạ Nghị Viện VNCH.", "Dân biểu được bầu theo lối phổ thông đầu phiếu.", "Hiến pháp VNCH 1967, Điều 31.", "SRC-023", "", "1967", "VERIFIED", "chinh_tri", "Khác 'đại biểu Quốc hội' hiện nay.", "chinh_tri", "nha_nuoc_chinh_quyen", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["nghị sĩ", "danh_tu", "Người được bầu/tham mưu trong Thượng Nghị Viện VNCH.", "Nghị sĩ Thượng viện.", "Hiến pháp VNCH 1967, Điều 51-52.", "SRC-023", "", "1967", "VERIFIED", "chinh_tri", "Hệ thống lưỡng viện VNCH.", "chinh_tri", "nha_nuoc_chinh_quyen", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["ngân khố", "danh_tu", "Cơ quan nhà nước lo khâu thu phát tiền; khác 'ngân sách' (kế hoạch).", "Quốc khố; ngân khố tỉnh.", "Lê Văn Đức 1970: 'Kho bạc, cơ quan nhà nước lo khâu tiền thuế...'.", "SRC-001", "", "1970", "VERIFIED", "kinh_te", "Phân biệt: ngân khố=cơ quan, ngân sách=kế hoạch.", "kinh_te", "tai_chinh_cong", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["hưu bổng", "danh_tu", "Tiền hưu trí cho công chức về hưu; khác 'lương hưu' hiện nay.", "Hưu bổng; quỹ hưu bổng.", "Lê Văn Đức 1970: 'Tiền hưu trí... cấp lại hàng tháng...'.", "SRC-001", "", "1970", "VERIFIED", "kinh_te", "Chuẩn VNCH.", "kinh_te", "bao_hiem_huu", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["địa ốc", "danh_tu", "Nhà và đất; bất động sản theo chuẩn VNCH.", "Địa ốc ngân hàng; đầu tư địa ốc.", "Lê Văn Đức 1970: 'Nhà và đất, thuộc nhà và đất'.", "SRC-001", "", "1970", "VERIFIED", "kinh_te", "Khác 'bất động sản' hiện nay.", "kinh_te", "bat_dong_san", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["nầy", "tinh_tu", "Này (chỉ vật gần) - chính tả Nam Bộ thay 'này'.", "Năm nầy; ngày nầy; trước nầy; sau nầy.", "Phan Khôi 1955 (SRC-021): 'bộ Tự điển nầy'.", "SRC-021", "", "1955", "VERIFIED", "chinh_ta", "BẮT BUỘC dùng 'nầy' thay 'này' trong văn viết.", "chinh_ta", "van_dung", "viet_nam_cong_hoa", "nam_bo", "van_viet"],
+    ["chớ", "liên_tu", "Nhưng, mà (nhấn mạnh tương phản) - từ nối Nam Bộ đặc trưng.", "Bổn cảo chớ chưa thành sách.", "Phan Khôi 1955 (SRC-021).", "SRC-021", "", "1955", "CROSS_VERIFIED", "van_dung_thuong_ngay", "Ưu tiên dùng thay 'mà/nhưng' khi đối lập.", "ho_tro", "lien_tu_ngu_phap", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["vả", "liên_tu", "Huống chi, lại còn (bổ sung lý lẽ).", "Vả cái a nếu là cái rèn bằng sắt...", "Phan Khôi 1955 (SRC-021).", "SRC-021", "", "1955", "VERIFIED", "van_dung", "Dùng thay 'hơn nữa' trong văn trang trọng.", "ho_tro", "lien_tu_ngu_phap", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["trái lại", "liên_tu", "Ngược lại, trái ngược (tương phản).", "Trái lại, miền Nam yếu hơn...", "Grammar Engine §1.8; Bách Khoa 405.", "SRC-009", "", "1957-1975", "VERIFIED", "van_dung", "Ưu tiên dùng thay 'ngược lại'.", "ho_tro", "lien_tu_ngu_phap", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["tuy vậy", "liên_tu", "Dù vậy, tuy nhiên (chuyển ý) - ưu tiên hơn 'tuy nhiên'.", "Tuy vậy, kết quả không như mong đợi.", "Grammar Engine §1.8; Phan Khôi 1955.", "SRC-021", "", "1955", "VERIFIED", "van_dung", "Dùng thay 'tuy nhiên' (quá Bắc).", "ho_tro", "lien_tu_ngu_phap", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["bởi thế", "liên_tu", "Vì vậy, do đó (nhân quả) - ưu tiên hơn 'vì vậy'.", "Bởi thế, chánh phủ quyết định...", "Grammar Engine §1.8; Phan Khôi 1955.", "SRC-021", "", "1955", "VERIFIED", "van_dung", "Dùng thay 'vì vậy' (quá Bắc).", "ho_tro", "lien_tu_ngu_phap", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["đã... rùi/hẵng", "cụm_tu", "Thể hoàn thành Nam Bộ (đã... rồi).", "Đã ký kết rùi; đã chấm dứt hẵng.", "Grammar Engine §1.5; Phan Khôi 1955.", "SRC-021", "", "1955", "VERIFIED", "van_dung", "Văn học thuật dùng dạng đầy đủ hơn 'đã'.", "ho_tro", "the_khia", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["đang... xong/tiến hành", "cụm_tu", "Thể đang diễn ra Nam Bộ (văn viết).", "Đang tiến hành ký kết; đang ký kết xong.", "Grammar Engine §1.5; Phan Khôi 1955.", "SRC-021", "", "1955", "VERIFIED", "van_dung", "Dùng thay 'đang' rút gọn.", "ho_tro", "the_khia", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["sắp sẽ/chuẩn bị sẽ", "cụm_tu", "Thể sắp tới Nam Bộ.", "Sắp sẽ ký; chuẩn bị sẽ triển khai.", "Grammar Engine §1.5; Phan Khôi 1955.", "SRC-021", "", "1955", "VERIFIED", "van_dung", "Dùng thay 'sẽ' rút gọn.", "ho_tro", "the_khia", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["vừa... mới/mới... xong", "cụm_tu", "Thể vừa mới Nam Bộ.", "Vừa ký xong; mới kết thúc xong.", "Grammar Engine §1.5; Phan Khôi 1955.", "SRC-021", "", "1955", "VERIFIED", "van_dung", "Dùng thay 'vừa mới' rút gọn.", "ho_tro", "the_khia", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["chưa... bao giờ/vẫn chưa", "cụm_tu", "Thể chưa Nam Bộ.", "Chưa bao giờ ký; vẫn chưa quyết định.", "Grammar Engine §1.5; Phan Khôi 1955.", "SRC-021", "", "1955", "VERIFIED", "van_dung", "Dùng thay 'chưa' rút gọn.", "ho_tro", "the_khia", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["người ấy/ông ấy/bà ấy", "đại_tu", "Đại từ nhân xưng thứ 3 trang trọng Nam Bộ.", "Người ấy lập luận rằng...; Ông ấy là nhà sử học...", "Grammar Engine §1.7; Phan Khôi 1955.", "SRC-021", "", "1955", "VERIFIED", "van_dung", "CẤM dùng 'hắn, y, nó' chỉ người.", "ho_tro", "dai_tu_xung_ho", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["dầu/dẫu", "liên_tu", "Mặc dù (nhượng bộ) - ưu tiên Nam Bộ.", "Dầu đã nỗ lực...", "Grammar Engine §1.8; Phan Khôi 1955.", "SRC-021", "", "1955", "VERIFIED", "van_dung", "Dùng thay 'mặc dù' (quá Bắc).", "ho_tro", "lien_tu_ngu_phap", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["Nam Kỳ", "danh_tu", "Cochinchina/Cochinchine (miền Nam Việt Nam thời thuộc địa).", "Nam Kỳ là vùng đất màu mỡ.", "Lê Văn Đức 1970; Quy tắc 15 Style Guide.", "SRC-001", "", "1970", "VERIFIED", "dia_ly", "Chỉ dùng 'Nam Kỳ', KHÔNG giữ 'Cochinchina/Cochinchine'.", "dia_ly", "dia_ly_thuoc_dia", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["Trung Kỳ", "danh_tu", "Annam (miền Trung Việt Nam thời thuộc địa).", "Trung Kỳ do quan lại triều Nguyễn cai trị.", "Lê Văn Đức 1970; Quy tắc 15 Style Guide.", "SRC-001", "", "1970", "VERIFIED", "dia_ly", "Chỉ dùng 'Trung Kỳ', KHÔNG giữ 'Annam'.", "dia_ly", "dia_ly_thuoc_dia", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["Bắc Kỳ", "danh_tu", "Tonkin (miền Bắc Việt Nam thời thuộc địa).", "Bắc Kỳ là vùng quê hương của nhiều nhà cách mạng.", "Lê Văn Đức 1970; Quy tắc 15 Style Guide.", "SRC-001", "", "1970", "VERIFIED", "dia_ly", "Chỉ dùng 'Bắc Kỳ', KHÔNG giữ 'Tonkin'.", "dia_ly", "dia_ly_thuoc_dia", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["Đông Dương", "danh_tu", "Indochine (Liên bang Đông Dương thuộc Pháp).", "Chính phủ Đông Dương; chiến tranh Đông Dương.", "Lê Văn Đức 1970; Quy tắc 15 Style Guide.", "SRC-001", "", "1970", "VERIFIED", "dia_ly", "Chỉ dùng 'Đông Dương', KHÔNG giữ 'Indochine'.", "dia_ly", "dia_ly_thuoc_dia", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["độc lập", "danh_tu/tinh_tu", "Tự chủ, không lệ thuộc nước ngoài; dùng thay 'giải phóng' trong văn phong VNCH.", "Nước độc lập; quyền độc lập.", "Lê Văn Đức 1970; Hiến pháp VNCH 1967.", "SRC-002", "", "1967", "VERIFIED", "chinh_tri", "Dùng thay 'giải phóng' (thuật ngữ Cộng sản).", "chinh_tri", "chu_quyen_doc_lap", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["đồng đạo", "danh_tu", "Người cùng chí hướng, đồng chí (trong ngữ cảnh VNCH).", "Các đồng đạo trong đảng.", "Lê Văn Đức 1970; Hiến pháp VNCH 1967.", "SRC-001", "", "1970", "VERIFIED", "chinh_tri", "Dùng thay 'đồng chí' (thuật ngữ Cộng sản).", "chinh_tri", "dang_phai_chinh_tri", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["cuốn/cái/con/cây/cục/bài", "chỉ_định", "Hệ thống chỉ định danh từ Nam Bộ (VNCH).", "Một cuốn sách; một cái bài; một con người; một cây bút; một cục đá.", "Grammar Engine §1.3; Phan Khôi 1955; Lê Văn Đức 1970.", "SRC-021", "", "1955", "VERIFIED", "ngu_phap", "BẮT BUỘC thêm chỉ định khi dịch 'a/an/the'.", "ho_tro", "chi_dinh", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+]
+
+
+def build_lexicon():
+    """Create MASTER_LEXICON.csv from scratch with seed data."""
+    OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+    with open(OUT_FILE, 'w', newline='', encoding='utf-8') as f:
+        w = csv.writer(f)
+        w.writerow(COLUMNS)
+        w.writerows(SEED_ROWS)
+    print(f"Built lexicon with {len(SEED_ROWS)} seed entries at {OUT_FILE}")
+    return len(SEED_ROWS)
+
+
+def update_lexicon():
+    """Append audit terms to existing lexicon (avoid duplicates)."""
+    # Read existing
+    existing_terms = set()
+    if OUT_FILE.exists():
+        with open(OUT_FILE, 'r', encoding='utf-8') as f:
+            reader = csv.reader(f)
+            header = next(reader, None)
+            for row in reader:
+                if row:
+                    existing_terms.add(row[0].strip().lower())
+    else:
+        print("Lexicon not found. Run 'build' first.")
+        return 0
+
+    # Filter new terms (avoid duplicates by tu_chuan)
+    new_terms = []
+    skipped = []
+    for term in AUDIT_TERMS:
+        if term[0].strip().lower() not in existing_terms:
+            new_terms.append(term)
+        else:
+            skipped.append(term[0])
+
+    if skipped:
+        # Write to file to avoid console encoding issues
+        skipped_file = OUT_FILE.parent / "skipped_terms.txt"
+        with open(skipped_file, 'w', encoding='utf-8') as f:
+            for t in skipped:
+                f.write(f"{t}\n")
+        print(f"Skipped {len(skipped)} duplicates (see {skipped_file})")
+
+    if not new_terms:
+        print("No new terms to add.")
+        return 0
+
+    # Append
+    with open(OUT_FILE, 'a', newline='', encoding='utf-8') as f:
+        w = csv.writer(f)
+        w.writerows(new_terms)
+
+    print(f"Added {len(new_terms)} new terms to {OUT_FILE}")
+    return len(new_terms)
+
+
+def verify_lexicon():
+    """Check lexicon integrity."""
+    if not OUT_FILE.exists():
+        print("Lexicon not found.")
+        return False
+
+    issues = []
+    with open(OUT_FILE, 'r', encoding='utf-8') as f:
+        reader = csv.reader(f)
+        header = next(reader, None)
+        if header != COLUMNS:
+            issues.append(f"Header mismatch: expected {len(COLUMNS)} columns, got {len(header)}")
+
+        seen = {}
+        for i, row in enumerate(reader, start=2):
+            if not row or not row[0].strip():
+                issues.append(f"Line {i}: Empty term")
+                continue
+            term = row[0].strip().lower()
+            if term in seen:
+                issues.append(f"Line {i}: Duplicate term '{row[0]}' (first at line {seen[term]})")
+            else:
+                seen[term] = i
+            if len(row) != len(COLUMNS):
+                issues.append(f"Line {i}: Column count mismatch ({len(row)} vs {len(COLUMNS)})")
+            for j, cell in enumerate(row):
+                try:
+                    cell.encode('utf-8')
+                except UnicodeEncodeError as e:
+                    issues.append(f"Line {i}, Col {j}: Encoding error - {e}")
+
+    # Write issues to file to avoid console encoding issues
+    issues_file = OUT_FILE.parent / "verify_issues.txt"
+    with open(issues_file, 'w', encoding='utf-8') as f:
+        if issues:
+            f.write(f"Found {len(issues)} issues:\n")
+            for issue in issues:
+                f.write(f"  - {issue}\n")
+        else:
+            f.write("Lexicon verification PASSED\n")
+
+    # Print summary to console (ASCII only)
+    if issues:
+        print(f"Found {len(issues)} issues (details in {issues_file})")
+        return False
+    else:
+        print("Lexicon verification PASSED")
+        return True
+
+
+def stats_lexicon():
+    """Show lexicon statistics."""
+    if not OUT_FILE.exists():
+        print("Lexicon not found.")
+        return
+
+    with open(OUT_FILE, 'r', encoding='utf-8') as f:
+        reader = csv.reader(f)
+        header = next(reader, None)
+        rows = list(reader)
+
+    print(f"Total entries: {len(rows)}")
+    print()
+
+    # By verification
+    ver = Counter(r[8] for r in rows if len(r) > 8)
+    print("By verification:")
+    for k, v in ver.most_common():
+        print(f"  {k}: {v}")
+    print()
+
+    # By domain (linh_vuc)
+    dom = Counter(r[9] for r in rows if len(r) > 9)
+    print("By domain (linh_vuc):")
+    for k, v in dom.most_common():
+        # Replace non-ASCII for console
+        k_safe = k.encode('ascii', 'replace').decode('ascii')
+        print(f"  {k_safe}: {v}")
+    print()
+
+    # By word class (loai_tu)
+    cls = Counter(r[1] for r in rows if len(r) > 1)
+    print("By word class (loai_tu):")
+    for k, v in cls.most_common():
+        print(f"  {k}: {v}")
+    print()
+
+    # By region (phan_loai_khu_vuc)
+    reg = Counter(r[14] for r in rows if len(r) > 14)
+    print("By region (phan_loai_khu_vuc):")
+    for k, v in reg.most_common():
+        k_safe = k.encode('ascii', 'replace').decode('ascii')
+        print(f"  {k_safe}: {v}")
+
+
+def main():
+    if len(sys.argv) < 2:
+        print("Usage: python build_lexicon.py <build|update|verify|stats>")
+        return 1
+
+    cmd = sys.argv[1].lower()
+    if cmd == "build":
+        build_lexicon()
+    elif cmd == "update":
+        update_lexicon()
+    elif cmd == "verify":
+        verify_lexicon()
+    elif cmd == "stats":
+        stats_lexicon()
+    else:
+        print(f"Unknown command: {cmd}")
+        return 1
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

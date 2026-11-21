@@ -1,0 +1,739 @@
+424
+The American prisoner of war (POW) experience dominates American 
+understandings of the Vietnam War. That was true during the war, when 
+American POWs “became the objects of a virtual cult,” as reporter Jonathan 
+Schell wrote at the time. It became even more true after the war, when 
+American POWs and their missing-in-action (MIA) counterparts overshad-
+owed far larger populations touched by the war, including other American 
+veterans. As the war’s more immediate horrors faded from view, the suffer-
+ing of American POWs, real and imagined, still featured in presidential rhet-
+oric, congressional hearings, and US diplomacy; in movies, television, books, 
+and the popular press; and on POW/MIA flags in the public square. From 
+John McCain to John Rambo, POWs were made surrogates for all Americans 
+who served in Vietnam: “All our sons in Vietnam are POWs,” declared the 
+antiwar group Another Mother for Peace in 1971. They became stand-ins 
+for all Americans in relation to that conflict: “We’re Still Prisoners of War,” 
+Newsweek wrote in 1985. Half a century on from the war, their prominence has 
+faded but not disappeared. In November 2019, US President Donald Trump 
+signed the National POW/MIA Flag Act, enacted by Congress with unan-
+imous consent, which mandated that the black-and-white banner, embla-
+zoned with the words “You Are Not Forgotten,” must be flown whenever 
+the American flag flies at the White House, the US Capitol, and other federal 
+buildings and national monuments, including every US post office.1
+All this was unusual. In the annals of American warfare POWs were more 
+often scorned than lionized. Indeed, Trump’s 2016 run for the White House 
+recalled this tradition: “Does being captured make you a hero?” Trump asked 
+19
+The US POW Experience, American 
+Veterans, and the War
+Michael J. Allen
+	1	 This chapter draws on research and ideas presented at greater length and in different 
+form in Michael J. Allen, Until the Last Man Comes Home: POWs, MIAs, and the Unending 
+Vietnam War (Chapel Hill, NC, 2009). “All our sons” from ibid., 14, 40; “We’re Still 
+Prisoners of War,” Newsweek, April 15, 1985.
+
+The US POW Experience, Veterans, and the War
+425
+of McCain at the time. “He’s not a war hero, because he was captured,” 
+sneered Trump. “I like people that weren’t captured.”2 Such talk was com-
+mon before the Vietnam War, but shocking after it as POWs emerged as 
+the lost war’s principal paragons. Eight American prisoners of the Vietnam 
+War received the Congressional Medal of Honor, the nation’s highest award 
+for military valor, representing 3 percent of Vietnam veterans to receive that 
+distinction. Two dozen were promoted to the rank of admiral or general. 
+Three were elected to Congress, two to the Senate, and two were named 
+US ambassadors. Admiral James Stockdale, among the highest-ranking and 
+longest-held American POWs, was Ross Perot’s running mate in his 1992 
+presidential bid. And McCain was the Republican nominee for president in 
+2008 and nearly claimed that prize in 2000.3
+Such prominence is more remarkable still given the small number of 
+Americans captured in Indochina – under 800 total, with 591 imprisoned until 
+war’s end. Their numbers were negligible compared with the numbers cap-
+tured in earlier American wars – over 130,000 Americans were interned in 
+World War II and some 7,000 in Korea. So too was their population dwarfed 
+by the 58,000 Americans killed in Indochina and the 303,000 Americans 
+wounded there, not to mention the 200,000 or more Vietnamese POWs held 
+by the US-backed Republic of Vietnam (RVN), a group that attracted little 
+notice at the time or since.4
+Finally, the cult of American POWs is odd given that these men were 
+strikingly unrepresentative of the 3.4 million Americans who served in the 
+Vietnam War, and their experience bore little resemblance to that of other 
+Vietnam veterans. Consisting mostly of downed aviators, the prisoners 
+were older, whiter, better educated, and better paid than most American 
+troops; most were officers, not enlisted men; most were married, many with 
+children; and most spent the better part of a decade in strict confinement and 
+material hardship while other American service personnel cycled in and out 
+	2	 Felicia Sonmez, “Donald Trump on John McCain in 1999,” Washington Post, August 
+7, 2018; Philip Rucker, “Trump Slams McCain for Being ‘Captured’ in Vietnam,” 
+Washington Post, July 18, 2015.
+	3	 Jamie Howren and Taylor Baldwin Kiland, Open Doors: Vietnam POWs Thirty Years Later 
+(Washington, DC, 2005), 151–66 provides a compendium of the honors won by and dis-
+tinctions bestowed upon American POWs.
+	4	 Stuart I. Rochester and Frederick Kiley, Honor Bound: American Prisoners of War in 
+Southeast Asia, 1961–1973 (Annapolis, MD, 1999), appendices 1 and 3; Department of 
+Veterans Affairs, “America’s Wars,” November 2020: www.va.gov/opa/publications/
+factsheets/fs_americas_wars.pdf. Vietnamese POWs discussed in Jeremy Kuzmarov, 
+“Modernizing Repression: Police Training, Political Violence, and Nation-Building in 
+the ‘American Century,’” Diplomatic History 33 (2) (2009), 215–19.
+
+Michael J. Allen
+426
+of Vietnam on twelve-month tours defined by constant motion and mate-
+rial abundance. Their differences with millions more draft-eligible Americans 
+who never served in Vietnam were greater still. Donald Trump, who used a 
+bone-spurs diagnosis to avoid being captured by the war, was closer to the 
+norm than was John McCain, who was born in 1936, a decade prior to the 
+baby boom that supplied such a surplus of men to fight – or, more often, not 
+to fight – in Vietnam.5
+But if Trump represented the predominant American experience in the 
+Vietnam era, McCain and his fellow POWs offered a more flattering por-
+trait, which is why the POW experience, however unusual, loomed large 
+in American memory while more typical but less attractive dimensions of 
+that experience faded from view. War remembrance works to “direct human 
+memory from the horrors to the meaningfulness and glory of war,” histo-
+rian George Mosse once wrote.6 In that sense it was precisely the anomalous 
+character of the POW experience that made it central to American memory. 
+In a war that was disorienting, disheartening, and divisive for Americans, 
+the POW experience was simple, legible, uplifting, and potentially unifying, 
+especially for the nation’s white majority, which identified most closely with 
+the war, its warriors, and the nation’s war-making traditions. Who and what 
+the POWs represented was clear in part because the POWs were a small, 
+homogenous elite, with little of the diversity or dissent that defined so much 
+else in the war. They were patriotic white men who stood for the heroism 
+and sacrifice of white men and their families in the fight against nonwhite 
+revolutionaries. In that sense they stood for the nation as its ruling white 
+majority preferred to imagine it. Unlike the rest of the war, which called into 
+question the nation’s hegemonic beliefs and practices, the POW experience 
+reified nationalist values, validated counterrevolutionary ideology, and reaf-
+firmed a crusading US foreign policy.7
+Who was responsible for POW captivity was also clear: Asian commu-
+nists and Americans who sympathized with such racialized revolutionary 
+	5	 See Christian Appy, Working-Class War: American Combat Soldiers and Vietnam (Chapel 
+Hill, NC, 1993), 17–28 for discussion of “the Vietnam generation’s military minority.” 
+On the sociology of American POWs, see Craig Howes, Voices of the Vietnam POWs: 
+Witnesses to Their Fight (New York, 1993), introduction. For more characteristic American 
+military service in Vietnam, see Meredith Lair, Armed with Abundance: Consumerism and 
+Soldiering in the Vietnam War (Chapel Hill, NC, 2011).
+	6	 George Mosse, Fallen Soldiers: Reshaping the Memory of the World Wars (New York, 1990), 50.
+	7	 Most scholars who have written on the POW issue have made similar claims. For one 
+early and insightful example, see Elliot Gruner, Prisoners of Culture: Representing the 
+Vietnam POW (New Brunswick, NJ, 1993).
+
+The US POW Experience, Veterans, and the War
+427
+foes, especially those in the antiwar movement, the student left, the Black 
+Freedom Struggle, women’s liberation, and other reform movements. The 
+prospect of POW suffering reversed culpability for the war, indicting Asians 
+who suffered under American bombs while exonerating those who bombed 
+them, even as sympathy for POWs served to absolve American architects of 
+the war and impugn their critics, all while inciting more war. If US policy and 
+those who made it caused their capture, their long and brutal captivity drew 
+attention away from that fact and linked their Vietnamese captors to slavery 
+and barbarism while associating Americans with freedom and nobility. And 
+POW survival promised the resurgence of American power after US defeat, 
+along with the return of racial and gender hierarchies and patriotic values 
+that the POWs personified. Such clash-of-civilizations tropes made captivity 
+narratives among the most popular expressions of early American national-
+ism amid clashes with indigenous peoples. During and after the Vietnam War 
+such settler-colonial storylines, preserved in Cold War cinema such as John 
+Wayne’s 1956 film The Searchers, resurged as a way to make sense of US defeat 
+in Asia without abandoning the national and racial chauvinism that inspired 
+Americans to invade Vietnam in the first place.8
+“We now have some heroes in this war!” US President Richard Nixon 
+exulted as the POWs returned in 1973, a tacit admission that none of the 
+other Americans who served in Vietnam fit the heroic profile – at least, not 
+in his view. “They must be used effectively,” he told his staff; they “could 
+have a great impact on the destiny of this country.” Making effective use of 
+war heroes, or martyrs, to shape the nation’s destiny is precisely what Mosse 
+meant when he wrote about turning public consciousness from the horrors 
+to the glories of war. As Nixon grasped, POWs were important because they 
+gave Americans something the lost war otherwise denied: “the sense of men 
+redeemed, the satisfaction of something retrieved from the tragedy,” as Time 
+magazine put it.9
+But if Americans were drawn to POWs in hopes of redemption, some 
+embraced them as avenging angels who would set right what went wrong in 
+Vietnam. Here, too, their exclusivity mattered, since POWs represented not 
+	8	 These claims were given their earliest and most direct expression by H. Bruce Franklin, 
+M.I.A. or Mythmaking in America: How and Why Belief in Live POWs Has Possessed a Nation 
+(New Brunswick, NJ, 1993). On captivity narratives in the “American war story,” see 
+Tom Engelhardt, The End of Victory Culture: Cold War America and the Disillusioning of a 
+Generation (New York, 1995).
+	9	 Nixon quoted in Allen, Last Man, 66; Lance Morrow, “A Celebration of Men Redeemed,” 
+Time, February 19, 1973.
+
+Michael J. Allen
+428
+just the nation’s white majority but the loss of power and position that the 
+nation’s defeat visited upon white Americans, especially white working-class 
+men, who made up the bulk of the US military in Vietnam. Black Americans 
+were overrepresented in combat infantry units and died in disproportionate 
+numbers in the war’s early years, when ground fighting was most intense. Still, 
+87 percent of Vietnam veterans were white, as were 85.5 percent of Americans 
+killed in Vietnam, at a time when 87 percent of Americans were white. And 
+most of the white men sent to Vietnam were poor and working-class.10 What 
+white men lost in the war, white POWs would restore. Like Christ on the 
+cross or the Gettysburg dead, POW martyrs redeemed white male sins so 
+that white men could resume their place of leadership in their families, their 
+communities, their workplaces, the nation, and the world.11
+Yet because much of what changed during the war was welcomed by many 
+Americans or, even if unwelcome, proved irreversible, POWs and their MIA 
+counterparts became talismans in a “politics of loss” that blamed wartime 
+defeat for white dispossession and used POW/MIA advocacy to resist both. 
+True, these men were imprecise symbols for Vietnam veterans. But their 
+undeniable suffering resonated with those still fighting various lost causes 
+after the war, particularly in white working-class and veteran subcultures 
+where POW/MIA activism and iconography were most pronounced, even 
+as their redemption held out hope for final victory.12
+Cold War Icons
+None of this was anticipated in March 1961 when Army Major Lawrence 
+Bailey bailed out of a flaming C-47 troop transport over northeastern Laos, 
+becoming the first American POW in what came to be called the Vietnam 
+War. Part of the new Kennedy administration’s beefed-up but undeclared 
+	10	 Appy, Working-Class War, 17–38; Richard A. Kulka et al., Contractual Report of Findings 
+from the National Vietnam Veterans Readjustment Study (Research Triangle Park, NC, 
+1988), II-3.
+	11	 Natasha Zaretsky, No Direction Home: The American Family and the Fear of National Decline 
+(Chapel Hill, NC, 2007), chapter 1; Allen, Last Man, chapter 2 treats these themes.
+	12	 Kathleen Belew, Bring the War Home: The White Power Movement and Paramilitary 
+America (Cambridge, MA, 2018), Joseph Darda, How White Men Won the Culture Wars: 
+A History of Veteran America (Oakland, 2021), and Penny Lewis, Hardhats, Hippies, and 
+Hawks: The Vietnam Antiwar Movement as Myth and Memory (Ithaca, 2013), among others, 
+discuss how defeat in Vietnam gave rise to an aggrieved conservatism among white 
+Americans. I called this the “politics of loss” in Last Man. Here I invoke “lost causes” 
+to draw attention to the ways in which the politics of loss resembled the Lost Cause 
+ideology of the white South after the civil war, a theme explored in Last Man, 113–18.
+
+The US POW Experience, Veterans, and the War
+429
+“secret war” against communists operating in and passing through Laos on 
+the Hồ Chí Minh Trail between North and South Vietnam, Bailey was the 
+first of six Americans captured there that year. Five of those six survived until 
+their release in August 1962, which came soon after the United States signed 
+the International Declaration on the Neutrality of Laos, ending US combat 
+operations there for a time. But if their war was over, their experience set the 
+pattern for hundreds of Americans captured over the next twelve years as the 
+United States expanded its anticommunist fight from Laos to Vietnam. Four 
+of those first six American POWs were onboard US aircraft shot down over 
+communist territory in an air war of dubious legality. Three of the six were 
+officers, two were enlisted men, and one was an NBC correspondent. Five of 
+the six were born before World War II, averaging 31 years of age at the time 
+of capture. All were white, all were men, and all suffered injury, illness, dep-
+rivation, and brutal treatment. Army Captain Walter Moon, wounded in the 
+fighting that led to his capture and injured further in an escape attempt, was 
+shot dead for intransigence.13
+These patterns would define the American POW experience in Vietnam. 
+Army Captain Floyd Thompson, aged 31, was shot down on a reconnaissance 
+flight in March 1964, becoming the first American POW who would be held 
+until the Paris Agreement on Vietnam was signed in January 1973. Like most 
+Americans captured in Vietnam – and like most Laos captives before him – 
+Thompson was an officer lost over enemy territory, not an infantryman cap-
+tured in ground fighting. With few fixed battle lines or protracted battles, 
+ground combat in Vietnam produced relatively few casualties that could not 
+be recovered. This meant that 84 percent of American POWs were downed 
+aviators, and that most were captured and held in North Vietnam, where the 
+United States conducted extensive bombing over the first four years of the 
+war and again in its final year, but where US ground forces never operated, 
+making search-and-rescue efforts impossible. Even in South Vietnam, where 
+fewer Americans were captured, nearly half of American POWs were shoot-
+downs like Thompson.14 Given that military aircraft were operated by offi-
+cers, 88 percent of American POWs were officers, like Thompson. And given 
+that most officers at the time were white, so were 95 percent of American 
+	13	 Rochester and Kiley, Honor Bound, chapter 3.
+	14	 Of the 5,353 American airmen shot down in Indochina, 51 percent were recovered 
+through US search-and-rescue operations, 10 percent were captured, and the remainder 
+were missing or killed without being recovered. Airmen also represented 81 percent 
+of all missing US military personnel. House Select Committee on Missing Persons in 
+Southeast Asia, Americans Missing in Southeast Asia: Final Report Together with Additional 
+and Separate Views, 94th Congress, 2nd session, 1976, 45, 205.
+
+Michael J. Allen
+430
+POWs. As officers, these men were also older and better educated than most 
+Americans in Vietnam, with navy pilots averaging 30 years of age when cap-
+tured. And since most were captured early in the war, before the 1968 bomb-
+ing halt over North Vietnam, but were held until 1973, after the Paris Peace 
+Accords, they exited the war far older than other veterans, having served for 
+far longer. Like McCain, captured in 1967 when he was 31 years old, most 
+came of age in the 1950s, not the 1960s. And given their more advanced age, 
+two-thirds were married, many with children. “Never before in the history of 
+mankind had such an unusual group of prisoners been gathered,” wrote one. 
+And all that made them distinctive was most pronounced among those shot 
+down first, who came to define the POW experience because of, not despite, 
+their extraordinary character.15
+In an ill-considered, ill-defined, ineffectual war fought mostly by poor and 
+working-class “grunts” fresh out of high school, POWs were sympathetic 
+figures. Their age, education, and family status, along with their glamorous 
+service, elevated rank and pay, and unmistakable whiteness, distinguished 
+them from US ground forces in Vietnam, making them more comparable to 
+middle-class, middle-aged Americans, and thus more admirable in their eyes. 
+They possessed all the hallmarks of Cold War America’s idealized self-image, 
+which they sustained, even burnished, in a time of challenge. Before being 
+shot down, for instance, Air Force Lieutenant Colonel Robinson “Robbie” 
+Risner, a 40-year-old World War II veteran and Korean War ace, and father 
+to eight children, was featured on the April 23, 1965 cover of Time magazine 
+“as the classic example of the kind of dedicated military professional who 
+was leading the American effort in Vietnam.” “The US effort in Viet Nam 
+must be measured in terms of quality, not quantity,” it continued. “The 
+American serviceman in Viet Nam is probably the most proficient the nation 
+has ever produced.”16
+The desire for all this to be true only intensified among Time’s middle-class 
+readers during Risner’s seven years in captivity, as less gratifying images of 
+Americans in Vietnam came to the fore. Indeed, Risner and men like him 
+became even more attractive once relegated to Hanoi’s prisons, becom-
+ing victims rather than perpetrators of the war. More than troops in the 
+field, white middle-class aviators who were removed from battle but still 
+trapped in the war made perfect stand-ins for white middle-class Americans 
+in a long and bitter fight they were unable to win yet unable or unwilling 
+	15	 Allen, Last Man, 41–3; “Never before” from Howes, Voices, 7.
+16	 “Armed Forces: The Fighting American,” Time, April 23, 1965.
+
+The US POW Experience, Veterans, and the War
+431
+to end. As hero–victims, POWs reflected American ambivalence about the 
+war, allowing those Richard Nixon named the “Silent Majority” to grieve 
+the war’s costs without giving up on it or openly protesting it.
+From Precious Sons to Criminal Air Pirates
+Their distinctive profile mattered not only in America: it had a direct bearing 
+on the POW experience inside Vietnamese prisons. As Nhân Dân, Hanoi’s 
+Communist Party newspaper, explained, “to lose one of these ‘precious 
+sons’” created “anxiety over losing someone whose worth cannot be calcu-
+lated, such as military secrets which he possesses and the loss of morale by his 
+friends.” If Americans saw POWs as “precious sons,” North Vietnamese con-
+sidered them “criminal air pirates” waging an illegal war of aggression against 
+a sovereign state and its civilian population. Communist efforts to make this 
+case, outlined in a seventy-seven-page dossier titled US War Crimes in North 
+Vietnam that North Vietnam published in February 1966, moved Hanoi’s 
+jailers to seek admissions of guilt from downed American pilots. To secure 
+confessions, authorities used both sticks and carrots, promising preferential 
+treatment and early release to cooperative captives while treating the obdu-
+rate to solitary confinement, reduced rations, sleep deprivation, ankle stocks, 
+stress positions, rope torture, and beatings, all with an eye toward proving 
+American criminality before the world.
+Because the Hanoi prisoners were military officers with deep commit-
+ments to the US military, the Vietnam War, and the broader Cold War 
+struggle, not to mention an engrained sense of their own national and 
+racial superiority, they refused voluntary cooperation, leading to wide-
+spread abuse of American POWs between 1965 and 1968 as US bombing 
+intensified and the numbers of American prisoners grew. Together with 
+the serious injuries most pilots suffered during shootdown, physical and 
+mental abuse made these years a time “when hell was in session,” as 
+Navy Commander Jeremiah Denton titled his prison memoir. After US 
+President Lyndon Johnson authorized heavy bombing near Hanoi in June 
+1966, North Vietnamese authorities marched Denton, Risner, and other 
+Americans through the streets, where angry crowds hurled insults at 
+them – and sometimes rocks and fists – screaming “Death to you who have 
+massacred our dear ones.” Meanwhile Southern communists announced 
+the execution of first one then two more American POWs in June and 
+September 1965 in retaliation for the public execution of communist 
+POWs by the US-backed Saigon government, prompting the International 
+
+Michael J. Allen
+432
+Committee for the Red Cross to urge “all authorities” to abide by Geneva 
+Convention protections for prisoners of war.17
+Such abuse has defined American understandings of the POW experience 
+ever since. The suffering that American prisoners endured was seen at the 
+time and since as a sort of martyrdom, even a saintly act. But while the tor-
+ture of prisoners was real and cannot be excused, it is often exaggerated in 
+popular accounts and must be contextualized. First, it should be emphasized 
+that all prisoners of the Vietnam War suffered abuse, deprivation, and dis-
+ease, and that the Saigon government inflicted worse treatment on vastly 
+larger populations of political prisoners than anything Americans endured, 
+and it did so with the support of the US government.18 More broadly, the 
+people of Vietnam, Laos, and Cambodia faced more lasting and lethal vio-
+lence in the form of US combat operations, which cost some 3 million Asian 
+lives. Indeed, 20 percent of American POWs held in South Vietnam died in 
+captivity, compared with 5 percent in the North, thanks not to greater abuse 
+by their captors but to the greater dangers resulting from living among 
+Southern communists under relentless pursuit by US forces.19 To communist 
+officials, the violence that Americans unleashed on North Vietnam, a sover-
+eign state, without a formal declaration of war vacated American claims to 
+Geneva Convention protections. “You are not considered a prisoner of war 
+but fall under the policy of a criminal of war,” one Vietnamese interrogator 
+told an American. If most Americans and their government dismissed such 
+reasoning, some legal experts did not, noting that North Vietnam signed the 
+Geneva Convention with an express “Nuremberg reservation” that it would 
+not apply to those guilty of crimes against humanity. Even American POWs 
+found it difficult to answer “What would have happened if we were bombing 
+the United States and one of our pilots was shot down over Pittsburgh?” as 
+one was asked. This question gained credence in the United States and around 
+the world as American bombing grew in scale, scope, and ferocity, and any 
+analysis of the POW experience must acknowledge that the asymmetric vio-
+lence of US bombing, together with the fact that most POWs were pilots who 
+volunteered to carry out mechanized warfare against a largely defenseless 
+	17	 Howes, Voices, part I, and Rochester and Kiley, Honor Bound, chapters 8–11 provide 
+detailed histories of torture inside Hanoi’s prisons, and abuse dominates POW 
+memoirs.
+	18	 Kuzmarov, “Modernizing Repression”; Howes, Voices, 54; Christian Appy, American 
+Reckoning: The Vietnam War and Our National Identity (New York, 2015), 111.
+	19	 For relative POW mortality rates, see Rochester and Kiley, Honor Bound, 230–2; Howes, 
+Voices, 6.
+
+The US POW Experience, Veterans, and the War
+433
+population, helps to account for prisoner abuse.20 Finally, it should be noted 
+that abuse of American prisoners was not constant throughout the war but 
+diminished over time. Amid international backlash to the forced march 
+through Hanoi, Democratic Republic of Vietnam (DRVN) President Hồ Chí 
+Minh affirmed that his government’s policy “with regard to the enemies cap-
+tured in war is a humanitarian policy.” After 1966, mistreatment lessened, 
+though it did not fully end until 1969.21
+Hanoi moderated its strongarm tactics because those tactics backfired, 
+bringing condemnation even from sympathetic corners, such as the Red 
+Cross. Though it is true that the US air war against North Vietnam was of 
+questionable legality and dubious ethics, abuses of American POWs vio-
+lated Geneva Convention protections – as did Saigon’s brutality toward its 
+political prisoners – and all such violence was abhorrent. Fundamentally, 
+it was impossible for Hanoi to seize the moral high ground by abusing 
+American prisoners. American pilots knew this and did all they could to 
+publicize their mistreatment as a counteroffensive against communist 
+claims. In May 1966, for instance, Denton famously blinked the word 
+“TORTURE” in Morse code as he was being interviewed by a Japanese 
+television reporter in a session his captors had arranged with the expecta-
+tion that he would criticize US bombing, something he refused to do once 
+on camera. Such performances did more harm than good to the commu-
+nist cause.
+Faced with such resistance, communists moved to using early release rather 
+than abuse to win propaganda points. This approach worked best in the South, 
+where a more diverse POW population with more enlisted infantrymen was 
+more willing to follow their captors’ lead and condemn US war-making. In 
+November 1965, the National Front for the Liberation of Southern Vietnam 
+(NLF, or Viet Cong) released two army enlisted men, one white and one 
+Black, to coincide with the March on Washington for Peace in Vietnam after 
+each made antiwar statements. Over sixty Americans were released in this 
+way over the course of the war, mostly from the South but including twelve 
+from Hanoi, usually after the parolees denounced the war. Acts of mercy 
+demonstrated the peaceful intent of communist leaders more effectively than 
+	20	 Howes, Voices, 41–6 and Rochester and Kiley, Honor Bound, 188–94 discuss the war-
+crimes issue with material quoted here taken from Howes, Voices, 42 and 57.
+	21	 Hồ quoted in Allen, Last Man, 20. The shift to less punitive treatment as the war went 
+on is well established – see Rochester and Kiley, Honor Bound, 226 – but most POWs 
+maintain that their abuse continued until 1969, with more severe treatment reserved 
+for the most insubordinate inmates and for their senior command.
+
+Michael J. Allen
+434
+violence against American captives. Given that most early releases involved 
+enlisted men captured in South Vietnam, often released into the custody of 
+peace activists, they also placed the Vietnamese Revolution in solidarity with 
+peace and freedom movements elsewhere, including “the just struggle of the 
+US Negroes … for basic national rights,” as the NLF proclaimed upon releas-
+ing two Black soldiers in 1967, while relieving beleaguered Southern fighters 
+of responsibility for keeping prisoners fed, concealed, and alive.22
+The Fight for Moral Authority
+The release of American POWs signaled to the world that these men could 
+return home if only the US government ended the war, a message that 
+Vietnamese authorities and American peace activists reinforced by cooperat-
+ing on prisoner paroles. Because POWs were high-profile to begin with – and 
+made more so by communist propaganda – and because they were the only 
+Americans in Vietnam unable to be called home by the US government, they 
+proved valuable bargaining chips in communist diplomacy, and became more 
+	22	 Rochester and Kiley, Honor Bound, 173–6, 186; Allen, Last Man, 16–24, 310, fn. 6.
+Figure 19.1  American airmen, captured by North Vietnamese forces, are paraded 
+through the streets of Hanoi (July 6, 1966).
+Source: – / Contributor / AFP / Getty Images.
+
+The US POW Experience, Veterans, and the War
+435
+so as the war dragged on. Each year the war continued meant more Americans 
+in Vietnamese prisons while adding another year to the captivity of those 
+already there, lending urgency to calls to end the war in the United States. 
+As Americans gave up on other rationales for waging war, the well-being of 
+American POWs became “the only remaining war aim of any respectability.” 
+Nixon tried to turn this to his advantage, telling Americans that “as long as 
+the North Vietnamese have any Americans there will be Americans in South 
+Vietnam, and enough Americans to give them an incentive to release the 
+prisoners.” But administration officials knew that by making the POWs the 
+primary rationale for the war’s continuation they made it likely that “Hanoi 
+may use prisoners explicitly to try to squeeze a timetable out of us,” as one 
+predicted. In 1971, North Vietnam’s lead negotiator Lê Đức Thọ did just that, 
+telling the New York Times that “all American prisoners may promptly return 
+to their homes” with the “withdrawal of American forces from Vietnam.”23
+Implicit in such offers was the obverse: most POWs would not return until 
+US withdrawal. By releasing low-ranking cooperative POWs while detain-
+ing more numerous high-ranking obdurate ones, communists appealed to 
+war-weary Americans while pressing US policymakers to end the war. “We 
+will not settle the war just for prisoners,” snapped National Security Advisor 
+Henry Kissinger in his secret talks with Hanoi. But administration officials 
+could not say that publicly when the POWs were more important to American 
+voters than the survival of the Saigon government. So, Nixon obfuscated by 
+conflating American MIAs – men the Pentagon had little reason to believe 
+were alive – with the much smaller number of confirmed POWs, then mak-
+ing unprecedented and impossible demands that Hanoi must “account for” 
+all of them before the war would end. Such sleight of hand originated the 
+irresolvable “POW/MIA issue” that persists to this day, authorizing further 
+assaults on Vietnam that continued long after the war’s official end.24 But it 
+satisfied few Americans at the time, and fewer with each passing year. “The 
+obvious solution to the POW problem is to end the war,” countered one 
+antiwar group. In the last two years of the war this position was echoed by 
+POW/MIA Families for Immediate Release and by antiwar politicians like 
+Democratic presidential nominee George McGovern.25
+	23	 Allen, Last Man, 47–50.
+	24	 Edwin A. Martini, Invisible Enemies: The American War on Vietnam, 1975–2000 (Amherst, 
+MA, 2007).
+	25	 Allen, Last Man, 22–3, 50–6.
+
+Michael J. Allen
+436
+The goal of Vietnamese POW propaganda and diplomacy was to win 
+friends and demoralize foes in Vietnam, the United States, and the world. 
+Over the course of the war communists learned that they could better pur-
+sue this goal through suasion than coercion. But neither course was easy, 
+because most American POWs, especially the officer–aviators in Hanoi, were 
+determined to thwart Vietnamese designs, and they were not passive pawns 
+despite their captive status. POW agency can be hard to spot within the con-
+text of Hanoi’s prisons, particularly when it involved provoking and publiciz-
+ing the very abuse Vietnamese jailers were eager to dish out. Yet American 
+resistance to Vietnamese authority did as much to shape the POW expe-
+rience as Vietnamese intent, as evidenced by the fact that Americans who 
+cooperated with their captors were treated humanely. Most POWs, how-
+ever, chose a different path when Hanoi asked captives “to decide whether 
+they were going to repent their crimes and join with the Vietnamese people 
+in seeking a just end to Washington’s illegal and immoral war, or to continue 
+on their belligerent ways.” Faced with this choice, “we forced them to be 
+brutal to us,” Denton, the navy’s second-highest ranking officer in Hanoi, 
+later said. “And this policy was successful,” he continued, “in that the conse-
+quent exposure to their brutality ultimately caused United States public and 
+official pressure to bear so heavily on our captors.” In pursuing this course, 
+POWs saw themselves not as helpless victims of Vietnamese power but as 
+indomitable combatants in what they called “the battle for Hanoi,” a fight 
+for moral authority before the world where “the only weapons we had were 
+our bodies and our pain.” “Everybody says we had nothing to do,” remarked 
+one returned POW. “But we did have something to do,” namely “to resist 
+the North Vietnamese attempts to exploit us.” In this fight “the V’s got noth-
+ing,” said another. “They tortured people but they got nothing. I kept faith in 
+what I believed in – my God, my country, and my family.” “I want you all to 
+remember we walked out of Hanoi as winners.”26
+Such a dynamic may have emerged in any Cold War prison, given that 
+conflict’s ideological dimensions. Prisoner indoctrination and abuse also fea-
+tured in Saigon’s prisons, in communist and noncommunist prisons during 
+the Korean War, and in “reeducation camps” throughout the world. But the 
+ubiquity of such practices in carceral settings returns us to the question of 
+why the POW experience in Vietnam captured the American imagination. 
+The answer derives in part from the determination of American POWs in 
+Hanoi to distinguish themselves from their Korean War predecessors, who 
+26	 Allen, Last Man, 77; Howes, Voices, 50, 70, 94.
+
+The US POW Experience, Veterans, and the War
+437
+	27	 Department of Defense, “POW: The Fight Continues after the Battle,” July 29, 1955: 
+www.loc.gov/rr/frd/Military_Law/pdf/POW-report.pdf; Howes, Voices, 117–20, 248. 
+Most prisoners, including senior commanders in Hanoi, saw the code of conduct as a 
+set of principles more than a binding set of commands, in part because, if followed to 
+the letter, the code risked death, in part because its “to the utmost of my ability” clause 
+allowed exceptions under duress, which the prisoners constantly faced.
+were deemed insufficiently resistant to communist “brainwashing.” To 
+guard against a repeat performance of prisoner collaboration, the Pentagon 
+issued a report in 1955 titled “POW: The Fight Continues after the Battle” 
+that included a strict new code of conduct that ordered POWs to “make no 
+oral or written statements disloyal to my country,” to “accept neither parole 
+or special favors from the enemy,” and to “resist by all means available … 
+to the utmost of my ability.” These dictates were drilled into US pilots at 
+air force and navy survival schools, which were also beefed up after Korea, 
+leaving aviators primed to resist communist indoctrination.27 With limited 
+means to demonstrate their resistance to audiences outside Vietnamese 
+prisons, especially with their captors determined to publicize their guilt and 
+contrition before the world, POWs made their resistance as dramatic as pos-
+sible, engaging in theatrical displays such as that Denton staged when he 
+blinked out “TORTURE” on television. Watching as POWs “came back on 
+our feet, rather than our knees,” as one put it, Nixon likened it to “a great 
+play or a great movie – you had a helluva bunch of stars on this one – it’s an 
+all-star cast.”28
+Nixon’s remarks remind us that the communists weren’t the only actors 
+in Hanoi. American POWs acted too. In some sense, their performance in 
+Hanoi’s prisons was but one act in the broader theatrical production of the 
+Cold War, a war in which signs, signals, appearances, and perceptions mattered 
+more than material realities on any given battlefield. As officers who began 
+their careers during the Red Scare, American POWs had spent years learning 
+their lines via loyalty oaths, security clearances, and codes of conduct. As 
+they prepared for leading roles, they envisioned their parts in the lofty terms 
+Kennedy laid out in his inaugural address, which framed the Cold War less in 
+terms of armed conflict than as a social–political contest for hearts and minds. 
+“Let every nation know …” Kennedy proclaimed, before launching into a 
+long recital of the material and moral goods the United States claimed to rep-
+resent on the world stage.29 Their senior officers, Navy Commanders James 
+	28	 Allen, Last Man, 67–8.
+	29	 Jonathan Schell, Time of Illusion (New York, 1976), chapter 6 emphasizes how central 
+appearances were in the Vietnam War and Cold War. This was true not only for Nixon, 
+Schell’s subject, but for all parties to the conflict. John F. Kennedy, “Inaugural Address,” 
+January 20, 1961: www.presidency.ucsb.edu/documents/inaugural-address-2.
+
+Michael J. Allen
+438
+Stockdale and Jeremiah Denton, mastered theories of flexible response and 
+the credibility of power while earning master’s degrees in international rela-
+tions during Kennedy’s presidency – Stockdale at Stanford, Denton at George 
+Washington – just prior to shipping off to Vietnam, where the growing US 
+mission was presented as an effort to show American resolve to a watching 
+world. Given such training, it is hardly surprising that Stockdale concluded 
+soon after his August 1965 capture that “the American POW did not suddenly 
+find himself on the war’s sidelines. Rather, he found himself on one of the 
+major battlefronts – the propaganda battlefront.” Like his captors, Stockdale 
+knew the importance of public opinion to the Cold War’s contest of arms. 
+As commanders on the propaganda front, Stockdale, Denton, and Risner, 
+the senior air force man and Time cover star, fought to win. They developed 
+means of communication, including but not limited to a tap code for nonver-
+bal transmission, established a chain of command, and ordered their men “to 
+take torture, forcing the Vietnamese to impose significant pain” before acced-
+ing to their demands. They knew that they could not resist all cooperation. 
+But their orders required that Americans “should resist until they broke us 
+and, when we recovered, make them break us again,” as Denton explained, 
+to demonstrate to their captors, themselves, and the world that their cooper-
+ation was coerced and insincere, and that communists were aggressors and 
+liars. To that end they insisted that no American should participate in Hanoi’s 
+“fink release program,” which required and rewarded displays of deference 
+to Vietnamese authority, and they threatened to bring court-martial charges 
+against those who did upon their return home.30
+Not all prisoners lived by these rules. Twelve Hanoi men were granted 
+early release. And late-arriving “new guys” shot down after the bombing of 
+North Vietnam resumed in 1972 saw the old guard as rigid, even fanatical, 
+as did some Southern POWs moved North for safekeeping in the war’s last 
+years. Still, that just twelve Northern POWs took early release – including 
+Hanoi’s lone enlisted man, who was given permission by his officers in order 
+to smuggle intelligence out of the camps – suggests the determined resis-
+tance of most others. Disciplined, competitive, resourceful, and proud, with 
+abiding commitments to US nationalist culture, which for many included a 
+devout Christianity and strong sense of global mission, the Hanoi prisoners 
+were well-suited for waging ideological war. Many, including Stockdale and 
+	30	 Jim and Sybil Stockdale, In Love and War: The Story of a Family’s Ordeal and Sacrifice 
+during the Vietnam Years (New York, 1984); Rochester and Kiley, Honor Bound, chapter 7, 
+with Stockdale quote from 129. Howes, Voices, chapter 3 offers an insightful analysis of 
+these issues with quoted material from pages 23, 30, 66–7, 96.
+
+The US POW Experience, Veterans, and the War
+439
+Denton, attended military service academies before making a career in the 
+armed forces, leaving them jealous of their reputations within peer groups that 
+extended across the US armed forces. And some, like John Sydney McCain III, 
+came from families with long records of military service, and thus felt obliged 
+to live up to the reputations and expectations of their fathers and grandfathers. 
+McCain’s father, John Sydney McCain, Jr., and grandfather, John Sydney 
+McCain, Sr., were both admirals, and his father became commander-in-chief, 
+Pacific soon after son’s capture. When McCain, whom the communists called 
+“the Crown Prince,” confessed to being “a black criminal” and “an air pirate” 
+after four days of torture, he felt “faithless” and “ashamed,” certain that his 
+statement would “embarrass my father.” “Nothing could save me,” he later 
+wrote, except “acts of defiance,” which “felt so good” that “they more than 
+compensated for their repercussions,” helping him to “keep at bay the unset-
+tling feelings of guilt and self-doubt.”31
+Accounts like McCain’s help to explain what motivated Americans “to take 
+torture,” as opposed to what motivated Vietnamese to give it. Since no pris-
+oner could refuse all cooperation with their captors and survive, they needed 
+some way to prove that their compliance was coerced rather than freely 
+given. Signs of abuse that were visible on the body – stigmata – provided 
+proof of psychological mortification and expiation, something American 
+POWs so desperately needed that many – Stockdale, Denton, Risner, and 
+McCain among them  – resorted to self-harm, even attempted suicide, to 
+prove that they had adhered to their own unbending code.
+“Strength in unity,” as Stockdale conceived it, was critical to both POW 
+suffering and their survival. Sociologists have long recognized “small-group 
+cohesion” as key to military discipline and mission effectiveness, and “unity 
+over self” was a watchword among American POWs, giving them a sense of 
+being accountable to one another in opposition to a foreign foe. Given their 
+shared race, gender, class, age, occupation, and political and religious con-
+victions, such allegiances came easily. Their bond with one another was, in 
+some sense, an extension, or distillation, of their connection with the nation 
+and its leading men and institutions. The POWs, like their captors, saw them-
+selves as the nation’s “precious sons,” and it was that shared understanding 
+that motivated them to resist efforts to convert them and instead cling to 
+what McCain called the “faith of my fathers.” Uniform men in uniform, the 
+prisoners’ reinforcing identities made it difficult to condemn their nation or 
+	31	 Allen, Last Man, 78; John McCain with Mark Salter, Faith of My Fathers: A Family Memoir 
+(New York, 1999), chapters 18–20, with quotations from 243–6.
+
+Michael J. Allen
+440
+its outsized presence in the world without dishonoring, even destroying, 
+themselves. “The communists spent upwards of four, five, six, seven, eight, 
+nine years trying to turn us against our country, against our way of life, 
+against America,” said one upon his return; “the natural reaction on the part 
+of ninety-nine percent of us was to build our patriotism even stronger.” This 
+was their “natural” reaction, because the Hanoi men so neatly embodied 
+the nation that went to war in Vietnam, preserving its patriotic values and 
+patriarchal, racial, and religious order through nine long years of pain and 
+anguish, no matter what happened outside their prison cells.32
+Conclusion
+The POWs’ refusal to bow to Vietnamese demands or to concede the legit-
+imacy of critical perspectives on the war and the nation that authorized it – 
+their refusal even to admit the basic but profound fact of US defeat – made 
+them central to American memory of the war. Their undeniable suffering at 
+the hands of their captors, combined with their “we-win-even-when-we-lose” 
+obstinacy, multiplied by their instinct for self-promotion – during their last 
+years in captivity the POWs went so far as to form toastmaster clubs where 
+they practiced patriotic speeches and fielded mock questions from reporters – 
+worked to legitimize the American cause in Vietnam, resurrect a sense of 
+national pride, and restore public trust in the use of force.
+These ends were achieved in part through politics, including Denton’s 
+election to the Senate in 1980 and McCain’s election to the House in 1982, 
+then the Senate in 1986. Both conservative Republicans took themes from 
+the POW experience to promote military rearmament and national reunion 
+under white male leadership. Even more, the ends were accomplished 
+through culture and memory, which worked to turn the Vietnam War from 
+an angry wound to a noble cause. In POW memoirs and films, the war’s 
+moral and strategic failures were inverted even as they were displaced. Unlike 
+the wider war, where Americans possessed a preponderance of power but 
+found that their excessive use of force backfired, breeding resistance and sym-
+pathy for those who resisted, in Hanoi’s prisons Americans cast themselves 
+as innocent victims of communist aggression, a more familiar and appealing 
+war story. American POWs flipped the script on their critics. Indeed, one sur-
+real feature of their strategy was how it resembled but reversed the thinking 
+	32	 McCain, Faith, 254–7; Allen, Last Man, 78–9. Stockdale discusses strength in unity in Love 
+and War, chapter 9.
+
+The US POW Experience, Veterans, and the War
+441
+and tactics of the New Left. Like Mario Savio’s calls to Berkeley students to 
+“put your bodies upon the gears and upon the wheels, upon the levers, upon 
+all the apparatus – and you’ve to make it stop,” POW resolve “to lie on the 
+railroad tracks hoping that the sheer bulk of our bodies would slow down 
+the train” used civil disobedience to disrupt illegitimate authority with the 
+assurance that “the whole world was watching.” But whereas the peace and 
+freedom movements of the 1960s used civil disobedience to dramatize the 
+unjust nature of Cold War America, POWs used their experience to rein-
+scribe American power with moral force.33
+This project sparked ample resistance, particularly in the beginning when 
+anger over the war and its injustices was most acute. “In what ways are these 
+relatively few P.O.W.’s greater heroes than the 50,000 dead boys who came 
+home in body bags?” asked one New York Times columnist. One veteran wrote 
+to Time to voice his “resentment about the solicitous attention the return-
+ing P.O.W.’s are receiving” compared with the lack of interest that greeted 
+“draftees who faced the war 24 hours a day on the ground.” Charles Evers, the 
+brother of slain civil rights leader Medgar Evers, cabled Nixon to ask, “What 
+happened to the foot soldiers, the marines and especially the black and Mexican-
+American GIs?” Harlem Congressman Charles Rangel raised similar concerns, 
+noting that he was “disturbed by the absence of black faces in the happy scenes 
+of welcome portrayed on the television sets.” And Ngô Vı̃nh Long, director 
+of the Vietnam Resource Center, complained that the effusive welcome given 
+to returned POWs “served to cover up and justify the inhumane policies of 
+the United States against the Indochinese people.” “They are trying to pose as 
+heroic victims when they were responsible for killing countless Vietnamese,” 
+insisted Jane Fonda, the antiwar activist and actor who called returned POWs 
+“professional killers.” It was “disturbing,” added Yale psychologist Robert Jay 
+Lifton, that the POWs sought to recreate an image “of simple, old-fashioned 
+American military virtue as though nothing had happened in Vietnam.”
+But what disturbed some reassured most. And, besides, POW suffering and 
+the fate of their still-missing counterparts, the MIAs, offered ample cause for 
+those who wished to pursue the war’s unfinished business to do so. “When 
+you abandon 1,300 men there is no peace with honor,” said one MIA activ-
+ist a few months after the POW homecoming ended. “For us the war goes 
+on.”34 Like the hero–victim dualism of the POWs, which allowed Americans, 
+	33	 Yen Le Espiritu, “The ‘We-Win-Even-When-We-Lose’ Syndrome: US Press Coverage 
+of the Twenty-Fifth Anniversary of the ‘Fall of Saigon,’” American Quarterly 58 (2) 
+(2006), 329–52; Allen, Last Man, 68, 78–81; Howes, Voices, 30–2.
+	34	 Allen, Last Man, 63–4, 66, 81; Darda, White Men, 46.
+
+Michael J. Allen
+442
+particularly white Americans, to celebrate themselves while condemning the 
+Vietnamese and their American sympathizers, so too the Janus-faced POW/
+MIA issue allowed Americans simultaneously to embrace the social and polit-
+ical recuperation the prisoners promised while still grieving what was lost in 
+the war and could not be recovered. These impulses existed in tension, but 
+that tension gave the issue its dynamism and longevity. The celebration of 
+POWs worked to repair the loss that MIAs symbolized, while the continued 
+absence of MIAs signaled that no celebration was sufficient, making still more 
+celebration necessary. And new wars more likely.
+
+Part III
+*
+LEGACIES

@@ -1,0 +1,902 @@
+410
+No aspect of the Vietnam War (or, to be more precise, the Second Indochina 
+Conflict) is more clouded with controversy than the question of how and 
+why it started. One reason for this is that the answer to this deceptively 
+straightforward question is largely dependent on the perspective from which 
+it is posed. The indigenous parties to the conflict will naturally base their 
+answers on different assumptions and experiences than the external parties, 
+and the contending Vietnamese sides will themselves come at the question 
+from fundamentally different vantage points. Some of the essential documen-
+tary records needed to clarify key issues are still inaccessible. More than half a 
+century after the events, it is still difficult to find a satisfactory answer to this 
+simple but fundamental question about one of the twentieth century’s most 
+complex conflicts.
+This chapter examines the three main interpretations of how and why the 
+Vietnam War began, and discusses their respective strengths and weaknesses. 
+It also analyzes the evolution of the policies of the Vietnamese Communist 
+Party in the years after the Geneva Conference of 1954. The picture that 
+emerges does not suggest that the insurgency that inaugurated the Vietnam 
+War was bound to happen, or that responsibility for the conflict can be 
+pinned on any single state or group of actors. Instead, the interplay among 
+multiple actors and agendas eventually led particular groups of Southerners 
+to take up arms against the Ngô Đình Diệm government during 1959–60. 
+Historians may not yet have definitive answers to questions about the roles 
+played by particular leaders and groups in bringing about the initial uprising 
+against Diệm. But the available evidence suggests that the onset of war was 
+rather more contingent and less foreordained than many previous accounts 
+have suggested. They also show that the senior leadership of the Vietnamese 
+Communist Party, far from directing or guiding the insurgency in its initial 
+phases, consistently failed to steer events in the South in the party’s desired 
+direction.
+19
+The Origins of the Insurgency in South 
+Vietnam
+David W. P. Elliott
+
+The Origins of the Insurgency in South Vietnam
+411
+Terms of Debate: Three Interpretations
+In the voluminous scholarship on the origins of the Vietnam War, the 
+debate over how the insurgency began in South Vietnam revolves around 
+three main interpretations. The first of these is aptly summed up in the title 
+of a 1965 US State Department white paper: “Aggression from the North: 
+The Record of North Vietnam’s Campaign to Conquer South Vietnam.” 
+The authors of this paper declared that the Democratic Republic of Vietnam 
+(DRVN) was stepping up its years-long effort “to conquer a sovereign peo-
+ple in a neighboring state.” This campaign, the authors argued, involved 
+both subversive activities inside South Vietnam and the infiltration of North 
+Vietnamese military forces into the South from the North. Although the 
+State Department clearly considered Hanoi to be the primary perpetrator 
+of this aggressive strategy, they also depicted the DRVN assault on South 
+Vietnam (known officially as the Republic of Vietnam, or RVN) to be merely 
+one front in the global struggle against an international communist move-
+ment led by the Soviet Union and China.1
+At first glance, the “aggression from the North” interpretation of the ori-
+gins of the Vietnam War appears plausible. In 1965, the year that the white 
+paper was published, approximately 50,000 People’s Army of Vietnam 
+(PAVN) troops traveled down the Hồ Chí Minh Trail from North to South 
+Vietnam. Those troops were participants in a large-scale escalation of the 
+PAVN military effort in the South launched the previous year. As it hap-
+pened, the PAVN offensive of 1964–5 did not produce the quick military tri-
+umph that Hanoi hoped to achieve. Nevertheless, DRVN leaders continued 
+to seek victory over South Vietnam by force of arms. In the Tet Offensive 
+of 1968 and again in the Spring Offensive of 1972, PAVN units and their 
+Southern supporters launched widespread attacks aimed at bringing down 
+the RVN state. The notion that these escalatory moves were proof of Hanoi’s 
+“aggression” is seemingly reinforced by the circumstances surrounding the 
+PAVN’s final offensive of the war in the spring of 1975, and especially by the 
+famous image of the North Vietnamese tank that crashed through the gates 
+of Saigon’s Independence Palace on April 30, 1975. If the war eventually ended 
+as a straightforward military conquest of South Vietnam by North Vietnam, 
+it might seem reasonable to suppose that it began in the same way.
+This supposition is too clever by half, however. North Vietnam’s escala-
+tory moves did not take place in a strategic vacuum; the US military was also 
+	1	 US State Department, “Aggression from the North: The Record of North Vietnam’s 
+Campaign to Conquer South Vietnam” (Publication #7839, Far Eastern Series 130, 1965).
+
+David W. P. Elliott
+412
+escalating its involvement in the conflict as early as 1961 and it continued to do 
+so throughout the decade of the 1960s. Moreover, even if it is true that DRVN 
+leaders were seeking to win the war via outright military conquest after 1964, 
+it does not necessarily follow that Hanoi was perpetrating “aggression from 
+the North” prior to that date. In fact, the available historical evidence suggests 
+that DRVN strategy toward South Vietnam during the late 1950s and early 
+1960s was far less aggressive than it later became. By endorsing the Geneva 
+Accords of 1954, Hanoi formally committed itself to seeking Vietnamese 
+reunification through peaceful means – a policy very much in keeping with 
+the “peaceful coexistence” promulgated by Soviet and PRC leaders during 
+the mid-1950s. As the evidence presented in this chapter will show, not all 
+DRVN leaders agreed with this approach. Nevertheless, recent scholarly 
+analyses of DRVN and Communist Party archives demonstrate that Hanoi’s 
+willingness to seek victory in the South via military means remained highly 
+qualified for years after Geneva. One scholar concludes that DRVN leaders 
+eventually adopted a de facto “declaration of war” against South Vietnam 
+and the United States – but that this fateful step was not taken until late 1963.2
+In lieu of the lack of convincing evidence for the “aggression from the 
+North” thesis, some scholars have argued that the origins of the insur-
+gency must be found in the South. More specifically, many commentators 
+have pointed to the violent and repressive actions undertaken by the Diệm 
+government in rural areas of South Vietnam, beginning with its Denounce 
+Communists Campaign in 1955. According to this view, Diệm’s crackdown 
+on the communists provoked widespread fear and resentment among ordi-
+nary Vietnamese, even as his security forces were rounding up large numbers 
+of the “stay behind” cadres who had remained in the South after Geneva. The 
+rising rural backlash against the Saigon government worried noncommunist 
+Southern nationalists, who feared that Diệm might be inadvertently paving 
+the way for an eventual communist takeover. In the view of some scholars, 
+these noncommunist nationalists had concluded by 1960 that “if nothing were 
+done to put an end to the absolute power of Diệm, then Communism would 
+end up by gaining power with the aid, or at least with the consent, of the popu-
+lation.”3 From this perspective, the insurgency that erupted in South Vietnam 
+during 1959–60 was not a communist-directed movement, but a rebellion led 
+by an ad hoc coalition of Southern nationalists who came together under the 
+	2	 Pierre Asselin, Hanoi’s Road to the Vietnam War (Berkeley, 2013), 168.
+	3	 Phillipe Devilliers, “The Struggle for the Unification of Vietnam,” The China Quarterly 9 
+(January–March 1962), 15–16.
+
+The Origins of the Insurgency in South Vietnam
+413
+banner of the National Front for the Liberation of Southern Vietnam (NLF), 
+the anti-Diệmist coalition of insurgent forces proclaimed in December 1960.
+This second interpretation of the insurgency – what we might call the 
+“Southern Rebellion” thesis – also has a certain plausibility. It fits well with 
+the NLF’s founding manifesto, which portrayed the front as comprised of 
+“representatives of all social classes, of all nationalities, of various polit-
+ical parties, [and] of all religions.”4 The idea that the insurgency began as 
+an impromptu “Southern Rebellion” is also reinforced by postwar accounts 
+written by some of the noncommunists who were active in the NLF during 
+the war. The most influential of these accounts was A Vietcong Memoir, pub-
+lished in 1985 by Trương Như Tảng, the former minister of justice for the 
+NLF. Tảng depicted both the NLF and the insurgency of 1959–60 as having 
+been led initially by a small group of Saigon-based critics of Diệm.5 Tảng’s 
+claims about the front’s nonpartisan origins were subsequently undermined 
+by the publication of Communist Party documents showing that the NLF 
+was in fact secretly controlled by senior communist leaders from the moment 
+of its founding. Nevertheless, some authors continue to argue for a modified 
+version of the “Southern Rebellion” thesis. For example, the historian David 
+Hunt argues that the insurgency was launched and led by rural peasant activ-
+ists who embraced a form of “revolutionary modernism” that was distinct 
+from Vietnamese communism.6
+Its persistence in the scholarship notwithstanding, the “Southern 
+Rebellion” thesis sidesteps important questions about how the insurgency 
+was organized and sustained. It is evident that the Diệm government’s dra-
+conian policies provoked widespread anger and fear in the South Vietnamese 
+countryside during the late 1950s. This was especially true of Diệm’s infa-
+mous 10/59 law, which established mobile military tribunals with the power 
+to investigate and summarily execute anyone accused of being a Communist 
+Party member or supporter. “Thanks to the 10/59 decree,” remembered one 
+farmer in Đình Tương province, “new life was blown into the political move-
+ment, and a patriotic appeal was made to overthrow the government of Mr. 
+Diệm.”7 Nevertheless, the mere fact that rural residents were resentful and 
+	4	 “Program of the National Liberation Front of South Vietnam,” printed in Edward 
+Miller, The Vietnam War: A Documentary Reader (Malden, MA, 2016), 72.
+	5	 Truong Nhu Tang, A Vietcong Memoir: An Inside Account of the Vietnam War and its 
+Aftermath (New York, 1986).
+	6	 David Hunt, Vietnam’s Southern Revolution: From Peasant Insurrection to Total War 
+(Amherst, MA, 2008), chapters 1–3.
+	7	 Quoted in David W. P. Elliott, The Vietnamese War: Revolution and Social Change in the 
+Mekong Delta, 1930–1975 (Armonk, NY, 2007), 103.
+
+David W. P. Elliott
+414
+fearful of local officials is insufficient to explain why they joined the fight 
+against the government. Terrorized communities sometimes erupt in rebel-
+lion, but no insurgency can long endure without a means of mobilizing and 
+maintaining at least a measure of popular support. How was the fear sowed 
+by Diệmist repression transposed into an actual insurgency, and who were 
+the primary transposers?
+For some authors, the most plausible answer to these questions lies in 
+what can be described as the “green light” thesis. In some respects, this third 
+interpretation seeks to split the difference between the first two by introduc-
+ing another group of actors: the local Communist Party cadres who oper-
+ated secretly at the provincial, district, and village levels in South Vietnam. As 
+the Diệm government ramped up its oppression during the late 1950s, these 
+southern cadres appealed to their Communist Party superiors to permit them 
+to resume revolutionary warfare against the Saigon regime. Although initially 
+reluctant, senior party leaders eventually granted their Southern comrades’ 
+request. In these accounts, the “green light” from Hanoi became official in 
+early 1959, when the Politburo approved a measure known as Resolution 15, 
+which authorized small-scale insurrectionary activities in the South. The cad-
+res then responded with a wave of uprisings that exploded across the Mekong 
+Delta and other parts of South Vietnam during the fall and winter of 1959–60.
+The “green light” thesis is the interpretation preferred by most Vietnamese 
+Communist Party historians. Early versions of this thesis can be glimpsed in 
+some of the party-endorsed narratives published during the war. For exam-
+ple, in her 1966 memoir No Other Road to Take, the Communist Party activ-
+ist Nguyễn Thị Định recalled her joy when the news about Resolution 15 
+arrived in her home province of Bến Tre in late 1959. In Định’s telling, she and 
+her comrades proceeded to carry out the first in a series of “concerted upris-
+ings” that spread across the Mekong Delta during 1960.8 The same sequence 
+of events – in which the Southern cadres first received authorization from 
+Hanoi and then acted on it – appears repeatedly in party-sponsored histories 
+published after the end of the war in 1975. A study published in 2010 by a 
+Vietnamese military historian concluded that “the impact of Resolution 15 was 
+direct, rapid, and clear, and opened a new direction for armed struggle in the 
+South.” These and other accounts cite the discussion of the text of the resolu-
+tion at a November 1959 meeting of the Nam Bo Party Committee (the senior 
+Communist Party organization in Southern Vietnam) as the key moment 
+	8	 Nguyễn Thị Định, No Other Road to Take: Memoir of Mrs. Nguyễn Thị Định, Mai Elliott 
+(trans.) (Ithaca, 1976), 88–91.
+
+The Origins of the Insurgency in South Vietnam
+415
+when many Southern cadres learned that the long-awaited “green light” had 
+finally been given.9
+The “green light” thesis improves in certain respects on both the “aggres-
+sion from the North” and the “Southern Rebellion” interpretations. It does 
+not seek to explain the emergence of the insurgency either as a Hanoi-
+directed plot or as an improvised response to Diệmist repression. Instead, it 
+emphasizes the interplay among the actions and policies of both the North 
+and South Vietnamese governments, as well as the critical roles played by 
+Southern communist cadres in organizing the insurgency and mobilizing 
+popular support for it. At the same time, however, the “green light” inter-
+pretation still aims to affirm the authority and wisdom of senior Communist 
+Party leaders, as reflected in its insistence that the insurgency did not begin 
+until after Hanoi had authorized it.
+As the following discussion will demonstrate, the actual sequence of 
+events was not as cut-and-dried as the “green light” interpretation suggests. 
+In the years following the Geneva Conference of 1954, questions about vio-
+lence and rebellion were fiercely debated in both North and South Vietnam. 
+When war finally came, it did not begin in a single place or moment, but 
+instead unfolded in fits and starts across different regions and provinces of the 
+South. In this regard, the beginning of the Vietnam War during 1959–60 was 
+shrouded in ambiguity and obscurity – a striking contrast from the way that 
+the war would eventually end at the gates of Saigon’s Independence Palace 
+in 1975. To uncover these shadowy origins of the conflict, we must therefore 
+begin by examining the evolution of DRVN strategy for South Vietnam in 
+the aftermath of Geneva.
+Hanoi’s Strategy for the South after Geneva
+In the immediate aftermath of the Geneva Conference, Hanoi’s policy for 
+South Vietnam seemed clear: strict adherence to the terms of the compro-
+mise peace that the DRVN had negotiated with France. During the talks at 
+Geneva, the DRVN agreed to withdraw from all territory it controlled south 
+of the 17th parallel, including its strongholds in South-central Vietnam and 
+in the southern and western provinces of the Mekong Delta. In addition, all 
+DRVN military forces in South Vietnam were required either to disband or 
+	9	 Colonel Nguyễn Mạnh Hà, “Nghị quyết 15 của Ðảng soi sáng con đường cách mạng Việt 
+Nam” [Resolution 15 Illuminated Vietnam’s Path to Revolution], Nhân Dân, January 16, 
+2010: https://nhandan.vn/nghi-quyet-15-cua-dang-soi-sang-con-duong-cach-mang-viet-
+nam-post415049.html.
+
+David W. P. Elliott
+416
+to regroup to North Vietnam. For many DRVN partisans, these were painful 
+concessions. However, senior leaders of the Communist Party – known 
+officially since 1951 as the Vietnamese Workers’ Party (VWP) – sought to 
+reassure their followers that the division of the country would be only tem-
+porary, and that other provisions of the Geneva Accords offered a path to the 
+reunification of the country under VWP leadership. The leadership focuses 
+especially on the conference’s Final Declaration, which specified that nation-
+wide general elections would be held in July 1956, under the supervision of 
+an international commission. In keeping with this strategy, several tens of 
+thousands of cadres and soldiers regrouped to the North, while many more 
+remained behind in the South. The “stay behind” operatives were ordered to 
+eschew armed struggle against the Saigon government in favor of nonviolent 
+political activism and preparations for the elections that party leaders hoped 
+and expected to win.
+The decision to cede control of all Southern territory to Diệm’s government – 
+even on a temporary basis – did not sit well with some DRVN supporters. 
+The dismay was especially acute among those who had been fighting in the 
+South. General Trần Văn Trà, the deputy commander of all DRVN forces in 
+the South, was deeply upset when he was ordered to regroup to the North. 
+“I was angry and distracted for a week,” he later wrote. “But at the time there 
+was a concern that it would be a violation of the Geneva agreement.”10 Trà 
+also recalled his fighters asking, “Why did we stop attacking? Did we really 
+win? We still had the strength to surge forward and achieve complete liber-
+ation. … Why didn’t we seize this favorable opportunity instead of stopping 
+half-way?”11 Similar questions were also being asked in the North. Nguyễn Thị 
+Thập, a Southerner from the Mekong Delta who had risen to a senior leader-
+ship post in the party-sponsored Women’s Association, was in the North when 
+the news of the ceasefire broke. “The northern cadres sat in silent reflection,” 
+she remembered. “Everyone was sad. The southern brothers shed tears, and 
+some cried, ‘We struggled for unification but now have this division … it’s not 
+clear that it can be overcome in five or ten years.’”12
+Hanoi’s adoption of a policy of peaceful struggle in the South was driven 
+in no small part by its agenda in the North. After Geneva, senior DRVN 
+	10	 Trần Văn Trà, “Những chặng đường lịch sử B2 Thành Đồng” [Historical Stages in the 
+B2 Theater], vol. I, Hòa bình hay chiến tranh [War or Peace] (Hanoi, 1992), 172–3.
+	11	 Ibid., 33.
+	12	 Nguyễn Thi Thập, Từ đất Tiền Giang [From the Land of the Upper Delta] (Ho Chi Minh 
+City, 1986), 447.
+
+The Origins of the Insurgency in South Vietnam
+417
+leaders declared their intent to focus on “building socialism in the North.” 
+They reasoned that the revolution’s chances for success in the South would 
+be enhanced if they could consolidate the party’s gains and base of support 
+north of the 17th parallel. In mid-1954, the DRVN was expanding a sweeping 
+and harsh land reform campaign that it had launched across several Northern 
+and North-central Vietnamese provinces a year earlier. Although VWP lead-
+ers were careful to emphasize that they still intended to contest and win the 
+promised 1956 elections, the party’s heavy emphasis on state-building and 
+advancing socialism in the North caused many of its supporters to wonder if 
+the objectives of the revolution in the South had been deprioritized.
+Although DRVN leaders repeatedly stated their expectation that the 1956 
+elections would be held as scheduled, both they and their supporters realized 
+that the balloting could not be taken for granted – especially since the South 
+Vietnamese and US governments had both refused to endorse the accords. 
+This recognition prompted the revolutionaries to take secret steps to prepare 
+for an eventual return to armed resistance, should the circumstances demand 
+it. The VWP organization in the South was split in two, with an overt branch 
+dedicated to open political agitation and a clandestine branch comprised of an 
+underground nucleus of leaders and operatives. Meanwhile, even though all 
+DRVN military units in the South had been officially disbanded or regrouped 
+to the North, party leaders ordered small caches of weapons to be secretly 
+buried to ensure their availability for possible future use. In addition, small 
+bands of veteran fighters took refuge in remote swamps and jungle hideouts 
+with orders to await further instructions.
+The uncertainty over the fate of the revolution below the 17th parallel, 
+combined with the DRVN’s emphasis on “building socialism in the North,” 
+provoked considerable anxiety among the party faithful who remained in the 
+South. Nguyễn Thị Thập, the leader of the Women’s Association, returned 
+to the South shortly after the Geneva Conference as a member of a senior 
+VWP delegation. The group’s public mission was to explain to skeptical 
+Southerners that the peace settlement represented a great victory for the 
+revolutionary forces. But Thập also received secret instructions that seemed 
+to contradict this message. Before leaving the North, her southbound group 
+received the order “Don’t let the French take your picture!” The reason was 
+that the party was “afraid that if the photos were printed in the newspapers, 
+we would be compromised, and afterwards [if we] remained in the south, the 
+secrecy and security of the comrades could not be guaranteed.”13
+13  Thập, Từ Ðất Tiền Giang, 448.
+
+David W. P. Elliott
+418
+During her travels around the Mekong Delta, Thập heard from many 
+DRVN supporters who were worried about the decision to regroup tens of 
+thousands of revolutionary fighters to the North. “After the indoctrination 
+and the discussion, the morale of the cadres, especially the mothers, was very 
+troubled,” Thập later recalled. “The cease fire has already taken place, and 
+now we are moving the troops,” some cadres complained to her. “If [our 
+troops] all go, the brothers who remain behind will not have weapons. … If, 
+after two years, [the South Vietnamese government] treacherously refuses to 
+carry out the Agreements to hold the general election, and engage in terror 
+and repression, where will the weapons to resist come from?” Thập admit-
+ted that she was at a loss to respond to these questions. She pleaded with her 
+superiors to be allowed to stay in her native region but, like Trần Văn Trà, 
+she eventually followed orders to regroup to the north.14
+It did not take long for the Southern cadres’ worst fears to be realized. 
+By mid-1955, Diệm had signaled that he did not intend to participate in the 
+Geneva-mandated elections – or even to enter into consultations with North 
+Vietnamese leaders. At the same time, Diệm was enjoying unexpected suc-
+cess in consolidating his government’s authority in the South. After inflicting 
+a series of military defeats on his noncommunist rivals, he announced the 
+creation of a new state known as the Republic of Vietnam (RVN) in October 
+1955. He also launched the Denounce Communists Campaign and ordered 
+his security forces to begin hunting down suspected communists and their 
+sympathizers. Even before the Geneva deadline of July 1956 arrived, it was 
+evident that the VWP’s hopes for gaining power in the South via elections 
+had vanished.
+The passing of the election deadline in 1956 raised doubts and discontent 
+in the minds of many party supporters – both the “stay behind” cadres in 
+the South and others – about the wisdom of the decisions made by DRVN 
+leaders at Geneva. This dissatisfaction was explicitly acknowledged in a 
+lengthy article in the party’s mouthpiece newspaper Nhân Dân in mid-July 
+1956. However, the tone of the article was far from sympathetic toward the 
+party’s internal critics. The article noted that there had also been doubters 
+and pessimists during the War of Resistance against the French. The current 
+criticisms, the author suggested, were equally misguided:
+People who are “simple in their thoughts” were sure in their minds that 
+national elections would be held and they became disappointed and pessi-
+mistic when elections did not take place. Others are “reluctant to carry on 
+14  Ibid., 453–5.
+
+The Origins of the Insurgency in South Vietnam
+419
+a long and hard struggle” and search for a quick unification by abandoning 
+peaceful methods. They fail to realize that the best means of achieving quick 
+unification of the country is “to positively build up the North, positively to 
+unite and struggle with perseverance and patience in the South, and not to 
+be afraid of difficulties and hardships.”15
+The message for the VWP’s Southern cadres and supporters seemed clear: 
+a return to armed struggle in the South would have to wait. But for the 
+Southern cadres who were facing new “difficulties and hardships” and whose 
+very survival seemed increasingly precarious, the idea of waiting appeared 
+increasingly untenable.
+Lê Duẩn and the Path to Revolution in the South
+Even before the 1956 election deadline had arrived, some senior VWP leaders 
+were seeking a new strategy for the changing circumstances that the party 
+was facing in South Vietnam. The key figure in this strategic reformulation 
+was Lê Duẩn, who hailed from the province of Quảng Trị (located just below 
+the 17th parallel) and who had served as the head of the party’s Central Office 
+of South Vietnam (COSVN) since the early 1950s. As a veteran revolutionary 
+who had fought for decades against French colonial rule in Indochina, Lê 
+Duẩn sympathized deeply with those of his Southern comrades who wanted 
+to return to a policy of armed struggle. Yet he was also a dedicated Marxist–
+Leninist who believed strongly in the authority of the party and in the par-
+amount importance of ensuring that Hanoi’s policies and directives were 
+carried out. The challenge that Lê Duẩn now faced was figuring out how to 
+reconcile his desire for a more militant line in the South with his loyalty to 
+the party.
+Lê Duẩn’s struggles to resolve this dilemma were evident in “The Path to 
+Revolution in the South” (Đề cương cách mạng miền nam), a secret assessment 
+of party policy and strategy in South Vietnam that he completed in 1956. He 
+had begun this project in the fall of 1955, while living under cover in Saigon 
+and the Mekong Delta province of Bến Tre. Additional parts of the document 
+were written during a stay in party-controlled areas of the Cà Mau peninsula. 
+After completing the report sometime in the summer or early fall of 1956, Lê 
+Duẩn presented it first at a meeting of party leaders from the Mekong Delta 
+	15	 Quoted in William J. Duiker, The Communist Road to Power in Vietnam (Boulder, 1981), 
+177–8.
+
+David W. P. Elliott
+420
+and subsequently at a meeting of the VWP’s Committee for the South held 
+in Phnom Penh in December 1956.16
+The tone and language used in “Path to Revolution” conveyed Lê Duẩn’s 
+conviction that the VWP needed to adopt a confrontational stance vis-à-vis 
+the Diệm government and its American allies. “With the cruel repression and 
+exploitation of the US–Diệm regime [Mỹ-Diệm], the people’s revolutionary 
+movement definitely will rise up,” he wrote. “The people of the South have 
+known the blood and fire of nine years of resistance war, but the cruelty of 
+US-Diệm cannot extinguish the struggle spirit of the people.”17 Since the end 
+of the Vietnam War, VWP historians have highlighted the aggressive ele-
+ments of Lê Duẩn’s prose. According to these party-sanctioned narratives, Lê 
+Duẩn’s main goal in writing the document was to signal his conviction that 
+Diệm could only be removed from power by force of arms. One 1981 account 
+claimed that the document “clearly laid out the mission, targets, and direc-
+tion of the revolution in the South, and [showed] that the path to liberate the 
+South was the path of violence.”18
+This reading of “The Path to Revolution in the South” as a full-throated call for 
+insurgency and violence is reinforced by the retrospective accounts of some of 
+Lê Duần’s fellow Southern revolutionaries. These party activists evidently pre-
+ferred to treat the document as providing party authorization for waging armed 
+struggle – a position that was at odds with VWP Central Committee directives, 
+which explicitly restricted the use of violence to cases of self-defense. Trần Kiên, 
+a party leader in central Vietnam, later recalled reading “Path to Revolution” in 
+1957, when he and his comrades “were thrashing around and had not yet found 
+an appropriate form of struggle.” They quickly adopted Lê Duẩn’s document as 
+a kind of “handbook to continue the revolution in the South during that tense 
+and violent period.” In 1958, the party’s regional committee for central Vietnam 
+would cite “Path to Revolution” as they devised plans “to shift the revolutionary 
+movement in Region V [central Vietnam] to a new stage.”19
+But to read “The Path to Revolution in the South” as an unambiguous 
+call for a return to arms is to overlook most of its contents. Lê Duẩn drafted 
+	16	 “Đồng chí Lê Duẩn và việc ra đời Đề cương cách mạng miền Nam năm 1956” [Comrade 
+Le Duan and the origins of the Path to Revolution in the South in 1956], Vietnam National 
+Museum of History, March 9, 2015: https://baotanglichsu.vn/vi/Articles/3096/17790/
+djong-chi-le-duan-va-viec-ra-djoi-dje-cuong-cach-mang-mien-nam-nam-1956.html.
+	17	 Lê Duẩn, “The Path to Revolution in the South,” in Miller, Vietnam War: A Documentary 
+Reader, 67.
+	18	 Cao Văn Lương et al., Tìm Hiểu Phong Trào Đồng Khởi ở Miền Nam Việt Nam [Understanding 
+the Concerted Uprising Movement in South Vietnam] (Hanoi, 1981), 13.
+	19	 “Đồng chí Lê Duẩn và việc ra đời Đề cương cách mạng miền Nam.”
+
+The Origins of the Insurgency in South Vietnam
+421
+the document in the months following the landmark 20th Congress of the 
+Communist Party of the Soviet Union, held in Moscow during February 1956. 
+At that event, Soviet leaders affirmed their commitment to peaceful coex-
+istence with capitalist countries. Lê Duẩn explicitly acknowledged the 20th 
+Congress in his report, noting its conclusions that all world conflicts “can 
+be resolved by means of peaceful negotiations” and that “the revolutionary 
+movement in many countries can develop peacefully.” From this, Lê Duẩn 
+deduced that “the revolutionary movement in the South can also develop 
+following a peaceful line.” Much of the rest of the document was devoted to 
+explaining what “following a peaceful line” actually meant. Lê Duẩn declared 
+that the “ardent aspiration of the Southern people is to maintain peace and 
+achieve national unification” and that the “revolutionary movement in the 
+South can mobilize and advance to success on the basis of grasping the flag 
+of peace.” He concluded that “the people’s movement, generally speaking, 
+now has a temporarily peaceful character,” and that its commitment to peace 
+would enable it to “rebuild in order to then advance.”20
+Instead of marking a decisive return to a policy of armed struggle, “The 
+Path to Revolution in the South” was an ambiguous and ambivalent docu-
+ment. Historian William Turley describes it as “a temporizing decision that 
+papered over intractable differences concerning the priority and means of 
+reunification.”21 Lê Duẩn’s emphasis on the oppressive and brutally violent 
+qualities of the Diệm government seemed to imply that the party would 
+need to resume armed struggle at some future date. But he also made a point 
+of demonstrating conformity with the Soviet call for peaceful coexistence. 
+Thus, even as some Southern cadres might choose to see the document as 
+granting them leeway to push back against oppression, senior DRVN leaders 
+cast it in a different light. When the report was discussed at a VWP Central 
+Committee meeting in Hanoi in late 1956, the body duly approved it while 
+declaring that “we must not allow the winning over of the South to detract 
+from the requirements of consolidating the North.”22
+Resolution 15 and the Launch of the Insurgency
+If Lê Duẩn’s “The Path to Revolution in the South” did not include the autho-
+rization for violent struggle that VWP cadres hoped to receive, when did 
+	20	 Lê Duẩn, “Path to Revolution,” 65–7.
+	21	 William S. Turley, The Second Indochina War: A Concise Political and Military History, 2nd 
+edn. (Lanham, MD, 2009), 37.
+	22	 Duiker, The Communist Road to Power, 179.
+
+David W. P. Elliott
+422
+Hanoi finally consent to lend its support to a strategy of armed insurgency in 
+South Vietnam? Many authors, both in Vietnam and elsewhere, have pointed 
+to the year 1959 as the moment at which the proverbial “green light” was 
+finally given. According to this view, the launch of the insurgency during the 
+last months of 1959 and the first half of 1960 reflected a decisive shift in the 
+thinking of DRVN leaders in favor of armed struggle. However, a careful 
+assessment of the available evidence suggests that Hanoi’s decisions to back 
+the insurgency were made grudgingly, and often only as half measures. The 
+reluctance of senior leaders to endorse a change of course in the South cre-
+ated an opening for southern cadres to take matters into their own hands, 
+and to present the emerging rebellion as a fait accompli. At the same time, 
+the course of events in the South during 1959 was also shaped by a dramatic 
+intensification of the repressive policies of the Diệm government.
+Diệm’s efforts to crush the insurgency before it began included the afore-
+mentioned 10/59 law, promulgated in May 1959, which provided the machin-
+ery for summary trials and executions of suspected communists. Yet the 10/59 
+decree was only one component of Saigon’s new crackdown. Another was 
+a program to construct “agrovilles” in various locations across the Mekong 
+Delta. This population regroupment scheme involved large-scale forced labor 
+under appalling conditions. It quickly ignited widespread resentment among 
+the peasants who were dragooned into this task.23 The agrovilles exacerbated 
+the dissatisfaction with Diệm’s earlier land reform program, which had mostly 
+failed to transform the delta’s large population of tenant farmers into landown-
+ers. Resentment was also generated by efforts to coerce young men in rural 
+areas to join the state-sponsored Republican Youth Movement. In addition to 
+being forced to participate in government initiatives without pay, Republican 
+Youth members were easy targets for communist operatives, who pressured 
+them to quit or even to join the ranks of revolutionary fighters.24
+The rising tide of Diệmist repression formed the backdrop against which 
+DRVN policy for the South began to shift. It is not clear if there was a pivotal 
+moment at which the policy decisively changed. The evidence points toward 
+an incremental process, which was less a proactive and considered decision, 
+or series of decisions, and more a progressive ratification of increasingly mili-
+tant activities in the South based on a realization that the central party leader-
+ship in Hanoi could no longer contain the momentum toward armed struggle 
+among the Southern revolutionaries.
+	23	 Elliott, The Vietnamese War, 105–7.
+24	 Elliott, The Vietnamese War, 205–8.
+
+The Origins of the Insurgency in South Vietnam
+423
+“Resolution 15” refers to the decisions taken at the 15th Plenum, or full cen-
+tral committee meeting, of the Communist Party of Vietnam in 1959. Given 
+the prolonged debate and multiple revisions of the resolution, it is unclear 
+whether there is a comprehensive document that encompasses everything 
+that was decided during the span of time that the 15th Plenum met. The gath-
+ering was evidently a prolonged affair, with sessions in both January and July; 
+some sources indicate that the January decisions were not transmitted to the 
+South until May.25 It is clear that the debate over revolutionary strategy in 
+the South was intense, and the Southern point of view favoring more mil-
+itant action was reinforced by the presence of Southern party leaders who 
+had come to Hanoi to attend the “expanded session” (e.g., with more than 
+the normal complement of members) of the Central Committee meeting 
+that launched the discussion. One VWP military historian reports that much 
+of the actual work on the text of the resolution was performed by a “small 
+group” appointed by the Politburo for that purpose.26
+In some accounts of the tortuous progress of Resolution 15, Lê Duẩn was 
+initially successful in persuading his colleagues to adopt the view that “Since 
+the Diem regime refused to carry out nationwide elections for unification, 
+the replacement revolutionary government would have to be imposed by 
+force.”27 By March 1959, the General Military Committee of the Party was 
+discussing how to implement the January decisions. Lê Duẩn reportedly told 
+them, “We won’t use war to unify the country, but if the US and puppets use 
+war then we have to use war, and the war that the enemy has initiated will be 
+an opportunity for us to unify the country.”28 In May 1959, when a version of 
+Resolution 15 was announced (there were at least twenty-two different drafts 
+of the document), it was also decided to establish a unit designated Đoàn 559 
+(Group 559, named after the May 1959 date at which it was authorized), to 
+prepare a logistics route to the South that would become known as the Hồ 
+Chí Minh Trail.29
+Although the precise contents of the myriad drafts of Resolution 15 
+remain obscure, one feature of it is clear: the changes it prescribed in the 
+proposed balance between political struggle and armed struggle in the 
+	25	 Ibid., 228.
+	26	 Hà, “Nghị quyết 15 của Ðảng.”
+	27	 Lien-Hang T. Nguyen, Hanoi’s War: An International History of the War for Peace in 
+Vietnam (Chapel Hill, NC, 2012), 45.
+	28	 Trận đánh ba mươi năm [The Thirty-Year War], vol. III (Hanoi, 1988), 96, cited in Elliott, 
+The Vietnamese War, 228.
+	29	 Nguyen, Hanoi’s War, 45.
+
+David W. P. Elliott
+424
+Southern Revolution were intended to be incremental and limited, rather 
+than sweeping and transformative. But for growing numbers of VWP cadres 
+in South Vietnam, the time for incremental adjustments to party policies and 
+strategies was long passed. As the debate dragged on in Hanoi, preparations 
+for rebellion were being made in the South. In this regard, Resolution 15 may 
+have been obsolete from the moment it was first drafted.
+From Isolated Attacks to “Concerted Uprisings”
+Most VWP histories of the Southern insurgency have identified two spe-
+cific regions of South Vietnam that were the first to rise in revolt. In central 
+Vietnam, the earliest military attacks on RVN targets took place in the moun-
+tainous provinces of what was designated as “Interzone V” on VWP maps. 
+Meanwhile, several other early uprisings took place in scattered locations 
+across the Mekong Delta. “Although the struggle movement in this period 
+was still essentially a political struggle,” the authors of a 1981 study wrote, 
+“there were places where the masses had emphasized building up armed 
+forces and reinforcing bases, and in some places there were armed actions 
+to eliminate the repressive local authorities and spies.”30 The “masses” (quần 
+chúng) is a VWP term used to indicate nonparty people or ordinary civilians. 
+This party account was thus suggesting that VWP cadres and leaders were not 
+responsible for instigating these actions. However, other evidence – includ-
+ing accounts published since the 1980s – shows that this is highly unlikely. 
+Attributing aggressive actions to “the masses” is better understood as a way 
+for party historians to avoid the uncomfortable fact that local VWP actors 
+undertook rogue actions in violation of party policy at the time.
+“Armed struggle” in South Vietnam during 1959–60 covered a diverse 
+range of violent activities. It included what RVN and US officials described as 
+“terrorist attacks” – usually assassinations of government-affiliated individu-
+als – as well as operations against RVN police and militia posts. VWP cadres 
+often described the assassinations as “defensive measures” even though the 
+targets were often people such as schoolteachers who were not participating 
+in government repression. Although these targeted killings did not take place 
+on a large scale until 1960, they were often carried out in gruesome fashion 
+for maximum effect. The primary purpose of assassinating RVN-linked indi-
+viduals was to create a rough “balance of terror” in which the paralyzing 
+30  Lương et al., Tìm Hiểu Phong Trào Đồng Khởi, 51.
+
+The Origins of the Insurgency in South Vietnam
+425
+fear generated by government repression could be counterbalanced by fear of 
+reprisals against those who declined to support the revolution.
+In central Vietnam, the VWP’s Interzone V leadership committee con-
+cluded as early as 1957 that the post–Geneva policy of peaceful struggle in the 
+South had failed. However, they drew inspiration from Lê Duẩn’s “The Path 
+to Revolution in the South” as they set about devising new methods of strug-
+gle. On June 20, 1958, the Quảng Ngãi province committee held a meeting near 
+Trà Bồng that was attended by 80 VWP representatives.31 The purpose was 
+to implement the provincial leadership’s decision to set up a military affairs 
+committee – a step that clearly anticipated organizing and deploying military 
+units. That meeting came a month after Interzone V leaders had advised the 
+provincial committee “to build a base in the western area and strongly step 
+up political struggle combined with armed struggle to advance to an uprising 
+to seize power in the mountain areas.”32 Later in the year, provincial authori-
+ties followed through on these instructions by setting up a military base in the 
+southern villages of Trà Bồng; they also organized a detachment of fighters. 
+This small force was armed with 42 weapons that had been buried in 1954 in 
+anticipation of the resumption of armed struggle.33 Significantly, these activi-
+ties were sited in areas in which the party had retained a measure of unofficial 
+control, even after the 1954 Geneva ceasefire.34
+Some Vietnamese historians consider the first “insurrection” of the war 
+to be the one that took place in Trà Bồng on August 28, 1959. “This was not 
+just unorganized spontaneous struggles breaking out, with no leadership, but 
+unfolded in accordance with the common line of the Party,” claims one post-
+war account.35 The assertion that this attack was in conformity with existing 
+party policy is not supported by the actual historical record, but this account 
+leaves little doubt that the Trà Bồng uprising was in fact the product of metic-
+ulous planning by local VWP authorities.
+	31	 Dr. Nguyễn Văn Hiệp, “Liên Khu Ủy V Lãnh Đạo kết hợp đấu tranh chính trị với đấu 
+tranh vũ trang trong nhựng năm 1954–1960” [Inter-Zone V Leads the Coordination of 
+Political Struggle and Armed Struggle in the Years 1954–1960], Tạp Chi Lịch Sử Đảng 2 
+(2010), 53.
+	32	 Vũ Quang Hiển and Lê Quỳnh Nga, “Điểu kiện bùng nổ của cuộc Khới Nghı̃a Trà 
+Bồng” [The Explosive Conditions of the Tra Bong Uprising], Tạp Chì Khoa Học Đại học 
+Quốc Gia Hà Nội [Scientific Journal of Hanoi National University] 20 (4) (2004), 19.
+	33	 Bùi thị Thu Hà, “Khởi nghı̃a Trà Bồng trong phong trào cách mạng miền Nam những 
+năm 1954–1959” [The Tra Bong Uprising in the Revolutionary Movement of the South 
+in the Years 1954–1959], in Tạp chí Lụch sử Đảng [Party History] 8 (2004), 51–4.
+	34	 Institute of Marxism Leninism and Institute of History of the Party, Bước mở đầu thời kỳ 
+lịch sư vẻ vang [The First Step in a Glorious Historical Period] (Hanoi, 1987), 189.
+	35	 Ibid.
+
+David W. P. Elliott
+426
+The timing of both the preparations for the Trà Bồng Rebellion and the 
+actual attack raises questions about responsibility for this first instance of 
+“armed struggle” in South Vietnam. One party source reports that the text of 
+Resolution 15 had reached Quảng Ngãi by June 1959, before the uprising took 
+place.36 But given the fact that Quảng Ngãi party leaders had begun muster-
+ing military forces in the province the previous year – that is, even before the 
+Politburo had adopted Resolution 15 – it hardly seems like they were waiting 
+for a “green light” from the party center in Hanoi.37
+In the Mekong Delta, the first large-scale armed encounter between a 
+large revolutionary military unit and the Saigon forces took place in Kiến 
+Phong province in September 1959. In the battle of Gò Quản Cung, the reb-
+els claimed to have killed 100 soldiers of the South Vietnamese army and 
+captured another 100. Remarkably, however, this success was excluded from 
+VWP official accounts for many years after the end of the war, evidently 
+because it was a violation of party policy at the time. The first published 
+account appeared only in 1991 in the memoir of Lê Quốc Sản, a Southerner 
+who had regrouped to the North in 1954 but then returned to command the 
+party’s military forces in the central Mekong Delta for most of the duration of 
+the war. Sản based his narrative on an after-the-fact study of the battle he was 
+asked to conduct in 1961, shortly after his return to the South.
+Even allowing for the customary inflated claims of revolutionary propa-
+ganda and historiography, the battle of Gò Quản Cung was clearly a large-
+scale clash that differed from the scattered small-unit incursions in remote 
+villages conducted in earlier years. Although the figures may be inflated, 
+there was no doubt that the level of military conflict was escalating. The later 
+claim that by 1959 there were 130 concentrated armed platoons operating in 
+the base areas and “hundreds” of “secret action cells” (tổ đội hành động) oper-
+ating across the delta may also be a retroactive inflation of the reality, but 
+communist military capabilities were obviously growing.38
+Despite the apparent success of the Trà Bồng and Gò Quản Cung operations 
+in the late summer of 1959, senior VWP leaders remained wary of the idea of 
+military escalation in the South. During the 1958–60 period, debate within the 
+party focused on the relative balance between political struggle and armed 
+	36	 Dr. Nguyễn Văn Hiệp, “Liên Khu Ủy V Lãnh Đạo kết hợp,” 55.
+	37	 “Kỷ niệm 54 năm, khởi nghı̃a Trà Bồng-Quảng Ngãi (28/8/1959–28/8/2013)” [54th 
+Anniversary of the Trà Bồng-Quảng Ngãi Uprising], Vietnam National Museum of 
+History, August 27, 2013: https://baotanglichsu.vn/vi/Articles/3097/14960/ky-niem-
+54-nam-khoi-nghia-tra-bong-quang-ngai-28-8-1959-28-8-2013.html.
+	38	 Elliott, The Vietnamese War, 233–6.
+
+The Origins of the Insurgency in South Vietnam
+427
+struggle. Even though armed struggle was taking place, it officially remained 
+an adjunct element to political struggle rather than a coequal component of 
+strategy. Trần Văn Trà, the former deputy commander in the South, discov-
+ered this in mid-1959, when he asked Lê Duẩn (who by that point had been 
+recalled to Hanoi and was serving on the VWP Politburo) for permission 
+to lead a group of 100 regrouped Southern fighters back to the South. After 
+mulling the proposal, Lê Duẩn told Trà that he could go, but that he could 
+only take twenty-five men with him, because a larger group might provoke 
+criticism from other Politburo members.39
+In January 1960, in what amounted to a bid to call the question, the VWP 
+Party Committee of the South – the senior Communist Party organization in 
+the South, soon to be renamed the Central Office for South Vietnam – sent a 
+secret report to the Central Committee in Hanoi. The report bluntly asserted 
+that “political struggle combined with armed propaganda is no longer suffi-
+cient to protect the revolutionary bases” in the South. The authors proposed 
+a new policy: “Political struggle and armed struggle will receive equal weight, 
+and they both hold a critical and decisive role in the movement.”40 Despite 
+this request, armed struggle was not officially placed on a par with politi-
+cal struggle until a year later. As later accounts by party military historians 
+pointed out, that directive coincided with a sharp increase in North-to-South 
+infiltration, with more than 40,000 cadres and soldiers traveling down the 
+Trường Sơn Trail by the end of 1963.41
+During 1960, before the bulk of the Southern regroupees had begun to 
+travel down the Trail, the primary form of insurgency in the South was what 
+cadres came to call the “concerted uprising” (chiến dịch đồng khởi). Although 
+these “uprisings” involved the deployment of military force, they relied pri-
+marily on mass popular demonstrations aimed at overthrowing or humili-
+ating local RVN authorities. Insofar as the party used military tactics at all 
+during 1960, most of its operations were best described as exercises in “armed 
+intimidation” rather than direct clashes with RVN military units. Indeed, 
+insurgent forces during 1960 were sometimes armed with little more than 
+wooden rifles and machetes. Nevertheless, these forces succeeded in eroding 
+	39	 Elliott, The Vietnamese War, 234–5.
+	40	 Trần Kim Hà, “Chuyển hường cách mạng miền Nam, đấu tranh chính trị kết hợp 
+đấu tranh quân sự” [Shifting the Southern Revolution, Toward Political Struggle 
+Combined with Armed Struggle], in Quân Đội Nhân Dân, March 12, 2015: www.qdnd​
+.vn/quoc-phong-an-ninh/xay-dung-quan-doi/chuyen-huong-cach-mang-mien-nam-
+dau-tranh-chinh-tri-ket-hop-dau-tranh-quan-su-257688.
+	41	 Ibid.
+
+David W. P. Elliott
+428
+Saigon’s control in many rural districts as the serial “waves” of concerted 
+uprisings washed across the region. This helped clear the way for operations 
+by larger insurgent military units, which started to pose a more serious threat 
+to RVN forces in terms of numbers and firepower during 1961.
+The impact of the “concerted uprisings” was reinforced by another episode 
+that took place in early 1960. On the night of January 25, insurgent forces 
+attacked and overran the “Tua Hai” (Watch Tower Number Two) military 
+base a few miles outside the provincial capital of Tây Ninh. The base, located 
+in the settlement of Trang Sụp, was occupied by the ARVN’s 32nd Division, 
+and its defenses featured bunkers and a 1,000 yards-long perimeter wall. But 
+according to American sources, the attacking force of around 200 insurgents 
+were able to penetrate the facility, inflict more than 60 casualties on the defend-
+ers, destroy two barracks, and make off with hundreds of captured weapons. 
+The Trang Sup/Tua Hai incident stunned South Vietnamese and American 
+officials, some of whom had dismissed previous insurgent attacks as the des-
+perate actions of rebels on the brink of defeat. General Samuel Williams, the 
+commanding general of the US military advisory group, described the battle 
+as a “severe blow to the prestige of the Vietnamese army and [an] indica-
+tion of the VC [Việt Cộng] ability to stage large-size, well planned attacks.”42 
+Meanwhile, VWP leaders celebrated the windfall of captured weapons that 
+would subsequently be used in additional “concerted uprisings” across the 
+delta.43 More than any other prior episode, the insurgents’ triumph at Trang 
+Sup suggested that the revolution’s capabilities in South Vietnam with respect 
+to armed struggle had been underestimated – a realization that would rever-
+berate not only in Saigon but also in Hanoi.
+The Southern Revolution Triumphant
+By mid-1960, the insurgency was spreading rapidly across much of South 
+Vietnam. As RVN leaders scrambled to respond, their DRVN counterparts 
+also raced to catch up to the rapidly changing revolutionary realities in the 
+South. In September 1960, the VWP convened its 3rd Party Congress in 
+Hanoi. In a landmark resolution, the congress indicated that the progress 
+	42	 Ronald H. Spector, Advice and Support: The Early Years of the US Army in Vietnam 1941–
+1960 (New York, 1985), 338.
+	43	 Nguyễn Ngọc Liệu, “Chiến thắng Tua Hai: Mở màn cho cao trào đồng khởi” [Victory 
+at Tua Hai: Setting the Stage for the Concerted Uprising,” Báo Quân Khu 7, August 12, 
+2015: https://baoquankhu7.vn/chien-thang-tua-hai-mo-man-cho-cao-trao-dong-khoi- 
+1464132455-001794s37810gs.
+
+The Origins of the Insurgency in South Vietnam
+429
+of the Southern Revolution would proceed on its own track and would no 
+longer be subordinate to the goal of building socialism in the North. “The 
+Vietnamese Revolution has two strategic tasks,” the congress declared. “The 
+first is to push forward with the socialist revolution in the North. The second 
+is to liberate the South from the yoke of the American imperialists and their 
+lackeys and achieve unification of our country and complete independence 
+and democracy in the entire country.” Lest anyone miss the implications of 
+this, the congress added that “these two strategic missions have a close rela-
+tionship with each other and are mutually supporting.”44
+In another important decision, the 3rd Congress also called for the creation 
+of “a worker-peasant-soldier alliance” in the South for the purpose of “bring-
+ing about a broad unified national front to oppose Mỹ-Diệm.” The resolution 
+went on to describe how this front would unite groups and individuals across 
+multiple classes and social groups. “The mission of this front is to unite with 
+all forces that can be united with, to win over all forces that can be won over, 
+to neutralize all forces that can be neutralized, and to attract a large number 
+of the masses into the struggle against Mỹ-Diệm in order to liberate the South 
+and peacefully unify the country.”45
+These decisions, which came several months before the formal unveiling 
+of the National Front for the Liberation of Southern Vietnam (NLF), confirm 
+an important historical fact about the NLF: from the moment of its founding, 
+the front functioned as the disguised face of the real force that controlled it, 
+the Vietnamese Workers’ Party (VWP). By promoting the myth of the NLF 
+as an independent force, the VWP created substantial confusion over the ori-
+gins of the front and the insurgency that it ostensibly led. For many years, 
+proponents of the “Southern Rebellion” thesis insisted that the NLF was an 
+indigenous southern creation that had emerged spontaneously in response to 
+Diệmist repression. Meanwhile, those who favored the “aggression from the 
+North” thesis argued just as ardently that the front was merely a stratagem 
+designed to conceal the culmination of Hanoi’s years-long efforts to bring 
+about the overthrow of the Saigon government by force. Although the latter 
+argument turned out to be a more accurate representation of the relationship 
+between the NLF and Hanoi after 1960, its advocates did not grasp the extent 
+	44	 Nghị quyết của Đại hội đại biểu toàn quốc lần thứ III của Đảng Lao động Việt Nam về 
+nhiệm vụ và đường lối của Đảng trong giai đoạn mới, ngày 10-9-1960 [Resolution of the 
+Third Congress of the Lao Dong Party of Vietnam on the Mission and Policy Line of 
+the Party in the New Period, September 10, 1960], printed in Văn Kiện Đảng Toàn Tập 
+[Party Documents], vol. XXI (Hanoi, 2002), 913–45; quotation on 916.
+	45	 Ibid., 920.
+
+David W. P. Elliott
+430
+to which senior VWP leaders had resisted a return to armed struggle prior to 
+that date.
+Following the official creation and proclamation of the NLF in December 
+1960, the VWP finally adopted a formal stance of support for the strategy of 
+all-out armed struggle in the South. In January 1961, the party’s Committee 
+for the South was formally renamed the Central Office of South Vietnam 
+(Trung Ương Cục Miền Nam or COSVN).46 COSVN and its Military Affairs 
+Committee were placed in overall command of the South Vietnam Liberation 
+Army (also formally created in early 1961); at the same time, COSVN was 
+under the direct authority of both the VWP Central Committee and the 
+senior command of the DRVN military, the People’s Army of Vietnam.47 The 
+supreme authority of party and military leaders in Hanoi over the Southern 
+insurgency was confirmed six months later, when COSVN’s responsibilities 
+were divided along regional lines. For the remainder of the war, COSVN 
+directed all military forces operating in southern Vietnam (the provinces 
+around Saigon and those in the Mekong Delta). Responsibility for waging 
+war in central Vietnam was transferred to an entity known as “Region 5,” 
+a restructured version of the old Interzone V organization. Henceforth, the 
+territory administered by Region 5 would be known as the B1 Front while the 
+territory under COSVN’s command became known as the B2 Front. Senior 
+leaders in both regions reported to and took orders directly from their supe-
+riors in Hanoi.48
+The elaboration of the new command structure for South Vietnam coin-
+cided with another important change. At the same moment it created COSVN 
+in early 1961, the senior leadership of the VWP adopted a new strategic slo-
+gan: “Even more strongly push forward the political struggle, at the same 
+time pushing forward the armed struggle to the same level as the political 
+struggle, and attack the enemy on two fronts, political and military.”49 The 
+awkward syntax obscured a conceptual shift of great significance – one that 
+	46	 Trận Đánh Ba Mươi Năm, vol. III, 156.
+	47	 “Quân Giải Phóng miền Nam Việt Nam — bước phát triển mời về tổ chức lực lượng 
+vũ trang nhân dân trong kháng chiến chống Mỹ, cứu nước” [The Liberation Army 
+of South Vietnam – A New Step Forward in Organizing the People’s Armed Forces 
+in the Anti National Salvation Resistance], Tạp Chí Quốc phòng Toàn Dân online, 
+February 13, 2011: http://tapchiqptd.vn/zh/tim-hieu-truyen-thong-quan-su/quan-
+giai-phong-mien-nam-viet-nam--buoc-phat-trien-moi-ve-to-chuc-luc-luong-vu-trang-
+nhan-/220.html.
+	48	 John Carland, Stemming the Tide: May 1965 to October 1966 Combat Operations (Washington, 
+DC, 2000), 5: https://history.army.mil/catalog/pubs/91/91-5.html.
+	49	 Trận Đánh Ba Mươi Năm, vol. III, 158–9.
+
+The Origins of the Insurgency in South Vietnam
+431
+had been several years in the making. For the first time since 1954, senior party 
+leaders embraced the notion that political struggle and armed struggle would 
+play coequal roles in the Southern revolution. This would remain the party’s 
+official stance for the remainder of the war. In point of fact, the embrace of 
+armed struggle opened the door to a rapid expansion of the VWP’s war effort 
+in the South and the sheer size of the Southern insurgency. By the mid-1960s, 
+the military personnel serving in the DRVN war effort in South Vietnam and 
+adjacent areas of Laos and Cambodia numbered in the hundreds of thousands 
+(Figure 19.1).
+As the war expanded, the goal of liberating the South quickly took on par-
+amount importance, and the objective of “building socialism in the North” 
+faded into the background. In 1964, at a special political conference presided 
+over by Hồ Chí Minh, the lead resolution exhorted “everyone do the work 
+of two for our kith and kin in the South.” Around the same time, party pro-
+pagandists resurrected a slogan that had originally been coined for the battle 
+of Điện Biên Phủ: “Everything for the front line.” This latest version, how-
+ever, was enhanced with the additional words “Everything to defeat the 
+Figure 19.1  Fighters serving in the armed wing of the National Liberation Front (NLF) 
+on patrol in South Vietnam in March 1966.
+Source: Keystone / Stringer / Hulton Archive / Getty Images.
+
+David W. P. Elliott
+432
+American aggressors.”50 By this point, the debate over the place of South 
+Vietnam in revolutionary strategy had effectively ended. And yet the ten-
+sions between the party’s dream of socialist transformation and its members’ 
+desire for national unity had not been resolved. In the years after 1975, these 
+tensions would re-emerge when the party embarked on a ruthless attempt to 
+impose socialist institutions on the newly conquered South, only to find itself 
+reversing course and embracing the “Southernization of the North” a decade 
+later.51 In this regard, the emergence of the South Vietnamese insurgency in 
+the years after 1954 suggests the complex ways in which the entire history of 
+the Vietnamese Revolution has been defined by the interplay among socialist 
+ideals, aspirations for national liberation, and regional identities.
+	51	 Huy Đức, Bên thắng cuộc [The Winning Side] (OsinBook, 2012); see also “The South Shall 
+Rise Again,” in David W. P. Elliott, Changing Worlds: Vietnam’s Transition from Cold War 
+to Globalization (Oxford, 2012), 40.
+	50	 “Mọi người làm việc bằng hai vì miền Nam ruột thịt,” [Every One Do the Work of 
+Two for our Kith and Kin in the South], Báo Tin Tức, September 4, 2015: http://baotin​
+tuc​.vn/ho-so/moi-nguoi-lam-viec-bang-hai-vi-mien-nam-ruot-thit-20150409140443425​
+.htm.

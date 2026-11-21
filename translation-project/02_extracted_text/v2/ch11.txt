@@ -1,0 +1,979 @@
+236
+In Our Great Spring Victory: An Account of the Liberation of South Vietnam in 1975, 
+General Văn Tiến Dũng quotes his South Vietnamese counterpart General 
+Phạm Văn Phú as often saying “Who controls the Tây Nguyên will control 
+all of the South.”1 Literally meaning Western Highlands, the Tây Nguyên 
+is usually called the Central Highlands in English, and alternatively Hauts 
+plateaux du centre or Pays montagnard du sud(-indochinois) in French. This 
+mountainous region in central Vietnam encompasses the Annam Cordillera 
+(Trường Sơn) and high plateaus between the narrow coastal plains border-
+ing the South China Sea to the east, and Laos and Cambodia to the west. 
+Whatever toponym we use, the quote indicates the strategic importance of 
+these highlands for the control of central and southern Vietnam – during 
+both the French Indochina War and the Vietnam War. In this chapter I will 
+explore the role that the indigenous ethnic groups of this region played in the 
+Vietnam War, in particular in its dénouement with the fall or liberation of 
+Saigon in April 1975.
+Until 1954 the Central Highlands were primarily inhabited by some twenty 
+indigenous ethnic groups that the French and Americans collectively referred 
+to as “Montagnards” (mountain dwellers); as Montagnards is not a proper 
+ethnonym, I will refer to them as (Central) Highlanders. The main indige-
+nous ethnic groups in terms of population are the Jarai, Rhadé (now called 
+Êđe), Raglay, and Churu (who speak Austronesian languages, like the Malay, 
+Indonesians, Filipinos, and Polynesians), and the Bahnar, Sedang, Koho, 
+Hrê, Mnông, Stiêng, Bru Vân Kiều, Katu, Gie Triêng, Maa, Ta Oi, Cor, and 
+Chrau (who speak Austroasiatic languages). Their combined population was 
+11
+Vietnam’s Ethnic Minorities at War
+Oscar Salemink†
+	1	 Văn Tiến Dũng, Our Great Spring Victory: An Account of the Liberation of South Vietnam 
+(Hanoi, 2000), 48–9. Larry Jackson (“The Vietnamese Revolution and the Montagnards,” 
+Asian Survey 9, 5 (1969), 328) attributes this quote to General Võ Nguyễn Giáp but I have 
+not found the original source for this.
+
+Vietnam’s Ethnic Minorities at War
+237
+estimated at around 1 million in 1954, and more recently at around 2.5 million. 
+The ethnic Việt people – or Kinh – were until 1954 largely confined to the wet 
+rice-growing plains of lower than 200 meters in altitude: the Red River Delta 
+in the north, the Mekong Delta in the south, and the coastal plains connect-
+ing these deltas. Just as the highlands in the north dominated the northern 
+delta, the Annam Cordillera and Central Highlands dominated the central 
+coastal plain and hence controlled overland access to the southern delta areas, 
+including Saigon.
+It was the rapid deterioration of the security situation in the Central 
+Highlands that prompted the US Special Forces to lead Highlander warriors. 
+It was an attack by the People’s Liberation Armed Forces (PLAF) on an 
+American airstrip close to Pleiku in the Central Highlands that prompted the 
+bombing campaign known as Operation Rolling Thunder and the landing 
+of US combat troops near Đà Nẵng in 1965. And it was the surprise attack 
+by communist forces on the Highland city of Ban Mê Thuột (now Buôn Ma 
+Thuột) on March 10, 1975, and its conquest within two days, that triggered 
+the South Vietnamese military retreat from the Highlands and the conse-
+quent collapse of the Republic of Vietnam (RVN). It was the silent complic-
+ity of indigenous militia and populations around Ban Mê Thuột that ensured 
+the element of surprise in the attack by regular North Vietnamese cavalry, 
+and which arguably accelerated the demise of the RVN in the South – 
+although perhaps it did not alter the outcome itself, that is, the reunification 
+of Vietnam. In all these key episodes in the war, Central Highlanders played 
+an outsized role.
+In order to understand this historical outcome, we have to go back to 1962’s 
+Operation Switchback, which moved operational control over the Civilian 
+Irregular Defense Groups from the Central Intelligence Agency to the US 
+Army in the course of 1963. But before describing these events of 1963 and 
+beyond in more detail, it is necessary to briefly sketch the history of events 
+leading up to Operation Switchback. After dwelling a bit on the events of 1963 
+and their immediate aftermath, I will offer a brief and necessarily simplified 
+version of events up until 1975.2
+	2	 See also Gerald C. Hickey, Free in the Forest: Ethnohistory of the Vietnamese Central 
+Highlands, 1954–1976 (New Haven, 1982); Oscar Salemink, The Ethnography of Vietnam’s 
+Central Highlands: A Historical Contextualization, 1850–1990 (Honolulu, 2003); Po Dharma 
+(with the collaboration of Mak Phoeun), Du FLM au FULRO. Une lutte des minorités du sud 
+indochinois 1955–1975 (Paris, 2006); and J. P. Harris, Vietnam’s High Ground: Armed Struggle 
+for the Central Highlands, 1954–1965 (Lawrence, KS, 2016).
+
+Oscar Salemink
+238
+Colonial Trajectories and the French 
+Indochina War
+When French troops arrived in Indochina, the Highlands were regarded as 
+a largely impenetrable hinterland where few Việt people settled and where 
+the imperial court of Huế exerted little control. Around 1850 French mis-
+sionaries even managed to set up a mission station among the Bahnar group 
+in Kontum, where they remained out of reach of the court that suppressed 
+Christianity as a potentially seditious religion. In Vietnamese, the region 
+was referred to as rừng mọi (literally forests of the savages), denoting both 
+geographical and physical distance as well as wildness. Because the area was 
+a hinterland that was surrounded from 1893 by three French protectorates 
+(Annam, Laos, Cambodia) and one colony (Cochinchina), it was initially 
+unclear whether the border should run along the watershed of the Annam 
+Cordillera – as was the case north from Quảng Nam – or more to the west, 
+but during the first decade of the twentieth century the territory covered by 
+the current highland provinces of Kontum, Gialai, Đắk Lắk, and Đắk Nông 
+was assigned to Vietnam. In the 1920s the post–World War I rubber boom led 
+to a land rush on the fertile basaltic plateaus, necessitating the imposition of 
+more systematic colonial rule and bringing not just planters and capital, but 
+also Việt (as well as Chinese and occasionally Indonesian) labor. These devel-
+opments caused discontent among many indigenous Highlanders, as brought 
+out in the long-lasting and violent Mnông rebellion led by N’Trang Lơng 
+(1914–35) and in the so-called Python God millenarian movement encompass-
+ing many ethnic groups throughout the Central Highlands (1936–8).3
+The economic crisis of the 1930s and the emergence of political threats 
+to colonial rule – domestically from nationalist movements and internation-
+ally from Japan and Thailand – induced the French colonial regime to coopt 
+Indochina’s ethnic minorities against these perceived threats through a poli-
+tique d’égards (politics of respect), which began with a change of ethnonym 
+from the offensive term mọi (savage) to montagnard (highlander). The stra-
+tegic importance of the mountainous regions of colonial French Indochina 
+was recognized early on by French military officers such as Joseph Galliéni 
+and Charles Ardant du Picq.4 During the French Indochina War (1946–54) the 
+	3	 Hickey, Free in the Forest; Salemink, Ethnography.
+	4	 J. Galliéni, Galliéni au Tonkin (1892–1896), par lui-même (Paris, 1941 [1913]); C. Ardant 
+du Picq, “Etude du pays Moy au point de vue militaire,” 1923, 110–11 [Archives natio-
+nales d’Outre-Mer, Aix-en-Provence, Gougal 49.506]; see also C. Ardant du Picq, 
+“Monographie des pays Moï (Indochine, provinces de Kon Tum et de Ban Mê Thuột),” 
+Revue des Troupes Coloniales 19 and 20 (1925/6), passim.
+
+Vietnam’s Ethnic Minorities at War
+239
+truth of their assessments was shown in the battles of Điện Biên Phủ in the 
+northern highlands and of An Khê in the Annam Cordillera (both in 1954), 
+which forced the French to acquiesce to Vietnamese independence and aban-
+don Indochina.5 During World War II the French colonial army increased 
+its efforts at recruiting Highlanders for their bataillons montagnards, holding 
+out the promise that the Highlands territory would become an “autono-
+mous zone” under direct French rule by taking steps to detach it from the 
+Protectorate of Annam. Cut off from France, the pro-Vichy colonial regime 
+of Admiral Jean Decoux celebrated the Highlands as the heartland of French 
+Indochina, epitomized by the status of Đà Lạt as the summer capital and 
+by plans to turn it into a federal capital.6 These plans all came to naught, 
+however, as in March 1945 Japanese forces staged a coup against the French 
+regime, detaining all French military forces and seeking to enlist Vietnamese 
+nationalists in their struggles against the Allies. The rather sudden Japanese 
+surrender in August 1945 plunged the colony into chaos, with many groups 
+vying for power. In a series of events the Việt Minh emerged as the stron-
+gest nationalist group, and its leader Hồ Chí Minh declared independence in 
+Hanoi on September 2, 1945.7
+After World War II the French army sought to return to a Vietnam in the 
+grip of nationalist fervor. The majority of the French expeditionary force con-
+sisted of Africans, North Africans, and Legionnaires, and the French colonial 
+army recruited soldiers and militias from some of the approximately twenty 
+ethnic groups in the Central Highlands between 1946 and 1954 in order to 
+seek allies against a Vietnamese nationalist movement dominated by ethnic 
+Việt. The indigenous Highlanders were culturally and linguistically very dif-
+ferent from each other but even more so from the surrounding Việt, Lào, and 
+Khmer populations, and were induced to fight for the French with promises 
+of some measure of cultural autonomy and territorial control. After carving 
+out a separate Highland territory from Vietnam in the form of the Pays mon-
+tagnard du sud-indochinois (Highlander country of southern Indochina, bet-
+ter known as PMSI) in 1946, the French authorities attached this territory in 
+1950 to the person of the reinstated emperor Bảo Đại, as his personal Crown 
+	5	 Bernard Fall, Street without Joy: Indochina at War, 1946–1954 (Harrisburg, PA, 1961).
+	6	 Eric T. Jennings, Imperial Heights: Dalat and the Making and Undoing of French Indochina 
+(Berkeley, 2011), 228.
+	7	 Stein Tønnesson, “Filling the Power Vacuum: 1945 in French Indochina, Netherland’s 
+Indies and British Malaya,” in Hans Antlöv and Stein Tønnesson (eds.), Imperial Policy 
+and South East Asian Nationalism (Richmond, UK, 1995), 110–43; and David Marr, Vietnam 
+1945: The Quest for Power (Berkeley, 1995).
+
+Oscar Salemink
+240
+Domain. The French divide-and-rule tactics were never completely success-
+ful and split the Highlander populations whose allegiance was divided. In the 
+1950s the Việt Minh became militarily ever stronger, and in the spring of 1954 
+defeated the French expeditionary army in the battle of Điện Biên Phủ in the 
+Northern Highlands. Just after Điện Biên Phủ in June 1954, the French elite 
+Groupe mobile 100 of the Groupement de commandos mixtes aéroportés 
+(GCMA) suffered near-annihilation at the Mang Yang pass near An Khê in the 
+Central Highlands, the last major battle before the Geneva Agreements took 
+effect on August 1, 1954.8
+Buôn Enao and Operation Switchback, 1954–1963
+At the Geneva Conference the various parties – France, the Việt Minh, right-
+wing Vietnamese nationalists, the United States, the USSR, and China – 
+agreed to a temporary troop separation along the 17th parallel in anticipa-
+tion of elections that would never materialize. This eventually resulted in 
+the temporary existence of two separate Vietnamese states, the Democratic 
+Republic of Vietnam (DRVN) in the north and the Republic of Vietnam 
+(RVN) in the south, which both claimed sovereignty over the entire territory 
+of Vietnam. The ceasefire and troop separation meant that many Highlander 
+communist cadres such as Nay Đer, Nay Phin, Ksor Ní, and Y Ngông Nie 
+Kdam went north for training at the ethnic minority training school in Thái 
+Nguyên, in anticipation of their return to the Central Highlands, which for 
+some took more than two decades to become reality.9 In the southern half of 
+Vietnam, with US support, Ngô Đình Diệm replaced erstwhile emperor Bảo 
+Đại as the head of the French-created State of Vietnam under the Fédération 
+indochinoise, and in 1955 established a nationalist, autocratic regime – the 
+Republic of Vietnam – in which important positions were taken by his rel-
+atives.10 With the French out of the way, Diệm dispensed with the autono-
+mous Crown Domain in the Highlands and abolished indigenous land rights, 
+customary law courts, and vernacular education in, for example, the erst-
+while “franco-rhadé schools.” Diệm also proscribed the use of tribal costume 
+	8	 Bernard B. Fall, Street without Joy, rev. ed. (Harrisburg, PA, 1964); Shawn F. McHale, 
+The First Vietnam War: Violence, Sovereignty, and the Fracture of the South, 1945–1956 
+(Cambridge, 2021), 89–93; Hickey, Free in the Forest; Salemink, Ethnography.
+	9	 Nguyễn Quang Tuệ, “Tìm hiểu thêm về Ông Nay Đer” [Understanding More about 
+Mr. Nay Der], Nghiên cứu lịch sử [Historical Research] 6, 418 (2016), 66–76.
+	10	 Edward Miller, Misalliance: Ngo Dinh Diem, the United States, and the Fate of South Vietnam 
+(Cambridge, MA, 2013).
+
+Vietnam’s Ethnic Minorities at War
+241
+in urban areas and possession of tribal weapons such as spears and crossbows, 
+which Highlanders needed for hunting.
+At the same time, Diệm resettled hundreds of thousands of Catholic ref-
+ugees from the North on lands that were appropriated from Highlanders in 
+a region where until 1954 the comparatively few Việt people were confined 
+to a couple of small urban centers such as Đà Lạt, Kontum, Ban Mê Thuột, 
+and Pleiku, and where the rural areas were predominantly populated by 
+indigenous groups living from swidden agriculture, interspersed with some 
+coffee, tea, and rubber plantations. The resettlement of Catholic refugees 
+from the North in the Central Highlands went hand in hand with a series of 
+programs aimed at resettling Highlanders in politically secure villages and 
+promoting modern, market-oriented, sedentary agriculture instead of the 
+subsistence-oriented, rotational, swidden agriculture that most Highlander 
+populations had been practicing for centuries. In 1957 President Diệm inau-
+gurated the Dinh điền program, which is usually (but according to Stan B. H. 
+Tan erroneously) translated as “land development,” and which had a special 
+subprogram targeting Highlanders (Dinh điền thượng). The idea was to bring 
+Highlanders together in larger clusters where they would be encouraged to 
+adopt sedentary agricultural techniques – or coerced into doing so – with the 
+assumed added advantage that the larger clusters would be more easily defen-
+sible against National Liberation Front (NLF) mobilization. According to 
+anthropologist Gerald C. Hickey, the Dinh điền program was highly unpop-
+ular among Highlanders, as they were forced from their ancestral lands and 
+made to give up their highly ritualized lifestyles that were synchronized with 
+swidden cultivation. Moreover, state support for resettled Highlanders was 
+minimal because Diệm believed they themselves should invest in their devel-
+opment, while corruption was rife among officials who were mostly ethnic 
+Việt. In 1959 Diệm and his brother Nhu started the agroville program, which 
+sought to concentrate Highlanders in even larger settlements. In the early 
+1960s the Dinh điền program became the “strategic hamlet” program, which 
+was a more militarized version of the same concept, intended to separate the 
+fish (guerrillas) from the water (population), to paraphrase Mao Zedong’s 
+famous adage. Hickey was one of many observers who linked Highlander 
+discontent to these programs.11
+	11	 Hickey, Free in the Forest, 47–89; Salemink, Ethnography, 179–210; Thomas L. Ahern, Jr., 
+“CIA and Rural Pacification in South Vietnam,” Center for the Study of Intelligence, 
+2001 
+(declassified, 
+www.foia.cia.gov/sites/default/files/document_conversions/ 
+48/3_CIA_AND_RURAL_PACIFICATION.pdf). For a positive interpretation of 
+President Diệm’s policies in the Central Highlands, see Stan B.-H. Tan, “‘Swiddens, 
+
+Oscar Salemink
+242
+Diệm’s assimilationist nation-building programs and appropriation of 
+their ancestral lands alienated the Highlanders, provoking French-trained 
+Highlander intellectuals and civil servants in 1955 to form a protest move-
+ment that they called the Highlander Liberation Front (Front de la libération 
+des Montagnards). In 1958 they renamed this Front “Bajaraka,” after the first 
+syllables of the ethnonyms of the four biggest ethnic groups (Bahnar, Jarai, 
+Rhadé, Koho) that demographically dominated the four Highland provinces 
+of Kontum, Pleiku (Gialai), Darlac (Đắk Lắk), and Haut-Donnaï (Lâm Đồng). 
+The movement consisted of representatives of most of the larger ethnic groups 
+(Rhadé: Y Bham Enuol, Y Dhon Adrong, Y Bih Aleo, Y Thih Eban; Jarai: Nay 
+Luett; Bahnar: Paul Nur), but was dominated by Rhadé people, who were 
+considered to be the most educated and hence the most “civilized” among 
+the Highlanders. The main leader was the charismatic Y Bham Enuol, who 
+in the course of the next two decades would acquire almost mythical status 
+among Highlanders. When Bajaraka in 1958 mounted demonstrations in pro-
+vincial capitals calling for restoration of pre-1955 autonomy, Diệm responded 
+by incarcerating most of the Bajaraka leadership and by intensifying his assimi-
+lationist policies, with only the Rhadé leader Y Bih Aleo escaping arrest.12
+In anticipation of the resumption of political and military struggle in the 
+South, ethnic minority cadres who had gone north in 1954 filtered back into 
+the Highlands in the late 1950s with thorough political training. They were 
+accompanied by ethnic Việt, who sometimes adopted the lifestyles of the 
+local populations where they lived, while radio transmissions from the North 
+in the vernacular ethnic languages conducted propaganda against the Diệm 
+regime.13 In 1959–60, the guerrilla war in the Highlands was renewed with the 
+Resettlements, Sedentarizations, and Villages’: State Formation among the Central 
+Highlanders of Vietnam under the First Republic, 1955–1961,” Journal of Vietnamese 
+Studies 1, 1–2 (2006), 210–52. For an excellent ethnographic account of the Highlanders’ 
+ritualized agricultural lifestyle, see Georges Condominas, Nous avons mangé la forêt de 
+la Pierre-Génie Gôo (Hii saa Brii Mau-Yaang Gôo). Chronique de Sar Luk, village mnong gar 
+(tribu proto-indochinoise, des Hauts-Plateaux du Vietnam central) (Paris, 1957), which was 
+published in English after the war as We Have Eaten the Forest: The Story of a Montagnard 
+Village in the Highlands of Vietnam (New York, 1977).
+	12	 Hickey, Free in the Forest, 47–89; Salemink, Ethnography, 179–210; Po Dharma, Du FLM au 
+FULRO. In “Swiddens, Resettlements, Sedentarizations, and Villages,” Stan B.-H. Tan 
+criticizes Hickey, Salemink, and other scholars of the Central Highlands, claiming that 
+Diệm’s agricultural policies were much more culturally accommodating than given 
+credit for, but he ignores eyewitness accounts of how such policies played out in prac-
+tice as well as the livelihood and cultural effects of the resettlement of thousands of Việt 
+Northerners in lands claimed and previously used by Highlanders.
+	13	 Interviews and conversations by the author with a number of Vietnamese living in 
+northern Vietnam confirm the picture that as early as 1957 Vietnamese soldiers and 
+
+Vietnam’s Ethnic Minorities at War
+243
+Trà Bồng rising of the Cor and Hrê minorities in the mountains of Quảng 
+Nam and Quảng Ngãi, reactivating an existing rebel tradition in this area, one 
+that dated back to the 1945 Ba Tơ rising and even further to the Python God 
+movement of the 1930s.14 These events preceded the establishment of the 
+NLF, formed in 1960 on the basis of remaining Việt Minh cadres in the South 
+with support from the DRVN. The NLF capitalized on Highlander discontent 
+by setting up a Central Highlands Ethnic Autonomy Movement (Phong trào 
+dân tộc tự trị Tây Nguyên) headed by the one Bajaraka leader, Y Bih Aleo, 
+who had escaped imprisonment by going underground and joining the com-
+munist resistance. As president of its Central Highlands Ethnic Autonomy 
+Movement, he would become vice chairman of the NLF.
+Helped by Diệm’s oppressive policies toward the Highlanders, the NLF 
+rapidly expanded its control in minority areas across the Highlands in 1961, 
+thus alarming Diệm’s American allies. In order to counter this development 
+in the absence of a serious US Army combat presence, the CIA tried out a 
+new counterinsurgency concept, forming a Village Defense Program with 
+self-defense militia known as the Citizens’ Irregular Defense Groups, later 
+renamed Civilian Irregular Defense Groups (CIDGs), led and trained by US 
+Special Forces. The program was started by Colonel Gilbert Layton of the 
+Combined Studies Division, a local branch of the CIA operating under the 
+auspices of William Colby. Layton got in touch with a young agricultural 
+engineer with the International Voluntary Services (IVS, a forerunner of the 
+Peace Corps) in Darlac (later Đắk Lắk) province, David Nuttle, who at the 
+time was dating Layton’s daughter Bonnie. Nuttle was fluent in Vietnamese 
+and in the Rhadé language, and was willing to leave the IVS in order to join 
+the CIA. The idea was that he would organize the village of Buôn Enao – close 
+to Ban Mê Thuột city – against the NLF, promising arms, land, and agricul-
+tural support, plus medical care provided by a Special Forces medic, Sergeant 
+Paul Campbell. A Special Forces team was then brought in to train and lead 
+the Highlanders, and the Special Forces medic offered medical care and 
+trained young Rhadé women as nurses. Rhadé men were trained in the use 
+of firearms, and built a defensive fence around the village. In addition, Special 
+	14	 Phạm Kiệt, Từ núi rừng Ba Tơ. Hồi ký [From the Mountains and Forests of Ba To: 
+Reminiscences] (Hanoi, 1976); Ta Xuan Linh, “How Armed Struggle Began in South 
+Vietnam,” Vietnam Courier, March 1974, 19–24; Ta Xuan Linh, “Armed Uprisings by 
+Ethnic Minorities along the Truong Son,” Vietnam Courier, September 1974, 15–20, and 
+October 1974, 18–21; Salemink, Ethnography.
+political cadres were sent to the South in order to prepare for the revolution. See also 
+Hickey, Free in the Forest, 47–73; and Stanley Karnow, Vietnam: A History (New York, 
+1983), 237.
+
+Oscar Salemink
+244
+Forces organized a Mobile Strike Force trained in regular military combat 
+and that would come to offer protection in case a village was attacked.15
+The program caught on and, radiating out from Buôn Enao, dozens of 
+villages were organized and trained in a similar manner, to the point that by 
+mid-1962 the NLF was no longer a major security threat in Đắk Lắk province 
+and was “rolled back” in other Highland provinces at a time when the war 
+was still a small-scale guerrilla conflict and did not yet involve US ground 
+troops.16 Given the still “irregular” or “unconventional” nature of the war in 
+	15	 Interviews of William Colby (April 1990), Gilbert Layton (May 1990), and Paul 
+Campbell (May 1990): Gilbert Layton papers (papers that Layton handed to me in May 
+1990, and currently in my possession); Ahern, “CIA and Rural Pacification in South 
+Vietnam”; Dr. J. P. Harris, The Buon Enao Experiment and American Counterinsurgency 
+(Camberley, Surrey, Sandhurst Occasional Papers No. 13, 2013); Willam E. Colby, with 
+James McCargar, Lost Victory: A Firsthand Account of America’s Sixteen-Year Involvement in 
+Vietnam (Chicago and New York, 1989).
+Figure 11.1  Members of the Rhadé hill tribe with an American military instructor (1962).
+Source: ullstein bild Dtl. / Contributor / ullstein bild / Getty Images.
+	16	 Colonel Francis J. Kelly, US Army Special Forces 1961–1971 (Washington, DC, 1973).
+
+Vietnam’s Ethnic Minorities at War
+245
+the early 1960s, motivated and well-armed Highlanders were mostly capable 
+of fighting off NLF attacks. US intelligence reported that the NLF became 
+increasingly unpopular with Highlanders as their soldiers were mostly depen-
+dent on local provisions, in particular before the Hồ Chí Minh Trail began to 
+allow for motorized transport in December 1961. This forced NLF militia to 
+requisition, or simply take, food from villagers, who were largely subsistence 
+farmers not producing enough of a surplus that could be bought or confis-
+cated without endangering Highlander food security.17 The combined result 
+of these developments – as detailed in intelligence reports at the time – was 
+an increasing defection of NLF Highlander fighters, who did not want to take 
+food from Highlander villages or seek to control such villages with violence 
+rather than propaganda. In those early days of largely unconventional war-
+fare, these rather small-scale developments mattered greatly even in military 
+terms. For a brief period in 1962, then, Buôn Enao became a success story, 
+visited by high-ranking military officers and diplomats from the United States 
+and Australia and also by Ngô Đình Nhu, the brother of Diệm, who was in 
+charge of security. J. P. Harris estimates “that it was considered, at a very 
+senior level in the US military, to be the most impressive thing Americans 
+had yet achieved in Vietnam.”18 While impressed by the results, most of the 
+officers failed to understand its tactical concept, which went beyond conven-
+tional tactics by privileging civic organization. For example, they tended to 
+rely on superior firepower and aerial bombardments even when those alien-
+ated local populations.19
+Around the same time as, and parallel to, the Buôn Enao program, the 
+so-called Mountain Scout program was set up in many Highland provinces of 
+the RVN. In contrast with the CIDG program, the Mountain Scout program 
+was initiated in 1961 by the RVN’s Directory of Montagnard Affairs in Huế 
+and became operational in 1962, again funded by the CIA. It consisted of small 
+groups of lightly armed Highlander men who would conduct social (civic) 
+action and propaganda along with intelligence gathering and small-scale mil-
+itary action. These small groups were under the command of Vietnamese 
+district chiefs in the Highlands, who were reportedly often scornful of the 
+Highlander fighters under their control, thus alienating the Mountain Scouts 
+and making them much less effective than the CIDG. CIA personnel were 
+	17	 J. P. Harris, Vietnam’s High Ground: Armed Struggle for the Central Highlands, 1954–1965 
+(Lawrence, KS, 2016).
+	18	 Harris, The Buon Enao Experiment, 29.
+	19	 Ahern, “CIA and Rural Pacification in South Vietnam”; Harris, The Buon Enao 
+Experiment.
+
+Oscar Salemink
+246
+also dismayed by the massive diversion of funds and the gradual deemphasis 
+of the civilian aspects of the program, which in 1963 became exclusively 
+military. In comparison with the CIDG, the Mountain Scout program was 
+politically and militarily much less successful.
+In spite of the CIDG success in rolling back the NLF, “within a few 
+months the whole enterprise had largely disappeared, leaving a lasting 
+legacy of increased racial bitterness and tension between Highlanders and 
+Vietnamese.”20 The high-profile success of the program had raised suspicion 
+among a number of South Vietnamese officers, and ultimately with President 
+Diệm, that armed Highlanders fighting for their own protection practically 
+under US command – and largely in the absence of South Vietnamese soldiers – 
+constituted a return to the days of French colonial divide-and-rule policy of 
+the PMSI and Crown Domain, and hence were a threat to Vietnam’s territo-
+rial integrity and sovereignty. Egged on by Colonel Lê Quảng Trọng, com-
+mander of the 23rd Division of the Army of the Republic of Vietnam (ARVN) 
+based in Ban Mê Thuột, Diệm ordered that village defenders be disarmed and 
+the mobile strike force be disbanded, and in August 1962 Ngô Đình Nhu with-
+drew his Vietnamese Special Forces (Lực lượng đặc biệt, or LLDB) from the 
+CIDG villages.21 By the end of 1962, Operation Switchback had shifted oper-
+ational control of the CIDG from the CIA to the US Army, which ordered 
+the American Special Forces to resume their role as advisors to their South 
+Vietnamese counterparts.
+On the US side, the rapid expansion of the Buôn Enao experiment had 
+made the program logistically too big to finance and handle for the CIA, 
+which in the wake of the Bay of Pigs fiasco in Cuba had come under increased 
+scrutiny in the United States itself, and had come to be seen as unfit to lead 
+an essentially military operation. The heavy involvement of US Special 
+Forces almost from the beginning of the Buôn Enao experiment and during 
+its expansion made it logical to turn command and logistics over to Military 
+Assistance Command Vietnam (MACV) under Operation Switchback. The 
+decision was made in May 1962 – six months after the beginning of the 
+Village Defense Program – that the Department of Defense would take full 
+responsibility over budget and operations by fiscal year 1963, but already 
+before that MACV had a growing role in the training and command of the 
+CIDG through the Special Forces. Colonel George Morton, incoming com-
+mander of the 1st Special Forces, reportedly had a conventional view of 
+20	 Harris, The Buon Enao Experiment, 29.
+21	 Ahern, “CIA and Rural Pacification,” 60, 109; Harris, The Buon Enao Experiment.
+
+Vietnam’s Ethnic Minorities at War
+247
+warfare, while “MACV commander General Paul Harkins had misgivings 
+about military absorption of the Station’s paramilitary work.”22 At the same 
+time the CIDG success whetted the US Army’s appetite for reliable jungle 
+fighters who would be deployable anywhere; hence, “MACV intended to 
+take over CIDG completely and militarize it.”23 Instead of a village defense 
+program, the CIDG militia essentially became a source of tribal soldiers – 
+like the bataillons montagnards of French colonial times – who would eventu-
+ally fight at the iconic Special Forces camps such as the Plei Me and A Shau 
+camps, where North Vietnamese and American troops fought major battles 
+in 1965 and 1966.
+These changes were greatly resented by the Highlander militias, who 
+suffered contempt and discrimination from their Việt commanders and felt 
+let down by their American partners. Simultaneously, the US Army greatly 
+expanded the scope and radius of the CIDG and the Mobile Strike Forces. 
+Its tactical concept was changed from essentially village defense, meaning 
+that villagers were recruited, trained, and armed to defend their home vil-
+lages against the NLF, to offensive operations from remote military camps far 
+away from their home villages, often in border areas, while seeking to inter-
+dict North Vietnamese “infiltration” along the Hồ Chí Minh Trail. This was 
+an important change, not only because the original concept of village defense 
+was abandoned and replaced by a regular military concept that, according 
+to all reports, simply did not work, but also because of the effect it had on 
+the Highlander militias. Instead of forming self-defense militias, Highlanders 
+practically became mercenaries paid by and fighting for Americans, separated 
+from their familiar home environments.24 The men became professional sol-
+diers, outside local village and kinship structures – uprooted youth (déracinés), 
+as the French missionary Jacques Dournes had called the bataillons montag-
+nards during the French Indochina War.25 In addition, they were commanded 
+by Việt military officers whom they loathed, whereas the US Special Forces 
+only had an advisory status in this equation.
+	22	 Ahern, “CIA and Rural Pacification,” 98.
+	23	 Harris, The Buon Enao Experiment, 30–1.
+	24	 The term mercenaries comes from S. L. A. Marshall, Battles in the Monsoon: Campaigning 
+in the Central Highlands, Vietnam, Summer 1966 (New York, 1967), 22.
+	25	 Jacques Dournes, En suivant la piste des hommes sur les Hauts-Plateaux du Viêt-Nam (Paris, 
+1955), 72. See also Christian Simonnet, Les tigres auront plus pitié. La mission des Grands 
+Plateaux (Paris, 1977), 261–5. During field research in the Central Highlands in 1991 
+I encountered elderly Jarai men who had been in the CIDG and who considered them-
+selves to have been American soldiers, as their pay came from the United States and 
+their hope and loyalty were vested in the American presence in the Central Highlands.
+
+Oscar Salemink
+248
+With Operation Switchback, the Highlander militias in the CIDG became 
+disaffected with their military mission. Away from their villages and kin 
+groups, the expanding CIDG became a less effective fighting force, and 
+the NLF mounted more and more assaults on the Special Forces camps in 
+the course of 1963. Harris reports that “when the Communists mounted an 
+offensive in central Darlac in late July 1963, they met little resistance: villag-
+ers apparently surrendering quite readily the inadequate armament the gov-
+ernment had left them.”26 Highlanders complained to Nuttle and other CIA 
+personnel about RVN hostility, about partial disarmament, and about the 
+diminished material benefits. As Nuttle resigned from the CIA, around half 
+of the Highlander militia defected between January 1963 (38,500) and January 
+1964 (19,000), and by mid-1963 Buôn Enao – now run by Vietnamese LLDB – 
+was no longer a fighting village. While the CIA did not have the resources to 
+run the program and was no longer in control, MACV considered the CIDG 
+to be a Vietnamese military force which should therefore fall under South 
+Vietnamese command. The breakdown of the original CIDG effectiveness 
+predicated on the Buôn Enao philosophy was not unknown among leading 
+US military and political persons, but according to Thomas Ahern it did not 
+receive much attention:
+US attention to CIDG decay was distracted, less than three months after the 
+program’s transfer to MACV, by the outbreak of the Buddhist-led dissidence 
+that signalled the intensity of popular alienation from the Diệm government. 
+The urban disorder that preoccupied both governments did not affect the 
+Switchback schedule, however, and MACV took over support of the last 
+program, the Mountain Scouts, on 1 November 1963, the day on which dissi-
+dent generals overthrew President Ngô Đình Diệm.27
+When interpreting the relative and temporary success of the CIDG, it is 
+important to bear in mind the context of its time. In the early 1960s the NLF 
+had just been formed, the insurgency had just started, and the flow of fighters 
+and materiel down the Hồ Chí Minh Trail was still only a trickle.28 The NLF 
+	26	 Harris, The Buon Enao Experiment, 32.
+	27	 Ahern, “CIA and Rural Pacification,” 117.
+	28	 Nguyễn Bá Công et al., Trận đồ bát quái xuyên rừng rậm [The Forest Battle of the Eight 
+Trigrams], internal publication (Hanoi, 1979); John Prados, The Blood Road: The Ho 
+Chi Minh Trail and the Vietnam War (New York, 1999); Pamela McElwee, “‘There Is 
+Nothing That Is Difficult’: History and Hardship on and after the Ho Chi Minh Trail in 
+North Vietnam,” Asia Pacific Journal of Anthropology 6, 3 (2005), 197–214; Virginia Morris 
+with Clive Hills, The Road to Freedom: A History of the Ho Chi Minh Trail (Bangkok, 
+2006); David Lamb, “Revolutionary Road,” Smithsonian Magazine 38, 12 (2008), 56–66; 
+Vatthana Pholsena, “Highlanders on the Ho Chi Minh Trail,” Critical Asian Studies 40, 
+
+Vietnam’s Ethnic Minorities at War
+249
+was at the time largely dependent on its hold over local populations – by per-
+suasion, force, or a combination of the two. And although the US military, 
+political, and intelligence forces were deeply implicated in combating the 
+emergent insurgency, it was not until March 1965 that US ground troops were 
+deployed in Vietnam. The war changed from a smaller-scale counterinsur-
+gency to more conventional warfare, as the DRVN poured more troops and 
+heavier weapons down the Hồ Chí Minh Trail. The Tết Mậu Thân Offensive 
+in 1968 exposed much of the Southern infrastructure and wiped out a major 
+part of the local guerrillas of the NLF, which therefore became even more 
+reliant than before on Northern conventional forces. In conditions of large-
+scale conventional warfare the effectiveness of both guerrilla and counterin-
+surgency tactics – as embodied by the CIDG – was questionable, but in the 
+early 1960s such tactics could still make a major difference, as events on the 
+ground had shown.29 But in what follows I will not engage in counterfactual 
+analysis about the outcome of the war if other tactics had been employed; 
+instead I will focus on the important consequences of the demise of the CIDG 
+for the Vietnam War; for the Highlanders themselves, in particular for their 
+eventual aspirations for autonomy; and – indeed – for the postwar situation. 
+In the violent and insecure environment of the early 1960s, the CIDG camps – 
+now military camps commanded by Vietnamese LLDB and advised by US 
+Special Forces – became like pressure cookers, waiting to explode.
+The Rise and Demise of FULRO, 1963–1965
+In 1962 some of the Bajaraka leaders who had been in jail since 1958 were 
+released by President Diệm as an act of goodwill, but Y Bham Enuol remained 
+incarcerated. This created completely new situations for the various leaders 
+of Bajaraka, and they responded differently.
+In 1962–3 Colonel Layton of the CIA’s Combined Studies Division used 
+Christian and Missionary Alliance contacts among the Rhadé to negotiate 
+with NLF vice president Y Bih Aleo over his defection to the RVN, among 
+other things in exchange for the release of Y Bham Enuol. Although the 
+3 (2008), 445–74; Lien-Hang T. Nguyen, Hanoi’s War: An International History of the War 
+for Peace in Vietnam (Chapel Hill, NC, 2012); Pierre Asselin, Hanoi’s Road to the Vietnam 
+War, 1954–1965 (Berkeley, 2013).
+	29	 See, for instance, Kelly, US Army Special Forces, 1961–1971. A dissenting view on Operation 
+Switchback and the Buôn Enao turnover can be found in “Four Glaring Errors Often 
+Made by Historians” by Lieutenant Stephen Sherman, the preface to Seth A. Gitell, Jim 
+Morris et al., Broken Promise, Betrayal as Usual, and Other Readings about US Army Special 
+Forces and the Montagnards of South Vietnam (Houston, 1996).
+
+Oscar Salemink
+250
+negotiations – code-named Operation Linus – were given the green light 
+by US ambassador Frederick Nolting and General Paul Harkins, US military 
+commander in Vietnam, as well as by President Diệm and his brother Nhu, 
+the intended meeting was sabotaged by the Darlac province chief Lê Quảng 
+Trọng, who had the meeting place bombed by the RVN air force.30 But this 
+event was dwarfed by the so-called Buddhist Crisis in 1963, which pitted the 
+Buddhist majority against the regime of the Catholic Ngô family in the RVN. 
+The crisis came to a head in June 1963 with the self-immolation of Buddhist 
+monk Thích Quảng Đức in protest against the regime, and the raids on Xá Lợi 
+and other Buddhist pagodas in the RVN in August.31 The social unrest trig-
+gered a military coup against the Ngô brothers on November 2, 1963, setting 
+in motion a whole string of military coups and countercoups, and triggering 
+an initial relaxation of policies against Diệm’s adversaries, including in the 
+Central Highlands. Thus, in February 1964 Bajaraka’s charismatic leader Y 
+Bham Enuol was released by the prime minister, General Nguyễn Khánh, 
+and subsequently appointed province vice chief for Montagnard affairs of 
+Darlac province.
+Meanwhile, in 1963 some of the more “radical” Bajaraka leaders, includ-
+ing Y Dhon Adrong, had crossed the border to Prince Norodom Sihanouk’s 
+Cambodia to seek refuge and support, and were put in contact with Cham 
+and Khmer Krom irredentist movements. Within Vietnam, both the Cham 
+and Khmer ethnic groups had experienced the loss of territory and resources 
+during Vietnam’s historical expansion from the Red River Delta in what 
+has been called the “southward march” (nam tiến) from the fifteenth to 
+the nineteenth centuries.32 The “postcolonial” situation, in which the Việt 
+were demographically, politically, and culturally dominant in the new state, 
+inspired some Cham intellectuals to seek the renaissance of the erstwhile 
+Cham “kingdom,” and some Khmer groups in the Mekong Delta to seek 
+reintegration with the Khmer homeland, Cambodia. Eventually a coalition 
+was formed between two irredentist groups, one Khmer and one Cham – the 
+Front de Libération du Kampuchea Krom and the Front de Libération de 
+	30	 Salemink, Ethnography, ch. 6.
+	31	 Edward Miller, “Religious Revival and the Politics of Nation Building: Reinterpreting 
+the 1963 ‘Buddhist Crisis’ in South Vietnam,” Modern Asian Studies 49, 6 (2015), 1903–62.
+	32	 Po Dharma, Le Pāṇḍuranga (Campā), 1802–1835. Ses rapports avec le Vietnam, 2 vols. 
+(Paris, 1987); Raymond Scupin, “Historical, Ethnographic, and Contemporary Political 
+Analyses of the Muslims of Kampuchea and Vietnam,” Sojourn: Journal of Social Issues 
+in Southeast Asia 10, 2 (October 1995), 301–28; Philip Taylor, The Khmer Lands of Vietnam: 
+Environment, Cosmology and Sovereignty (Singapore, 2014).
+
+Vietnam’s Ethnic Minorities at War
+251
+Champa – and the Highlander autonomy movement, which went by a series 
+of different names over time.33 Eventually this coalition movement adopted 
+the name Front Unifié de Libération des Races Opprimées – better known as 
+FULRO – that exploded onto the scene in 1964 with simultaneous revolts in 
+five Special Forces camps.34
+In the Special Forces camps, ethnic tensions ran high because of the 
+enhanced command roles assumed by Vietnamese Special Forces, and of their 
+attempts to disarm Highlander militia in camps that were deemed “secure.” 
+The FULRO shadow command structure came under the influence of radical 
+Highlanders in Cambodia, led by Les Kosem, who was in the Buôn Sarpa camp 
+at the time. This strongman behind the movement was a well-connected eth-
+nic Cham major in the Cambodian army, who received tacit support from 
+Prince Sihanouk and General Lon Nol for the promotion of the idea that 
+the Central Highlands constituted haut Champa, that is the highland region 
+located between the erstwhile Cham kingdom on the coast of central Vietnam 
+and the Cham populations on the Mekong River in Cambodia.35 In a surprise 
+move, on September 20, 1964, Highlander militia revolted in five camps, kill-
+ing a number of Vietnamese commanders and taking many American and 
+Vietnamese Special Forces hostage. The rebels demanded the reconstitution 
+of the “special status” that the Central Highlands had enjoyed under Emperor 
+Bảo Đại, as well as their own armed forces and flag. A move to take Ban Mê 
+	33	 Initially the Front de Libération des Montagnards, it became the Front de Libération 
+du Kampuchea Nord; Front de Libération des Hauts Plateaux du Champa; Front de 
+Libération Dega-Cham; and Front de Libération du Pays Libre Dega-Cham. See Po 
+Dharma, Du FLM au FULRO.
+	34	 In the various documents distributed during the Conférence des Peuples Indochinois in 
+Phnom Penh, February 25, 1965, FULRO was referred to as Front Unifié de Libération 
+de la Race Opprimée, i.e. of one single “race.”
+	35	 Les Kosem (1927–76) was close to Major Lon Non, younger brother of General Lon Nol, 
+who was the military commander of Cambodia and who replaced Prince Sihanouk as 
+head of state after a US-supported coup in 1970. When the emergent Khmer Rouge 
+crushed Les Kosem’s irredentist Cham dream, he restyled himself the leader of the 
+Khmer Muslims, as most of the Cham in Cambodia and the Vietnamese Mekong Delta 
+were Muslim. In 1974 he fled to Malaysia with as many Cham refugees as he could take; 
+he died there on December 7, 1976. See also Mervyn A. Jaspan, Recent Developments 
+among the Cham of Indochina: The Revival of Champa (Hull, 1969); Jacques Dournes, 
+“Recherches sur le Haut-Champa,” France-Asie 24, 2 (1970), 143–62; Les Kosem, The 
+Martyrdom of Khmers Muslims (Phnom Penh, 1974), https://archive.org/details/
+TheMartyrdomOfKhmersMuslims; Raymond Scupin, “Muslims of Kampuchea and 
+Vietnam,” Sojourn: Journal of Social Issues in Southeast Asia 10, 2 (October 1995), 301–
+28; Po Dharma, Du FLM au FULRO; Po Dharma, “Viếng thăm mộ Thiếu Tướng Les 
+Kosem, sáng lập viên phong trào Fulro” [A Visit to the Grave of General Les Kosem, 
+a Founding Member of the FULRO Movement], Champaka, April 24, 2013, www​
+.champaka.info/index.php?option=com_content&view=article&id=777:viengtham&​
+catid=80:2012&Itemid=92.
+
+Oscar Salemink
+252
+Thuột city was thwarted, however, and in four camps US mediators were 
+able to secure the release of the Vietnamese Special Forces in exchange for a 
+nonviolent response on the part of the South Vietnamese army.36 Radicalized 
+by Les Kosem, the Buôn Sarpa CIDG defected to Cambodia, where they 
+would constitute a small military presence in Mondulkiri province, adja-
+cent to Darlac. A group of these Highlander militia fetched Bajaraka leader Y 
+Bham Enuol from his residence in Ban Mê Thuột and took him to Cambodia, 
+where he was followed by hundreds of Highlander militia. Y Bham was to 
+stay most of the time in Cambodia – in the latter years in detention in Phnom 
+Penh – until he died there at the hands of the Khmer Rouge in April 1975.37
+After the FULRO rebellion in September 1964 a series of confused nego-
+tiations took place between the various military government parties of the 
+RVN and Highlanders associated with FULRO’s loose organization, inter-
+spersed with various real or attempted FULRO uprisings in CIDG/Special 
+Forces camps. In Cambodia FULRO presented itself as an alliance of irreden-
+tist movements claiming parts of Vietnam, namely the Front de la Libération 
+des Khmer Krom, Front de Libération des Hauts-Plateaux du Champa, the 
+Front de Libération du Kambuja Nord, and the Front de Libération du Pays 
+Montagnard du Sud-Indochinois. In reality this coalition was a front for 
+Cambodia’s head of state Prince Sihanouk, who harbored territorial claims to 
+parts of Thailand, Laos, and Vietnam.38 This became clear at the Conference 
+of Indochinese Peoples (Conférence des Peuples Indochinois), which he orga-
+nized in Phnom Penh on February 25, 1965. This conference was intended to 
+be the diplomatic launching pad for FULRO, with the distribution of a history 
+of FULRO as well as one of the Front de Libération des Hauts Plateaux du 
+	36	 Interviews of General John “Fritz” Freund (May 1990) and Captain Vernon Gillespie 
+(May 1990). See also Howard Sochurek, “American Special Forces in Action in Viet 
+Nam: How Coolness and Character Averted a Bloodbath When Mountain Tribes Rose 
+in Revolt,” National Geographic 127, 1 (1965), 38–65; Hickey, Free in the Forest, 91–108; Po 
+Dharma, Du FLM au FULRO. A copy of the “Déclaration du Haut Comité du Front 
+Unifié de Lutte de la Race Opprimée” (FULRO, with “race” in the singular) was signed 
+on September 20, 1964, by Y Bham (on behalf of the Highlanders), Chau Dara (on 
+behalf of the Khmer Krom), and Po Nagar (on behalf of the Cham), with Po Nagar 
+being an alias for Les Kosem: Echols Collection, Cornell University Library, Ithaca, 
+New York.
+	37	 François Ponchaud, Cambodge année zéro (Paris, 1977), 15–16.
+	38	 Sarin Chhak, Les frontières du Cambodge. Tome 1. Les frontières du Cambodge avec les anciens 
+pays de la Fédération Indochinoise. Le Laos et le Vietnam (Cochinchine et Annam). Préface 
+de SAR le prince Norodom Sihanouk (Paris, 1966). For a more contemporary discussion 
+about Cambodia’s border troubles with Thailand, see John Burgess, Temple in the 
+Clouds: Faith and Conflict at Preah Vihear (Bangkok, 2015); and Shane Strate, The Lost 
+Territories: Thailand’s History of National Humiliation (Honolulu, 2015).
+
+Vietnam’s Ethnic Minorities at War
+253
+Champa, authored by Les Kosem under the alias Po Nagar, and Extraits de l’His-
+toire des Hauts-Plateaux du Centre-Vietnam (Pays Montagnard du Sud Indochinois), 
+authored by Y Bham. Although FULRO was supposed to be the umbrella 
+organization of three different irredentist movements of Highlanders, Cham, 
+and Khmer Krom, a reading of all three Historiques makes clear that both the 
+organizational and personnel structure and the territorial and representative 
+claims overlapped, with Vietnam’s Central Highlands claimed by Central 
+Highlanders as the Hauts Plateaux du Sud-Indochinois – the French colonial 
+designation – and by Cham as the Hauts Plateaux du Champa.
+During the conference a new theory was proposed that sought to create 
+a “racial” basis for the coalition of Highlanders, Cham, and Khmer Krom as 
+belonging to the same race, indicated with the neologism of “Austriens” (not to be 
+confused in English with Austrians, which in French is rendered as Autrichiens). 
+It postulated a racial bond between Khmer, Cham, and Highlanders, which 
+was contrasted with the Việt – referred to with the derogative label of “Yuon” 
+or “Yuan” by their neighbors – and which facilitated Cambodian territorial 
+claims to parts of South Vietnam. The idea of a race austrienne was concocted 
+by Charles Meyer, French advisor to Sihanouk, on the basis of the linguistic 
+categories of Austronesian and Austroasiatic, designations of the language 
+families that included Cham, Rhadé, Jarai, Raglai, and Churu (Austronesian 
+or Malayo-Polynesian) and Khmer and all other Central Highland vernacu-
+lars (Austroasiatic or Mon-Khmer). In the Historique of the Hauts Plateaux du 
+Champa Khmer, Cham, and Highlanders were also considered to belong to 
+one race, namely the Kham – conveniently sharing an etymological root with 
+Cambodia.39 It is clear from these convoluted ethnic and racial fabrications that 
+they were intended to justify alliances against one common enemy, namely the 
+Việt – whether incorporated in the RVN, NLF, or DRVN.
+	39	 See the Historique du Front Unifié de Lutte de la Race Opprimé (especially p. 2); Historique 
+du Front de Libération des Hauts Plateaux du Champa (especially p. 19); Extraits de l’His-
+toire des Hauts-Plateaux du Centre-Vietnam (Pays Montagnard du Sud Indochinois) – copies 
+of which are in my possession. See also Charles Meyer, “Les mystérieuses relations 
+entre le Roi du Cambodge et les Pötao des Jarai,” Etudes Cambodgiennes 4 (1965), 14–
+26; and Charles Meyer, “Kambuja et Kirata,” Etudes Cambodgiennes 5 (1966), 17–33. In 
+his book Derrière le sourire khmer (Paris, 1971), 269–70, however, Charles Meyer attri-
+butes this racial idea to “the strange Lon Nol.” Hickey attempts to trace the geneal-
+ogy of the term in his Free in the Forest, 115–16. Note the use of a linguistic category 
+to denote a race, much like the Nazis applied the linguistic category of Aryan to 
+race. The author of the English-language Wikipedia entry on FULRO wrote of Les 
+Kosem that he was “suspected to have been working as a double agent for both 
+the Cambodian secret service and the French” (https://en.wikipedia.org/wiki/
+United_Front_for_the_Liberation_of_Oppressed_Races).
+
+Oscar Salemink
+254
+Highlanders and the Vietnam War, 1965–1975
+On a nationwide scale the unraveling of the security situation in the Central 
+Highlands after Operation Switchback was compounded by the political 
+instability of the RVN after the Buddhist crisis and the killing of the Ngô 
+brothers, leading to more brazen attacks on RVN and US positions by the 
+NLF and its DRVN allies. A fierce attack on February 7, 1965, by the PLAF 
+on the American helicopter base Camp Holloway near Pleiku in the Central 
+Highlands provoked a massive military response, with a heavy bombing cam-
+paign against the North (Operation Rolling Thunder) and the landing of US 
+marines near Đà Nẵng in March 1965, initiating a military buildup that would 
+reach more than 500,000 at its height in 1968. In other words, while there 
+had been US Special Forces in Vietnam who operated in an advisory capacity 
+only, there was now a direct and growing combat presence of the US military 
+in Vietnam, not unlike the direct French presence in the Highlands during the 
+French Indochina War. The enhanced US presence seduced Highlanders to 
+see a wide assortment of American agents – Special Forces officers, missionar-
+ies of the Christian and Missionary Alliance, CIA, US Agency for International 
+Development, and International Volunteer Service officers, and even anthro-
+pologists – as trusted or at least potential protectors or go-betweens in 
+their deliberations with the RVN government and army. This bond – real 
+or assumed – between some Highlanders and some Americans raised suspi-
+cions among many Việt officials, who tended to see Highlanders as primitive, 
+naive, and gullible, and as disloyal and potential traitors.40
+The expanding presence of the US military after 1965 was matched by the 
+increasing role of the Northern People’s Army of Vietnam (PAVN) in the 
+war, giving it a more conventional flavor, with emphasis on use of heavy fire-
+power and the air force instead of the guerrilla and counterinsurgency tactics 
+that had characterized the NLF and CIDG approaches in 1962. Relying on 
+their superiority in terms of technology and firepower, the US Army preferred 
+pitched battles on empty terrain, unencumbered by the presence of local pop-
+ulations, and this preference applied even more to the air force, which sought 
+to create “free fire zones,” where the population had been removed and it 
+had license to “kill everything that moves.” In order to create such a battle-
+field, local populations were forced into refugee camps, and those resisting or 
+avoiding resettlement would be labeled “VC” (Viet Cong), meaning follow-
+ers of the NLF, who could then be legitimately killed. According to Gerald 
+40  Hickey, Free in the Forest, 47–131; Salemink, Ethnography, 179–210.
+
+Vietnam’s Ethnic Minorities at War
+255
+Hickey, two-thirds to four-fifths of the Highlander population had been 
+moved or resettled at least once during the war, and the use of force and vio-
+lence was often excessive, sometimes leading to atrocities. Needless to say, 
+these policies and military tactics were highly unpopular among Highlanders 
+and those Americans who opted to work with them, such as missionaries, aid 
+workers, intelligence personnel, and Special Forces. As an embedded anthro-
+pologist, Hickey saw it as his duty to warn against such policy programs and 
+military tactics, but to little avail.41
+In this confused and depressing situation, FULRO fragmented and recon-
+figured in alliance with a variety of different interest groups in the RVN, 
+the United States, and Cambodia. Depending on the vantage point, FULRO 
+has been interpreted in very different ways, if only because it was hardly a 
+unified organization. Some Highlander leaders pursued a military career 
+in the ARVN or working directly with the US Special Forces; many young 
+Highlanders were eager to pursue military careers – both with the CIDG and 
+beyond. Some civil leaders of Bajaraka and FULRO oscillated between oppo-
+sitional and governmental positions, with the Catholic Bahnar leader Paul 
+Nur and the Jarai leader Nay Luett eventually taking up ministerial positions 
+in the RVN. Some Highlander leaders continued to follow the NLF. Some 
+leaders pursued the FULRO dream in Cambodia, in conjunction with Prince 
+Sihanouk and from 1970 the Lon Nol regime. This FULRO branch was domi-
+nated by the Cham colonel Les Kosem, who used it as a vehicle for furthering 
+Cham claims in both Vietnam and Cambodia and for his personal ambitions 
+within the Cambodian political landscape.
+It would require too much space to discuss in detail the series of events 
+from 1965 onward, as the history of the Central Highlands, the Highlanders, 
+and FULRO is complex. In his Free in the Forest, Hickey describes in great detail 
+the many armed groups of Highlanders that emerged and vanished, moving 
+in and out of the South Vietnamese armed forces, but invariably legitimiz-
+ing their authority with reference to FULRO and its Rhadé leader Y Bham 
+Enuol.42 Until 1968 Y Bham resided at his FULRO headquarters at Camp le 
+Rolland in Mondulkiri province in Cambodia across the border from Darlac, 
+where he became more and more alienated from the various armed FULRO 
+	41	 Interviews of Gerald C. Hickey (April 1990); Hickey, Free in the Forest, 132–204; Salemink, 
+Ethnography, 211–56. For accounts of the common and arbitrary nature of violence, see 
+Michael D. Sallah and Mitch Weiss, Tiger Force: A True Story of Men and War (New 
+York, 2006); Nick Turse, Kill Anything That Moves: The Real American War in Vietnam 
+(New York, 2013).
+	42	 Hickey, Free in the Forest, 132–230.
+
+Oscar Salemink
+256
+factions of Highlanders within the RVN. After the coup against Sihanouk in 
+1970, Les Kosem, who was close to the new president Lon Nol and his brother 
+Lon Non, became the champion of the “Khmers Muslims” – ethnic Cham – 
+while simultaneously commanding a fierce battalion against the emerging 
+Khmer Rouge, and eventually leaving Cambodia before it was completely 
+taken over by the latter.43
+With their charismatic leader Y Bham Enuol across the border in Cambodia 
+under the control of Les Kosem, and with Sihanouk, Lon Nol, the CIA, the 
+NLF, the DRVN, and the French and Chinese secret services operating at 
+greater distance, between 1965 and 1975 FULRO became a pawn in the vari-
+ous power games on the fringes of the Vietnam War. At the same time, the 
+fragmented FULRO movement was unsuccessful in keeping the war away 
+from the Highlands or in securing Highlander autonomy. On the contrary: 
+Operation Switchback effectively created fragmented groups of professional 
+Highlander troops and various armed Highlander groups that continued to 
+operate in the Central Highlands with some connection to FULRO until 
+1975. The CIDG and related programs (such as the Mobile Strike Force, 
+Mountain Scouts, Trương Sơn Force, and the Regional Forces and Popular 
+Forces – these last were nicknamed “ruffpuff” by American soldiers) trained 
+and armed Highlanders mostly at the initiative of non-Việt foreigners, cut-
+ting these fighters loose from their village environments and ritualized agri-
+cultural lifestyles, and simultaneously making them partially dependent on 
+outsider support rather than securing autonomy. However, after Operation 
+Switchback these Highlander fighters were detached from their foreign men-
+tors by officially turning them over to a Vietnamese command structure, 
+thereby alienating the Highlander militia and inadvertently turning them into 
+the armed wing of the Highlander autonomy movement – or, to put it bet-
+ter, of the various factions using the name of FULRO. When in late 1968 Y 
+Bham Enuol, still the titular head of FULRO, was placed under house arrest 
+in Phnom Penh, the FULRO military headquarters in Mondulkiri province 
+disintegrated, and the remainder of FULRO in Vietnam fragmented or rallied 
+to the Nguyễn Văn Thiệu government in 1969.44
+	43	 For the leadership role of Les Kosem, see his Martyrdom of Khmers Muslims; Po Dharma, 
+Du FLM au FULRO; Po Dharma, “FULRO. Biến cố nhất thời trong lịch sử hay truyền 
+thống đấu tranh của dân tộc Champa” [Key Events in the Historical Struggle of the 
+Cham People], in Deuxième symposium franco-soviétique sur l’Asie du Sud-Est (Moscow, 
+1993), 263–77; Hickey, Free in the Forest, 92.
+	44	 Hickey, Free in the Forest, 257–92; Salemink, Ethnography, 247–55.
+
+Vietnam’s Ethnic Minorities at War
+257
+But fueled by growing discontent among young Rhadé and Jarai about the 
+uncompromising attitude, the corruption, and the continued land grabs of the 
+Nguyễn Văn Thiệu regime, in 1973 a number of FULRO units reconstituted 
+themselves around Ban Mê Thuột under the leadership of the Jarai FULRO 
+leader Kpă Koi. Kpă Koi was supported by a number of senior Highlanders 
+with (previous) ties to FULRO, who took a dim view of the US capability 
+to protect the Highlanders after the Paris Peace Accords of January 27, 1973, 
+against the backdrop of the gradual implosion of the Lon Nol regime and the 
+resultant presence of Khmer Rouge across the border in Cambodia. Claiming 
+to act on behalf of Y Bham, Kpă Koi entered into negotiations with the PLAF, 
+whose regiments in that region consisted partly of Highlanders, represented 
+by their Rhadé vice president Y Bih Aleo.45 Throughout 1974, this revived 
+FULRO movement appealed to former FULRO fighters who had rallied to the 
+RVN in 1969 and expanded its control in the villages around Ban Mê Thuột.
+In March 1975, it was the silent complicity of these FULRO units, and the 
+Rhadé villages around Ban Mê Thuột under their influence, that ensured the 
+surprise element in the attack by regular North Vietnamese cavalry. Their 
+tanks were reportedly painted with “Highlander Autonomy Movement of 
+the NLF” on the sides, and Hickey reports that some FULRO units even 
+participated in the surprise attack on Ban Mê Thuột. The subsequent history 
+is well known. The rapid takeover of Ban Mê Thuột prompted Nguyễn Văn 
+Thiệu to withdraw his armed forces from the largest part of the Central 
+Highlands – most notably Kontum, Pleiku, and Cheo Reo (now Ayun Pa) – 
+along the only road that was not blocked, Route 7B, a barely passable forest 
+track. In the words of Hickey, the rout of hundreds of thousands of soldiers 
+and civilians along this road “may have been the worst bloodbath of the 
+	45	 This coalition between the “new” FULRO and the NLF’s Highlands Autonomy 
+Movement was reportedly largely inspired by expectations of monetary gain from 
+(illegal) logging and – ironically – from the premiums paid by the United States for 
+successful searches for those missing in action. See Hickey, Free in the Forest, 266–74; 
+Po Dharma, “Từ FLM đến FULRO. Cuộc đấu tranh của dân tộc thiểu số miền nam 
+Đông Dương (1955–1975)” [From FLM to FULRO: The Struggle of Ethnic Minorities 
+in Southern Indochina (1955–1975)], Champaka 7 (2007), 139–44, www.cham​paka.info/
+index.php?option=com_content&view=article&id=223:champaka7&​cat​id=55:tp-
+san; Arthur J. Dommen, The Indochinese Experience of the French and the Americans: 
+Nationalism and Communism in Cambodia, Laos, and Vietnam (Bloomington, IN, 2001), 
+900–1; FULRO activities outside Darlac province, AmEmbassy Saigon to SecState 
+WashDC, CINCPAC, COMIPAC, COMUFSAG, November 8, 1974 (see www​
+.wikileaks.org/plusd/pdf/?df=59444). On Kpă Koi’s appointment as vice-president of 
+the Front de Libération des Hauts-Plateaux Montagnard (FLHPM) on October 20, 1973, 
+by Y Bham Enuol, see Obituary of Y Ghok Nie Krieng, http://weblog.viet.net/article​
+.php/20110314125904792.
+
+Oscar Salemink
+258
+Vietnam War.”46 The rout effectively cut the Northern cities of Huế and 
+Đà Nẵng off from the South and eventually forced President Thiệu to evac-
+uate the coastal parts of central Vietnam, triggering the collapse of the RVN 
+as a separate state.47 In other words, the ethnic unraveling of the RVN as 
+brought out in the fragmented and partially reconstituted Highlander auton-
+omy movement FULRO was instrumental in bringing about the surprise 
+collapse of the RVN in spring 1975.
+Epilogue
+The Central Highlands and its indigenous populations played a pivotal role 
+during the Vietnam War. The communist insurgency in the RVN started 
+with the Trà Bồng uprising and other revolts in the Highlands in 1959 
+and 1960; the direct intervention of the US Army in 1965 followed a PLAF 
+attack on a US Army camp near Pleiku; and the collapse of the RVN started 
+with the communist surprise conquest of Ban Mê Thuột. In all these piv-
+otal events, Highlanders played an important role. An early American suc-
+cess story of mobilizing Highlanders for the Village Defense Program was 
+undermined in 1963 as Highlander troops were separated from their home 
+villages under the umbrella of Operation Switchback, while simultaneously 
+militarizing Highlander youth. Eventually, this resulted in a situation where 
+such Highlander units, without clear leadership and in a situation of violence 
+and deprivation, acted as loose cannons, allying themselves with any outside 
+force that seemed to offer the best terms in the short run. The alliance of the 
+Kpă Koi faction of FULRO with the NLF in 1974–5, running up to the con-
+quest of Ban Mê Thuột and the consequent collapse of the RVN, shows the 
+importance of such local deals not perhaps for the longer-term outcome of 
+the war, but certainly for the speed of events.
+But the reconciliation between Kpă Koi’s FULRO faction with the new 
+regime was short-lived. Already in the summer of 1975 the communist NLF 
+leader Y Bih Aleo had become disenchanted when he realized that the auton-
+omy promised by the northern regime would not materialize, and in 1977 his 
+Highlands Autonomy Movement was disbanded along with the NLF. In 1976 
+Kpă Koi and other FULRO leaders went underground when they learned 
+	46	 Hickey, Free in the Forest, 281; see also Dommen, The Indochinese Experience, 899–905.
+	47	 See Hickey, Free in the Forest, 266–74; Dommen, The Indochinese Experience, 900–26; Po 
+Dharma, Du FLM au FULRO; Tom Polgar Remembers, January 27, 2013, http://lde421​
+.blogspot.com/2013/01/tom-polgar-remembers.html.
+
+Vietnam’s Ethnic Minorities at War
+259
+about the New Economic Zones program that would relocate many Kinh 
+lowlanders into the Highlands.48 Considering FULRO members CIA tools, 
+the new communist regime cracked down on them; they responded by reviv-
+ing their guerrilla war against the communists, which was doomed to failure.
+From the late 1970s the Central Highlands were incrementally settled by 
+millions of mostly Việt colonists who grew coffee and other cash crops, dis-
+placing Highlanders from their lands. The Central Highlands became one of 
+the world’s major coffee, tea, rubber, pepper, cashew, and cassava-growing 
+and -exporting regions, massively transforming its landscape and ethno­
+scape,49 as the Central Highlands’ ethnodemography changed rapidly. Any 
+protest against dispossession or any manifestation of cultural autonomy – 
+for example, in the guise of a massive Highlander conversion to evangelical 
+Christianity – is interpreted by the current Vietnamese regime in terms of a 
+history of contested sovereignty as embodied by FULRO, and hence severely 
+repressed.50 Thus, the story after 1975 is equally as tragic for the Central 
+Highlanders as the one before 1975, as the ethnic unraveling happening in the 
+RVN has not healed with the reunification of the two Vietnams. The course 
+of history gives Central Highlanders reason to feel betrayed by all sides (the 
+French, the Americans, the Cambodians, the various Vietnamese parties) 
+while at the same time harboring a profound sense of nostalgia for a (colo-
+nial) past imagined as free from outside interference.
+	48	 Dommen, The Indochinese Experience, 959–60.
+	49	 The concept of ethnoscape was coined by Arjun Appadurai, “Disjuncture and Difference 
+in the Global Cultural Economy,” Theory, Culture and Society 7 (1990), 295–310.
+	50	 For post-1975 overviews and analyses, see Salemink, Ethnography, 257–87; Oscar 
+Salemink, “Changing Rights and Wrongs: The Transnational Construction of 
+Indigenous and Human Rights among Vietnam’s Central Highlanders,” Focaal: 
+European Journal of Anthropology 47 (2006), 32–47; Oscar Salemink, “Revolutionary and 
+Christian Ecumenes and Desire for Modernity in the Vietnamese Highlands,” Asia 
+Pacific Journal of Anthropology 16, 4 (2015), 388–409.

@@ -1,0 +1,20 @@
+chanh tri: FAIL
+chanh phu: FAIL
+tai chanh: FAIL
+dan bieu: FAIL
+Nam Ky: FAIL
+Trung Ky: FAIL
+Bac Ky: FAIL
+Dong Duong: FAIL
+nay: FAIL
+dau/dau: FAIL
+trai lai: FAIL
+tuy vay: FAIL
+boi the: FAIL
+va: PASS
+nguoi ay: FAIL
+rui/hang: PASS
+BAD TERM FOUND: Annam
+BAD TERM FOUND: Tonkin
+BAD TERM FOUND: Cochinchina
+BAD TERM FOUND: Indochine

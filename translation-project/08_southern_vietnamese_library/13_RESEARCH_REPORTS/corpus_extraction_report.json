@@ -1,0 +1,35 @@
+[
+  {
+    "source": "LeVanDuc_QuyenThuong_AL",
+    "in_path": "C:\\Users\\PC\\Documents\\AI_project\\the-vietnam-war\\translation-project\\08_southern_vietnamese_library\\01_DICTIONARIES\\LeVanDuc_QuyenThuong_AL_djvu.txt",
+    "out": "C:\\Users\\PC\\Documents\\AI_project\\the-vietnam-war\\translation-project\\08_southern_vietnamese_library\\09_CORPUS_TEXT\\LeVanDuc_QuyenThuong_AL.txt",
+    "bytes": 5426731,
+    "chars": 4190552,
+    "words": 891303,
+    "lines": 185098,
+    "nonblank_lines": 136651,
+    "sha256": "81fb14c2794425820995e07b429da1fa9bb9542697f7f6e4b5e2e1397be99d24"
+  },
+  {
+    "source": "LeVanDuc_QuyenHa_MX",
+    "in_path": "C:\\Users\\PC\\Documents\\AI_project\\the-vietnam-war\\translation-project\\08_southern_vietnamese_library\\01_DICTIONARIES\\LeVanDuc_QuyenHa_MX_djvu.txt",
+    "out": "C:\\Users\\PC\\Documents\\AI_project\\the-vietnam-war\\translation-project\\08_southern_vietnamese_library\\09_CORPUS_TEXT\\LeVanDuc_QuyenHa_MX.txt",
+    "bytes": 4996127,
+    "chars": 3875135,
+    "words": 817292,
+    "lines": 173601,
+    "nonblank_lines": 124013,
+    "sha256": "2851fedca9041a43b9a1ad804d2651f3d75d235d82f1fc7f9c473b3e3bca3b39"
+  },
+  {
+    "source": "BachKhoa_405",
+    "in_path": "C:\\Users\\PC\\Documents\\AI_project\\the-vietnam-war\\translation-project\\08_southern_vietnamese_library\\04_NEWSPAPERS_MAGAZINES\\BachKhoa_405_djvu.txt",
+    "out": "C:\\Users\\PC\\Documents\\AI_project\\the-vietnam-war\\translation-project\\08_southern_vietnamese_library\\09_CORPUS_TEXT\\BachKhoa_405.txt",
+    "bytes": 240314,
+    "chars": 183777,
+    "words": 38507,
+    "lines": 7578,
+    "nonblank_lines": 5593,
+    "sha256": "415a61010ad83e117c4a057dfe55551721e36cb2dc1920e2a5062013fd61990d"
+  }
+]

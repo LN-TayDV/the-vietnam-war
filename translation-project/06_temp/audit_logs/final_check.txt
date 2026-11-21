@@ -1,0 +1,7 @@
+chính trị count: 0
+chánh trị count: 6
+Footnotes: 71
+Paragraphs: 48
+NFC: True
+No BOM: True
+LF only: True

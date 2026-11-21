@@ -1,0 +1,32 @@
+
+nầy count: 17
+này count: 0
+
+GOOD terms:
+chánh trị: 31
+chánh phủ: 0
+tài chánh: 5
+dân biểu: 1
+Nam Kỳ: 35
+Trung Kỳ: 27
+Bắc Kỳ: 31
+Đông Dương: 20
+dầu: 0
+dẫu: 0
+trái lại: 0
+tuy vậy: 1
+bởi thế: 0
+vả: 1
+người ấy: 0
+ông ấy: 0
+bà ấy: 0
+rùi: 0
+hẵng: 0
+cuốn: 2
+cái: 4
+con: 9
+cây: 0
+cục: 3
+bài: 2
+Hình 2.1: 1
+Hình 2.2: 1

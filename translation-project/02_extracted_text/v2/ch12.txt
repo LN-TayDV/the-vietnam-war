@@ -1,0 +1,1161 @@
+260
+Progress toward victory in a guerrilla war could not often be measured by 
+things like the conquest of crucial cities, so it was perhaps inevitable that 
+the United States would rely to a large extent on statistical measures. The 
+influence of Robert McNamara, US secretary of defense from 1961 to 1968, 
+may have pushed this further than it otherwise would have gone. The first 
+important step in his career had been his work using statistical analysis in 
+the management of US Army Air Forces operations during World War II. 
+When he began dealing with Vietnam in the early 1960s, he was eager to 
+get briefings loaded with statistics, and he had a startling ability to remem-
+ber them. Still, it is not clear that, without McNamara’s influence, the 
+US military would have been a lot less focused on statistics as measures 
+of progress. The military was happy to comply with his wish for copi-
+ous statistics, and military briefings remained heavily statistical long after 
+McNamara was gone.
+The statistics on the war that are available today come almost entirely 
+from the United States government. The Republic of Vietnam (RVN) pub-
+lished few statistics during the war in places where they can now be found, 
+and could not publish any after the war because it no longer existed. The 
+Democratic Republic of Vietnam (DRVN), the National Liberation Front 
+(NLF), and the Socialist Republic of Vietnam published few detailed statistics 
+either during or after the war.
+The things the Americans could most easily measure – on which they 
+could most easily get reasonably accurate statistics – were not always 
+good indicators of actual progress. They measured efforts by the United 
+States and the Republic of Vietnam – numbers of strategic hamlets built, 
+quantities of commodities provided, and so forth – rather than the results 
+of those efforts, changes in the relative strength of the government and 
+the insurgency. Sometimes the statistical measures impeded effective 
+conduct of the war. A Vietnamese navy officer who commanded RVN 
+12
+The War in Numbers
+Edwin E. Moïse
+
+The War in Numbers
+261
+coastal patrol forces commented that, in 1964, the American advisors to 
+the Vietnamese navy began using the number of fishing boats searched 
+each month for weapons or other contraband as a measure of the perfor-
+mance of the coastal patrol forces. Their pressure to increase the number 
+of searches pushed patrol vessels to focus their patrols on areas with dense 
+concentrations of fishing boats, where many could be searched in a short 
+time, rather than on areas where there was a higher probability of spotting 
+some NLF activity.1
+In the early 1960s the measures that were considered most important were 
+the ratio between RVN and NLF personnel losses (by death or capture) and 
+the ratio between numbers of weapons captured by the two sides. The latter 
+ratio could be measured more accurately. Figures on the number of RVN 
+weapons captured by the NLF, and NLF weapons captured by the RVN, were 
+much more reliable than figures on NLF personnel losses.
+The extent of pressure to ensure that the statistics indeed showed prog-
+ress, showed that the war was being won, fluctuated over the course of the 
+war. In the early 1960s the two officials most conspicuously exerting such 
+pressure were Secretary of Defense McNamara and the first commander of 
+Military Assistance Command Vietnam (MACV), General Paul Harkins. In 
+October 1963, the State Department’s Bureau of Intelligence and Research 
+issued a memorandum, “Statistics on the War Effort in South Vietnam 
+Show Unfavorable Trends,” using just the sort of statistics that McNamara 
+treated as authoritative, to demonstrate that the war was not going well.2 
+McNamara was furious; he asked Secretary of State Dean Rusk to ensure 
+that no such thing be permitted to happen again. But McNamara was almost 
+at the end of his ability to persuade himself that the war was going well. By 
+December he was admitting that it was going badly, so he stopped press-
+ing those reporting statistics to make the statistics show progress. General 
+Harkins, however, continued to apply such pressure until his departure in 
+June 1964.
+During the years of rapid escalation that followed, the main statistical mea-
+surements used were the figures for the current strength and the losses of US, 
+RVN, and communist forces. The US government’s figures for most of these 
+were in some way problematic.
+	1	 Thoai Hovanky, The Last Admiral: Memoirs of the Last Surviving South Vietnamese Admiral 
+(Columbia, SC, 2021), 57.
+	2	 Research Memorandum RFE-90, October 22, 1963, United States–Vietnam Relations, 1945–
+1967 (Washington, DC, 1971), Book 12, V.B.4., 579–89.
+
+Edwin E. Moïse
+262
+US and RVN Strength and Losses
+The United States regularly released figures on the number of US military 
+personnel in Vietnam, and on casualties by week. The figures on personnel 
+strength in Vietnam seem to have been accurate, though they were in a sense 
+incomplete, since many of the US personnel involved in the war were on 
+ships off the coast, or at military bases in Thailand, Okinawa, and Guam that 
+handled much of the US bombing in Indochina.
+The figures on the numbers of Americans killed in combat per week, per 
+month, and per year were quite accurate (see further discussion below). There 
+were figures on losses per day that were seriously inaccurate. There was an 
+office at MACV that reported each day the number of Americans known to 
+have been killed on the previous day, but this figure represented only those 
+for whom a death report had moved fast enough through the system to have 
+reached that office by the time it compiled the report. These seriously incom-
+plete figures were not released to the press or the public, but they circulated to 
+some extent at the upper levels of the government. President Lyndon Johnson 
+probably did not understand that, when he was given a figure for the previous 
+day’s American dead, the number often was well below the actual death toll.
+Figure 12.1  US secretary of defense Robert S. McNamara points to a map of Vietnam 
+during a press conference (April 26, 1965).
+Source: PhotoQuest / Contributor / Archive Photos / Getty Images.
+
+The War in Numbers
+263
+The US government’s figures for RVN strength (Table 12.1) were the 
+RVN’s official figures, and they exaggerated personnel strength by a margin 
+that cannot be determined. One of the common forms of corruption in the 
+Republic of Vietnam Armed Forces (RVNAF) was to list more men on the 
+roster for a unit than were actually serving in the unit. The commander could 
+pocket part or all of the pay of the “ghost” and “ornamental” soldiers. General 
+William Westmoreland estimated that they might make up 10 percent of the 
+nominal strength of the RVN forces; John Paul Vann estimated 20 percent.3 
+But no one could really know, and the extent of the problem surely varied 
+from one section of the RVNAF, and one year, to another.
+MACV discovered toward the end of 1967 that at least since the beginning 
+of 1966 it had been seriously understating combat deaths in the RVNAF. 
+MACV had been getting its data from RVNAF reports that counted only 
+the men who had died promptly after being hit by enemy fire. Including the 
+ones who had lived long enough to reach medical care, but then died of their 
+wounds, raised the number of RVNAF combat deaths for 1966 from 9,469 to 
+Table 12.1  Republic of Vietnam armed forces strength, December 31
+(Figures probably exaggerated)
+Army
+Air Force
+Navy
+Marines
+Regional 
+Forces
+Popular 
+Forces
+Total
+1964
+220,360
+10,847
+8,194
+7,209
+96,049
+168,317
+510,976
+1965
+267,877
+12,778
+14,559
+7,380
+132,221
+136,398
+571,213
+1966
+283,898
+14,647
+17,349
+7,049
+149,844
+150,096
+622,883
+1967
+303,000
+16,000
+16,000
+8,000
+151,000
+149,000
+643,000
+1968
+380,270
+18,625
+18,882
+9,134
+219,762
+172,546
+819,219
+1969
+416,278
+36,469
+30,143
+11,528
+260,455
+214,383
+969,256
+1970
+416,000
+46,000
+40,000
+13,000
+207,000
+246,000
+968,000
+1971
+407,963
+49,475
+42,207
+14,312
+283,947
+246,814
+1,044,718
+1972
+458,473
+51,629
+42,136
+16,128
+300,865
+219,908
+1,089,139
+Sources: Military Assistance Command Vietnam, Command History 1965, Defense Technical 
+Information Center (DTIC) No. ADA955669; Command History 1967, vol. I, DTIC No. ADA955104; 
+Command History 1969, vol. II, DTIC No. ADA955380; Command History 1972–1973, vol. I, DTIC No. 
+ADA955103. Figures for 1967 and 1970 are from Brigadier General James Lawton Collins, Jr., The 
+Development and Training of the South Vietnamese Army, 1950–1972 (Washington, DC, 1986), 151, which 
+tends to give lower figures than the MACV Command History.
+	3	 Jeffrey J. Clarke, Advice and Support: The Final Years, 1965–1973 (Washington, DC, 1988), 
+40, 159, 229, 486 n. 51; General Cao Văn Viên, Leadership (Washington, DC, 1981), 117–18, 
+120, 123.
+
+Edwin E. Moïse
+264
+11,953, and for the first eleven months of 1967 from 9,641 to 11,513.4 The low 
+figures had political significance, since they encouraged American complaints 
+that the RVNAF was not doing its fair share of the fighting. The figures in 
+Table 12.2, compiled after this error had been corrected, are reasonably accu-
+rate so far as is known.
+In the last years of the war, after US forces had withdrawn and MACV had 
+been replaced by the much smaller Defense Attaché’s Office, that organiza-
+tion underestimated RVNAF combat deaths by a wider margin – something 
+like a factor of two.5
+Communist Losses
+The infamous “body count” was among the most important of the Americans’ 
+statistical indicators. The American military, never permitted to launch large-
+scale ground invasions of Laos or North Vietnam, pinned much of its hope 
+for victory on attrition of the communist forces in South Vietnam. If the com-
+munists’ losses exceeded their ability to add new personnel, their strength 
+would shrink and, if it shrank enough to make it obvious they had no chance 
+of victory, they might abandon the struggle.
+MACV was determined to present figures for enemy personnel losses, and 
+to claim that those figures were based on actual data. By far its most import-
+ant source of actual data was the counting of enemy bodies on the battle-
+field. MACV claimed that its figures for overall enemy personnel losses were 
+based primarily on the body count, though there was one significant adjust-
+ment: MACV assumed that for every one hundred known enemy dead, an 
+	4	 OASD[SA]RP Southeast Asia Intelligence Section, A Systems Analysis View of the Vietnam 
+War, vol. VI, Casualties and Losses, ed. Thomas C. Thayer (Springfield, VA, 1975), 209–12.
+Table 12.2  Republic of Vietnam personnel killed by hostile action, 1965–1972
+1965
+1966
+1967
+1968
+1969
+1970
+1971
+1972
+Total
+11,243
+11,953
+12,716
+27,915
+21,833
+23,346
+22,738
+39,587
+171,331
+Source: Thomas Thayer, War without Fronts: The American Experience in Vietnam (Annapolis, 
+MD, 2016), 105. The figures include deaths not only in the RVNAF as defined in Table 12.1, 
+but also in paramilitary forces such as the Revolutionary Development Cadres.
+	5	 Arnold Isaacs, Without Honor: Defeat in Vietnam and Cambodia (Baltimore, 1983), 310–12; 
+Stuart Herrington, Peace with Honor? An American Reports on Vietnam, 1973–1975 (Novato, 
+CA, 1983), 95.
+
+The War in Numbers
+265
+additional twenty-eight (by 1967 this had become an additional thirty-five) 
+would be so seriously wounded that they would die of their wounds after 
+being evacuated from the battlefield, or would be permanently disabled.
+MACV put heavy pressure on unit commanders to report high body counts. 
+Not to do so compromised an officer’s chances of promotion. Exaggeration 
+of the body count, by officers who counted civilians who had been caught 
+in the crossfire as enemy troops or simply invented figures, was common. 
+H. Norman Schwarzkopf, after becoming famous as the commander of US 
+forces in the 1991 war against Iraq, looked back with dismay at his days com-
+manding a battalion in Vietnam. He said he and other officers “all knew that 
+we had lied about body count”:6
+Many times people would call me up on the radio after a battle and say, 
+“What was your body count.” I’d say, “I don’t know what the body count 
+was.” They’d say, “Well, make one up. We have to report a body count.”
+So, eventually, just to get them off your back, you’d say, “OK, the body 
+count was 250.”7
+Officers who had served as generals in Vietnam have made comments 
+such as: “The immensity of the false reporting is a blot on the honor of the 
+Army.” “A fake – totally worthless.” “Often blatant lies.”8
+Wild exaggeration of the body counts did not imply serious exaggeration of 
+overall communist personnel losses. It should have been obvious to anyone 
+familiar with the nature of the war that not even half the communist military 
+personnel who died would do so under circumstances that gave US and RVN 
+forces an opportunity to see and count their bodies. The Americans used artil-
+lery and air bombardment on a huge scale; it was seldom practical to inspect 
+the target areas afterward and count bodies. The death rate from disease must 
+have been substantial. Even when infantry fought infantry, communist forces 
+might carry off their dead, or the circumstances might not permit US, RVN, 
+and allied troops to spread across the battlefield counting bodies.
+The number of communist personnel who died without the Americans 
+being able to count their bodies at least approximately balanced – perhaps 
+more than balanced – the ones the Americans falsely claimed had been 
+counted.
+	6	 General H. Norman Schwarzkopf, on the ABC-TV show 20–20, March 15, 1991.
+	7	 “Schwarzkopf Calls Vietnam Body Count ‘a Lie,’” United Press International, March 
+10, 1991, www.upi.com/Archives/1991/03/10/Schwarzkopf-calls-Vietnam-body-count-
+a-lie/7105668581200 (read June 27, 2021).
+	8	 Douglas Kinnard, The War Managers: American Generals Reflect on Vietnam (New York, 
+1991), 75.
+
+Edwin E. Moïse
+266
+Communist Strength
+The evolution of the American estimates of communist military strength in 
+South Vietnam was a complex story. Soon after MACV was established in 
+1962, officers there compiled an order of battle (OB) for the NLF – a listing of 
+military units the existence of which was considered confirmed, with the best 
+available information about the strength of each. The total came to about 
+20,000 NLF troops. The officers at MACV also estimated that there were at 
+least 100,000 irregulars – guerrillas and militia. They considered it obvious 
+that their listing must be incomplete. There was normally a considerable lag 
+between the time a unit was formed and the time US intelligence got reliable 
+information about it. So more units would be added as information about 
+them was discovered. But as long as Harkins remained in command, he and 
+his intelligence chief – determined to present an image of NLF weakness – 
+tried to minimize upward revisions in the figures.
+General Westmoreland replaced Harkins in June 1964. A month later, the 
+figures for NLF strength were increased substantially. When the US ambas-
+sador passed the new figures to Washington, he said they reflected belated 
+inclusion in the order of battle of units the existence of which had been sus-
+pected for years. He gave the impression he was not aware of significant units 
+having been created recently.9 Since NLF strength had in fact been increasing 
+rapidly during recent months, the new figures must have been serious under-
+estimates on the day they were issued.
+During 1965 the number of intelligence analysts at MACV increased dra-
+matically, and an order of battle section was established, assigned to update 
+the OB on a continuing basis. At first the OB section devoted essentially all 
+its attention to the communists’ regular combat units, which it reported had 
+79,600 regular troops in January 1966. This figure was surely an underesti-
+mate, omitting some units recently added to the communist force structure, 
+but it was the closest thing to a reliable figure for communist strength that 
+MACV had ever issued. But the officers involved were also required to give 
+numbers for other categories of communist personnel. The January 1966 
+report gave figures of 16,911 for support personnel, mostly transport and 
+logistics, but also communications, medical corps, training, and headquar-
+ters personnel, without whom the combat units could not have functioned 
+effectively; 103,573 for irregulars (full-time village guerrillas, and the part-time 
+	9	 Telegram from the US Embassy in Vietnam (Saigon 108) to State Department, July 15, 
+1964, Foreign Relations of the United States, 1964–1968, vol. I, Vietnam, 1964 (Washington, 
+DC, 1992), doc. 233, 547.
+
+The War in Numbers
+267
+“self-defense” and “secret self-defense” militias); and 39,175 for “political” 
+(often called “infrastructure”), which included the Communist Party, and 
+administrative personnel in areas where the NLF was enough in control to 
+have an administration.10 The figure for “political” remained unchanged to 
+the last digit until October 1967. The figure for irregulars rose to 112,760 in 
+May 1966, and then remained unchanged to the last digit until October 1967. 
+These absurdly precise numbers were based on so little actual study that 
+they did not really deserve even to be called guesses, which meant that the 
+total for all categories did not really deserve even to be called a guess. MACV 
+does not appear to have thought about the political risks that could result 
+from including so unreliable a total figure in press briefings, which it did with 
+increasing frequency in 1967.
+By early 1967, MACV intelligence was aware that it was seriously under-
+estimating guerrillas, militia, and infrastructure, and had analysts working to 
+compile more valid estimates for those categories. By May the MACV J-2 
+(chief of intelligence), Major General Joseph McChristian, was ready to make 
+the new numbers official. They would have increased the figure for “politi-
+cal” by about a factor of two, and the figures for guerrillas and militia by more 
+than 50 percent. General Westmoreland, worried about the reactions of the 
+press, Congress, and the president, blocked the change and ordered that the 
+matter be reconsidered.
+The CIA had been aware the MACV figures were unrealistically low, 
+but had been waiting for McChristian to deal with the problem. By June it 
+became apparent that was not going to happen. At a series of conferences 
+in the summer, CIA representatives pushed for higher figures. MACV ana-
+lysts, under command pressure, presented figures to other agencies that they 
+believed were unrealistically low (one of them later published an account of 
+this titled “Being Ordered to Lie”),11 but even the lowest figures for which they 
+could find any argument were leading toward a total for all categories of well 
+over 400,000, at a time when the official OB total, which had been released to 
+the press, was 297,000. Brigadier General Phillip Davidson, who had replaced 
+McChristian as MACV J-2, told his officers, “I am sure that this headquarters 
+will not accept a figure in excess of the current strength figure carried by the 
+	10	 Periodic Intelligence Report, January/June 1966, MACV Command Historian’s 
+Collection, Series II: MACV Staff Sections, J-2, US Army Military History Institute, 
+Carlisle, Pennsylvania.
+	11	 Gains B. Hawkins, “Vietnam Anguish: Being Ordered to Lie,” Washington Post, 
+November 14, 1982, C1.
+
+Edwin E. Moïse
+268
+press.”12 General Creighton Abrams and General Westmoreland, the two top 
+officers at MACV, said the media would react very badly to an increase in the 
+figure for total enemy strength, and suggested that the NLF militias no longer 
+be included in that figure.13
+The September OB Summary, the last one that used the traditional cate-
+gories, showed a total of 295,840. In the October OB Summary, the figures 
+for guerrillas and support personnel rose significantly, but the total strength 
+figure no longer included the militias or the “political” category, so it dropped 
+to 235,852.
+When Abrams and Westmoreland told intelligence officers that it was 
+important for the figure for total enemy strength to be low, to project an 
+image of success in the war, they suggested dropping categories out of the 
+count. But the command preference for a low total also influenced the 
+estimates for the categories that were not dropped. As early as August 15, 
+Brigadier General Davidson told his officers, “The figure of combat strength 
+and particularly of guerrillas must take a steady and significant downward 
+trend as I am convinced this reflects true enemy status.”14 Within months 
+there was significant downward pressure even on the figures for People’s 
+Army of Vietnam (PAVN) regular troops. This was happening just as the 
+communists were expanding their forces in preparation for the Tet Offensive 
+of 1968, with a massive surge of PAVN troops coming down the Hồ Chí Minh 
+Trail, and a smaller but significant increase in the strength of NLF units. The 
+OB for January 31, 1968 – just at the point at which the Tet Offensive began – 
+showed 55,744 men in PAVN units in South Vietnam. Within a month the 
+officers responsible for the OB had officially revised that figure up to 77,800, 
+but they did so very quietly (their report does not seem to have been trans-
+mitted even to the White House). By July they were admitting that PAVN 
+strength in January had been 93,501.15
+If MACV intelligence had acknowledged in January the way communist 
+force strength was expanding, warnings of a communist offensive might have 
+been taken more seriously, and the Tet Offensive might not have achieved 
+	12	 Davidson to Godding, August 19, 1967, #0250209002, B-198, Virtual Vietnam Archive, 
+Texas Tech University, Lubbock, Texas [hereafter cited as TTUVA].
+	13	 Abrams to Wheeler, Sharp, and Westmoreland, August 20, 1967, #0240717031, TTUVA; 
+Westmoreland to Wheeler and Sharp, August 20, 1967, #0250209002, TTUVA.
+	14	 Brigadier General Phillip B. Davidson, August 15, 1967, #0240715002, TTUVA.
+	15	 Combined Intelligence Center Vietnam, Order of Battle Summary, January 31, 1968, I-1; 
+February 29, 1968, I-35; July 31, 1968, vol. II, I-32, in Records of the Military Assistance 
+Command Vietnam, part 2, Classified Studies from the Combined Intelligence Center Vietnam, 
+1965–1973 (Frederick, MD, 1988), reels 2, 2, 3.
+
+The War in Numbers
+269
+the partial surprise that it did. And the fact that communist forces had been 
+far stronger in January than MACV estimates had acknowledged helps to 
+explain the communists’ ability to sustain very heavy combat continuously 
+from late January through late June (see below), despite the very heavy casu-
+alties they were suffering.
+The CIA and the Defense Intelligence Agency believed that MACV’s OB 
+was still underestimating communist strength in the second half of 1968 and 
+into 1969, but far less information has been released about this period, so it 
+is difficult to evaluate the validity of these charges. It is clear at least that, if 
+MACV was still underestimating communist strength, it was not doing so by 
+as wide a margin as it had in January 1968.
+The Hamlet Evaluation System
+During 1967 the United States began working on a very different indicator 
+of success, a measurement of the extent to which the RVN controlled the 
+villages of South Vietnam. The Hamlet Evaluation System (HES) was sup-
+posed to collect statistical data to evaluate the status of every hamlet in South 
+Vietnam, considering both security – the extent to which NLF power and 
+influence had been eliminated – and socioeconomic factors. HES sorted the 
+hamlets into six categories. In category A hamlets the government had essen-
+tially eliminated the NLF and was functioning well, providing benefits to the 
+people such as health care, education, and economic opportunity. Categories 
+B and C represented reasonably secure government control, but there might 
+be some NLF presence and somewhat less effective government services. In 
+category D hamlets the NLF had a significant political and military presence 
+at night. Category E hamlets were dominated by the NLF at night, and gov-
+ernment programs had little effect even in daylight. Category VC hamlets 
+were under unambiguous NLF control.
+There were two factors biasing the ratings in an upward direction. By far 
+the most important was that both Vietnamese and American officers whose 
+careers were more likely to prosper if things seemed to be going well in the 
+areas for which they were responsible had the ability to influence the ratings, 
+making the situation look better than it was, and they often did so. The other 
+was that, if a community was under complete NLF control, with no RVN 
+hamlet administration, the RVN might simply not recognize the community 
+as being a hamlet, and it might thus be omitted from the count of VC ham-
+lets. The first HES report, dated March 15, 1967, described the situation as 
+of January 31, and covered 11,830 hamlets. In the months that followed, the 
+
+Edwin E. Moïse
+270
+Americans identified hundreds of additional hamlets that had not been on the 
+RVN’s lists of hamlets, and added these to the HES system.
+Despite these problems, the HES ratings were probably more realistic than 
+either the body count or MACV’s estimates of communist personnel strength 
+in South Vietnam. During 1967, the HES ratings showed a modest rate of 
+improvement on average. The communists’ general offensive expanded 
+the territory under their control significantly in the early months of 1968, 
+but at a cost of very heavy casualties that seriously weakened communist 
+forces. During the second half of the year, pacification more than made up 
+the ground that had been lost in the first half. In 1969 there were further 
+huge gains in government control of the countryside. By the beginning of 
+1970, four-fifths of the hamlets were in categories A, B, and C, representing 
+a reasonable degree of government control (Table 12.3). Less than 4 percent, 
+however, were in category A. Under a policy called “fast-and-thin” pacifica-
+tion, establishing at least superficial government control in as many hamlets 
+as possible took priority over deepening and strengthening the government’s 
+grip on areas where there was already some government control.
+The hamlets under a reasonable degree of government control had larger 
+populations, on average, than those that were heavily contested or under 
+NLF control. There were some areas under NLF control from which almost 
+the whole population had fled, primarily to escape bombing and shelling by 
+US and RVN forces. So the percentage of population in category A, B, and 
+Table 12.3  Hamlets by hamlet evaluation system category
+A
+B
+C
+D
+E
+VC
+Total
+January 1967a
+156
+1,522
+3,022
+2,347
+903
+3,880
+11,830
+January 1968b
+239
+1,764
+3,328
+2,239
+438
+3,838
+11,846
+May 1968c
+179
+1,361
+3,139
+2,416
+466
+4,002
+11,563
+January 1969d
+265
+2,331
+4,255
+1,396
+250
+2,850
+11,347
+January 1970e
+440
+5,613
+3,121
+1,471
+96
+599
+11,340
+a	 Monthly Report of Revolutionary Development Progress: Hamlet, Population and Area Control 
+for Period 1 January–31 January 1967, p. 3-1, #F01570001024, TTUVA.
+b	 Monthly Pacification Status Report for January 1968, #F015700010647, TTUVA. There were an 
+additional 916 hamlets categorized as “Other,” which in most cases probably meant that the 
+people who had been supposed to evaluate them had not done so.
+c	 Monthly Pacification Status Report for May 1968, #F015700020007, TTUVA. There were an 
+additional 1,160 hamlets categorized as “Other.”
+d	 Monthly Pacification Status Report for January 1969, #F015700020645, TTUVA. There were an 
+additional 1,668 hamlets categorized as “Other.”
+e	 Monthly Pacification Status Report for February 1970, 6, #F015700040654, TTUVA.
+
+The War in Numbers
+271
+C hamlets was significantly higher than the percentages of hamlets in those 
+categories (Table 12.4).
+The pacification of the countryside slowed in 1970 and 1971, and was 
+reversed in 1972, but by that time the war was becoming more conventional 
+in character, and the United States was judging the state of the war more by 
+shifts in battlelines than by statistical indicators.
+Retrospective: What the Statistics Show 
+about the War
+The statistics can clarify important aspects of the Vietnam War. It was, for the 
+United States, a limited war. Comparing the Vietnam War with other lim-
+ited wars shows the limits as surprisingly broad. Comparing what the United 
+States did in Vietnam with what the United States (with its very large popula-
+tion and huge resources) would have been capable of doing makes the limits 
+look rather narrow.
+US Military Personnel
+The number of US military personnel in South Vietnam at the beginning of 
+1961, when John Kennedy became president, is believed to have been about 
+900 or 1,000, but the US government did not release the figure. The Geneva 
+Accords of 1954 had originally been interpreted as limiting the number of US 
+military advisors in South Vietnam to 342. The United States had managed to 
+Table 12.4  Population of hamlets (thousands), by hamlet evaluation system 
+category
+A
+B
+C
+D
+E
+VC
+Total
+January 1967a
+386
+2,521
+4,250
+2,284
+819
+2,843
+13,103
+January 1968b
+727
+3,398
+4,397
+2,134
+317
+2,722
+13,695
+May 1968c
+486
+2,773
+4,369
+2,715
+406
+2,935
+13,684
+January 1969d
+597
+2,689
+4,227
+1,129
+215
+1,893
+10,750
+January 1970e
+1,221
+10,546
+3,191
+1,291
+52
+384
+16,685
+a	 Monthly Report of Revolutionary Development Progress: Hamlet, Population and Area Control 
+for Period 1 January–31 January 1967, p. 3-1, #F015700010246, TTUVA.
+b	 Monthly Pacification Status Report for January 1968, pp. 3-1 to 3-3, #F015700010647, TTUVA.
+c	 Monthly Pacification Status Report for May 1968, pp. 1-1 to 1-3, #F015700020007, TTUVA.
+d	 Monthly Pacification Status Report for January 1969, pp. 2-16 to 2-18, #F015700020645, TTUVA.
+e	 Hamlet Evaluation System Summary Report as of February 28, 1970, enclosure 1, p. 1, 
+#F015700040654, TTUVA; includes population in urban areas, not just hamlets.
+
+Edwin E. Moïse
+272
+win acceptance of a revised interpretation raising the limit to 685, but it was 
+violating even that higher limit, so it avoided announcing how many advisors 
+it had in Vietnam.
+Late in 1961 President Kennedy decided greatly to increase the number 
+of advisors and also to send some military personnel – the most important 
+being pilots – who without publicity would be conducting operations them-
+selves, not just advising and training RVN forces. This made US violation of 
+the Geneva limit so obvious that concealing the numbers would have been 
+pointless, so from this point onward the United States published reasonably 
+accurate figures on a regular basis (Table 12.5).
+From 1962 to 1964 the number of US personnel was growing but not 
+becoming huge. In 1965 President Johnson committed US forces much 
+more openly to combat, and the number of personnel expanded more dra-
+matically. It was more than 400,000 from January 1967 to August 1970, and 
+peaked at 543,000 in April 1969. The total number of US military personnel 
+who served in Vietnam at any point in the Vietnam War has been officially 
+listed as 2,594,000.
+Table 12.5  Selective service inductions, US military personnel in South Vietnam, 
+and US military personnel killed by hostile action
+Selective Service 
+Inductions
+US Military Personnel in 
+Vietnam (December 31)
+Killed by Hostile Action
+1961
+118,586
+3,200
+11
+1962
+82,060
+11,300
+31
+1963
+119,265
+16,300
+78
+1964
+112,386
+23,300
+147
+1965
+230,991
+184,300
+1,369
+1966
+382,010
+385,300
+5,008
+1967
+228,263
+485,600
+9,377
+1968
+296,406
+536,100
+14,589
+1969
+283,586
+475,200
+9,414
+1970
+162,746
+334,600
+4,221
+1971
+94,092
+156,800
+1,381
+1972
+49,514
+24,200
+300
+1973
+646
+204
+officially 237 (actually 19)a
+a	 Official figure from Statistical Abstract of the United States, 1974 (Washington, DC, 1974), 317. 
+Eighteen men were killed by hostile action in January 1973, and one died in January 1973 of 
+wounds suffered in December 1972: from Defense Casualty Analysis System Extract Files, US 
+National Archives, https://aad.archives.gov/aad/fielded-search.jsp?dt=2513&tf=F.
+Source: www.sss.gov/history-and-records/induction-statistics/; Statistical Abstract of the United States, 
+various dates.
+
+The War in Numbers
+273
+This was an extraordinarily large force to have fought in what is gener-
+ally considered to have been a limited war. US military strength in Korea 
+remained below 300,000 for most of the Korean War, though it rose to 302,000 
+in July 1953, shortly before the end of that war. The Soviet force that fought in 
+Afghanistan in the 1980s is believed to have numbered about 115,000. The fact 
+that the United States sent so much larger a force to Vietnam seems particu-
+larly striking when one notes that Afghanistan directly bordered on the Soviet 
+Union, so it was both more important and more accessible to the Soviet 
+Union than Vietnam was to the United States, and that the Soviet Union had 
+a larger population.
+Relative to the capabilities of the United States, the force sent to Vietnam 
+looks less impressive. It could easily have been made far larger if President 
+Johnson had been willing to do as President Harry Truman had done in the 
+Korean War: mobilize a large number of Reserve and National Guard per-
+sonnel for active service, and make heavy use of conscription. Most of the 
+personnel who served in Vietnam had volunteered for military service; only 
+34 percent of those killed by hostile action were conscripts.
+President Johnson came very close to mobilizing a large number of Reserve 
+and National Guard units when major escalation began. Indeed the Defense 
+Department thought it had obtained his approval for this, but in late July 1965 
+he changed his mind. Without Reserve and National Guard personnel, the 
+military had to increase its use of conscription. The rate at which men were 
+drafted rose dramatically in September 1965, but did not rise as much as it 
+could have; huge numbers of young men were allowed to remain in civil-
+ian life. During the Korean War, Truman had drafted 551,806 men in 1951, 
+438,479 in 1952, and 471,806 in 1953. Johnson was not willing to pay the political 
+price of drafting so many. The most drafted in any year under Johnson was 
+382,010 in 1966. In no other year of the Vietnam War was it above 300,000, 
+even though Johnson had a larger pool of young men from which to draw. In 
+1966, the number of males age twenty was 27 percent larger than it had been 
+in 1951. In 1968, with the first of the “baby boom” generation reaching adult-
+hood, the number of males age twenty was 63 percent larger than in 1951.16
+By the beginning of 1968, the US Army was short enough of personnel to 
+be having trouble keeping units in Vietnam up to their authorized strength. 
+The intensification of combat that began with the Tet Offensive made the 
+problem more acute. In late February Chairman of the Joint Chiefs of Staff 
+	16	 “A Century of Population Change in the Age and Sex Composition of the Nation,” 
+United States Census Bureau, www.census.gov/dataviz/visualizations/055.
+
+Edwin E. Moïse
+274
+General Earle Wheeler asked President Johnson to increase the number of 
+American military personnel in Vietnam from the current 506,000 to about 
+732,000 by the end of the year. This would have required a large-scale mobi-
+lization of reservists. Johnson agreed to the mobilization of only 24,500, and 
+increased the force in Vietnam only to 537,000 by the end of the year.
+US Casualties
+Figures released in 1985 showing 47,322 deaths of US military personnel by 
+hostile action (also called “battle deaths” or “combat deaths”) and 10,700 
+deaths by accident, illness, suicide, and so forth, for a total of 58,022, have 
+been widely accepted.17 Some sources give slightly different figures. The rea-
+sons include different decisions about the inclusion of deaths that occurred 
+slightly outside the war zone or slightly after the end of the war. Among the 
+deaths not caused by hostile action, the most common causes were aircraft 
+crashes not caused by the enemy (3,247), vehicular crashes not caused by 
+the enemy (1,104), and drowning or suffocation (1,020). Infectious diseases 
+accounted for only 623.18
+Despite the stereotype of Vietnam as a war fought by nineteen-year-olds, 
+the median age of the American military personnel who died in the war 
+was twenty-one. Thirteen percent of those who died in Vietnam were offi-
+cers, and 87 percent enlisted.19 African Americans were 12.5 percent of the 
+dead, approximately equal to their proportion in the American population. 
+Suggestions by some authors of considerably higher percentages are based 
+partly on a focus on enlisted personnel, especially those in the army. Only 2 
+percent of the American officers who died in the war were African Americans, 
+but 15 percent of the army enlisted personnel.20 Those suggestions are based 
+even more on the early years of the war. African Americans made up a large 
+proportion of the soldiers in the first regular troop units sent to Vietnam in 
+1965, and thus a large proportion of the casualties in the early battles. This led 
+to negative publicity, and the military responded by reducing the proportion 
+of African Americans in combat units.
+	17	 “Deaths by hostile action” and “killed in action” (KIA) are often treated as equivalent 
+terms, but the US government often reserved “killed in action” for those who had 
+died immediately after being struck by enemy fire, and had a separate category “died 
+of wounds” for those who succumbed after days or weeks in a hospital. Both were 
+included in “deaths by hostile action.”
+	18	 Department of Defense, US Casualties in Southeast Asia: Statistics as of April 30, 1985 
+(Washington, DC, 1985), 1, 6, #2390403003, TTUVA.
+	19	 Ibid., 2, 7–8.
+	20	 Ibid., 2, 10.
+
+The War in Numbers
+275
+The only way in which the figures the US government has released on US 
+deaths are known to have been significantly misleading involved the cases of 
+men who were killed under circumstances that did not permit quick recovery 
+of the body. The government was reluctant to declare a man dead if it did not 
+have his body. It often waited years, and then treated the date of the declara-
+tion as if it were the date of death. The result was to make the official figures 
+(Table 12.5) slightly lower than the actual number of deaths for the years up 
+to 1972, and much higher than the actual number for the year 1973.
+The period when US forces were in the heaviest combat, suffering the 
+greatest losses, ran from January 1968 to June 1969. The communist offensive 
+that is misleadingly called “Mini-Tet” produced the highest monthly toll, in 
+May 1968. The Tet Offensive produced the second-highest, in February. But 
+the number of Americans killed by hostile action was higher than 1,000 in 
+twelve of those eighteen months. It was higher than 1,000 in only a single 
+month outside that period (Table 12.6).
+The timing of the heaviest combat can be described more precisely using 
+weeks rather than months. There were four periods when the numbers of 
+American combat deaths were highest. The longest and most intense was the 
+twenty-one weeks of absolutely uninterrupted very heavy combat, killing an 
+average of 403 Americans per week, from January 29 to June 22, 1968. The Tet 
+Table 12.6  US military personnel killed by hostile 
+action, 1967–1969
+1967
+1968
+1969
+January
+520
+1,202
+795
+February
+662
+2,124
+1,073
+March
+944
+1,543
+1,316
+April
+710
+1,410
+847
+May
+1,233
+2,169
+1,209
+June
+830
+1,146
+1,100
+July
+781
+813
+638
+August
+535
+1,080
+785
+September
+775
+1,053
+477
+October
+733
+600
+377
+November
+881
+703
+446
+December
+774
+749
+341
+Sources: Figures released by Comptroller, Office of the Secretary 
+of Defense, in Raphael Littauer and Norman Uphoff (eds.), The Air 
+War in Indochina, rev. ed. (Boston, 1972), 268–70.
+
+Edwin E. Moïse
+276
+and “Mini-Tet” Offensives came at the beginning and toward the end of this 
+period, but there was not a single week in between when combat subsided to 
+normal or near-normal levels.
+The other three were shorter and less intense. There were four weeks 
+with an average of 294 American combat deaths per week from April 30 to 
+May 27, 1967. There were six weeks averaging 278 American combat deaths 
+from August 18 to September 28, 1968. And there were eighteen weeks from 
+February 23 to June 28, 1969, with an average of 275 American combat deaths 
+per week. There was no other period of four or more weeks when American 
+deaths by hostile action averaged even as high as 230 per week.
+It was during the last of these periods that President Richard Nixon 
+ordered commanders in Vietnam to hold down the casualty level by being 
+less aggressive in ground combat, and announced that he was withdraw-
+ing American forces from Vietnam under the policy that came to be called 
+“Vietnamization.”
+US Bombing
+The Pentagon was repeatedly embarrassed when it gave congressional com-
+mittees information about American bombing in Indochina that it later dis-
+covered had been inaccurate. Finally US Air Force (USAF) Major General 
+Raymond Furlong was assigned to supervise studies that would produce an 
+accurate picture of what American aircraft had done where, even in oper-
+ations (the most famous but not the only case being Operation Menu, the 
+secret US bombing of Cambodia from March 1969 to May 1970) for which 
+records had been deliberately and systematically falsified. Among the prod-
+ucts of Furlong’s studies was a set of four tables showing the number of attack 
+sorties flown and the tonnage of munitions delivered, by fighter-bombers 
+and by B-52 heavy bombers, each month from 1964 through 1973 on targets 
+in South Vietnam, North Vietnam, Cambodia, northern Laos, and south-
+ern Laos (except that northern and southern Laos were lumped together 
+up through September 1965). These figures were not perfect. They omitted 
+munitions expended by the USAF First Air Commando Squadron, using 
+planes disguised with Vietnamese Air Force markings, up through May 
+1964. They appear to have omitted at least most, perhaps all, of the muni-
+tions expended by aircraft other than B-52s and fighter-bombers – helicopters, 
+fixed-wing gunships, cargo planes dropping bombs, and perhaps even B-57 
+bombers. There were also minor errors and inconsistencies. But they are the 
+best statistics now available on the American air war. The tonnage figures are 
+summarized in Table 12.7.
+
+The War in Numbers
+277
+These figures represent bombing on a huge scale, larger than that of World 
+War II, the next largest air war in history (see Table 12.8).
+The heaviest bombing focused on the communist forces in South Vietnam, 
+which directly threatened American troops; South Vietnam became the most 
+heavily bombed country in history. Indeed what the United States and Britain, 
+combined, dropped in the whole European theater in World War II did not 
+match what the United States dropped in South Vietnam. The bombing of 
+Laos focused mostly on the Hồ Chí Minh Trail in southeastern Laos. It was 
+very heavy, enough to make Laos the second most heavily bombed country 
+in history. The United States expended more air munitions on North Vietnam 
+than it had expended on Germany during World War II, but adding the figure 
+for British munitions makes Germany the third most heavily bombed coun-
+try in history, leaving North Vietnam as number four or number five (figures 
+for German and Soviet forces’ munitions used in the Soviet Union during 
+World War II are difficult to find).
+Cambodia was a sideshow for the Americans, who bombed it but not very 
+heavily from 1969 to the beginning of 1973. Then there was an inefficient spasm 
+of much heavier bombing from March to August 1973, which did not produce 
+military results in proportion to its scale because the Americans did not have 
+adequate data about the locations of communist forces, but which lifted the 
+total to 539,129 tons, more than three times what the United States dropped on 
+Japan in World War II. One could add the tonnage of conventional bombs that 
+Table 12.7  Aerial munitions expended in the Vietnam War by US fighter-bombers 
+and B-52s (Tons)
+South 
+Vietnam
+North 
+Vietnam
+Southern 
+Laos
+Northern 
+Laos
+Cambodia
+Total
+1964
+3,250
+154
+------------36-----------
+0
+3,440
+1965
+118,360
+40,554
+--------15,607---------
+0
+174,521
+1966
+237,332
+128,904
+65,434
+8,186
+0
+439,856
+1967
+473,038
+246,328
+116,999
+10,903
+0
+847,268
+1968
+793,663
+227,331
+206,728
+31,505
+0
+1,259,227
+1969
+633,562
+659
+433,365
+81,670
+70,531
+1,219,787
+1970
+237,968
+2,467
+393,676
+59,580
+94,207
+787,898
+1971
+113,395
+2,683
+401,944
+45,505
+63,514
+627,041
+1972
+551,453
+215,631
+96,973
+47,154
+53,412
+964,623
+1973
+40,931
+15,397
+40,495
+37,540
+257,465
+391,828
+Source: House Committee on the Judiciary, Statement of Information, Book XI, Bombing of Cambodia 
+(Washington, DC, 1974), 93–5, 100–3.
+
+Edwin E. Moïse
+278
+would have had the same explosive power as the atomic bombs dropped on 
+Hiroshima and Nagasaki, treating one kiloton of nuclear explosion as equiv-
+alent to about 2,200 tons of conventional bombs, since slightly less than half 
+the weight of a typical conventional bomb is explosive; most of the weight is 
+steel casing. Even by this computation the Americans dropped only the equiv-
+alent of about 240,000 tons on Japan, well under half what they dropped on 
+Cambodia. A widely cited study proposed a much higher figure for Cambodia, 
+2,756,941 tons, based on computerized databases of bombing missions com-
+piled by the US military during the war. But those databases contained so 
+many errors, such as B-52 missions delivering bomb loads of fifty or more tons 
+per aircraft, that the authors of the study later disavowed their high figure.21
+Table 12.8  Selected bomb tonnages for World War II and the Vietnam War
+World War II
+Germany
+US Bombing
+664,073
+British Bombing
+755,531
+US plus British
+1,419,604
+Entire European Theater
+US Bombing
+1,463,423
+British Bombing
+1,307,117
+US plus British
+2,770,540
+US Bombing of Japan
+161,425
+US Bombing in Entire Pacific Theater
+583,962
+Vietnam War
+South Vietnam
+3,202,952
+North Vietnam
+880,108
+Laos
+2,093,300
+Cambodia
+539,129
+Total
+6,715,489
+Sources: United States Strategic Bombing Survey, Statistical Appendix to Overall Report 
+(European War) (Washington, DC, 1947), viii, 5; United States Strategic Bombing Survey, 
+The Effects of Strategic Bombing on Japan’s War Economy (Washington, DC, 1946), 35; House 
+Committee on the Judiciary, Statement of Information, Book XI, Bombing of Cambodia 
+(Washington, DC, 1974), 93–5, 100–3. The World War II figures are for tons of “bombs” and 
+those for the Vietnam War are for tons of “munitions.” It is unclear whether this reflects a 
+real difference in what was counted.
+	21	 Taylor Owen and Ben Kiernan, “Bombs over Cambodia,” The Walrus, October 2006, 
+62–9; Taylor Owen and Ben Kiernan, “Roots of US Troubles in Afghanistan: Civilian 
+Bombing Casualties and the Cambodian Precedent,” Asia-Pacific Journal: Japan Focus 8, 
+26, 4 (June 2010), 6. Even thirty-five tons would have been an impossible load for a B-52.
+
+The War in Numbers
+279
+One often sees the American use of air power in Indochina described 
+as “limited,” and there were indeed significant limits. But the quantity of 
+American bombing in Indochina dwarfed what the United States had done 
+in World War II, usually considered a “total war.” The scale of American 
+bombing reached its maximum in the months after the Tet Offensive. In a 
+famous speech of March 31, 1968, in which President Johnson said he would 
+not run for reelection, he said he was “reducing – substantially reducing – the 
+present level of hostilities.” He particularly mentioned the bombing of North 
+Vietnam. Some authors got the impression that he had “halted the bombing.” 
+But in March 1968, the month leading up to the speech, the United States had 
+dropped 10,698 tons on North Vietnam. In April the tonnage did not decline 
+as he had implied it would; it almost doubled to 19,705 tons. The total for the 
+seven months from April through October was higher than for any previous 
+seven-month period of the war.
+Perhaps more important was what happened to the air war in Indochina as 
+a whole. The largest aerial munitions tonnage for Indochina before the Tet 
+Offensive had been 83,073 tons, in January 1968. By March it was 97,642 tons. In 
+April it was 112,913 tons. This increase of more than 15,000 tons, immediately 
+following the speech, was the largest month-to-month increase of Johnson’s 
+whole presidency. The average for the seventeen months from April 1968 
+through August 1969 was 109,545 tons per month. Not until September 1969 
+did the figure drop back to the levels of before Johnson’s speech. The monthly 
+tonnage continued to decline, reaching a low of 37,490 tons for October 1971, 
+but then increased again. It reached a second peak of 103,720 tons in August 
+1972, almost as high as the 1968–9 peak.
+In December 1972, the month of Operation Linebacker II, sometimes 
+called the “Christmas bombing,” the United States used 81,042 tons of aerial 
+munitions in Indochina, not an especially high figure. Of this, 36,244 tons fell 
+in North Vietnam, the second-highest monthly figure of the war, exceeded 
+only by the 39,714 tons dropped on North Vietnam in July 1968 shortly after 
+President Johnson’s 1968 speech. In the actual Linebacker II, December 18–24 
+and 26–29, the United States dropped about 20,000 tons, significantly more 
+(though probably not 50 percent more) than had been dropped on North 
+Vietnam in any previous eleven- or twelve-day period.
+Comparative Death Tolls
+About 58,000 American soldiers died in the war, of whom about 47,000 were 
+killed by hostile action. The Republic of Vietnam lost about 171,000 soldiers 
+killed by hostile action from 1965 to 1972. The numbers who were killed by 
+
+Edwin E. Moïse
+280
+hostile action after 1972, and the number who died of other causes, would 
+have added substantially to this number. The Socialist Republic of Vietnam 
+has stated that communist forces lost 1.1 million dead and 300,000 missing 
+during the war.22 The fact that these numbers are rounded off to the nearest 
+100,000 suggests that they are only rough estimates, not based on actual data. 
+They are not obviously inconsistent with the American claim that 851,000 
+communist soldiers were killed by hostile action from 1965 to 1972.23
+Unsatisfactory though the figures for RVN and communist losses may be, 
+they do point to some fundamental truths about the war. Comparison of 
+Table 12.2 with Table 12.5 shows that the RVN lost somewhat more men 
+killed by hostile action than the Americans did in 1967, almost twice as many 
+in 1968, and more than twice as many in every other year of the war. Reasons 
+for the difference include: (1) The RVN was engaged in bloody ground com-
+bat for a much longer period. The United States suffered significant losses in 
+ground combat only from mid-1965 to late 1971. (2) The RVN had more mili-
+tary personnel overall in South Vietnam, and ground troops formed a larger 
+percentage of the RVN forces than of the Americans. More people in harm’s 
+way translated to larger losses, even during the years when American losses 
+were heaviest. (3) Seriously wounded RVN personnel were not as likely as 
+Americans to be taken quickly to life-saving medical care.
+On the battlefields of South Vietnam, the US and RVN forces enjoyed a 
+monopoly on air power. They usually had a substantial advantage in heavy 
+weaponry on the ground, and they had far more lavish supplies of ammuni-
+tion. The result of this huge difference in weapons and munitions, plus better 
+medical care for US and RVN forces, was what could have been expected. 
+The number of communist soldiers who died was something like twenty 
+times the number of Americans, and surely more than twice as large – per-
+haps much more than twice as large – as the combined total of US and RVN 
+losses.
+	22	 Viện Lịch sử quân sự Việt Nam [Military History Institute of Vietnam], Lịch sử 
+kháng chiến chống Mỹ, cứu nước, 1954–1975 [History of the Resistance War against America 
+for National Salvation, 1954–1975], vol. VIII, Toan thang [Total Victory], 3rd ed. (Hanoi, 
+2015), 513.
+	23	 Thomas Thayer, War without Fronts: The American Experience in Vietnam (Annapolis, 
+MD, 2016), 104.

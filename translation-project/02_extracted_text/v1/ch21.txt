@@ -1,0 +1,1010 @@
+454
+In most histories of the Vietnam War, the year 1963 is depicted as a moment 
+of contingency, missed opportunities, and tragedy. The reason for this 
+is not hard to fathom: both at the time and in hindsight, 1963 appears as a 
+year full of dramatic and consequential events in Vietnam. The year began 
+with the stunning victory of communist-led insurgents over a much larger 
+South Vietnamese army detachment in the battle of Ấp Bắc in early January. 
+Following the battle, tensions rose between the South Vietnamese govern-
+ment of Ngô Đình Diệm and the United States, its most important foreign 
+ally. Then, in May and June, Saigon and other South Vietnamese cities were 
+rocked by anti-government protests led by Buddhist monks and nuns. Those 
+protests garnered worldwide attention after a bonze named Thích Quảng 
+Đức burned himself to death on a Saigon streetcorner on June 11. In August, 
+after Diệm used government security forces to crack down on the movement, 
+senior officers in the South Vietnamese Army began plotting a coup against 
+the South Vietnamese president. On November 1, the generals launched their 
+uprising. Rebel soldiers killed Diệm and his brother Ngô Đình Nhu the next 
+day. The coup had received the qualified approval of US President John F. 
+Kennedy, who was destined to meet his own fate just three weeks later. In the 
+aftermath of these events, senior leaders of the Vietnamese Workers Party 
+(VWP) met secretly in Hanoi. At the urging of VWP General Secretary Lê 
+Duẩn, they endorsed plans for a major escalation of North Vietnam’s war 
+effort in South Vietnam. That escalation, combined with the post–coup tur-
+moil in Saigon, would bring the South Vietnamese government to the brink 
+of collapse by late 1964. In response, Lyndon B. Johnson opted to send US 
+military forces into combat in both North and South Vietnam during the first 
+half of 1965.
+Given this chronology of turmoil and momentous decisions, the notion 
+that 1963 was a year of crisis in Vietnam seems indisputable. But what, exactly, 
+were the origins and nature of this crisis? Many authors have struggled to 
+21
+The Crisis of 1963 and the Origins of the 
+Vietnam War
+Edward Miller
+
+The Crisis of 1963 and the Origins of the Vietnam War
+455
+make sense of the confusing welter of rivalries and violent events that 
+unfolded over the course of the year. Vietnamese Communist Party accounts 
+emphasize military developments in the war between Diệm’s forces and 
+the communist-led National Front for the Liberation of Southern Vietnam 
+(NLF). In these accounts, the communist victory at Ấp Bắc was merely the 
+first move in a broadly successful insurgent offensive that by year’s end had 
+plunged the Saigon government “into a state of continual crisis from which 
+it could not recover.”1 In contrast, many Anglophone authors treat the 1963 
+crisis as a product of the authoritarian policies of the Diệm government. 
+In the memorable phrase of the journalist Frances FitzGerald, Diệm was 
+the “Sovereign of Discord” whose fate was sealed by his atavistic desire to 
+restore a lost premodern social order.2 More recent accounts by historians 
+have eschewed Fitzgerald’s Orientalist framing but still emphasize Diệm’s 
+missteps as the key factors that precipitated the crisis.3 Others, however, have 
+blamed the crisis on Diệm’s South Vietnamese political opponents, or on cer-
+tain US government officials and American journalists.4
+In this chapter, I offer a broader view. Instead of revisiting the debate 
+over responsibility for Diệm’s overthrow and murder, I reinterpret the cri-
+sis of 1963 as emerging from an intertwined set of conflicts over sovereignty 
+in Vietnam. These sovereignty conflicts involved multiple states and non-
+state groups. Although some of them pitted Vietnamese actors against other 
+Vietnamese, others involved confrontations between Vietnamese and “exter-
+nal” actors. I will emphasize three sets of sovereignty conflicts in particular: 
+(1) the rivalry between Diệm’s anticommunist Republic of Vietnam (RVN) 
+and the communist-led Democratic Republic of Vietnam (DRVN); (2) the 
+growing tensions between the two Vietnamese states and their respective 
+superpower allies (China, the Soviet Union, and the United States); and (3) 
+the clashes between Diệm’s government and other anticommunist national-
+ist groups in South Vietnam.
+	1	 The Military History Institute of Vietnam, Victory in Vietnam: The Official History of the 
+People’s Army of Vietnam, 1954–1975, Merle Pribbenow (trans.) (Lawrence, KS, 2002), 121.
+	2	 Frances FitzGerald, Fire in the Lake: The Vietnamese and the Americans in Vietnam (Boston, 
+1972), chapter 3.
+	3	 Philip E. Catton, Diem’s Final Failure: Prelude to America’s War in Vietnam (Lawrence, KS, 
+2002); Edward Miller, Misalliance: Ngo Dinh Diem, the United States, and the Fate of South 
+Vietnam (Cambridge, MA, 2013); Nu-Anh Tran, Disunion: Anticommunist Nationalism and 
+the Making of the Republic of Vietnam (Honolulu, 2022).
+	4	 Mark Moyar, Triumph Forsaken: The Vietnam War, 1954–1965 (Cambridge, 2006); Geoffrey 
+Shaw, The Lost Mandate of Heaven: The American Betrayal of Ngo Dinh Diem, President of 
+Vietnam (San Francisco, 2015).
+
+Edward Miller
+456
+None of these conflicts over sovereignty in Vietnam was new in 1963. Each 
+could be traced back to the uneasy peace that emerged after the Geneva 
+Conference of 1954. At Geneva, diplomats successfully ended the French 
+Indochina War and paved the way for the final dismantling of French colo-
+nial sovereignty in Vietnam. But the Geneva Conference did not address 
+the question of how sovereignty in postcolonial Vietnam would be wielded, 
+or the equally critical question of who would wield it. As a result, in the 
+years after 1954, conflicts over sovereignty in Vietnam gradually intensified 
+in all three of the arenas identified above. At first, however, these conflicts 
+remained mostly separate from each other. It was only in 1963 that these three 
+strands of conflict over sovereignty became deeply intertwined.
+The crisis that erupted in 1963 had consequences that went far beyond 
+the demise of the Diệm government. Instead of resolving the conflicts over 
+sovereignty, Diệm’s downfall prompted all the other actors in the drama – 
+both Vietnamese and non-Vietnamese – to double down on their sovereignty 
+claims. Those responses, in turn, led directly to the escalation of the military 
+struggle in Vietnam during 1964–5, and to the massively more violent war 
+that emerged thereafter. By placing clashes over sovereignty at the center of 
+analysis, we can better understand not only the roots of the 1963 crisis, but 
+also how and why the events of that fateful year transformed the Vietnam 
+War into one of the twentieth century’s most destructive and bloody wars.
+National and Imperial Sovereignties in the 
+Indochina Wars
+My reframing of the events of 1963 draws on recent scholarly efforts to histori-
+cize sovereignty in imperial and postcolonial contexts. For centuries, political 
+theorists in Europe and elsewhere have theorized states as autonomous, terri-
+torially bounded units. From this perspective, sovereignty inheres in a state’s 
+exercise of political authority over spaces, populations, and institutions, and 
+in its efforts to secure recognition of that authority. Since the 1990s, however, 
+some international relations theorists and political geographers have ques-
+tioned whether sovereignty is always exercised on a territorial basis.5 At the 
+same time, historians have challenged the traditional practice of portraying 
+sovereignty in all-or-nothing terms – that is, as an absolute and indivisible 
+	5	 Merje Kuus and John Agnew, “Theorizing the State Geographically: Sovereignty, 
+Subjectivity, Territoriality,” in Kevin R. Cox, Murray Low, and Jennifer Robinson (eds.), 
+The SAGE Handbook of Political Geography (London, 2007), 95–106.
+
+The Crisis of 1963 and the Origins of the Vietnam War
+457
+status that a state or ruler either possesses or lacks. Not content merely to 
+show that sovereignty can be contested, scholars now explore the many ways 
+in which sovereignty has been shared, graduated, layered, or fragmented.6
+The emphasis on the divisibility of sovereignty has been particularly evident 
+in the study of modern empires and postcolonial societies. Instead of treating 
+empires and nation-states as organized around uniform models of either colo-
+nial or national sovereignties, historians increasingly view imperial sovereignty 
+as contingent and improvised.7 This approach is reflected in Ann Stoler’s discus-
+sion of contemporary empires as “imperial formations.” According to Stoler, 
+imperial formations are not necessarily organized around colonial forms of 
+rule, nor are they always defined by clear borders and boundaries. Instead, they 
+are “macropolities” that function as cobbled-together patchworks of territories, 
+laws, rights, and forms of citizenship. In these formations, Stoler argues, politi-
+cal authority is defined by varying “degrees of imperial sovereignty” rather than 
+by hard-and-fast distinctions between imperial rulers and colonial subjects.8
+Several historians have begun to apply these alternative approaches to sov-
+ereignty to the study of colonial Indochina and the French Indochina War. 
+Instead of framing the war of 1945–54 as a straightforward clash between 
+French colonialism and Vietnamese nationalism, Christopher Goscha 
+describes it as a “savage war of sovereignties.” This multisided conflict fea-
+tured “embattled embryonic states, colonial, national and hybrid ones, each 
+of which was determined to contest or indeed suppress the other’s sover-
+eignty.”9 Similarly, Brett Reilly argues that the history of the State of Vietnam 
+(the immediate ancestor of the RVN) shows that sovereignty in late colonial 
+Indochina was “a malleable and divisible set of practices.”10 Reilly also shows 
+that the French Indochina War was, among other things, a civil war – an 
+important historical fact long neglected by scholars.11
+	6	 James J. Sheehan, “The Problem of Sovereignty in European History,” The American 
+Historical Review 111 (1) (February 2006), 1–15; Douglas Howland and Luise White, The 
+State of Sovereignty: Territories, Laws, Populations (Bloomington, 2009).
+	 7	 Jane Burbank and Frederick Cooper, Empires in World History: Power and the Politics of 
+Difference (Princeton, 2010).
+	8	 Ann Laura Stoler, Duress: Imperial Durabilities in Our Times (Durham, NC, 2016), 
+chapter 5.
+	9	 Christopher Goscha, Vietnam: A New History (New York, 2016), chapter 8, quotation 
+on 224.
+	10	 Brett M. Reilly, “The Sovereign States of Vietnam, 1945–1955,” Journal of Vietnamese 
+Studies 11 (3–4) (2016), 103–39.
+	11	 Shawn McHale, The First Vietnam War. Violence, Sovereignty, and the Fracture of the South, 
+1945–1956 (Cambridge, 2021); François Guillemot, Des Vietnamiennes dans la guerre civile: 
+L’autre moitié de la guerre, 1945–1975 (Paris, 2014).
+
+Edward Miller
+458
+Following Goscha and Reilly, I contend that a more contingent approach 
+to sovereignty can be usefully applied to the study of the Indochina Wars in 
+general and to the origins of the Vietnam War in particular. Such an approach 
+allows examination of the complex interactions among multiple national and 
+imperial sovereignties in Vietnam. The contest over national sovereignties 
+was most obvious in the rivalry between the DRVN and the RVN, nation-
+alist states that both claimed sovereignty over all of Vietnam’s territory and 
+population. However, even as the Hanoi and Saigon regimes attacked the 
+other’s nationalist legitimacy, they also faced legitimacy challenges from var-
+ious nonstate actors. The massive migration of nearly a million Vietnamese 
+from North to South Vietnam during 1954–5 – an exodus enabled by a provi-
+sion in the Geneva Accords – was deeply worrisome for DRVN officials, who 
+recognized that it undermined their claims to wield sovereign authority over 
+the entire Vietnamese population. At the same time, the newly established 
+Diệm government faced armed resistance from various sectarian groups and 
+militias, as well as from the leaders of the South Vietnamese Army. Although 
+both the DRVN and RVN states survived these early challenges, the episodes 
+underlined the unstable and fragmented qualities of national sovereignty in 
+Vietnam after Geneva.
+These pitched contests over national sovereignty in Vietnam were heavily 
+impacted by foreign actors. Although the list of states that deployed mili-
+tary forces to Indochina during the Vietnam War runs to more than a dozen, 
+the most consequential interventions were those of the United States, the 
+Soviet Union, and the People’s Republic of China (PRC). All three states jus-
+tified their actions in Indochina as efforts to defend the sovereignty of a legit-
+imate Vietnamese state (with Washington backing the RVN and Moscow 
+and Beijing supporting the DRVN). Yet these interventions were also deeply 
+connected to the Global Cold War and to each state’s interest in shaping the 
+future development of the decolonizing nations of Asia, Africa, and Latin 
+America. From this perspective, each of these “superpowers” was an imperial 
+formation that sought a measure of sovereign authority in Indochina, even 
+though its leaders disavowed any colonial aspirations.
+From the early 1950s, the US intervention in Indochina was framed as 
+part of Washington’s global strategy to contain Soviet expansion. But 
+American sovereign claims in Indochina were not born of anticommunism 
+alone. Recent scholarship on US empire has linked Washington’s post–1945 
+engagement with the “Third World” to older ideas about American capac-
+ities to bestow liberty and guidance on backward nations and peoples. 
+The salience of these racialized uplift narratives was especially evident in 
+
+The Crisis of 1963 and the Origins of the Vietnam War
+459
+Washington’s increasing interest in modernization and development in the 
+Global South.12
+This does not mean, however, that American development policies for 
+Vietnam and other countries was merely an updated form of colonialism. 
+Instead of building American neocolonies, US leaders envisioned a “Free 
+World” of allied states committed to both anticommunism and American-
+style capitalist modernity. Yet this US-conceived world was also a heavily mil-
+itarized one that included a sprawling global network of American military 
+bases and military advisors – what one scholar aptly describes as a “pointillist” 
+American empire.13 The integration of “Free Vietnam” into this American 
+empire of development aid and bases began in 1950 when Washington 
+established both a Military Advisory and Assistance Group (MAAG) and a 
+US Operations Mission (USOM) in Saigon. By the late 1950s, South Vietnam 
+received more US military and economic aid than almost any other country 
+in the world. During 1961–2, as the communist-led insurgency spread across 
+South Vietnam, Washington expanded its aid commitments to the RVN and 
+upgraded its military presence through the creation of Military Assistance 
+Command-Vietnam (MACV).
+While Washington tried to pull Vietnam into the “Free World,” lead-
+ers in Moscow and Beijing envisioned a different kind of postcolonial des-
+tiny for Indochina. As Marxist–Leninists, Soviet and Chinese leaders agreed 
+that post–1945 international relations would be defined by the global rivalry 
+between the socialist (or “democratic”) nations and the capitalist (“imperial-
+ist”) bloc. They also believed the eventual triumph of the socialist camp was 
+assured. As a result, both Moscow and Beijing recognized the DRVN in 1950 
+and strongly backed its war effort against France. After 1954, the two com-
+munist “older brothers” continued to supply economic and military aid to 
+Hanoi, along with advisors and development expertise.
+But the shared commitment to the “two-camp” worldview actually con-
+cealed significant ideological differences between the Soviet Union and the 
+PRC. As Jeremy Friedman has argued, Soviet leaders emphasized the impor-
+tance of anticapitalist revolution, a position that made them suspicious of 
+nationalists and nationalism. In contrast, Mao Zedong and other leaders of 
+the Chinese Communist Party stressed anti-imperialism and China’s struggle 
+	12	 Odd Arne Westad, The Global Cold War: Third World Interventions and the Making of Our 
+Times (Cambridge, 2005), chapter 2.
+	13	 Daniel Immerwahr, How to Hide an Empire: A History of the Greater United States (New 
+York, 2019).
+
+Edward Miller
+460
+to overturn a century of subordination to foreign powers. Although these 
+positions were not absolutely incompatible, the differences between them 
+became more pronounced during the late 1950s, resulting in the rift that 
+would become known as the Sino-Soviet split. In this situation, Moscow and 
+Beijing each sought to recast their support for the DRVN as proof of their 
+claims to be the sole legitimate leader of the global communist movement.14
+By the early 1960s, the conflicts over sovereignty in Indochina appeared 
+to be intensifying. The rise of the DRVN-backed insurgency against Diệm’s 
+RVN state showed that tensions over national sovereignty in Vietnam were 
+becoming more acute. At the same time, the region was increasingly viewed 
+as a potential new hotspot in the Global Cold War. This elevated risk was evi-
+dent not only in the Kennedy administration’s increased aid to South Vietnam 
+but also in the eruption of a new civil war in Laos – a conflict in which the 
+United States and Soviet, PRC, RVN, and DRVN states were all engaged as 
+sponsors of one or other of the warring parties. The tensions were further 
+exacerbated by the emerging rivalry between Moscow and Beijing, each of 
+which now publicly accused the other of betraying the cause of international 
+socialist revolution.
+Nevertheless, as the year 1963 began, it was far from certain that Indochina 
+was about to be plunged into a new “savage war of sovereignties.” Even 
+though the multiple conflicts among the claimants to national and imperial 
+sovereignty were escalating, those conflicts were still fairly distinct and sep-
+arate from one another. But that was about to change. Over the following 
+year, the multiple rivalries over sovereignty in Indochina began to intersect 
+and collide with each other in new and more dangerous ways. As it hap-
+pened, the first signs of the impending collision would be glimpsed not in 
+Saigon, Hanoi, or any foreign capital, but in a rural village in the heart of the 
+Mekong Delta.
+The DRVN, the RVN, and the Battle of Ấp Bắc
+The battle of Ấp Bắc took place in two hamlets in Định Tường province on 
+January 2, 1963. During the daylong battle, elements of two NLF battalions – 
+fewer than 400 guerrilla fighters – mauled an attacking force of more than 
+1,500 RVN troops backed by helicopters, fixed-wing aircraft, and armored 
+vehicles. The rebels shot down or damaged fourteen of the American-piloted 
+	14	 Jeremy Friedman, Shadow Cold War: The Sino-Soviet Competition for the Third World 
+(Chapel Hill, NC, 2015).
+
+The Crisis of 1963 and the Origins of the Vietnam War
+461
+helicopters and killed or wounded nearly two hundred of the enemy, while 
+suffering comparatively light casualties in their own ranks. At the end of the 
+battle, the insurgents successfully withdrew from the area, evading the units 
+deployed to block their retreat.
+Communist propagandists during and after the Vietnam War celebrated 
+Ấp Bắc as a major breakthrough that showed the NLF had devised new 
+tactics to overcome the South Vietnamese Army’s superior firepower and 
+resources. In contrast, US military advisors and American journalists attrib-
+uted the insurgent victory to mistakes and flawed leadership on the govern-
+ment side. While some Americans accused Army of the Republic of Vietnam 
+(ARVN) officers of incompetence and cowardice during the battle, others 
+blamed senior political officials, especially Ngô Đình Diệm. In his influen-
+tial postwar account of the battle, American journalist Neil Sheehan claimed 
+that Diệm had ordered his commanders to avoid battlefield losses at all costs 
+because he was more worried about a military coup than about defeating the 
+insurgency, thus leading to hesitation and defeat at Ấp Bắc.15
+Recent scholarship confirms the importance of communist tactical inno-
+vations at Ấp Bắc, including a new “stand and fight” doctrine. By using strict 
+fire discipline and by placing their forces in well-concealed and well-protected 
+positions, the insurgents neutralized the mobility and firepower advantages 
+conferred by the US-supplied aircraft and armored vehicles. Confronted 
+with these new tactics, South Vietnamese officers failed to devise an effec-
+tive response. Communist commanders quickly recognized that the Ấp Bắc 
+model could be incorporated into a strategy to paralyze the enemy’s opera-
+tional capabilities across broader geographical areas.16
+This does not prove, however, that the ARVN defeat at Ấp Bắc was due to 
+cowardice or to a reluctance to take the fight to the enemy. Diệm’s alleged 
+intolerance for casualties is uncorroborated by any evidence other than 
+rumors and hearsay among US military advisors. It is true that Diệm and 
+his brother Ngô Dình Nhu were concerned about the danger of a coup; it 
+is also true that they staffed key military command positions with loyal offi-
+cers. Nevertheless, there is little doubt that the Ngô brothers still expected 
+the ARVN to fight and defeat the NLF. In fact, by early 1963 the Ngôs were 
+firmly convinced that they were winning the war and that victory was within 
+reach – a belief they sustained even after Ấp Bắc.
+	15	 Neil Sheehan, A Bright Shining Lie: John Paul Vann and America in Vietnam (New York, 
+1988), 122–5.
+	16	 David W. P. Elliott, The Vietnamese War: Revolution and Social Change in the Mekong 
+Delta, 1930–1975 (Armonk, NY, 2003), 1:397–406; Catton, Diem’s Final Failure, 191–2.
+
+Edward Miller
+462
+For Diệm and Nhu, the battle of Ấp Bắc was merely a minor episode 
+in their long-running struggle to defend the sovereignty of the RVN state. 
+During the first years of Diệm’s rule, the Ngôs appeared to have the upper 
+hand in that struggle. Per the Geneva Accords, the DRVN transferred control 
+of large swaths of territory in central Vietnam and the Mekong Delta to the 
+RVN. These DRVN withdrawals, combined with Diệm’s military victories 
+over the Bình Xuyên cartel and other noncommunist militia forces, left his 
+government in effective control over most of South Vietnam’s territory – a 
+feat that the Bảo Đại-led State of Vietnam had never come close to achieving. 
+Diệm also moved to bolster his legitimacy by organizing a head-to-head refer-
+endum against Bảo Đại in October 1955, followed by elections for a National 
+Assembly and the promulgation of a new RVN constitution in 1956. Although 
+the government staged these events in ways calculated to marginalize or 
+exclude its critics, Diệm could still plausibly cite these measures as evidence 
+of his commitment to republicanism and popular sovereignty. Diệm’s sov-
+ereignty claims were further enhanced by the withdrawal of the last French 
+colonial troops from South Vietnam in 1956, and by the diplomatic recog-
+nition of the RVN by dozens of foreign states.17 Meanwhile, within South 
+Vietnam, RVN state authority was consolidated via an indoctrination and 
+security program known as the Denounce Communists Campaign. While 
+this campaign did little to build Diệm’s popularity with rural Vietnamese, it 
+still increased the government’s power and authority over the population. 
+The campaign also severely damaged the party’s network of “stay behind” 
+cadres and operatives, large numbers of whom had been arrested or killed 
+by 1958.18
+Communist Party leaders were not content to allow Diệm to win the 
+contest for sovereignty in South Vietnam without a fight. As early as 1956, 
+Lê Duẩn – who had remained in the South after Geneva – was laying the 
+groundwork for a response. In his essay “The Path to Revolution in the 
+South,” written when the party’s fortunes in the South were near their nadir, 
+Lê Duẩn argued that the party could and should challenge Diệm’s claims to 
+sovereignty at the local level, even while “struggling according to a peace-
+ful line.” “All accomplishments in every country are due to the people,” he 
+declared. “That is a definite law; it cannot be otherwise.” Significantly, Lê 
+Duẩn did not call for the immediate rebuilding of the DRVN state apparatus 
+	17	 Rufus Phillips, Why Vietnam Matters: Eyewitness Account of Lessons Not Learned (Annapolis, 
+MD, 2008).
+	18	 Elliott, The Vietnamese War, 1:181–95; Carlyle Thayer, War by Other Means: National 
+Liberation and Revolution in Vietnam, 1954–1960 (Milton Park, 1989), 116–17.
+
+The Crisis of 1963 and the Origins of the Vietnam War
+463
+in the South. Instead, he exhorted party cadres “to mingle with the masses, 
+to protect and serve the interests of the masses and to pursue correctly the 
+mass line.”19 In these words lay the kernel of a new strategy: By fostering a 
+new mass resistance movement, the party would cast the resistance in the 
+South not as a clash between two rival Vietnamese states, but as a conflict 
+between the RVN state and “the Southern people.” While the communists’ 
+ultimate goal remained the same – establishing DRVN sovereignty over all of 
+Vietnam – Lê Duẩn now argued that Diệm would have to be delegitimized 
+and overthrown before Hanoi could reclaim the South.
+By 1959, Lê Duẩn had secured the VWP Politburo’s authorization for his 
+strategy of localized resistance operations. During 1960, cadres organized 
+a series of “concerted uprisings” across the Mekong Delta. Although these 
+included some small-scale military operations, they were focused mainly on 
+the mobilization of the rural population through demonstrations and other 
+“political struggle” actions designed to weaken RVN legitimacy. The insur-
+gents also sought to degrade the Diệm administrative apparatus via assas-
+sinations and kidnappings of local government officials and supporters. 
+Meanwhile, DRVN material support for the rebels began flowing from North 
+Vietnam to the South via the network of paths and roads that would become 
+known as the Hồ Chí Minh Trail. While the volume of weapons and supplies 
+remained limited prior to 1965, the Trail delivered another crucial resource: 
+thousands of Southern-born communist cadres who had “regrouped” to the 
+North in 1954. These returning Southerners played key roles in the establish-
+ment and expansion of the NLF, the ostensibly noncommunist and indepen-
+dent insurgent organization set up in 1960. By seeding the NLF apparatus 
+with Southerners, DRVN leaders could credibly represent the insurgency as a 
+popular rebellion, even as they maintained close control over it.
+Diệm and his supporters were badly shaken by the VWP comeback and the 
+rapid expansion of the insurgency during 1960 and 1961. In the Mekong Delta, 
+the insurgents overwhelmed the government’s Agroville Program, an agrar-
+ian development initiative designed to modernize and control the rural pop-
+ulation by concentrating them in town-like settlements. The government’s 
+increasingly draconian security measures – such as the infamous 10/59 decree, 
+which created military tribunals with the power to execute suspected commu-
+nists – seemed ineffective against the onslaught. By mid-1961, the insurgents 
+wielded effective control over roughly half of South Vietnam’s territory.
+	19	 Lê Duẩn, “The Path to Revolution in the South,” in Edward Miller, The Vietnam War: 
+A Documentary Reader (Malden, MA, 2016), 61–9.
+
+Edward Miller
+464
+But Diệm was preparing a comeback of his own. To bolster the RVN mili-
+tary effort, he turned to US President John F. Kennedy. In late 1961, Kennedy 
+agreed to a large expansion of military aid for South Vietnam, including 
+helicopters, armored personnel carriers, and other offensive weapons sys-
+tems that the ARVN had previously lacked. He also sharply increased the 
+number of US military advisors in South Vietnam. Diệm viewed these US 
+advisors warily, since their presence seemed to confirm communist claims 
+that his government was an American puppet regime. On the other hand, 
+the military impact of the aid appeared to be extraordinarily positive for the 
+RVN – at least in the short term. During 1962, the ARVN’s battlefield fortunes 
+improved dramatically, thanks to the increased mobility and firepower con-
+ferred by the new equipment.20
+For Diệm, the influx of American aid was not the only reason for the shift 
+in the tide of the war during 1962. In his view, the key to the turnaround was 
+the launch of a new RVN counterinsurgency initiative, the Strategic Hamlet 
+Program (SHP). Designed and overseen by Ngô Dình Nhu, Diệm’s younger 
+brother and closest advisor, the SHP was the most ambitious and grandiose 
+of all of Diệm’s nation-building schemes. Nhu proposed to gather all rural 
+residents into government-fortified hamlets as a means of separating them 
+from the NLF. But the SHP was not merely about ensuring the security of 
+the population. According to Nhu, the program also aimed to enlist the pop-
+ulation in the fight against the NLF. This goal was supposed to be achieved 
+via the indoctrination of hamlet residents in the principles of personalism, the 
+abstruse form of communitarianism that the Ngôs trumpeted as the official 
+philosophy of their regime. In Nhu’s imagination, each strategic hamlet would 
+be both “a defense system in miniature” and a self-sufficient community of 
+RVN citizen-farmers.21
+Most retrospective assessments of the SHP have emphasized the gap 
+between Nhu’s theories and the actual implementation of the program. 
+Even Diệm’s supporters admitted that many of the thousands of hamlets 
+built by the government were constructed in an overly hasty manner by 
+officials who were corrupt, incompetent, or both. There is precious little 
+evidence that hamlet residents ever understood what personalism was, or 
+how they were supposed to apply it in their daily lives. But in the heady 
+days of 1962, both US and RVN officials often discounted evidence of the 
+program’s ideological and practical shortcomings.
+20	 Miller, Misalliance, 222–31; Elliott, The Vietnamese War, 1:385–95.
+	21	 Catton, Diem’s Final Failure, chapters 4 and 5; Miller, Misalliance, 231–9.
+
+The Crisis of 1963 and the Origins of the Vietnam War
+465
+Nhu’s faith in the program was especially fervent. In November 1962, he 
+ordered the RVN civic action ministry to begin preparations for the libera-
+tion of North Vietnam from communist rule. According to Nhu, the news 
+of the success of the hamlet program in the South would soon inspire the 
+ordinary people of the North to begin building their own strategic hamlets, 
+ideally with covert assistance provided by the RVN.22
+Diệm and Nhu’s ebullient optimism about their prospects for victory was 
+the lens through which they viewed the battle of Ấp Bắc. For the Ngôs, the 
+outcome of the battle was disappointing. But it was not cause for alarm. In 
+the aftermath of the battle, Nhu insisted that the clash had been a “partial vic-
+tory” for the government since the NLF forces eventually departed from the 
+battlefield. He also believed the ARVN would continue to “wear down the 
+enemy through envelopment.”23 Neither Nhu nor senior ARVN command-
+ers seemed to take note of the new “stand and fight” tactics that the NLF 
+celebrated as the main reason for their triumph.
+The Ngô brothers also discounted another important reason for the 
+insurgents’ success at Ấp Bắc: the weapons that they used. Prior to 1962, 
+the rebels had fought mainly with small arms, many of them antiquated. 
+At Ấp Bắc, however, the NLF forces had deployed up-to-date recoilless 
+rifles and anti-aircraft machine guns against the enemy’s helicopters and 
+armored vehicles. Without these heavy weapons, the new “stand and 
+fight” tactics would have been useless. How had the insurgents acquired 
+these big guns?
+Although most American observers mistakenly believed that the rebels 
+had captured them from South Vietnamese armories, postwar Vietnamese 
+accounts show that the new weapons actually came from North Vietnam.24 
+Moreover, they had been brought to the South not via the Hồ Chí Minh Trail 
+through Laos and Cambodia, but by sea. In the spring of 1962, a small fleet 
+of four North Vietnamese junks disguised as fishing vessels began smuggling 
+weapons and other supplies across the South China Sea, making clandestine 
+deliveries along the South Vietnamese coast. The opening of the “Hồ Chí 
+Minh Sea Trail” (Đường Hồ Chí Minh trên biển) proved to be a major strate-
+gic breakthrough. Between late 1962 and early 1965, North Vietnamese ships 
+smuggled nearly 5,000 tons of weapons and supplies into South Vietnam by 
+sea. While Ấp Bắc was probably not the first time that insurgents had used 
+22	 Ibid., 251.
+	23	 Ibid., 252.
+24	 For the captured weapons theory, see Sheehan, Bright Shining Lie, 99–101.
+
+Edward Miller
+466
+these seaborne weapons against ARVN forces, it was certainly the first time 
+they had deployed them to such dramatic effect.25
+The opening of the sea trail puts the battle of Ấp Bắc in a different light. 
+The NLF’s victory resulted not only from the tactical innovations devised by 
+its commanders, but also from the opening of transportation links between 
+North Vietnam and the battlefields of the Mekong Delta. Those links would 
+eventually transform the intensifying struggle over sovereignty in South 
+Vietnam. During the French Indochina War, as Chris Goscha has shown, 
+VWP leaders relied on sea-based networks to keep the party’s isolated 
+Mekong Delta base areas connected with the rest of the DRVN’s territorial 
+“archipelago.” The re-establishment of these connections to the delta during 
+1962–3, coupled with the spectacular victory at Ấp Bắc, led Lê Duẩn and other 
+communist leaders to conclude that they had found the elements of a new 
+strategy for victory in the South. The Ngô brothers may not have realized 
+it, but the struggle for sovereignty in the Southern countryside had entered 
+a new phase.
+The Ngôs and the United States
+In early April 1963, the US ambassador to South Vietnam met with Ngô Đình 
+Diệm at the latter’s office. The session did not go well. Although Fredrick 
+Nolting had enjoyed close working relations with Diệm since his arrival in 
+Saigon in 1961, he found the president in an intransigent mood. Diệm had 
+previously informed the embassy that he intended to end the involvement 
+of US military and civilian advisors in the Strategic Hamlet Program. Nolting 
+now implored him to reconsider, arguing that Americans had played cru-
+cial roles in implementing the program. Diệm countered that the US advi-
+sors’ increased presence and visibility in the provinces had become a threat 
+to RVN sovereignty by perpetuating a “colonial mentality” among South 
+Vietnamese. When Nolting remarked that rural residents seemed more 
+friendly to Americans than before, Diệm replied that this was precisely what 
+worried him. “The people believe that the Americans are now the govern-
+ment and disregard the authority of my local officials,” he complained.26
+	25	 The Military History Institute of Vietnam, Victory in Vietnam, 115–16; Christopher E. 
+Goscha, “The Maritime Nature of the Wars for Vietnam: A Geo-Historical Reflection,” 
+War & Society 24 (2) (2005), 73–80.
+	26	 Telegram 882, Saigon to DepState, April 5, 1963, printed in Foreign Relations of the United 
+States, 1961–1963, vol. III, Vietnam, 1961–1963 (Washington, DC, 1991), 207–13.
+
+The Crisis of 1963 and the Origins of the Vietnam War
+467
+Ngô Đình Diệm viewed his alliance with the United States as both essen-
+tial and problematic. A staunch anticommunist, Diệm sought US support 
+even before he became leader of South Vietnam in 1954. Once he assumed 
+power, his government relied on US aid not only to train and maintain the 
+RVN’s armed forces, but also to fund his ambitious array of nation-building 
+programs. Diệm also benefited from US recognition and support in the dip-
+lomatic realm – not least when Washington backed his opposition to the 
+Geneva-mandated 1956 reunification elections, over Hanoi’s strenuous 
+complaints.
+Nevertheless, Diệm knew that US support for him was far from uncondi-
+tional. In the spring of 1955, the senior US envoy to South Vietnam recom-
+mended that Diệm be replaced, on the grounds that he was refusing to follow 
+American advice. US President Eisenhower briefly endorsed that proposal, 
+reversing himself only after Diệm unexpectedly defeated the Bình Xuyên in 
+the battle of Saigon. Although Eisenhower and other US leaders subsequently 
+heaped praise on Diệm – especially during his 1957 state visit to the United 
+States – the memory of his near-abandonment by Washington lingered. 
+During the late 1950s, Diệm sparred frequently with US officials over the form 
+and content of his nation-building programs. Tensions between the allies 
+worsened during 1960, as the communist-led insurgency gathered momen-
+tum and strength in the countryside. Diệm was annoyed in October 1960, 
+when US Ambassador Elbridge Durbrow forcefully pressed him to imple-
+ment reforms and to reduce his brother Nhu’s influence in the government. 
+Annoyance turned to anger the following month, when an attempted coup 
+by ARVN paratrooper units nearly toppled Diệm from power. The Ngôs 
+were incensed that US Embassy officers had been in contact with some of the 
+coup leaders during the uprising, and that they smuggled one of the plotters 
+out of the country after the rebellion collapsed.27
+Relations between the allies remained fraught following the inaugura-
+tion of John F. Kennedy in early 1961. The Ngôs were encouraged by the 
+replacement of Ambassador Durbrow with the more pliable Nolting, and by 
+the official visit of Vice President Lyndon B. Johnson to Saigon in May 1961. 
+However, tensions resurfaced later in the year when Washington proposed 
+to expand US–RVN military cooperation against the communist insurgency, 
+which was continuing to make gains in the countryside. Diệm was happy to 
+	27	 William Rust, Kennedy in Vietnam: American Vietnam Policy, 1960–1963 (New York, 1985), 
+chapter 1.
+
+Edward Miller
+468
+accept more American advisors and more advanced weapon systems for the 
+ARVN. But he balked at US attempts to link the new partnership to adminis-
+trative reforms. After a moment of hesitation, Kennedy withdrew the reform 
+demands. In the short run, this decision seemed to pay off handsomely, as 
+ARVN troops inflicted significant losses on the insurgents throughout 1962.
+In early 1963, following the ARVN debacle at Ấp Bắc, relations between the 
+two governments once again slipped into crisis – though not because either 
+side viewed the battle as a breakthrough for the communists. Indeed, Diệm 
+and Nhu seemed less upset by the outcome on the battlefield than by the 
+comments of US military advisors, who claimed that the Ngôs were delib-
+erately preventing the ARVN from defeating the enemy. The brothers were 
+also irritated by the publication of a report by US Senator Mike Mansfield, 
+who had visited South Vietnam in late 1962. A former staunch supporter of 
+Diệm’s, Mansfield now expressed dismay over the RVN’s lack of progress 
+toward “popularly responsible and responsive government.”28
+In response to these criticisms, the Ngôs decided to press for changes in the 
+terms of their relationship with Washington. They began to speak both pri-
+vately and publicly of a “revisionist” approach to American aid under which 
+the RVN would exercise more exclusive control over the military and eco-
+nomic assistance they received from Washington. This approach was evident 
+in Diệm’s declaration of his intent to end American participation in the imple-
+mentation of the Strategic Hamlet Program, despite Ambassador Nolting’s 
+strident objections. In early May, Nhu told a Washington Post interviewer 
+that the number of US military advisors in Vietnam had grown too large 
+and should be reduced by 50 percent or more; he also declared that some of 
+the advisors were “daredevils” who lacked the patience needed to defeat the 
+enemy. Nhu’s complaints seemed to echo prior comments by his wife Trần 
+Lệ Xuân (better known as “Madam Nhu”). She had warned of “false broth-
+ers” who were undermining Vietnam’s right to self-determination even as 
+they professed support for the RVN.29
+In the end, the Ngôs were unable to secure their desired “revisions” to 
+the US–RVN alliance. Nhu’s comments in the Post generated controversy 
+and speculation that the brothers might be preparing to sever their ties to 
+Washington altogether. In fact, Diệm and Nhu had no desire for an out-
+right rupture in relations. By late May, they had backpedaled and worked 
+out a face-saving deal with the embassy that allowed the American role in 
+28  Mike Mansfield et al., Viet Nam and Southeast Asia (Washington, DC, 1963), 8.
+29  Miller, Misalliance, 254–60.
+
+The Crisis of 1963 and the Origins of the Vietnam War
+469
+the Strategic Hamlet Program to continue. The brothers also quietly shelved 
+their demands for a drawdown in US advisors.
+Nevertheless, the mere fact that the Ngôs had sought to reduce the overall 
+scope and scale of the US role in South Vietnam would have far-reaching 
+consequences. By explicitly casting the American presence as a threat 
+to Vietnamese sovereignty, the regime was challenging a key feature of 
+Kennedy’s approach for defending the “Free World” in Southeast Asia. This 
+clash did not necessarily mean that the nearly decade-old alliance between 
+Diệm and the United States was unraveling. But it did raise that possibility 
+in both Vietnamese and American minds. With the onset of a new crisis in 
+South Vietnam during the summer of 1963, the doubts about the durability of 
+the US–Diệm alliance would become more pressing.
+The “Buddhist Crisis” and the Making of the 
+November Coup
+Despite the growing tensions between Washington and Saigon, there seemed 
+little reason to believe that the fall of the Ngô Đình Diệm government was 
+imminent in the spring of 1963. Despite controlling many rural districts, NLF 
+insurgents had not demonstrated an ability to threaten Saigon or other centers 
+of RVN power. Meanwhile, the US government remained officially commit-
+ted to its alliance with Diệm, and American military and economic aid contin-
+ued to flow into South Vietnam. Although Diệm had faced rebellions led by 
+disgruntled ARVN officers in both 1960 and 1962, those short-lived uprisings 
+had notably failed to attract the support of senior army commanders.
+But the situation changed dramatically during May and June 1963 with the 
+emergence of a new challenge to Diệm’s political authority: a protest move-
+ment led by Buddhist monks. The Buddhist movement began in the central 
+Vietnamese city of Huế, where government security forces killed eight peo-
+ple during a demonstration on May 8. After protests spread to Saigon and 
+other cities, Diệm government officials and Buddhist leaders struck a deal in 
+early June that addressed most of the latter’s demands. But the agreement 
+was upended by Madame Nhu, who publicly denounced Buddhist leaders for 
+making “false utterances” about RVN officials. On June 11, a monk named 
+Thích Quảng Đức sat down on a Saigon streetcorner and burned himself to 
+death in protest. Because the self-immolation was captured in a series of stun-
+ning photographs by an American journalist, it garnered global attention and 
+marked a dramatic escalation of the political crisis. In mid-August, after weeks 
+of unrest and additional self-immolations, the Ngôs ordered police and other 
+
+Edward Miller
+470
+security units to crush the movement. Thousands of monks, nuns, and other 
+movement supporters were arrested during midnight raids on the pagodas 
+that served as the movement’s headquarters. The crackdown came despite 
+the staunch objections of US Embassy officials, who had warned Diệm not to 
+use violence against the movement.
+Many accounts of the “Buddhist Crisis” of 1963 depict it as a struggle for 
+religious freedom.30 Religion was indeed a defining feature of the Buddhist 
+movement, but so too were concerns about nationalism and sovereignty. 
+The monks who led the demonstrations were proponents of the Buddhist 
+Revival (Chấn hưng Phật giáo), a revitalization movement that dated back to 
+the early twentieth century. In addition to advocating for the rehabilitation 
+of Buddhist institutions and practices, the revival was also self-consciously 
+modernist and nationalist. Both clerical and lay Buddhists called on their fel-
+low Vietnamese to cultivate “national Buddhism” and to embrace Vietnam’s 
+identity as a Buddhist country.31
+In the early years of Diệm’s rule, this Buddhist brand of nationalism 
+appeared compatible with the government’s official nation-building agenda. 
+Diệm allowed the leading Buddhist organization in South Vietnam to stage 
+a national congress and even funded the construction of its Saigon head-
+quarters. But by the early 1960s, many Buddhist leaders complained of 
+anti-Buddhist discrimination by Catholic government officials. They also 
+came to view the government’s official philosophy of personalism – a doc-
+trine first elaborated by European Catholic philosophers – as a stalking horse 
+for a plot to Christianize the South Vietnamese population. Diệm, for his 
+part, viewed the Buddhist accusations as an attempt to undermine RVN state 
+sovereignty. He noted that the initial protests in Huế had been triggered by a 
+government ban on the public display of religious flags. While the Buddhists 
+denounced this measure as blatantly discriminatory toward their faith, Diệm 
+insisted that it aimed to compel respect for the RVN national flag.32
+In the immediate aftermath of the May 8 incident, several leaders in both 
+the government and Buddhist organizations advocated negotiations to defuse 
+the crisis. But the chances for a deal became remote following Madame 
+	30	 See, for example, David Kaiser, American Tragedy: Kennedy, Johnson and the Origins of the 
+Vietnam War (Cambridge, MA, 2000), chapter 8; and Seth Jacobs, Cold War Mandarin: 
+Ngo Dinh Diem and the Origins of America’s War in Vietnam, 1950–1963 (Lanham, MD, 
+2006), 142–54.
+	31	 Edward Miller, “Religious Revival and the Politics of Nation Building: Reinterpreting 
+the 1963 ‘Buddhist Crisis’ in South Vietnam,” Modern Asian Studies 49 (6) (2015), 1903–62.
+	32	 Ibid., 1915–21, 1925–6.
+
+The Crisis of 1963 and the Origins of the Vietnam War
+471
+Nhu’s public broadside and the self-immolation of Thích Quảng Đức. In addi-
+tion to turning the protests into a major international news story, Quảng 
+Đức’s death rekindled old debates about the legitimacy and effectiveness of 
+Diệm’s rule. The skeptics included John F. Kennedy who, despite his per-
+sonal admiration for Diệm, now wondered if the RVN president could be 
+counted on to end the crisis and win the war against the communists. As a 
+replacement for Ambassador Nolting, who was due to rotate to another post, 
+Kennedy nominated Henry Cabot Lodge, a patrician Republican with a repu-
+tation for high-handedness in diplomatic affairs. In an August meeting at the 
+White House prior to Lodge’s departure for Saigon, the president indicated 
+he would rely on the ambassador’s judgment about Diệm. “I don’t know 
+whether we’d be better off [without Diệm],” Kennedy said. But “if so, then 
+we have to move in that direction.”33
+The escalating crisis also impacted the calculations of senior leaders of the 
+ARVN. General Dương Văn Minh, known as “Big Minh” to the Americans and 
+affectionally called “Fatty” by his own soldiers, had earned praise from Diệm 
+for leading the successful 1955 operations against the Bình Xuyên. But Minh 
+subsequently fell out of favor with the palace and lost his field command posi-
+tion. He was incensed when the Ngôs investigated his suspected involvement 
+in the failed November 1960 coup against Diệm. Although he was cleared, 
+Minh began to discuss the possibility of a new coup with Trần Văn Đôn and 
+Lê Văn Kim, two fellow generals who had also been sidelined. But the three 
+officers only began plotting in earnest after Quảng Đức’s fiery death prompted 
+a new wave of international condemnation of Diệm’s policies. Their determi-
+nation to act was sealed in late August when Ngô Đình Nhu accused them of 
+masterminding the government’s brutal crackdown on the Buddhists – a false 
+claim designed to conceal Nhu’s own responsibility for the raids.34
+The generals initially planned to launch their coup in late August. But Nhu 
+discovered the plot and disrupted it by raising doubts in the generals’ minds 
+about whether Washington was prepared to support Diệm’s overthrow. 
+What neither Nhu nor the generals knew was that Kennedy and his adminis-
+tration had already shifted to a policy of qualified support for regime change. 
+On August 24, shortly before the generals put their coup plans on hold, the 
+US State Department transmitted a cable to Ambassador Lodge, authorizing 
+	33	 National Security Archive, “Transcription of Kennedy-Lodge Meeting Tape, August 
+15, 1963”: https://nsarchive.gwu.edu/document/20586-doc-03-transcription-kennedy- 
+lodge-meeting.
+	34	 Miller, Misalliance, 208–11, 282–5.
+
+Edward Miller
+472
+him to contact ARVN commanders and assure them that they would have 
+Washington’s support in the event of a successful coup. The cable was 
+drafted by Roger Hilsman, a senior official who had long been skeptical of 
+the Ngôs’ ability to win the war against the NLF. Although Hilsman’s move 
+was backed by several of his State Department colleagues, it was opposed 
+by some of Kennedy’s more senior advisors, including Defense Secretary 
+Robert McNamara and other top Pentagon officials. Kennedy was angry that 
+Hilsman had secured approval for the cable over a weekend when the presi-
+dent and most of his cabinet had been out of town. Yet Kennedy was also dis-
+mayed about Diệm’s hardline response to the Buddhists and worried about 
+his ability to lead the RVN to victory in the war against the communists. As 
+a result, he made no effort to recall Hilsman’s cable or to revert to a policy of 
+untrammeled support for Diệm’s rule. Although his administration was more 
+divided than ever over what to do about Diệm, Kennedy had decided to keep 
+open the option of US support for a coup.35
+The debates in Washington and the intrigue in Saigon continued for two 
+months after the non-coup of late August. On November 1, 1963, the generals 
+finally made their move. Diệm and Nhu knew that another plot was in the 
+works but allowed it to go forward, expecting that loyalist officers would 
+crush the uprising after it began. But the coup leaders took steps to prevent 
+pro-Diệm units from reaching Saigon; they also recruited the commander 
+of the capital military region to join the putsch. Realizing that they had mis-
+judged their opponents, the Ngô brothers slipped out of their besieged palace 
+and made their way to a safe house in Saigon’s Chợ lớn district. Although 
+Nhu wanted to flee the city, Diệm made the fateful decision to contact the 
+coup plotters and surrender, evidently expecting that he would be able to 
+negotiate an accommodation with the generals.36 While the brothers were 
+being transported to the coup leaders’ headquarters, rebel soldiers shot them 
+dead and then repeatedly stabbed their bodies. Although the generals made 
+a clumsy attempt to portray the deaths as suicides, the testimony of ARVN 
+insiders suggested that the executions had been ordered by General Minh.37
+Viewed in hindsight, the downfall of the Ngô Đình Diệm government in 
+1963 was a highly contingent event. The expanding NLF insurgency in the 
+countryside formed the backdrop for the events in Saigon. But communist 
+actions did not precipitate the Buddhists’ revolt or the November coup. 
+	35	 Marc Selverstone, The Kennedy Withdrawal: Camelot and the American Commitment to 
+Vietnam (Harvard University Press, 2022), 140–5.
+	36	 Miller, Misalliance, 319–24.
+	37	 Nguyen Ngoc Huy, “Ngo Dinh Diem’s Execution,” Worldview, November 1976, 39–41.
+
+The Crisis of 1963 and the Origins of the Vietnam War
+473
+Instead, the more consequential steps were those taken by (1) the Buddhist 
+protestors who publicly challenged Diệm’s authority; (2) the US officials who 
+concluded that his tarnished legitimacy made him expendable; and (3) the 
+ARVN generals who resented being sidelined.
+Yet the most fateful moves of all were those made by the Ngô brothers 
+themselves. It is telling that the key players in the coup drama – the Buddhist 
+leaders, the Americans, and the generals – had all previously supported Diệm’s 
+efforts to build an anticommunist state in South Vietnam. By steadily alien-
+ating these and other former allies, Diệm and Nhu became the unwitting 
+authors of their own demise. The consequences of the Ngôs’ miscalculations 
+would be far-reaching – not only for themselves, but for all the other states 
+and leaders who aspired to wield sovereignty in Vietnam. That included the 
+leaders of the Vietnamese Communist Party, who now sensed an opportu-
+nity to bring down the RVN state once and for all.
+The DRVN, China, and the 9th Plenum
+For nearly a decade prior to 1963, the leaders of the Democratic Republic of 
+Vietnam had consistently supported the Soviet Union’s policy of “peaceful 
+coexistence” in the Cold War. At Geneva in 1954, the communists effectively 
+agreed to transfer the competition over sovereignty in Vietnam from the mil-
+itary arena into the political realm. They maintained this commitment during 
+Diệm’s crackdown on “stay behind” communist cadres in South Vietnam in the 
+late 1950s, and even after the emergence of the NLF insurgency. Although the 
+VWP Politburo endorsed small-scale insurrectionary activities in 1959, its care-
+fully worded directives still downplayed the importance of armed resistance 
+in comparison to nonviolent political struggle.38 In its founding manifesto, the 
+NLF called for the establishment of a neutralist government in Saigon – one 
+that would promote “universal peace” and negotiations on the reunification 
+with the North.39 Hanoi affirmed its interest in neutralism in 1962, when it 
+backed a Soviet-led effort to negotiate the neutralization of Laos. Although the 
+DRVN continued to use Lao territory to infiltrate men and supplies into South 
+Vietnam, its leaders still viewed neutralization as a viable long-term strategy 
+for taking over the South without waging a large-scale war.40
+	38	 Pierre Asselin, Hanoi’s Road to the Vietnam War (Berkeley, 2013), 53–64.
+	39	 “Program of the National Liberation Front of South Vietnam,” in Miller, The Vietnam 
+War, 75–80.
+	40	 Asselin, Hanoi’s Road, 122–37.
+
+Edward Miller
+474
+It was only in 1963 that Hanoi decisively rejected “peaceful coexistence” 
+as a strategic principle. Over the course of the year, DRVN leaders adopted 
+a strategy aimed at securing their sovereignty objectives through the rapid 
+escalation of the war in the South. This shift in strategy was enabled by three 
+developments. First, the opening of the Hồ Chí Minh Sea Trail in late 1962, 
+coupled with sharp increases in the size of the NLF’s armed forces, provided 
+communist military commanders with the means to wage a much larger and 
+more lethal war effort in the South. Second, the intensification of the Sino-
+Soviet split helped DRVN leaders to secure Chinese promises of support for 
+a more aggressive strategy in the South – including pledges to help defend 
+North Vietnam from US attacks. Finally, the ouster and death of Diệm in 
+November 1963 seem to confirm that the opportune moment to escalate the 
+armed struggle in the South had finally arrived.
+As we have already seen, the opening of the Hồ Chí Minh Sea Trail 
+during 1962 significantly enhanced communist military capabilities in South 
+Vietnam. The insurgents’ growing firepower coincided with another import-
+ant change: a dramatic increase in the overall size of communist military 
+forces in the South. According to postwar Vietnamese publications, a total of 
+around 25,000 soldiers served on a fulltime basis in NLF military units during 
+1961. During 1962, the numbers serving in such units rose to more than 40,000; 
+the trend continued in 1963, rising to a total of more than 70,000.41 Most of 
+this increase resulted not from land-based infiltration of cadres and soldiers 
+from North Vietnam (which remained relatively low prior to 1965) but from 
+stepped-up recruitment efforts in the South. Party accounts show that the 
+NLF inducted around 10,000 Southern recruits into its military forces in 1962, 
+and a whopping 24,000 in 1963 – the single highest annual total for the entire 
+war.42 Thus, by 1963, communist forces in South Vietnam were better armed, 
+more capable, and much more numerous than they had been just two years 
+earlier.
+The NLF’s growing military strength provided DRVN leaders with the 
+option to escalate their war effort in the South, should they choose to do 
+so. But escalation would imply abandonment of “peaceful coexistence” 
+	41	 The Military History Institute of Vietnam, Victory in Vietnam, 459 n41. See also Cục Tác 
+Chiến Bộ Tổng Tham Mưu [Combat Operations Office of the PAVN General Staff], 
+Lịch sử Cục Tác chiến, 1945–2005 [History of the Combat Operations Office, 1945–2005] 
+(Hanoi, 2005), 401–2.
+	42	 Tổng kết công tác hậu cần chiến trường Nam Bộ-Cực nam Trung Bộ (B2) trong khang chiến 
+chống Mỹ [Overview of Logistical Operations in the B2 Theater during the Resistance 
+War against America] (Hanoi, 1986), 546.
+
+The Crisis of 1963 and the Origins of the Vietnam War
+475
+and would undoubtedly anger their Soviet allies. Hanoi also worried about 
+another potential consequence of escalation: US military strikes against North 
+Vietnam.
+For DRVN leaders, the possibility of direct US attacks on North Vietnam 
+was not to be taken lightly. In 1954, DRVN leaders had decided to make peace 
+at Geneva in part because of fears that Washington might send US combat 
+forces to Indochina.43 Those fears resurfaced during 1959–60, as the Southern 
+insurgency gathered momentum. A January 1961 VWP Politburo directive 
+warned that the United States might conduct “armed provocations” against 
+North Vietnam if the Saigon government was close to collapse.44 The dangers 
+were elaborated in a June 1962 “draft strategic evaluation” prepared by the 
+PAVN General Staff. The report sketched several scenarios in which US regu-
+lar combat forces might be deployed to Indochina – including some in which 
+the United States attacked North Vietnam with air, naval, and ground units.45
+Despite these risks, however, DRVN leaders still wanted to explore the pos-
+sibility of escalating the war in the South. Although the prospect of US attacks 
+on North Vietnam was daunting, PAVN planners believed their forces could 
+successfully resist and even repel such attacks. To do so would require careful 
+planning and the mobilization of the entire North Vietnamese population. It 
+would also depend on receiving external aid and support from Hanoi’s com-
+munist allies. DRVN leaders knew the chances of gaining Moscow’s approval 
+for an escalatory strategy were virtually nil. But the prospects of winning 
+Chinese support for such a plan appeared much better. Indeed, during 1962–3, 
+PRC leaders appeared not just willing but downright eager to support a more 
+aggressive strategy in the South – even if that would require China to help 
+defend North Vietnam.
+Ever since the Sino-Soviet split had erupted into public view in 1960, PRC 
+leaders had openly derided Moscow’s “revisionist” policies and proclaimed 
+their readiness to face off against the United States. In 1962, following the cre-
+ation of the US Military Assistance Command-Vietnam (MACV) in Saigon, 
+Beijing signaled its support for the liberation of South Vietnam through 
+stepped-up military struggle.46 That summer, Hồ Chí Minh visited Beijing 
+	43	 Pierre Asselin, “The Democratic Republic of Vietnam and the 1954 Geneva Conference: 
+A Revisionist Critique,” Cold War History 11 (2) (2011), 155–95.
+	44	 Chı̉ thị của Bộ chính trị [Politburo Directive], January 24, 1961, in Văn kiện Đảng toàn 
+tập, v. 22 (Nhà xuất bản Chính trị quốc gia, 2002), 152.
+	45	 Lịch sử Cục Tác chiến, 371–4.
+	46	 Xiaoming Zhang, “The Vietnam War, 1964–1969: A Chinese Perspective,” Journal of 
+Military History 60 (4) (October 1996), 734–8.
+
+Edward Miller
+476
+to ask PRC leaders for increased military aid. His hosts responded positively, 
+promising to deliver 90,000 rifles and small arms – enough weapons to equip 
+230 battalions.47
+An even more important agreement was reached in October, when 
+DRVN Defense Minister Võ Nguyên Giáp led a high-level military delega-
+tion for talks with the General Staff of the People’s Liberation Army (PLA). 
+During the talks, the Vietnamese presented their scenarios for the deploy-
+ment of US combat forces to Indochina. The two sides agreed that China 
+would provide military equipment and supplies to support DRVN efforts to 
+defeat any US-led “limited war” inside South Vietnam. They also agreed that 
+Hanoi would request PLA air and naval support if US forces invaded North 
+Vietnam. PLA ground troops would not be sent to North Vietnam unless it 
+became “truly necessary.” Over the next year, the two militaries held exten-
+sive planning sessions, including surveys of defensive positions in the panhan-
+dle region of North Vietnam. These contacts culminated in August 1963 in a 
+pair of detailed agreements on military aid and “coordinated combat opera-
+tions” between the PLA and the PAVN.48
+By mid-1963, North Vietnam and China had agreed on a plan to escalate 
+the communist-led war in South Vietnam. Although the existence of this 
+plan remained a closely guarded secret, its impact would be far-reaching. For 
+DRVN leaders, the Chinese pledges of support would allow them to launch 
+and sustain a more aggressive war effort in the South – even if the Soviet 
+Union refused to back Hanoi. Meanwhile, Beijing’s promises to help defend 
+North Vietnam from US attacks enabled the PAVN to send more soldiers 
+and resources to fight in the South. In June 1963, the VWP’s Central Military 
+Committee proposed to raise the rate of North-to-South infiltration “to 
+increase the operations of our fulltime troops on the battlefields of South 
+Vietnam.”49
+The formal endorsement of the new escalation strategy came during the 
+last weeks of the year, at a plenary meeting of the VWP’s Central Committee 
+in Hanoi. The conclave began in late November, shortly after Diệm’s ouster 
+and death in Saigon, and ran for several weeks. The outcome of the com-
+mittee’s deliberations can be inferred from two documents approved by its 
+members. The first, a public communiqué, was an unprecedently strident 
+denunciation of the “revisionists” within the communist bloc who advocated 
+47	 Qiang Zhai, China and the Vietnam Wars, 1950–1975 (Chapel Hill, NC, 2005), 116.
+48	 Lịch sử Cục Tác chiến, 374–83.
+49	 The Military History Institute of Vietnam, Victory in Vietnam, 107–8.
+
+The Crisis of 1963 and the Origins of the Vietnam War
+477
+negotiations with the United States. Although the statement did not mention 
+the Soviet Union or its leaders by name, the language used (including refer-
+ences to those in “a number of fraternal parties” who were “undermining” 
+international communism) left little doubt as to the target of the critique.50
+The second document endorsed at the plenum was a secret resolution. 
+Entitled “Strive to Struggle, Rush Forward to Win New Victories in the 
+South,” it presented a resounding call to arms. Asserting that “seizing power 
+through violent means is correct and necessary,” the resolution proclaimed 
+that the time had come for revolutionary forces to escalate the war in the 
+South. This military escalation was aimed at achieving two primary goals: 
+the “annihilation” of the RVN’s military forces, and the destruction of the 
+Strategic Hamlet Program. The resolution’s authors boldly declared that 
+both goals could be achieved quickly, before Washington deployed US com-
+bat forces to Indochina. But even if US leaders did intervene, the authors 
+predicted, the number of American troops sent to Vietnam would not exceed 
+100,000. In that case, the eventual triumph of the revolutionary forces would 
+merely be delayed, not derailed.51
+Although the full proceedings of the 1963 plenary meeting have never been 
+made public, unofficial accounts suggest that some participants opposed the 
+escalatory strategy presented in Resolution 9. Some historians believe that 
+the “moderate” critics of escalation included senior VWP leaders such as Hồ 
+Chí Minh and Võ Nguyên Giáp.52 The extent to which Hồ Chí Minh and Giáp 
+were moderates on questions of war and peace in 1963 may be debated. Yet 
+there is no debate about the identity of the prime mover behind Resolution 
+9: VWP General Secretary Lê Duẩn. Seven years earlier, when the party’s 
+fortunes in the South were at their lowest ebb and Hanoi’s commitment to 
+“peaceful coexistence” seemed non-negotiable, Lê Duẩn had insisted that 
+the mobilization of the Southern population might yet pave the way for the 
+party to reassert its claims to sovereignty over the South. Now, in 1963, he 
+and other VWP leaders calculated that a rapid military escalation would lead 
+to the revolutionary triumph they had long dreamed of achieving. It was a 
+colossal gamble of lives, resources, and prestige, but it was a wager that Lê 
+	50	 Asselin, Hanoi’s Road, 162–5.
+	51	 Ibid., 165–9. For a partial English translation of the resolution, see “Resolution of the 
+Central Committee of the Vietnam Worker’s Party,” in Miller, The Vietnam War, 
+96–100.
+	52	 Lien-Hang T. Nguyen, Hanoi’s War: An International History of the War for Peace 
+in Vietnam (Chapel Hill, NC, 2012), 51–83; Pierre Asselin, Vietnam’s American War 
+(Cambridge, 2018), 106–8.
+
+Edward Miller
+478
+Duẩn and his comrades were willing to make in the service of the DRVN’s 
+sovereignty objectives in the South. They would eventually achieve those 
+objectives, but victory would take far longer and prove far more costly than 
+they ever imagined.
+Conclusion: Sovereignty and the Escalation  
+of the Vietnam War
+On November 6, 1963, US Ambassador Henry Cabot Lodge sent a cable to 
+Washington in which he analyzed the effects of the recent coup and over-
+throw of Ngô Đình Diệm – an outcome that Lodge himself had done a great 
+deal to encourage. In the ambassador’s judgment, the coup had unfolded 
+mostly according to plan, and its leaders had demonstrated unexpected met-
+tle. Based on this assessment, Lodge offered an optimistic prediction: “The 
+prospects now are for a shorter war.”53
+Lodge was wrong – spectacularly so. But he was far from unusual in his 
+capacity for mistaken judgments about matters of war and peace in Indochina 
+in 1963. In both Hanoi and in Saigon, no less than in other capitals across the 
+world, political leaders recognized that the crisis of 1963 marked an inflection 
+point in the long-running struggle over sovereignty in Indochina. Most also 
+acknowledged that the risks that the war in South Vietnam would be trans-
+formed into a larger conflict could not be ignored. Yet almost none of them 
+seemed able to imagine how much larger and bloodier the conflict would 
+become, or how long it would last. For Vietnamese leaders, no less than for 
+their American, Chinese, and Soviet counterparts, sovereignty in Indochina 
+seemed worth fighting for in 1963.
+	53	 Telegram from the Embassy in Vietnam to the Department of State, November 6, 1963, 
+printed in Foreign Relations of the United States, vol. IV: Vietnam, August–December 1963 
+(Washington, DC, 1991), 575–8.

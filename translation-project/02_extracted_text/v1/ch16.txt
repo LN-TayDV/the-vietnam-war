@@ -1,0 +1,838 @@
+347
+Introduction
+With the signing of the Geneva Accords in July of 1954, the French Indochina 
+War came to a close. Leaders of Vietnam’s Communist Party, officially the 
+Vietnamese Workers’ Party (VWP), were now the masters of an internation-
+ally recognized entity named the Democratic Republic of Vietnam (DRVN, 
+or North Vietnam).1 They also gained exclusive administrative authority over 
+all Vietnamese territory north of the 17th parallel. Yet the DRVN’s revolu-
+tionary leaders had founded their state in September 1945 as a political entity 
+comprising the entirety of Vietnam, not just the northern half. Scholars con-
+tinue to debate basic questions related to North Vietnamese politics and strat-
+egy during the years from 1954 to 1963, the critical period when the fragile 
+post–Geneva peace transitioned into the Vietnam War. Did some VWP lead-
+ers ever come to see the partition of the country as a regrettable but accept-
+able long-term solution? Or did they always plan and expect to use armed 
+force to overthrow the rival regime in the South and unify the country under 
+their party’s control?2
+The answers to these questions are intertwined with some of the more 
+immediate policy choices that Hồ Chí Minh and the rest of the VWP Politburo 
+faced after Geneva. Having negotiated and endorsed the Geneva Accords, 
+how did DRVN leaders intend to implement their provisions?3 What would 
+16
+Building Socialism in North Vietnam 
+after Geneva
+Alec Holcombe
+	1	 For summaries of the DRVN’s overall situation after the French Indochina War, see 
+Balazs Szalontai, “Political and Economic Crisis in North Vietnam,” Journal of Cold War 
+History 5 (4) (2005), 395–426; Pierre Asselin, Hanoi’s Road to the Vietnam War: 1954–1965 
+(Berkeley, 2013); Ilya V. Gaiduk, Confronting Vietnam: Soviet Policy toward the Indochina 
+Conflict, 1954–1963 (Stanford, 2003); Qiang Zhai, China and the Vietnam Wars, 1950–1975 
+(Chapel Hill, NC, 2000).
+	2	 On the strategic debates among party leaders, see Lien-Hang T. Nguyen, Hanoi’s War: 
+An International History of the War for Peace in Vietnam (Chapel Hill, NC, 2012); Asselin, 
+Hanoi’s Road to the Vietnam War.
+	3	 On the DRVN and the Geneva Accords, see Pierre Asselin, “Choosing Peace: Hanoi 
+and the Geneva Agreement on Vietnam, 1954–1955,” Journal of Cold War Studies 9 (2) 
+
+Alec Holcombe
+348
+be the fate of the Maoist-inspired “land reform” campaign, which the party 
+leaders had begun on a limited basis in DRVN-controlled areas of northern 
+and central Vietnam in the spring of 1953? More fundamentally, what type 
+of state would be constructed in the North? During the war, many DRVN 
+intellectuals and at least some segments of the Northern population seem to 
+have accepted that prosecuting a war required a state with broad-reaching 
+powers. But now that the war had ended, would the party leaders relax their 
+authoritarian approach and allow more scope for individual initiative and 
+expression? The answers to these and other policy questions facing North 
+Vietnam’s leaders in 1954 would profoundly impact the course and outcome 
+of the Vietnam War.
+For most of the French Indochina War, the DRVN regime had governed 
+primarily in the countryside. With the signing of the Geneva Accords, 
+the regime could now return to the major cities in the northern half 
+of the country.4 The most important was Hanoi, which lay in the middle of 
+the Red River Delta and had served as the capital of ancient Vietnamese 
+kingdoms dating back to 1010. Another was Hải Phòng. It was the largest 
+port in the North and served as Hanoi’s connection to the sea. During the 
+war, these cities and a few strategically important provincial capitals had 
+been controlled by the French and their allied Vietnamese regime, the State 
+of Vietnam (SVN). Now these urban centers would be administered by the 
+DRVN. The same was true of a modestly sized but densely populated por-
+tion of the Red River Delta.
+Since the most destructive fighting during the war had occurred in the 
+northern half of the country, the DRVN faced many material challenges. 
+These included securing adequate food for the population, fixing damaged 
+infrastructure (roads, bridges, railways, dikes, etc.), and activating import-
+ant economic assets left behind in poor condition by the departing French. 
+Another challenge for the North was its economic separation from the South. 
+In normal years, the rice-deficit North would import thousands of tons of 
+rice from the rice-surplus South. Now that the two halves of the country 
+were locked in Cold War economic and political competition, the North 
+(Spring 2007), 95–126; Robert F. Randle, Geneva 1954: The Settlement of the Indochinese War 
+(Princeton, 1969); Philippe Devillers and Jean Lacouture, End of a War: Indochina, 1954, 
+Alexander Lievan and Adam Roberts (trans.) (New York, 1969).
+	4	 Uyen Nguyen, “Guerillas in the City: The Communist Takeover and the Making of a 
+Socialist Bureaucracy in Hanoi, 1954–1960,” Journal of Vietnamese Studies 17 (1) (2022). For 
+a history of the First Indochina War, see Christopher Goscha, The Road to Dien Bien Phu 
+(Princeton, 2022), 1–52; Yves Gras, Histoire de la guerre d’Indochine: l’aventure coloniale de la 
+France (Paris, 1990).
+
+Building Socialism in North Vietnam after Geneva
+349
+would have to depend on its own agricultural resources and on the largesse 
+of communist-bloc allies.5
+Historians have faced difficulties in determining the economic performance 
+of the DRVN during the 1950s and 1960s. Until 1986, Vietnam’s party leaders 
+considered yearly economic statistics to be “classified material” and restricted 
+their distribution to “an extremely limited number of targets in Government 
+offices.”6 In more recent years, the country’s economists have gained access 
+to DRVN statistics dating back to the post–1954 period. Here, though, these 
+researchers have encountered another obstacle: the questionable accuracy of 
+the economic numbers. For example, official statistics on agricultural produc-
+tion during the latter half of the 1950s indicate that, by 1959, rice production 
+in the North had soared to a level 93% greater than that recorded in 1939, the 
+last peaceful year of French colonialism. Moreover, the statistics indicate that 
+the productivity of the North’s rice fields in 1959 was the highest in Southeast 
+Asia. Was that true?
+One of Vietnam’s most respected economic historians, Đặng Phong 
+(1937–2010), discusses these extraordinary statistics in his pathbreaking book, 
+Economic History of Vietnam: 1945–2000. According to Phong, two theories 
+have emerged among Vietnamese economists to explain these figures from 
+1959. The first holds that they are largely accurate and resulted from sen-
+sible state policies, good weather, peasant enthusiasm, and unusually high 
+soil-fertility levels.
+The second theory holds that the 1959 numbers are simply inaccurate. As 
+Phong explains, “This is absolutely possible given the limited means available 
+for collecting accurate statistics at that time and the tendency of officials to 
+exaggerate their results in order to score points with superiors …”7 In 1959, 
+that tendency toward exaggeration may have been especially strong because 
+North Vietnam was in the middle of agricultural collectivization. Seeking jus-
+tification for this controversial reorganization of economic life, party leaders 
+likely signaled to local officials that low productivity numbers would be inter-
+preted as a sign of poor job performance. Moreover, collectivization occurred 
+against the backdrop of the regime’s ever-present desire to cast the North 
+as prosperous compared to the rival South. In Phong’s view, another factor 
+	5	 For discussions of that aid, see Gaiduk, Confronting Vietnam, 59; Zhai, “Consolidation 
+and Unification,” in China and the Vietnam Wars, 65–111.
+	6	 Trần Văn Thọ et  al., Kinh tế Việt Nam, 1955–2000: Tính toán mới, Phân tích mới [The 
+Vietnamese Economy, 1955–2000: New Calculations, New Analysis] (Hanoi, 2000), 37.
+	7	 Đặng Phong, Lịch sử kinh tế Việt Nam: 1945–2000, tập 2: 1955–1975 [Economic History of 
+Vietnam, vol. 2: 1955–1975] (Hanoi, 2005), 272–5.
+
+Alec Holcombe
+350
+potentially leading to exaggeration was Mao Zedong’s Great Leap Forward 
+happening next door at the time.8 During those years, China was North 
+Vietnam’s most important ally and thus influenced events in the DRVN.
+The impressions of foreign diplomats in Hanoi during the post–Geneva 
+period provide an imperfect but important alternative view of the country’s 
+overall economic situation. Even foreign diplomats from the communist bloc 
+could not travel freely in North Vietnam. Thus, for most of their informa-
+tion they depended on their Vietnamese hosts, who were eager to provide 
+narratives that would lead to more aid. Still, diplomats could observe slices 
+of daily life in Hanoi and compare notes with counterparts in other embas-
+sies. Generally, the impressions of these foreigners support the second of 
+the two theories (inflated productivity numbers). For example, members of 
+the Hungarian Embassy saw a range of problems in the DRVN during this 
+time: high unemployment, escalating inflation, low wages, economic mis-
+management, scarcity of consumer goods, and widespread political discon-
+tent. During the spring of 1957, a Polish diplomat opined (in the words of 
+one scholar) that “economic conditions were worse in the DRVN than in 
+South Vietnam” and that the “northern economy showed signs of a continu-
+ing decline.”9
+All in all, it seems safe to conclude that the DRVN regime, with help from 
+China and the Soviet Union, did well to survive a variety of economic chal-
+lenges facing it after the Geneva Armistice. The most important was a dire 
+food shortage during 1954 and 1955.10 However, it is one thing to survive an 
+economic challenge and another to overcome it. (Food scarcity and periodic 
+hunger would remain realities of everyday life for most Northerners until the 
+late 1980s.) As we will see, attempts by North Vietnam’s leaders to overcome 
+challenges almost always involved a strengthening of the state and a broaden-
+ing of its reach into society (Figure 16.1).
+The Geneva Accords and the Land  
+Reform Campaign
+The DRVN’s leaders were especially concerned about three provisions of 
+the Geneva Accords. The first, of course, was the Final Declaration’s seventh 
+point stating that national elections were to be held in July 1956 to unify the 
+	8	 Ibid., 273.
+	9	 Szalontai, “Political and Economic Crisis,” 408.
+	10	 Ibid., 404; Mieczyslaw Maneli, War of the Vanquished, Maria de Gorgey (trans.) (New 
+York, 1971), 38–9.
+
+Building Socialism in North Vietnam after Geneva
+351
+country. At a minimum, this declaration affirmed in an internationally rec-
+ognized document the principle of Vietnamese unification. It also helped the 
+party leaders present the Geneva Accords to the Vietnamese people as a vic-
+tory for the DRVN side and as proof that the Soviet Union and the People’s 
+Republic of China (PRC), who had played important roles in the negotia-
+tions, had been good advocates of the DRVN cause. This narrative mattered. 
+With the United States emerging as a powerful ally of the rival SVN regime, 
+the domestic prestige of the DRVN leaders was increasingly tied to the repu-
+tations of their communist-bloc allies.
+But the 1956 elections were not the only provision of the agreements that 
+mattered to DRVN leaders. As revealed in the internal DRVN and VWP 
+sources to which scholars now have access, senior leaders also ascribed special 
+importance to articles 14c and 14d of the cessation of hostilities with France. 
+The first provision stated that all sides (the French and SVN in the South 
+and the DRVN regime in the North) would “refrain from any reprisals or 
+Figure 16.1  Three People’s Army of Vietnam soldiers supervise women carrying yokes 
+after the French turned control of Hanoi over to the DRVN in accordance with the peace 
+agreement reached at Geneva (1954).
+Source: Bettmann / Contributor / Bettmann / Getty Images.
+
+Alec Holcombe
+352
+discrimination against persons or organizations on account of their activities 
+during the hostilities and [would] guarantee their democratic liberties.” The 
+second promised that, during a period of three hundred days, from July 1954 
+to May 1955, “any civilians residing in a district controlled by one party who 
+wish to go and live in the zone assigned to the other party shall be permitted 
+and helped to do so by the authorities in that district.”11
+The “no reprisals” and “freedom of movement” provisions of the Geneva 
+Accords had important implications for the DRVN regime’s most contro-
+versial policy, the Mass Mobilization through Rent Reduction and Land 
+Reform, usually referred to by Vietnamese and foreigners alike as simply 
+“the land reform.” The party leaders had decided upon this policy of radical 
+social and economic transformation in November of 1952, a time of stale-
+mate and difficulty in the French Indochina War. Based on Maoist models 
+and planned with the help of Chinese Communist Party advisors, the land 
+reform involved sending thousands of cadres into the northern Vietnamese 
+countryside to divide communities into social classes, teach villagers about 
+class struggle, organize public trials of alleged class enemies (followed in 
+many cases by public executions), and oversee the redistribution of land and 
+personal belongings confiscated from alleged “landlords.” The campaign also 
+involved a large purge of the party’s apparatus in the countryside.12
+The battle of Điện Biên Phủ and the subsequent Geneva Armistice inter-
+rupted the land reform campaign and transformed the conditions of war 
+that had been part of the policy’s justification. Hồ Chí Minh and other party 
+leaders had promoted this “land-to-the-tiller” campaign, both internally and 
+externally, as a necessary means of inspiring and “mobilizing” an exhausted 
+North Vietnamese peasantry to fight harder in the war.13 Moreover, the 
+no-reprisals article of the Geneva Accords directly contradicted the spirit of 
+	11	 Randle, Geneva 1954, 596.
+	12	 On North Vietnam’s land reform campaign, see Edwin Moise, Land Reform in China 
+and North Vietnam: Consolidating the Revolution at the Village Level (Chapel Hill, NC, 
+1983); Olivier Tessier, “Le ‘grand bouleversement’ (long trời lở đất): regards croisés 
+sur la réforme agraire en République démocratique du Viêt Nam,” Bulletin de l’École 
+francaise d’Extrême-Orient (2008), 73–134; Bertrand de Hartingh, Entre le people et la nation: 
+La République démocratique du Viêt Nam de 1953 à 1957 (Paris, 2003); Alex Thai Vo, “Nguyễn 
+Thị Năm and the Land Reform in North Vietnam, 1953,” Journal of Vietnamese Studies 
+10 (1) (Winter 2015), 1–62; Alec Holcombe, Mass Mobilization in the Democratic Republic of 
+Vietnam (Honolulu, 2020).
+	13	 See, for example, Hồ Chí Minh’s original announcement of the move to land reform: 
+“Lời kêu gọi của Hồ Chủ tịch nhân dịp kỷ niệm 6 năm toàn quốc kháng chiến” [Appeal 
+to the Vietnamese People on the Occasion of the Sixth Anniversary of the National 
+Resistance Struggle], Nhân Dân 87 (December 19, 1952).
+
+Building Socialism in North Vietnam after Geneva
+353
+the land reform campaign, which was largely about ferreting out and ruth-
+lessly punishing alleged “class exploiters” and “traitors” in rural communities.
+After Geneva, DRVN leaders wanted to continue the land reform cam-
+paign but worried about being accused of violating the no-reprisals provi-
+sion of the accords. Such accusations would undermine the regime’s public 
+message of earnest implementation to facilitate the national elections sched-
+uled for mid-1956. In early November of 1954, the party’s general secretary, 
+Trường Chinh, released an internal memo describing changes to the way that 
+the land reform would be carried out. The adjustments involved streamlining 
+the campaign’s punishment process, stressing the campaign’s (minimal) judi-
+cial bona fides, and changing some of its official language so that the regime 
+did not appear to be targeting political opponents.14
+Party leaders also worried that the Geneva Accords’ freedom-of-movement 
+provision would disrupt the land reform campaign. According to Article 14(d), 
+any person who feared becoming a target of the land reform should have been 
+able to leave the North and thus avoid public denunciation, imprisonment, 
+and possible execution. By the autumn of 1954, DRVN leaders realized that 
+hundreds of thousands of Northerners might leave for the South. To avoid 
+the loss of land-reform struggle targets and to reduce departures in general, 
+Hồ Chí Minh and his lieutenants delayed implementing the campaign in areas 
+where residents had the easiest access to routes to the South.
+Especially concerning to the party leaders were the activities of the ad hoc 
+international organization formed at Geneva to monitor implementation of 
+the accords. Referred to as the International Control Commission (ICC), this 
+body was comprised of Canadian, Polish, and Indian members. ICC monitor-
+ing groups were supposed to be able to travel freely in both North and South 
+Vietnam to ensure compliance with the accords. A September 26, 1954, direc-
+tive from the Party Secretariat discussed how local cadres in the North should 
+prepare in the event of an ICC visit. The passage reflects the regime’s siege 
+mentality and its determination to control any interactions between locals 
+and foreign outsiders:
+Frequently the Control Commission will visit locations to inspect and inves-
+tigate. Aside from investigating specific issues, they will try to find a way to 
+figure out all aspects of our general situation. They could go to a place and 
+start asking the locals questions, etc. Therefore, we need to prepare and let 
+	14	 Alec Holcombe, “The Complete Collection of Party Documents: Listening to the 
+Party’s Official Internal Voice,” Journal of Vietnamese Studies 5 (2) (Summer, 2005), 
+225–42.
+
+Alec Holcombe
+354
+those local people know how to respond cleverly to the International Control 
+Commission’s questions; we cannot just let them say whatever they want.15
+By November 1954, DRVN leaders were furious with local party officials 
+for taking an allegedly passive approach to the emigration. Cadres working 
+in provinces south of Hanoi estimated that about one quarter of the region’s 
+large Catholic population had already departed and that an “important part” 
+of the remainder was preparing to leave. In response, Trường Chinh sug-
+gested three tactics for suppressing emigration to the South. First, cadres 
+were to infiltrate the Catholic Church and try to sow divisions among priests. 
+Second, on the propaganda front, the regime was to try harder to convince 
+Catholics that the DRVN state would respect religious freedom. Third, cad-
+res were to use trials and punishments as a means of intimidating priests into 
+stopping their calls for Catholics to go south. The contradictory and decep-
+tive nature of these tactics reflected the desire of party leaders to make the 
+DRVN appear to be upholding the no-reprisals and freedom-of-movement 
+articles rather than undermining them:
+[Cadres] need to collect enough evidence and then punish some of the reac-
+tionary ringleaders, accusing them before the masses in order to warn oth-
+ers. [Cadres] need to make sure that, when accusing [these ringleaders], they 
+must be convicted of violating the ceasefire agreement and violating the 
+people’s democratic freedoms, such as catching the people, confining them 
+in one place, and sending them away without asking the permission of our 
+government, etc.
+A few weeks after goading cadres into being more aggressive in their 
+efforts to prevent Northerners from emigrating, the party leaders organized 
+a “public meeting” in Hanoi’s opera house to stage an official protest against 
+violations of the Geneva Accords by Ngô Đình Diệm and his American back-
+ers in the South. A subsequent Politburo directive outlined plans for “resist-
+ing our opponents’ blatant violations of the Geneva Accords.”
+The internal directives of the party leaders show increasing frustration at 
+their inability to slow the emigration and a growing willingness to take bolder 
+measures to achieve this goal. A February 1955 Politburo directive warned 
+that large numbers of people were still preparing to go south. To prevent this 
+outcome, the authors proposed an elaborate plan of deception:
+Choose a few model places where we will organize to help people emigrate 
+(after choosing the place, check it with the Central Committee). We should 
+15  Ibid.
+
+Building Socialism in North Vietnam after Geneva
+355
+invite the International Control Commission to come and witness what we 
+do there. These model places must be areas where we have a mass base so 
+that when we organize to help people leave, only a few people actually ask 
+to go. This is the only way that helps our cause. This work must be carefully 
+planned so that it can be implemented rapidly.
+We must have a plan to crush reactionaries, to increase vigilance, to 
+tighten our control, and to prevent the enemy from exploiting this opportu-
+nity to speed up concentration of the masses and create more troubles for us.
+A month later, VWP leaders Phạm Văn Đồng and Võ Nguyên Giáp deliv-
+ered long reports to the DRVN National Assembly touting Hanoi’s “abso-
+lute” (triệt để) adherence to the Geneva Accords and condemning the many 
+violations committed by the “opposition” regime in Saigon.16
+In hindsight, the statements and orders issued by VWP leaders during 
+1954–5 indicate a cynical approach to the Geneva Accords. What emerges 
+from these materials is the determination of DRVN leaders to defend and 
+promote the reputations of their party and state at any cost. The DRVN state 
+had to be portrayed as scrupulously upholding the terms of the accords while 
+also enjoying the overwhelming support of the population. Party leaders 
+would not tolerate dissent, no matter its source. This applied to the voices 
+of that segment of the population most likely to resist being stage-managed: 
+DRVN intellectuals.
+Destalinization and Intellectual Protest: 1956
+DRVN writers, scholars, painters, and musicians, though loyal to the regime, 
+had long been frustrated by the party’s tight and sometimes corrupt manage-
+ment of cultural life.17 The extraordinary conditions of war, the noble cause 
+of national independence, and the military brilliance of the DRVN leaders 
+had led most of the regime’s intellectuals to tolerate party control over their 
+	16	 Ibid.
+	17	 On intellectual protest in the DRVN during the period from 1955 to 1960, see Georges 
+Boudarel, Cent fleurs ecloses dans la nuit du Vietnam: Communism et Dissidence 1954–1956 
+(Paris, 1991); Boudarel, “Intellectual Dissidence in the 1950s: The Nhân văn–Giai 
+phẩm Affair,” adapted from the French by Phi Linh Baneth, The Vietnam Forum 13 
+(1990), 154–74; Kim Ninh, A World Transformed: The Politics of Culture in Revolutionary 
+Vietnam (Ann Arbor, 2002); Shawn McHale, “Vietnamese Marxism, Dissent, and the 
+Politics of Postcolonial Memory: Tran Duc Thao, 1946–1993,” The Journal of Asian 
+Studies 61 (1) (February 2002), 7–31; Nguyễn Võ Thu Hương, The Ironies of Freedom: Sex, 
+Culture, and Neoliberal Governance in Vietnam (Seattle, 2008); Peter Zinoman, “Nhân 
+Van-Giai Phẩm and Vietnamese ‘Reform Communism’ in the 1950s: A Revisionist 
+Interpretation,” Journal of Cold War Studies 13 (1) (2011), 60–100; Zinoman, Vietnamese 
+Colonial Republican: The Political Vision of Vũ Trọng Phụng (Berkeley, 2013).
+
+Alec Holcombe
+356
+artistic production. With the end of the war, though, many intellectuals now 
+believed that their sacrifices over the past eight years had earned them a 
+reprieve from this stifling treatment. These men and women were also frus-
+trated by the poor quality of DRVN intellectual production. It was obvious 
+that party control had produced works of propaganda with an expiration date, 
+not works of literature and art with lasting value. Under party guidance, late 
+colonial cultural luminaries such as Xuân Diệu, Nguyên Hồng, and Nguyễn 
+Tuân had been unable to produce anything that matched the quality of their 
+prerevolutionary works – this was despite having witnessed one of the most 
+remarkable and tumultuous periods in Vietnamese history.
+In mid-1956, many intellectuals were also upset by the violence and injustices 
+of the recently concluded land reform. When the Geneva Accords’ 300-day 
+period of free movement ended in the summer of 1955, Party leaders in Hanoi 
+sealed the borders and ramped up the land reform again. Since the Geneva 
+Accords caused disruptions and delays, the party leaders further streamlined 
+the campaign to ensure completion by July 1956. For most of the North’s 
+remaining rural communities, this meant missing the preparatory “rent reduc-
+tion” phase of the campaign and being thrust directly into the most radical 
+“land reform” phase. This was the phase when the “entire landlord class” 
+was to be “overthrown.” During the first half of 1956, more than half of the 
+North’s rural population underwent the reform. At the time, the regime’s land 
+reform apparatus comprised about 30,000 cadres (men and women, usually of 
+educated background) divided into hundreds of “work teams” and dispersed 
+throughout rural North Vietnam. By mid-1956, most DRVN intellectuals had 
+served as land reform cadres at some point over the last three years and were, 
+therefore, well aware of the campaign’s destructive character.18
+The death toll from the land reform remains one of the Vietnamese 
+Communist Party’s tightly kept secrets. Fragments of circumstantial evi-
+dence suggest that the three-year campaign probably resulted in the deaths 
+of 20,000–30,000 people. Thousands were shot in dramatic public executions. 
+However, it is possible that an even greater number of the campaign’s deaths 
+came from less spectacular circumstances such as the widespread use of tor-
+ture to elicit false confessions, the brutal conditions of imprisonment, and the 
+deprivation of food resulting from the regime’s policy of isolating commu-
+nity members labeled as landlords or traitors. So feared was the experience of 
+	18	 Holcombe, “Fallout, 1956,” in Mass Mobilization, 259–80. On the basic structure of the 
+land reform, see Alex Thai Vo, “Preliminary Comments on Mobilizing the Masses, 
+1953,” Sojourn: Journal of Social Issues in Southeast Asia 33 (1) (November 2016), 983–1018.
+
+Building Socialism in North Vietnam after Geneva
+357
+public denunciation, trial, and execution that hundreds, perhaps thousands, 
+of Northerners committed suicide after learning that they had been selected 
+as targets of “struggle.”
+The violence of the land reform combined with another factor in mid-1956 
+to unsettle DRVN intellectuals in Hanoi. In late February of that year, the 
+Soviet leader Nikita Khrushchev had delivered his “secret speech” at the 20th 
+Congress of the Communist Party of the Soviet Union (CPSU). Speaking late 
+into the evening, he described in lurid detail many of Stalin’s crimes, vanities, 
+and leadership shortcomings during his long reign as Soviet ruler (1924–53). 
+Khrushchev titled his speech “On the Personality Cult and its Consequences” 
+and stressed three reform initiatives for the communist bloc: “party democ-
+racy,” “socialist legality,” and the “fight against the personality cult.” The Soviet 
+leader had copies of the secret speech distributed to CPSU branches throughout 
+the Soviet Union and to representatives of fraternal communist parties, includ-
+ing the VWP. By early June, the US CIA (via Israeli intelligence) had secured 
+a complete copy of the speech. A few days later, it was circulating widely in 
+Western and other noncommunist countries, including South Vietnam.19
+Like other Communist Party leaders around the world who had promoted 
+Stalin enthusiastically and who had created their own personality cult on the 
+model of Stalin’s, Hồ Chí Minh was compromised by the secret speech. He 
+and other top VWP leaders understandably dragged their feet when con-
+fronted with the prospect of having to transmit to rank-and-file party mem-
+bers the awkward new messages coming from Moscow. As a result, it was not 
+until April that many DRVN intellectuals learned about the secret speech and 
+Moscow’s shocking change in attitude toward the once-venerated Stalin. In 
+hindsight, Hồ Chí Minh’s caution was warranted. Khrushchev’s denunciation 
+set off a chain of events that would prove severely damaging to the DRVN’s 
+four most prominent leaders: Hồ Chí Minh, Trường Chinh, Phạm Văn Đồng, 
+and Võ Nguyên Giáp. In the three years following the speech, two other party 
+leaders, Lê Duẩn and Lê Đức Thọ, would rise to the top of the party and 
+remain the DRVN’s most powerful men for the next twenty-five years.
+In denouncing Stalin’s brutal methods, Khrushchev indirectly criticized 
+many of the same methods employed in the DRVN’s land reform campaign. 
+These included the use of torture to extract false confessions, the disregard 
+for legal process, and the arbitrary insistence that enemies and traitors lurked 
+in every corner. Khrushchev’s anti-Stalinist narrative emboldened DRVN 
+	19	 For information on Khrushchev’s speech, see William Taubman, Khrushchev: The Man 
+and His Era (New York, 2003).
+
+Alec Holcombe
+358
+intellectuals to voice similar calls for reform in the DRVN. That seemed safe 
+to do since Vietnam’s party leaders had always promoted Moscow as the 
+infallible leader of the world revolution. In August 1956, disgruntled DRVN 
+intellectuals in Hanoi received another boost when they learned of Mao’s 
+“Hundred Flowers” movement encouraging Chinese intellectuals to publicly 
+criticize the PRC regime.20
+Convinced that they were acting in accordance with reformist trends in 
+Moscow and Beijing, intellectuals in Hanoi launched a handful of indepen-
+dent publications – that is, print media that circulated without the approval 
+of the party’s cultural authorities. The most famous of these short-lived pub-
+lications were a newspaper titled Humanity (Nhân văn) and a literary journal 
+titled Masterworks (Giai phẩm). The movement that emerged during the latter 
+months of 1956 soon came to be known as “Nhân văn–Giai phẩm.”
+The Nhân văn–Giai phẩm movement seemed to revolve around a single 
+question: What type of state would the DRVN be? One of Nhân văn–Giai 
+phẩm’s most charismatic leaders, a 43-year-old party member named Nguyễn 
+Hữu Đang, called for the DRVN to move away from party dictatorship and 
+establish a law-governed society:
+During the Land Reform, the arrest, imprisonment, and investigation (using 
+brutal torture) of people followed by sentences of imprisonment, execution, 
+and property confiscation were done in an extremely sloppy manner. The 
+same was the case with the policy of putting landlord families (or, in many 
+cases, peasant families that had been incorrectly labeled) under siege to the 
+point of making their innocent children starve to death. These were not 
+entirely the result of poor leadership—they were also the result of not having 
+a proper legal regime.21
+In the following issue of Humanity, Đang published a front-page article titled, 
+“How Do the Vietnamese Constitution of 1946 and the Chinese Constitution 
+Guarantee Democratic Freedoms?” From the DRVN Constitution, he quoted 
+Article 10, which stated that “Vietnamese citizens have the right to freedom 
+of expression, freedom of publication, and freedom of organization and 
+assembly, and freedom of movement inside and outside the country.” Đang 
+pointed out that the failure to give citizens these rights promised in the 1946 
+Constitution could lead to troubles for the DRVN similar to those recently 
+	20	 Lại Nguyên Ân and Alec Holcombe, “The Heart and Mind of the Poet Xuân Diệu,” 
+Journal of Vietnamese Studies 5 (2) (Summer 2010), 1–90. See also Szalontai, “Political and 
+Economic Crisis.”
+	21	 Nguyễn Hữu Đang, “Cần phải chính quy hơn nữa” [We Need to Regularize Even 
+More], Nhân văn 4 (November 11, 1956).
+
+Building Socialism in North Vietnam after Geneva
+359
+experienced by the communist regimes in Poland and Hungary, which had 
+faced large popular protests.22
+That December, Hồ Chí Minh and the Politburo shut down the Nhân văn–
+Giai phẩm publications and disciplined the movement’s participants. Most 
+were forced to write (untrue) self-criticisms and sent to labor in the coun-
+tryside. Those deemed to be leaders of the movement faced tougher pun-
+ishments, including police harassment, official stigmatization, and, in some 
+cases, imprisonment. In January of 1960, long after the movement had been 
+crushed, Lê Duẩn (now the most powerful person in the DRVN) put Nguyễn 
+Hữu Đang on trial along with four other people tangentially related to the 
+movement.23 The motivations behind this macabre publicity stunt remain 
+mysterious. Duẩn may have hoped that the trial would cow DRVN intellec-
+tuals suspected of questioning his recent escalation of the war in the South.
+The 1959 Constitution
+As we have seen, during the height of the Nhân văn–Giai phẩm movement, an 
+important cause for reform-minded DRVN intellectuals was better adherence 
+to the principles and laws of the DRVN Constitution. This may have played 
+a role in convincing Hồ Chí Minh and other party leaders that the time for a 
+new constitution had arrived. Another motivating factor may have been the 
+rival South Vietnamese government’s promulgation of a constitution in 1956.
+The new DRVN Constitution was to be drafted by a twenty-nine-person 
+Committee to Amend the Constitution (Ủy ban sửa đổi Hiến pháp).24 It was 
+chaired by Hồ Chí Minh and included three other Politburo members – Phạm 
+Văn Đồng, Võ Nguyên Giáp, and Hoàng Văn Hoan (ambassador to China) – 
+along with several other powerful DRVN officials.25 All twenty-nine com-
+mittee members had been elected, at least in theory, to the DRVN National 
+Assembly eleven years earlier during the controversial elections of January 
+1946.26 Meeting twenty-eight times over a span of two and a half years, the 
+	22	 Nguyễn Hữu Đang, “Hiến pháp Việt Nam 1946 và Hiến pháp Trung-Hoa bảo đảm tự 
+do dân chủ thế nào?” [How do the Vietnamese Constitution of 1946 and the Chinese 
+Constitution Guarantee Democratic Freedoms?], Nhân văn 5 (November 20, 1957).
+	23	 On Nguyễn Hữu Đang, see Zinoman, “Nhân Van-Giai Phẩm.”
+	24	 On the DRVN’s 1959 Constitution, see Bernard Fall, “North Viet-Nam’s New Draft 
+Constitution,” Pacific Affairs 32 (2) (June 1959), 178–86; Mark Sidel, The Constitution of 
+Vietnam: A Contextual Analysis (Oxford, 2009).
+	25	 Examples include Tôn Đức Thắng, Tố Hữu, Trần Huy Liệu, Xuân Thủy, Nguyễn Tạo, 
+Vũ Đình Hòe, and Hoàng Minh Giám.
+	26	 Trung tâm lưu trữ 3, Fond Quốc hội (QH), “Tiểu ban sửa đổi Hiến pháp 1957” 
+[Subcommittee for Amending the Constitution, 1957), nos. 378, 379, 380.
+
+Alec Holcombe
+360
+committee completed the new constitution in late December of 1959. It 
+would serve as the DRVN Constitution throughout the Second Indochina 
+War. The committee’s discussions were recorded by notetakers, and these 
+notes provide a window into how the regime’s party leaders viewed the rela-
+tionship between state and citizen.
+One important question related to the new constitution was whether it 
+should state that people had the right to demonstrate. According to com-
+mittee member Hà Văn Tính, “From the perspective of principle, the people 
+have the right to protest and express their aspirations. But, the reality of our 
+regime is that the State and people are of one mind (nhất trí).” Tính worried 
+that, if the constitution were to include the right to demonstrate, it would be 
+“disadvantageous because people would not see the unanimity of our regime. 
+Naturally, under our regime, it could happen only rarely (and nobody would 
+want it) that the people would demonstrate against the State.”27
+Responding to this, committee member Nguyễn Tạo stressed the import-
+ant role that demonstrations played in “opposing the enemy and expressing 
+support for our Government.” According to him, “Demonstrations by the 
+people to oppose the enemy must be led by us. If we only think of demon-
+strations as geared toward opposing our regime, then we consider only one 
+aspect.” Continuing, Tạo explained that, because the DRVN regime was a 
+“people’s democratic dictatorship, it must recognize the rights of the peo-
+ple. This not only has an impact here in the North but also in the South. 
+Therefore, we need to put the right to protest in the Constitution.” As usual, 
+the Politburo member Hoàng Văn Hoan, the highest-ranking Party member 
+in attendance during that meeting, ultimately decided the issue:
+I think that the terms “protest” and “demonstrate,” from the past up to today, 
+but especially under the colonial regime, have always carried the meaning 
+of something that is opposed to the feudalists, opposed to the ruling power. 
+Therefore, people still tend to have that old view of the terms. If we hold 
+the view that protests and demonstrations are meant to allow the people to 
+express their ideas, not just to oppose but even to support, then it does no 
+harm to put it in the Constitution. In fact, it helps to show that our regime 
+is very strong, that it carries out to the highest level the people’s democratic 
+freedoms, that it enjoys the faith of the people. If there are reactionaries who 
+exploit that right to demonstrate, we can mobilize the forces of the people and 
+crush those protesters. With respect to the South, putting it in the Constitution 
+also is advantageous. All in all, I think we need to put it in the Constitution.28
+	27	 Ibid., Meeting 17, December 26, 1957, 9–10.
+	28	 Ibid., 10–11.
+
+Building Socialism in North Vietnam after Geneva
+361
+The Committee to Amend the Constitution did, after some discussion, 
+concede that the new constitution needed to guarantee the right of people 
+to demonstrate. However, the reasoning behind this had nothing to do with 
+guaranteeing the democratic freedoms of DRVN citizens. The reasoning was 
+based entirely on the party leadership’s political agenda, namely the need to 
+support Southern demonstrations against the Ngô Đình Diệm regime and to 
+stage among the Northern population mass demonstrations in support of the 
+party’s political causes. As the comments by Nguyễn Tạo reveal, any sort of 
+popular demonstration in the North not stemming from party initiative and 
+not under party control was unacceptable. As for a popular protest aimed at 
+the DRVN regime, the comments from the Politburo member Hoàng Văn 
+Hoan (“crush those protestors”) make clear that the new constitution’s guar-
+antee of democratic freedoms (“to the highest level”) would in fact offer no 
+protection whatsoever.
+Agricultural Collectivization: 1958–60
+The Constitution Committee’s nervousness about popular protest may have 
+been partly inspired by the imminent prospect of imposing a system of col-
+lectivized agriculture on the Northern countryside.29 This was the center-
+piece of the party’s plan to nationalize all significant economic activity in the 
+DRVN, including fishing, mining, forestry, factory production, media pro-
+duction, and foreign trade. Agricultural collectivization had been a dream of 
+the DRVN’s party leaders since the 1930s. In those days, before communist 
+revolutionaries had seized power and carried out a war, collectivization prob-
+ably appealed because it seemed morally superior and more modern than the 
+small-farmer system. Also, since the 1930s, collectivized agriculture had been 
+the rural economic system of the Soviet Union, which held a mythic position 
+in the minds of many Vietnamese communists.30 In 1957, those original, ideal-
+istic motivations for collectivization were surely supplemented by two prac-
+tical ones that stemmed from the experiences of the French Indochina War.
+	29	 On agricultural collectivization in the DRVN, see Benedict Kirkvliet, The Power of 
+Everyday Politics: How Vietnamese Peasants Transformed National Politics (Ithaca, 2005); 
+Chad Raymond, “‘No Responsibility and No Rice’: The Rise and Fall of Agricultural 
+Collectivization in Vietnam, Agricultural History 82 (1) (Winter, 2008); Andrew 
+Vickerman, The Fate of the Peasantry: Premature “Transition to Socialism” in the Democratic 
+Republic of Vietnam (New Haven, 1986); Hoang Van Chi, “Collectivization and Rice 
+Production,” The China Quarterly 9 (March 1962), 94–104.
+	30	 Tuong Vu, Vietnam’s Communist Revolution: The Power and Limits of Ideology (Cambridge, 
+2017).
+
+Alec Holcombe
+362
+First, the DRVN regime’s existence still depended on extracting a huge 
+material contribution from an extremely unproductive rural economy. The 
+difficulty of this task had tormented party leaders throughout the French 
+Indochina War, sometimes jeopardizing the military effort. The reality 
+was that most peasants, during prolonged periods of hardship, would not 
+voluntarily boost production just to serve the war effort or build socialism. 
+The party had redistributed land in many of the provinces and districts it 
+controlled throughout the eight years of war. But this had done nothing to 
+stem the decline in production. Thus, there was no practical basis on which 
+to conclude that land reform would solve this problem of productivity. 
+Collectivization, as the next stage in the Marxist–Leninist model of economic 
+transformation, was the only remaining card to be played.
+Second, the regime still had no means of earning the money needed to fund its 
+ambitious economic and political goals: industrialization of the economy and mil-
+itary defeat of the rival regime in Saigon. Therefore, the DRVN remained heavily 
+dependent on communist bloc aid. Because that aid could only be demanded in 
+the name of proletarian internationalism, the DRVN leaders needed to project an 
+image of themselves as enthusiastic students of the Soviet Union and China. This 
+meant dutifully following in Moscow’s and Beijing’s footsteps. To not undergo 
+collectivization would have been to challenge the wisdom of Soviet and Chinese 
+leaders and to question the correctness of the Soviet system.31
+In December 1957, the Politburo explained that “Consolidating the North 
+and gradually constructing socialism” was one of the regime’s three essen-
+tial tasks. The meaning of “gradually” was not explained. At the end of 1955, 
+though, the DRVN leaders had invested in six “large” and ten “small” collective 
+farms – a sign that the move to collectivized agriculture was likely to be rapid, 
+not gradual. These test collective farms were supposed to be carefully nurtured 
+and generously supported so that they would succeed and generate popular 
+excitement about collectivization. In March 1957, party leaders held a confer-
+ence devoted to assessing the results of these sixteen collective farms. In typical 
+fashion, the leaders of the conference produced a lengthy report (forty pages), 
+which was probably read to attendees and sent to various party officials. The 
+report reveals what the DRVN’s leaders had learned about collective farming 
+in Vietnam before pushing forward aggressively with the policy in late 1958.32
+	31	 On the issue of Soviet and Chinese aid, see Gaiduk, Confronting Vietnam; Zhai, China 
+and the Vietnam Wars; Xiaobing Li, Building Ho’s Army: Chinese Military Assistance to 
+North Vietnam (Lexington, KY, 2019).
+	32	 Trung Tâm Lưu Trữ 3, “Tập tài liệu về Hội nghị tổng kết công tác Nông trường 
+Quốc doanh năm 1956 do Sở Quốc doanh Nông nghiệp tổ chức 15/3/57” [Documents 
+
+Building Socialism in North Vietnam after Geneva
+363
+The ministry of agriculture had invested 60 percent of its development 
+budget into these sixteen collective farms, which employed a total of 8,500 
+“cadres and workers.” And yet, after a year of operation, despite being sup-
+plied with the latest Soviet-bloc agricultural equipment, fourteen of the six-
+teen farms were operating at a loss. The most discouraging news involved 
+the production of rice, the staple of the North Vietnamese diet. The writer of 
+the report calculated that inefficiencies in rice production accounted for over 
+half the total debt accumulated by the sixteen farms. “Generally speaking, the 
+collective farm work generated many losses for the Nation.”
+The report writer also discussed the effect of the collective farms on their 
+workers and on residents of the surrounding area. Locals found the farms 
+intriguing. However, the report acknowledged that “we have not yet served 
+as a model for the people in our organization of production and in our farming 
+technique.” In some places, “our sloppy way of working has generated con-
+cern among our compatriots, who find our mistakes and weaknesses painful 
+(for example, the waste of chemical fertilizer at the Thạch Ngọc farm).”
+These were signs of the troubles that would plague the productivity of 
+these and subsequent DRVN collective farms for the next thirty years. 
+Though the report described in exhaustive detail the waste that accompanied 
+the misuse and abuse of expensive farm equipment and supplies, it still con-
+cluded that the “biggest waste was in manpower.” According to the report, 
+“serious waste and corruption” characterized the work regimen of the farms:
+Extremely common is wasted work, with people arriving late and leaving 
+early. And we have used 3 million days’ worth of pay on labor mobilized 
+from people outside the collective farm. On an ordinary work day, losing 
+only one hour of work would be unusually little. Therefore, the amount 
+of wasted work amounts to 380,000 work days, the equivalent of nearly 450 
+million Vietnamese đồng. Also, the number of people in the farm who do not 
+work is high, perhaps as much as 1,200 people during the last three months of 
+the year. The amount of waste from this is over 100 million Vietnamese dong 
+during this three-month period.33
+The writer of the report expressed grave concern about the extensive use of 
+“mobilized manpower” (nhân lực huy động), which referred to non-farm mem-
+bers who lived in the surrounding area. In parentheses next to the term “mobi-
+lized manpower,” the report writer had typed the French word “CORVÉE.” 
+from the Summing-up Meeting on Work of National Collective Farms during 1956, 
+Organized by the National Collective Farm Department on March 15, 1957], Fond Nông 
+Lâm, no. 358.
+	33	 Ibid.
+
+Alec Holcombe
+364
+(In the Vietnamese context, “corvée” usually referred to the unpaid labor that 
+the French colonial state had required of Vietnamese for various construction 
+projects.) The extensive use of outside labor showed that the farms were not 
+self-sufficient, despite having been abundantly supplied. The outside laborers 
+“did not just help the collective farm with a particular job for one day but 
+instead worked for the farm on a daily basis.”
+Despite the worrying results of the ministry’s experiment, Lê Duẩn and the 
+Politburo decided to push forward with collectivization in December 1958. 
+Uneasy about the optics of imposing this radical transformation on their rural 
+population, party leaders depicted coercion from above as a democratic response 
+to voices from below. Thus, a directive from the VWP Secretariat stated that the 
+“masses in many places are demanding that they be organized into agricultural 
+collectives” and that the party had to “give special attention to the consolida-
+tion and development of the collectivization movement in order to satisfy the 
+demands of the masses …”34 By the end of 1960, the party had placed roughly 
+85 percent of the DRVN’s rural population into thousands of collective farms.
+How would peasants gain access to the food produced by the collective 
+farm? After the DRVN state had taken its required amount, the farm’s remain-
+ing produce was distributed among members according to the principle of 
+“work days.” Collective farm managers calculated a work day by assigning 
+“points” to the different tasks carried out on the farm. Ten points equaled 
+a work day. Each task, such as plowing, planting, and harvesting the collec-
+tive crop, had criteria for measuring its completeness. If the manager of the 
+collective farm determined that a member had completed a task according 
+to standard, the member would receive a predetermined number of points. 
+Indeed, the collective farm officials held all the power in a village. They allot-
+ted themselves work points for attending meetings, studying, or visiting 
+fields. According to a historian of collectivization:
+Laboring members of the collective lost the right to ownership and inde-
+pendence in production. Meanwhile, the power of cadres who held official 
+positions in the collective was tremendous. They determined how many 
+“work points” members earned and decided how each grain of rice would be 
+divided among the community. Without the signature of a local official, reg-
+ular members of the collective and their children could not enter the party, 
+mass organizations, schools, or educational institutions. Without the collec-
+tive farm official’s signature, members could not leave the village to carry 
+	34	 Holcombe, “Re-Stalinization and Collectivization, 1957–1960,” in Mass Mobilization, 
+281–97.
+
+Building Socialism in North Vietnam after Geneva
+365
+out work. And this was a weakness of these farms that cadres of poor charac-
+ter used to pressure and exploit the people.35
+During the period from 1961 to 1965, DRVN collective farms opened up about 
+200,000 hectares of new land, but overall agricultural productivity still fell due 
+to plummeting efficiency. The costs of production began to rise, and returns 
+on state investments steadily declined. According to statistics gathered by one 
+scholar, the average amount of rice distributed each month to families on 
+collective farms in 1961 was twenty-four kilograms. By 1964, that amount had 
+fallen to fourteen kilograms.36 Mobilization for war played a role but cannot 
+explain the sheer magnitude of the drop.
+Despite the collapse of the DRVN agricultural sector, Lê Duẩn refused 
+to abandon collectivization. A directive released by the Party Secretariat in 
+February 1960 suggests that officials were well aware of the resentments gen-
+erated by the new policies:
+The process of carrying out a socialist revolution and building socialism is, 
+at the same time, a complicated, tense, and decisive process of class warfare. 
+We want to protect our revolutionary accomplishments and guarantee the 
+effectiveness of our socialist reform and socialist construction. Therefore, 
+the revolutionary regime led by the working class absolutely must severely 
+repress any action of resistance carried out by counterrevolutionary forces. 
+That is an essential responsibility of any country’s working class carrying out 
+a revolution.37
+Ideology was not the only motivation behind the push to collectivize. Pride 
+was also a factor. The party leaders had staked their reputations on the superi-
+ority of the socialist system. To acknowledge that the collectivized economy 
+was a failure was to acknowledge that three decades of revolutionary activ-
+ism, often expressed in a tone of shrill contempt for alternative views, had 
+been misguided. Of course, officials were also motivated by the desperate 
+need to secure Soviet and Chinese support and especially by the leverage that 
+these collective farms afforded the DRVN state over the rural population. 
+The virtual elimination of private property in the countryside weakened the 
+position of the rural masses vis-à-vis the state, making resistance to govern-
+ment policies (such as the recruitment of soldiers) more difficult.
+	35	 Thái Duy, “Từ ‘khoán’ đến ‘Hộ nông dân tự chủ’” [From Contract to Family 
+Ownership], Đổi mới ở Việt Nam: Nhớ lại và suy ngẫm [New Change in Vietnam: 
+Remembering and Considering] (Ho Chi Minh City, 2008), 291.
+	36	 Ibid., 292.
+	37	 Holcombe, Mass Mobilization, 189.
+
+Alec Holcombe
+366
+Conclusion
+Looking at the period from 1954 to 1963, we can discern three major stages 
+in DRVN state construction. The first was the land reform carried out from 
+1953 to 1956. It targeted the most influential members of rural communities, 
+including thousands of loyal party members, and paved the way for collectiv-
+ization. The second phase occurred primarily from 1956 to 1957 and targeted 
+the DRVN intellectual community. Those of their ranks who challenged the 
+party to reform were suppressed – those who remained compliant and quiet 
+were rewarded with stable professional positions, often regardless of talent. 
+The third phase was the collectivization of agriculture (and the nationaliza-
+tion of the economy), carried out from 1958 to 1960. This removed the means 
+of production (land) from the rural population’s hands and made peasants 
+dependent on the state for survival.
+It could be argued that a new phase in state construction began in late 1963, 
+after Lê Duẩn decided to commit the DRVN to a more aggressive, all-out 
+military strategy in the South. At that time, he and his supporters attacked 
+and purged high-ranking party members suspected of questioning the new 
+strategy. Thus began the VWP’s “Anti-Party Affair,” which extended into 
+1964 and would be reactivated in 1967 and 1968. In aiming these waves of 
+repression at the upper ranks of the party (even the legendary general, Võ 
+Nguyên Giáp, was suppressed into quiet passivity), Lê Duẩn completed the 
+work begun by Hồ Chí Minh and his lieutenants back in 1945. The DRVN 
+state, from bottom to top, had been molded into a compliant instrument of 
+the party leader’s power.38
+The discussion presented here describes only part of the story of state 
+construction in the DRVN during 1954–63. Many new (or substantially over-
+hauled) state institutions of control profoundly affected the everyday lives of 
+North Vietnamese citizens. Notable examples include the personal dossier 
+system (lý lịch), the Party Committee system (Đảng đoàn), the family register 
+system (hộ khẩu), the court system, and the education system. Other instru-
+ments of social control were the ministry of public security and the Hồ Chí 
+	38	 On the Anti-Party Affair, see Nguyen, Hanoi’s War; Sophie Quinn-Judge, “The 
+Ideological Debate in the DRV and the Significance of the Anti-Party Affair, 
+1967–1968,” Cold War History 5 (4) (November 2005), 479–500; Martin Grossheim, 
+“Revisionism in the Democratic Republic of Vietnam: New Evidence from the East 
+German Archives,” Cold War History 5 (4) (2005), 451–77; Grossheim, “The Lao Động 
+Party, Culture and the Campaign against ‘Modern Revisionism’: The Democratic 
+Republic of Vietnam Before the Second Indochina War,” Journal of Vietnamese Studies 
+8 (1) (Winter 2013), 80–129.
+
+Building Socialism in North Vietnam after Geneva
+367
+Minh personality cult, which persisted despite Khrushchev’s denunciation of 
+Stalin and his cult.39
+In his classic three-volume study of Marxism’s origins, development, and 
+breakdown, Leszek Kolakowski includes multiple discussions of totalitarian-
+ism. One of his clearest definitions of the concept appears in a chapter that 
+covers “The Beginnings of Russian Marxism”:
+[Totalitarianism refers to] the principle that the whole life of society, espe-
+cially economic and cultural activity, must not only be supervised by the 
+state but must be absolutely subordinated to its needs … It follows from this 
+principle that the state is the only legitimate source of any social initiative, 
+and that any organization or crystallization of social life that is not imposed 
+by the state is contrary to its needs and interests. It also follows that the citi-
+zen is the property of the state, and that all his acts are either directed by the 
+state or are a challenge to its authority.40
+Kolakowski accurately describes the mindset of the DRVN leaders and the 
+spirit behind the political and economic system that they constructed in North 
+Vietnam in the decade after Geneva.41 Of course, they never achieved total 
+control over society – no state has ever succeeded in eradicating the spaces 
+in which individual initiative endures. But the party leaders, often invoking 
+Marxist–Leninist theory as their justification, worked hard to minimize those 
+spaces so that most of the North Vietnamese population could be mobilized 
+for war indefinitely.
+	39	 Olga Dror, “Establishing Hồ Chí Minh’s Cult: Vietnamese Traditions and Their 
+Transformation,” The Journal of Asian Studies 75 (2) (May 2016), 433–66.
+	40	 Leszek Kolakowski, Main Currents of Marxism, P. S. Falla (trans.) (New York, 2005), 602.
+	41	 On the totalitarian nature of the DRVN, see Olga Dror, Making Two Vietnams: War and 
+Youth Identities, 1965–1975 (Cambridge, 2018).

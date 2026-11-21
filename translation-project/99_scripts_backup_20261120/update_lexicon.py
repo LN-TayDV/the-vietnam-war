@@ -1,0 +1,52 @@
+import csv
+
+# New terms from Audit 6 chapters to add to MASTER_LEXICON.csv
+new_terms = [
+    # VNCH core terms (from audit)
+    ["chánh phủ", "danh_tu", "Cơ quan cao nhất trong nước, do Thủ Tướng đứng ra lập, điều khiển cai trị và ngoại giao.", "Chánh phủ Việt Nam Cộng Hòa.", "Hiến pháp VNCH 1967, Điều 67: 'Thủ Tướng điều khiển Chánh phủ'.", "SRC-023", "", "1967", "VERIFIED", "chinh_tri", "Chính thức VNCH; khác 'chính phủ' hiện nay.", "chinh_tri", "nha_nuoc_chinh_quyen", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["chánh trị", "danh_tu", "Việc cai trị, việc nước; hoạt động chính trị theo hệ thống VNCH.", "Hoạt động chánh trị; lý do chánh trị.", "Lê Văn Đức 1970: 'chánh trị' dùng xuyên suốt.", "SRC-001", "", "1970", "VERIFIED", "chinh_tri", "Viết 'chánh' không phải 'chính'.", "chinh_tri", "ly_luan_chinh_tri", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["chánh đảng", "danh_tu", "Đảng chính quyền, đảng lãnh đạo nhà nước VNCH.", "Đảng nhân dân, đảng chánh đảng.", "Hiến pháp VNCH 1967.", "SRC-023", "", "1967", "VERIFIED", "chinh_tri", "Khác với 'chính đảng' hiện nay.", "chinh_tri", "dang_phai_chinh_tri", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["đảo chánh", "danh_tu", "Cuộc đảo chính (dùng 'chánh' theo chuẩn VNCH).", "Cuộc đảo chánh năm 1963.", "Lê Văn Đức 1970.", "SRC-001", "", "1970", "VERIFIED", "chinh_tri", "Viết 'chánh' không phải 'chính'.", "chinh_tri", "ly_luan_chinh_tri", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["tài chánh", "danh_tu", "Việc quản lý tiền bạc, ngân sách của nhà nước; khác 'tài chính'.", "Bộ Tài Chánh; Tổng trưởng Tài Chánh.", "Lê Văn Đức 1970; Hiến pháp VNCH 1967.", "SRC-001", "", "1970", "VERIFIED", "kinh_te", "Chuẩn VNCH; 'tài chính' là hiện nay.", "kinh_te", "tai_chinh_ngan_hang", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["dân biểu", "danh_tu", "Người được bầu đại diện cho dân trong Hạ Nghị Viện VNCH.", "Dân biểu được bầu theo lối phổ thông đầu phiếu.", "Hiến pháp VNCH 1967, Điều 31.", "SRC-023", "", "1967", "VERIFIED", "chinh_tri", "Khác 'đại biểu Quốc hội' hiện nay.", "chinh_tri", "nha_nuoc_chinh_quyen", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["nghị sĩ", "danh_tu", "Người được bầu/tham mưu trong Thượng Nghị Viện VNCH.", "Nghị sĩ Thượng viện.", "Hiến pháp VNCH 1967, Điều 51-52.", "SRC-023", "", "1967", "VERIFIED", "chinh_tri", "Hệ thống lưỡng viện VNCH.", "chinh_tri", "nha_nuoc_chinh_quyen", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["ngân khố", "danh_tu", "Cơ quan nhà nước lo khâu thu phát tiền; khác 'ngân sách' (kế hoạch).", "Quốc khố; ngân khố tỉnh.", "Lê Văn Đức 1970: 'Kho bạc, cơ quan nhà nước lo khâu tiền thuế...'.", "SRC-001", "", "1970", "VERIFIED", "kinh_te", "Phân biệt: ngân khố=cơ quan, ngân sách=kế hoạch.", "kinh_te", "tai_chinh_cong", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["hưu bổng", "danh_tu", "Tiền hưu trí cho công chức về hưu; khác 'lương hưu' hiện nay.", "Hưu bổng; quỹ hưu bổng.", "Lê Văn Đức 1970: 'Tiền hưu trí... cấp lại hàng tháng...'.", "SRC-001", "", "1970", "VERIFIED", "kinh_te", "Chuẩn VNCH.", "kinh_te", "bao_hiem_huu", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["địa ốc", "danh_tu", "Nhà và đất; bất động sản theo chuẩn VNCH.", "Địa ốc ngân hàng; đầu tư địa ốc.", "Lê Văn Đức 1970: 'Nhà và đất, thuộc nhà và đất'.", "SRC-001", "", "1970", "VERIFIED", "kinh_te", "Khác 'bất động sản' hiện nay.", "kinh_te", "bat_dong_san", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["nầy", "tinh_tu", "Này (chỉ vật gần) - chính tả Nam Bộ thay 'này'.", "Năm nầy; ngày nầy; trước nầy; sau nầy.", "Phan Khôi 1955 (SRC-021): 'bộ Tự điển nầy'.", "SRC-021", "", "1955", "VERIFIED", "chinh_ta", "BẮT BUỘC dùng 'nầy' thay 'này' trong văn viết.", "chinh_ta", "van_dung", "viet_nam_cong_hoa", "nam_bo", "van_viet"],
+    ["chớ", "liên_tu", "Nhưng, mà (nhấn mạnh tương phản) - từ nối Nam Bộ đặc trưng.", "Bổn cảo chớ chưa thành sách.", "Phan Khôi 1955 (SRC-021).", "SRC-021", "", "1955", "CROSS_VERIFIED", "van_dung_thuong_ngay", "Ưu tiên dùng thay 'mà/nhưng' khi đối lập.", "ho_tro", "lien_tu_ngu_phap", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["vả", "liên_tu", "Huống chi, lại còn (bổ sung lý lẽ).", "Vả cái a nếu là cái rèn bằng sắt...", "Phan Khôi 1955 (SRC-021).", "SRC-021", "", "1955", "VERIFIED", "van_dung", "Dùng thay 'hơn nữa' trong văn trang trọng.", "ho_tro", "lien_tu_ngu_phap", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["trái lại", "liên_tu", "Ngược lại, trái ngược (tương phản).", "Trái lại, miền Nam yếu hơn...", "Grammar Engine §1.8; Bách Khoa 405.", "SRC-009", "", "1957-1975", "VERIFIED", "van_dung", "Ưu tiên thay 'ngược lại'.", "ho_tro", "lien_tu_ngu_phap", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["tuy vậy", "liên_tu", "Dù vậy, tuy nhiên (chuyển ý) - ưu tiên hơn 'tuy nhiên'.", "Tuy vậy, kết quả không như mong đợi.", "Grammar Engine §1.8; Phan Khôi 1955.", "SRC-021", "", "1955", "VERIFIED", "van_dung", "Dùng thay 'tuy nhiên' (quá Bắc).", "ho_tro", "lien_tu_ngu_phap", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["bởi thế", "liên_tu", "Vì vậy, do đó (nhân quả) - ưu tiên hơn 'vì vậy'.", "Bởi thế, chánh phủ quyết định...", "Grammar Engine §1.8; Phan Khôi 1955.", "SRC-021", "", "1955", "VERIFIED", "van_dung", "Dùng thay 'vì vậy' (quá Bắc).", "ho_tro", "lien_tu_ngu_phap", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["đã... rùi/hẵng", "cụm_tu", "Thể hoàn thành Nam Bộ (đã... rồi).", "Đã ký kết rùi; đã chấm dứt hẵng.", "Grammar Engine §1.5; Phan Khôi 1955.", "SRC-021", "", "1955", "VERIFIED", "van_dung", "Văn học thuật dùng dạng đầy đủ hơn 'đã'.", "ho_tro", "the_khia", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["đang... xong/tiến hành", "cụm_tu", "Thể đang diễn ra Nam Bộ (văn viết).", "Đang tiến hành ký kết; đang ký kết xong.", "Grammar Engine §1.5; Phan Khôi 1955.", "SRC-021", "", "1955", "VERIFIED", "van_dung", "Dùng thay 'đang' rút gọn.", "ho_tro", "the_khia", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["sắp sẽ/chuẩn bị sẽ", "cụm_tu", "Thể sắp tới Nam Bộ.", "Sắp sẽ ký; chuẩn bị sẽ triển khai.", "Grammar Engine §1.5; Phan Khôi 1955.", "SRC-021", "", "1955", "VERIFIED", "van_dung", "Dùng thay 'sẽ' rút gọn.", "ho_tro", "the_khia", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["vừa... mới/mới... xong", "cụm_tu", "Thể vừa mới Nam Bộ.", "Vừa ký xong; mới kết thúc xong.", "Grammar Engine §1.5; Phan Khôi 1955.", "SRC-021", "", "1955", "VERIFIED", "van_dung", "Dùng thay 'vừa mới' rút gọn.", "ho_tro", "the_khia", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["chưa... bao giờ/vẫn chưa", "cụm_tu", "Thể chưa Nam Bộ.", "Chưa bao giờ ký; vẫn chưa quyết định.", "Grammar Engine §1.5; Phan Khôi 1955.", "SRC-021", "", "1955", "VERIFIED", "van_dung", "Dùng thay 'chưa' rút gọn.", "ho_tro", "the_khia", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["người ấy/ông ấy/bà ấy", "đại_tu", "Đại từ nhân xưng thứ 3 trang trọng Nam Bộ.", "Người ấy lập luận rằng...; Ông ấy là nhà sử học...", "Grammar Engine §1.7; Phan Khôi 1955.", "SRC-021", "", "1955", "VERIFIED", "van_dung", "CẤM dùng 'hắn, y, nó' chỉ người.", "ho_tro", "dai_tu_xung_ho", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["dầu/dẫu", "liên_tu", "Mặc dù (nhượng bộ) - ưu tiên Nam Bộ.", "Dầu đã nỗ lực...", "Grammar Engine §1.8; Phan Khôi 1955.", "SRC-021", "", "1955", "VERIFIED", "van_dung", "Dùng thay 'mặc dù' (quá Bắc).", "ho_tro", "lien_tu_ngu_phap", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+    ["Nam Kỳ", "danh_tu", "Cochinchina/Cochinchine (miền Nam Việt Nam thời thuộc địa).", "Nam Kỳ là vùng đất màu mỡ.", "Lê Văn Đức 1970; Quy tắc 15 Style Guide.", "SRC-001", "", "1970", "VERIFIED", "dia_ly", "Chỉ dùng 'Nam Kỳ', KHÔNG giữ 'Cochinchina/Cochinchine'.", "dia_ly", "dia_ly_thuoc_dia", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["Trung Kỳ", "danh_tu", "Annam (miền Trung Việt Nam thời thuộc địa).", "Trung Kỳ do quan lại triều Nguyễn cai trị.", "Lê Văn Đức 1970; Quy tắc 15 Style Guide.", "SRC-001", "", "1970", "VERIFIED", "dia_ly", "Chỉ dùng 'Trung Kỳ', KHÔNG giữ 'Annam'.", "dia_ly", "dia_ly_thuoc_dia", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["Bắc Kỳ", "danh_tu", "Tonkin (miền Bắc Việt Nam thời thuộc địa).", "Bắc Kỳ là vùng quê hương của nhiều nhà cách mạng.", "Lê Văn Đức 1970; Quy tắc 15 Style Guide.", "SRC-001", "", "1970", "VERIFIED", "dia_ly", "Chỉ dùng 'Bắc Kỳ', KHÔNG giữ 'Tonkin'.", "dia_ly", "dia_ly_thuoc_dia", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["Đông Dương", "danh_tu", "Indochine (Liên bang Đông Dương thuộc Pháp).", "Chính phủ Đông Dương; chiến tranh Đông Dương.", "Lê Văn Đức 1970; Quy tắc 15 Style Guide.", "SRC-001", "", "1970", "VERIFIED", "dia_ly", "Chỉ dùng 'Đông Dương', KHÔNG giữ 'Indochine'.", "dia_ly", "dia_ly_thuoc_dia", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["độc lập", "danh_tu/tinh_tu", "Tự chủ, không lệ thuộc nước ngoài; dùng thay 'giải phóng' trong văn phong VNCH.", "Nước độc lập; quyền độc lập.", "Lê Văn Đức 1970; Hiến pháp VNCH 1967.", "SRC-002", "", "1967", "VERIFIED", "chinh_tri", "Dùng thay 'giải phóng' (thuật ngữ Cộng sản).", "chinh_tri", "chu_quyen_doc_lap", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["đồng đạo", "danh_tu", "Người cùng chí hướng, đồng chí (trong ngữ cảnh VNCH).", "Các đồng đạo trong đảng.", "Lê Văn Đức 1970; Hiến pháp VNCH 1967.", "SRC-001", "", "1970", "VERIFIED", "chinh_tri", "Dùng thay 'đồng chí' (thuật ngữ Cộng sản).", "chinh_tri", "dang_phai_chinh_tri", "viet_nam_cong_hoa", "nam_bo", "trang_nghiem"],
+    ["cuốn/cái/con/cây/cục/bài", "chỉ_định", "Hệ thống chỉ định danh từ Nam Bộ (VNCH).", "Một cuốn sách; một cái bài; một con người; một cây bút; một cục đá.", "Grammar Engine §1.3; Phan Khôi 1955; Lê Văn Đức 1970.", "SRC-021", "", "1955", "VERIFIED", "ngu_phap", "BẮT BUỘC thêm chỉ định khi dịch 'a/an/the'.", "ho_tro", "chi_dinh", "viet_nam_cong_hoa", "nam_bo", "van_dung"],
+]
+
+# Read existing CSV
+with open('translation-project/08_southern_vietnamese_library/10_LEXICAL_DATABASE/MASTER_LEXICON.csv', 'r', encoding='utf-8') as f:
+    reader = csv.reader(f)
+    rows = list(reader)
+
+print(f'Existing rows: {len(rows)} (including header)')
+
+# Append new terms
+with open('translation-project/08_southern_vietnamese_library/10_LEXICAL_DATABASE/MASTER_LEXICON.csv', 'a', encoding='utf-8', newline='') as f:
+    writer = csv.writer(f)
+    for term in new_terms:
+        writer.writerow(term)
+
+print(f'Added {len(new_terms)} new terms')
+print(f'Total terms now: {len(rows) + len(new_terms) - 1} (excluding header)')

@@ -1,0 +1,42 @@
+BAD IN BODY: Annam
+BAD IN BODY: Tonkin
+BAD IN BODY: Cochinchina
+BAD IN BODY: Indochine
+BAD IN BODY: nay
+
+GOOD terms check:
+chanh tri: 0
+chanh phu: 0
+tai chanh: 0
+dan bieu: 0
+Nam Ky: 0
+Trung Ky: 0
+Bac Ky: 0
+Dong Duong: 0
+nay: 1
+dau: 0
+dau: 0
+trai lai: 0
+tuy vay: 0
+boi the: 0
+va: 6
+nguoi ay: 0
+ong ay: 0
+ba ay: 0
+rui: 0
+hang: 1
+dang xong: 0
+sap se: 0
+vua moi: 0
+chua bao gio: 0
+cuon: 0
+cai: 42
+con: 9
+cay: 0
+cuc: 0
+bai: 0
+Hinh 2.1: 0
+Hinh 2.2: 0
+
+Paragraphs: 42
+Words (approx): 10267

@@ -1,0 +1,31 @@
+=== KIEM TRA KY TU KHONG PHAI TIENG VIET ===
+
+1. KIEM TRA THAN BAN (TRUOC KHOI CUOC CHU):
+  Pos 13 (U+00B7): '·' -- Unknown char: ...===== V1-C04 · Đông Dương trong C...
+  Pos 61 (U+00B7): '·' -- Unknown char: ...nh Thế giới thứ hai · Stein Tønnesson ==...
+  Pos 2853 (U+00B2): '²' -- Unknown char: ...dặm vuông (50.000 km²) của miền Tây và m...
+  Pos 3989 (U+00B2): '²' -- Unknown char: ...dặm vuông (50.000 km²) của miền Tây và m...
+  Pos 24224 (U+2026): '…' -- Unknown char: ...n lòng yêu nước Lào … cho thấy một quốc ...
+  Pos 24302 (U+2026): '…' -- Unknown char: ...bộ tộc hay làng mạc … Mà một quốc gia … ...
+  Pos 24320 (U+2026): '…' -- Unknown char: ...c … Mà một quốc gia … trước hết là một m...
+
+2. KIEM TRA KHOI CUOC CHU:
+  OK: KHONG CO KY TU CJK TRONG CUOC CHU
+
+3. KIEM TRA KY TU DAC BIET:
+  OK: ZERO WIDTH SPACE: 0 lan
+  OK: ZERO WIDTH NON-JOINER: 0 lan
+  OK: ZERO WIDTH JOINER: 0 lan
+  OK: LEFT-TO-RIGHT MARK: 0 lan
+  OK: RIGHT-TO-LEFT MARK: 0 lan
+  OK: BYTE ORDER MARK: 0 lan
+  OK: REPLACEMENT CHARACTER: 0 lan
+  OK: OBJECT REPLACEMENT CHARACTER: 0 lan
+
+4. KIEM TRA CAC DANG CJK MO RONG:
+  OK: KHONG CO KY TU CJK MO RONG TRONG THAN BAN
+
+=== TONG KET ===
+CO VAN DE: 7 ky tu can kiem tra
+
+OK: Da sua ky tu Hangul 'stack' (neu co truoc do)

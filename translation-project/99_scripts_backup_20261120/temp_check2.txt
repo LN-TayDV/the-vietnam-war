@@ -1,0 +1,20 @@
+chánh trị: FOUND
+chánh phủ: NOT FOUND
+tài chánh: FOUND
+dân biểu: FOUND
+Nam Kỳ: FOUND
+Trung Kỳ: FOUND
+Bắc Kỳ: FOUND
+Đông Dương: FOUND
+nầy: FOUND
+dầu: NOT FOUND
+dẫu: NOT FOUND
+trái lại: NOT FOUND
+tuy vậy: FOUND
+bởi thế: NOT FOUND
+vả: FOUND
+người ấy: NOT FOUND
+ông ấy: NOT FOUND
+bà ấy: NOT FOUND
+rùi: NOT FOUND
+hẵng: NOT FOUND

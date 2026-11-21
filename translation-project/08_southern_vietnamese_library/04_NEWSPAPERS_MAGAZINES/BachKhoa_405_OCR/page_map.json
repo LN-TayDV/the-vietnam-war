@@ -1,0 +1,674 @@
+[
+  {
+    "page": 1,
+    "raw_chars": 367,
+    "clean_chars": 340,
+    "clean_words": 80,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 2,
+    "raw_chars": 1084,
+    "clean_chars": 1014,
+    "clean_words": 211,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 3,
+    "raw_chars": 1166,
+    "clean_chars": 1073,
+    "clean_words": 230,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 4,
+    "raw_chars": 2857,
+    "clean_chars": 2739,
+    "clean_words": 592,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 5,
+    "raw_chars": 2465,
+    "clean_chars": 2361,
+    "clean_words": 528,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 6,
+    "raw_chars": 2748,
+    "clean_chars": 2640,
+    "clean_words": 564,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 7,
+    "raw_chars": 2694,
+    "clean_chars": 2590,
+    "clean_words": 556,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 8,
+    "raw_chars": 2859,
+    "clean_chars": 2742,
+    "clean_words": 600,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 9,
+    "raw_chars": 2076,
+    "clean_chars": 1998,
+    "clean_words": 443,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 10,
+    "raw_chars": 2782,
+    "clean_chars": 2654,
+    "clean_words": 599,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 11,
+    "raw_chars": 2665,
+    "clean_chars": 2554,
+    "clean_words": 566,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 12,
+    "raw_chars": 2567,
+    "clean_chars": 2448,
+    "clean_words": 558,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 13,
+    "raw_chars": 2441,
+    "clean_chars": 2340,
+    "clean_words": 509,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 14,
+    "raw_chars": 2604,
+    "clean_chars": 2487,
+    "clean_words": 542,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 15,
+    "raw_chars": 2710,
+    "clean_chars": 2596,
+    "clean_words": 567,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 16,
+    "raw_chars": 2841,
+    "clean_chars": 2730,
+    "clean_words": 599,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 17,
+    "raw_chars": 1187,
+    "clean_chars": 1111,
+    "clean_words": 213,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 18,
+    "raw_chars": 1101,
+    "clean_chars": 1031,
+    "clean_words": 219,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 19,
+    "raw_chars": 2320,
+    "clean_chars": 2209,
+    "clean_words": 501,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 20,
+    "raw_chars": 2387,
+    "clean_chars": 2256,
+    "clean_words": 502,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 21,
+    "raw_chars": 2138,
+    "clean_chars": 1996,
+    "clean_words": 465,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 22,
+    "raw_chars": 2523,
+    "clean_chars": 2394,
+    "clean_words": 539,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 23,
+    "raw_chars": 2079,
+    "clean_chars": 1950,
+    "clean_words": 427,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 24,
+    "raw_chars": 2792,
+    "clean_chars": 2659,
+    "clean_words": 596,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 25,
+    "raw_chars": 2643,
+    "clean_chars": 2539,
+    "clean_words": 576,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 26,
+    "raw_chars": 1282,
+    "clean_chars": 1183,
+    "clean_words": 277,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 27,
+    "raw_chars": 2153,
+    "clean_chars": 2059,
+    "clean_words": 361,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 28,
+    "raw_chars": 2874,
+    "clean_chars": 2756,
+    "clean_words": 528,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 29,
+    "raw_chars": 2765,
+    "clean_chars": 2656,
+    "clean_words": 509,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 30,
+    "raw_chars": 2687,
+    "clean_chars": 2561,
+    "clean_words": 524,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 31,
+    "raw_chars": 2818,
+    "clean_chars": 2687,
+    "clean_words": 517,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 32,
+    "raw_chars": 2287,
+    "clean_chars": 2191,
+    "clean_words": 444,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 33,
+    "raw_chars": 2486,
+    "clean_chars": 2394,
+    "clean_words": 513,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 34,
+    "raw_chars": 2718,
+    "clean_chars": 2579,
+    "clean_words": 561,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 35,
+    "raw_chars": 2597,
+    "clean_chars": 2473,
+    "clean_words": 544,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 36,
+    "raw_chars": 2745,
+    "clean_chars": 2622,
+    "clean_words": 547,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 37,
+    "raw_chars": 707,
+    "clean_chars": 668,
+    "clean_words": 148,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 38,
+    "raw_chars": 514,
+    "clean_chars": 477,
+    "clean_words": 98,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 39,
+    "raw_chars": 2491,
+    "clean_chars": 2364,
+    "clean_words": 500,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 40,
+    "raw_chars": 2749,
+    "clean_chars": 2624,
+    "clean_words": 576,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 41,
+    "raw_chars": 2080,
+    "clean_chars": 1980,
+    "clean_words": 439,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 42,
+    "raw_chars": 2220,
+    "clean_chars": 2118,
+    "clean_words": 468,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 43,
+    "raw_chars": 2682,
+    "clean_chars": 2550,
+    "clean_words": 566,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 44,
+    "raw_chars": 2319,
+    "clean_chars": 2182,
+    "clean_words": 480,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 45,
+    "raw_chars": 2553,
+    "clean_chars": 2429,
+    "clean_words": 540,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 46,
+    "raw_chars": 94,
+    "clean_chars": 79,
+    "clean_words": 18,
+    "ocr_confidence": "low",
+    "status": "OK"
+  },
+  {
+    "page": 47,
+    "raw_chars": 2485,
+    "clean_chars": 2402,
+    "clean_words": 554,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 48,
+    "raw_chars": 2746,
+    "clean_chars": 2633,
+    "clean_words": 594,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 49,
+    "raw_chars": 2742,
+    "clean_chars": 2634,
+    "clean_words": 595,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 50,
+    "raw_chars": 2640,
+    "clean_chars": 2511,
+    "clean_words": 566,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 51,
+    "raw_chars": 2371,
+    "clean_chars": 2249,
+    "clean_words": 519,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 52,
+    "raw_chars": 2747,
+    "clean_chars": 2641,
+    "clean_words": 588,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 53,
+    "raw_chars": 2789,
+    "clean_chars": 2679,
+    "clean_words": 599,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 54,
+    "raw_chars": 2775,
+    "clean_chars": 2660,
+    "clean_words": 604,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 55,
+    "raw_chars": 2763,
+    "clean_chars": 2643,
+    "clean_words": 600,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 56,
+    "raw_chars": 2712,
+    "clean_chars": 2608,
+    "clean_words": 606,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 57,
+    "raw_chars": 2523,
+    "clean_chars": 2417,
+    "clean_words": 555,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 58,
+    "raw_chars": 1240,
+    "clean_chars": 1192,
+    "clean_words": 267,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 59,
+    "raw_chars": 1529,
+    "clean_chars": 1440,
+    "clean_words": 327,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 60,
+    "raw_chars": 721,
+    "clean_chars": 648,
+    "clean_words": 148,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 61,
+    "raw_chars": 888,
+    "clean_chars": 826,
+    "clean_words": 199,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 62,
+    "raw_chars": 213,
+    "clean_chars": 182,
+    "clean_words": 42,
+    "ocr_confidence": "low",
+    "status": "OK"
+  },
+  {
+    "page": 63,
+    "raw_chars": 2449,
+    "clean_chars": 2348,
+    "clean_words": 531,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 64,
+    "raw_chars": 2837,
+    "clean_chars": 2707,
+    "clean_words": 628,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 65,
+    "raw_chars": 2411,
+    "clean_chars": 2279,
+    "clean_words": 517,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 66,
+    "raw_chars": 2852,
+    "clean_chars": 2743,
+    "clean_words": 619,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 67,
+    "raw_chars": 2580,
+    "clean_chars": 2457,
+    "clean_words": 551,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 68,
+    "raw_chars": 3176,
+    "clean_chars": 3034,
+    "clean_words": 667,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 69,
+    "raw_chars": 2040,
+    "clean_chars": 1916,
+    "clean_words": 431,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 70,
+    "raw_chars": 2076,
+    "clean_chars": 1954,
+    "clean_words": 464,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 71,
+    "raw_chars": 2459,
+    "clean_chars": 2326,
+    "clean_words": 503,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 72,
+    "raw_chars": 2995,
+    "clean_chars": 2866,
+    "clean_words": 618,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 73,
+    "raw_chars": 3338,
+    "clean_chars": 3198,
+    "clean_words": 694,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 74,
+    "raw_chars": 568,
+    "clean_chars": 506,
+    "clean_words": 120,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 75,
+    "raw_chars": 2569,
+    "clean_chars": 2448,
+    "clean_words": 503,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 76,
+    "raw_chars": 2863,
+    "clean_chars": 2735,
+    "clean_words": 578,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 77,
+    "raw_chars": 2748,
+    "clean_chars": 2619,
+    "clean_words": 567,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 78,
+    "raw_chars": 2076,
+    "clean_chars": 1968,
+    "clean_words": 412,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 79,
+    "raw_chars": 2752,
+    "clean_chars": 2593,
+    "clean_words": 584,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 80,
+    "raw_chars": 2691,
+    "clean_chars": 2558,
+    "clean_words": 557,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 81,
+    "raw_chars": 2600,
+    "clean_chars": 2482,
+    "clean_words": 551,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 82,
+    "raw_chars": 2747,
+    "clean_chars": 2593,
+    "clean_words": 567,
+    "ocr_confidence": "good",
+    "status": "OK"
+  },
+  {
+    "page": 83,
+    "raw_chars": 122,
+    "clean_chars": 104,
+    "clean_words": 26,
+    "ocr_confidence": "low",
+    "status": "OK"
+  },
+  {
+    "page": 84,
+    "raw_chars": 181,
+    "clean_chars": 155,
+    "clean_words": 35,
+    "ocr_confidence": "low",
+    "status": "OK"
+  }
+]

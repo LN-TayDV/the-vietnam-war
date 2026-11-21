@@ -1,0 +1,1023 @@
+579
+Could the Vietnam War have been avoided, or ended significantly earlier and 
+at substantially lower cost, through international peace initiatives? And, aside 
+from that question – the answer to which, of course, ultimately depended 
+on the positions and perspectives of the American and North Vietnamese 
+leaderships – what did the peace initiatives reveal about the Vietnam War’s 
+interrelationship with other major aspects of the international scene at the 
+time, such as the Sino-Soviet split, the Cold War, and US domestic politics?
+This chapter centers on a crucial three-year span, from early 1965, when 
+the administration of Lyndon Johnson massively escalated American mili-
+tary involvement in Vietnam, through both sustained aerial bombing and 
+expanded ground operations, to the spring of 1968, when direct discussions 
+(not formal “negotiations” but “talks about talks”) between Hanoi and 
+Washington finally began in Paris. During that period, the two sides – which 
+lacked normal diplomatic ties, successive US administrations having shunned 
+the Democratic Republic of Vietnam (DRVN) after Hồ Chí Minh announced 
+its creation in September 1945 – refused to enter ongoing direct contacts. They 
+remained divided by divergent positions about negotiations which neatly 
+epitomized a “Catch-22,” after Joseph Heller’s eponymous novel: the DRVN 
+declared that it steadfastly rejected talks until the United States unilaterally, 
+unconditionally, and/or definitively stopped bombing North Vietnam; and 
+Washington would stop bombing only after receiving assurances that North 
+Vietnam would negotiate promptly and productively and/or commit to 
+reducing or ending infiltration of South Vietnam – the exact formulation fluc-
+tuated, but it was a price Hanoi deemed a prior, unacceptable “condition.”
+As fighting escalated, into this breach stepped a panoply of international 
+actors (nations, institutions, individuals, groups) that – aside from crasser 
+motives such as fame and glory – sought to stop or limit the carnage, or 
+at least start direct US–North Vietnam talks. Most of these hundreds of 
+efforts – some would say all – were doomed to failure, since the combatants 
+27
+International Peace Initiatives
+James G. Hershberg
+
+James G. Hershberg
+580
+remained far apart, their ultimate aims intrinsically incompatible. Hanoi and 
+Washington (and Saigon) hawks insisted that only battlefield victories could 
+ensure accomplishment of the ends for which so much had already been 
+sacrificed; moreover, the antagonists deeply distrusted each other, raising a 
+barrier to compromise beyond inherent ideological, cultural, linguistic, his-
+torical, and other chasms.
+Still, disagreement persists about whether a breakthrough might have 
+been possible – if not peace itself, then at least the opening of direct, substan-
+tive, continuing US–DRVN discussions much earlier than actually occurred. 
+A closer look, enhanced by important communist evidence released since the 
+Cold War’s end, can also improve understanding both of the war’s dynamics 
+and intersections with the broader international context.
+For many years, perceptions of these events relied exclusively on official 
+US accounts supplemented by press leaks – particularly a revealing 1968 
+account by Los Angeles Times reporters David Kraslow and Stuart H. Loory, 
+The Secret Search for Peace in Vietnam.1 More detail came with the declassifica-
+tion of much of the American record in the four negotiating volumes of The 
+Pentagon Papers – not leaked by Daniel Ellsberg to the press in 1971, but later 
+released in sanitized form through the Freedom of Information Act (FOIA); 
+these records informed Wallace J. Thies’s scholarly analysis and were pub-
+lished in 1983 with commentary by George C. Herring.2 Combined with more 
+US releases, the gradual opening of international sources – and, after the Cold 
+War, of former Soviet bloc and Chinese archives – has enabled deeper inqui-
+ries into these episodes. Alas, North Vietnamese evidence remains lamenta-
+bly incomplete, although some useful data has seeped out through limited 
+archival openings, internal publications, and oral history interviews.3
+Before examining international initiatives from 1965 to 1968, reviewing ear-
+lier attempts involving third parties to limit or resolve the Southeast Asian 
+	1	 David Kraslow and Stuart H. Loory, The Secret Search for Peace in Vietnam (New York, 
+1968). On their inquiry, see James G. Hershberg, Marigold: The Lost Chance for Peace in 
+Vietnam (Stanford and Washington, DC, 2012), ch. 15.
+	2	 Wallace J. Thies, When Governments Collide: Coercion and Diplomacy in the Vietnam Conflict, 
+1964–1968 (Berkeley, 1980); George C. Herring (ed.), Secret Diplomacy of the Vietnam 
+War: The Negotiating Volumes of the Pentagon Papers (Austin, TX, 1983) [hereafter cited as 
+SDVW:NVPP]. The complete version, released in 2011, can be found at http://nsarchive​
+.gwu.edu//NSAEBB/NSAEBB359/index.htm.
+	3	 For the (North) Vietnamese perspective, selectively using internal DRV records, see 
+Lưu Văn Lợi and Nguyễn Anh Vũ, Tiếp xúc bí mật Việt Nam – Hoa Kỳ trước Hội nghị Pari 
+[Secret Interactions between Vietnam–United States before Paris] (Hanoi, [1990] 2002). 
+For an oral history, see Robert S. McNamara, James G. Blight, and Robert K. Brigham 
+with Thomas Biersteker and Col. Herbert Y. Schandler, Argument without End: In Search 
+of Answers to the Vietnam Tragedy (New York, 2000).
+
+International Peace Initiatives
+581
+conflict provides useful context. During the 1946–54 Franco-Việt Minh war, 
+when Paris sought to restore colonial rule, outside mediation played rela-
+tively little part prior to the July 1954 Geneva Accord that ended the fight-
+ing and split Vietnam into “regrouping” zones north and south of the 17th 
+parallel. However, shortly after fighting had erupted in 1946, Hồ Chí Minh 
+sought to enlist one powerful potential mediator: the United States. The 
+communist–nationalist revolutionary did so despite Harry Truman’s failure 
+to respond to multiple pleas for recognition and firm US political-economic 
+support for France in the dual causes of rebuilding Europe and forging an 
+anti-Soviet Western bloc. In 1947 exchanges with American diplomats in 
+Bangkok, DRVN representatives vainly proposed that the United States 
+broker peace contacts with France. Washington not only ignored this idea, 
+but went on, after the communist victory in China in 1949, to actively back 
+France’s military effort.4 Yet, the episode underlined an important, recurrent 
+feature of mediation diplomacy: to open communication channels, a party 
+desiring talks, or even cautious probing of the enemy, sometimes resorted to 
+using ideological adversaries, not fully trusting them but valuing their com-
+paratively intimate ties with the foe.
+Geneva’s Legacies: ICC Intrigues and More
+Geneva had several vital legacies for later negotiation attempts. One con-
+cerned the DRVN leaders’ mindset. Despite scoring a decisive military blow 
+at Điện Biên Phủ, the Vietnamese communists made significant concessions 
+at Geneva, including a demarcation line farther north than they thought war-
+ranted, partly due to Soviet and Chinese pressure. Moscow desired better ties 
+with Paris, hoping to impede a nascent (West) European military setup, the 
+European Defence Community (EDC); Beijing, ratifying a Korean armistice, 
+struck a moderate pose for Zhou Enlai’s diplomatic debut. Some command-
+ers preferred to fight on, but the Vietnamese accepted a political path toward 
+unification. Exhausted, wanting to consolidate control over the North, fearing 
+a US military intervention were no deal struck, the DRVN rulers were reas-
+sured by their patrons that the division was merely temporary. Embittered 
+	4	 Mark Philip Bradley, Imagining Vietnam and America: The Making of Postcolonial Vietnam, 
+1919–1950 (Chapel Hill, NC, 2000), 146–76; Fredrik Logevall, Embers of War: The Fall of an 
+Empire and the Making of America’s Vietnam (New York, 2012), esp. 195–7; Mark Atwood 
+Lawrence, Assuming the Burden: Europe and the American Commitment to War in Vietnam 
+(Berkeley, 2005).
+
+James G. Hershberg
+582
+when the Geneva settlement hardened, the North Vietnamese concluded 
+that they could not trust even communist allies to resolutely defend their 
+interests; and that diplomatic pitfalls could imperil hard-won military gains.5
+In the next war, convinced that aims not already conquered in combat 
+could not be won “at the baize table,” Hanoi would focus on attriting and 
+ultimately vanquishing the enemy militarily and politically. It relegated 
+diplomacy, for the most part, to a subsidiary front, not for serious bargaining 
+(implying mutual compromise) but to ratify gains already won. Another leg-
+acy crucial for Vietnam War diplomacy was Geneva’s creation of a body, 
+delicately balanced between East and West, to monitor the accords’ imple-
+mentation. The three-nation International Commission for Supervision and 
+Control (i.e., International Control Commission, or ICC) comprised commu-
+nist Poland, Canada, and neutral India as chair. Despite modest early suc-
+cesses, the ICC soon predictably deadlocked. Yet, even as fighting resumed 
+by the decade’s end, no one wanted to pull the plug on this unique residual 
+potential conduit between the parties. Though eventually headquartered in 
+Saigon for logistical reasons, the ICC kept offices in Phnom Penh, Vientiane, 
+and Hanoi, and Indian, Canadian, and Polish personnel could shuttle between 
+the rival Vietnamese capitals (via neutral Cambodia and Laos, on dilapidated 
+DC-3 prop planes) – a rare capability. The presence of a senior Polish dip-
+lomat (plus hundreds of troops) in Saigon was another ICC anomaly, since 
+communist regimes shunned the Republic of Vietnam as an American lackey, 
+instead maintaining embassies in Hanoi and fraternal contacts with the Lao 
+Động (Vietnam Workers’ Party, VWP).6
+In the early 1960s, the ICC provided a mechanism for diplomatic bids to cool 
+the Cold War’s flaring Southeast Asian hot spot. In Dwight D. Eisenhower’s 
+last years and John F. Kennedy’s first months in the White House, Laos, not 
+Vietnam, preoccupied US officials. In spring 1961, the Geneva cochairs, the 
+	5	 Pierre Asselin, “The Democratic Republic of Vietnam and the 1954 Geneva Conference: 
+A Revisionist Critique,” Cold War History 11, 2 (May 2011), 155–95; Pierre Asselin, Hanoi’s 
+Road to the Vietnam War, 1954–1965 (Berkeley, 2013); Lien-Hang T. Nguyen, “Vietnamese 
+Historians and the First Indochina War,” in Mark Atwood Lawrence and Fredrik 
+Logevall (eds.), The First Vietnam War: Colonial Conflict and Cold War Crisis (Cambridge, 
+MA, 2004), 41–55.
+	6	 For an ICSC/ICC overview, written before major archives opened, see Ramesh Thakur, 
+Peacekeeping in Vietnam: Canada, India, Poland and the International Control Commission 
+(Edmonton, Alberta, 1984). Dissertations using declassified Polish, US, Canadian, and 
+other sources include Margaret K. Gnoinska, “Poland and the Cold War in East and 
+Southeast Asia, 1949–1965,” Ph.D. dissertation (George Washington University, 2009); 
+and Marek Wincenty Rutkowsky, “‘Getting in the Ring with the Big Powers’: India, 
+Canada, Poland and the International Control Commission in Vietnam (1954–1964),” 
+Ph.D. dissertation (National University of Singapore, 2017).
+
+International Peace Initiatives
+583
+Soviets and British, summoned major participants back to the Swiss city to 
+tackle the simmering Laotian conflict between (DRVN-backed) communist 
+and anticommunist forces. In a rare moment of amity at their testy June 1961 
+Vienna summit, JFK and Nikita Khrushchev agreed to neutralize Laos. In July 
+1962, after a year of negotiations, the local and superpower actors – again 
+including the United States and PRC despite the two lacking diplomatic rela-
+tions – hashed out a coalition scheme formula to avoid a major war over 
+Laos. (Washington felt it made more military and political sense to take a 
+Southeast Asian stand against communism in Vietnam.)7 Fleetingly, it seemed 
+a precedent might be set for a broader accord. Neutral Burma’s delegate even 
+arranged a clandestine meeting between W. Averell Harriman, then assistant 
+secretary of state for Far Eastern affairs, and North Vietnamese foreign minis-
+ter Ung Văn Khiêm. (Harriman insisted on tight secrecy, fearful of upsetting 
+Saigon.) The encounter opened with pleasantries (recalling FDR’s support 
+for Vietnamese independence from France, inquiring after Hồ Chí Minh’s 
+health) but soon devolved to charges of DRVN and American interference in 
+Laos and Vietnam. Though Hồ Chí Minh around this time indicated (to ana-
+lyst Bernard Fall) interest in a dialogue with the United States, this July 1962 
+conversation ended up being the highest-level US–DRVN contact until the 
+1968 Paris talks: Washington and Hanoi squandered a chance for an ongoing 
+dialogue before stumbling into war.8
+Kennedy had hoped the ICC might offer a means to deal with Vietnam 
+and that India, which favored elections or unification, might help. But that 
+idea faded after a dour late 1961 summit with Jawaharlal Nehru: India’s leader 
+mutely ignored JFK’s invitation to suggest a path forward (possibly even 
+including neutrality). Still, New Delhi, in an anticommunist mood due to its 
+border dispute with China, voted with Canada in 1962, despite Poland’s ire, to 
+	7	 A well-documented study of the Geneva conference on Laos is now possible, but still 
+lacking. Soviet evidence can be found in Ilya V. Gaiduk, Confronting Vietnam: Soviet 
+Policy toward the Indochina Conflict, 1954–1963 (Washington, DC, 2003), esp. chs. 7–8; 
+for recent accounts stressing US evidence, see Seth Jacobs, The Universe Unraveling: 
+American Foreign Policy in Cold War Laos (Ithaca, 2012); William J. Rust, So Much to 
+Lose: John F. Kennedy and American Policy in Laos (Lexington, KY, 2014); and Joshua 
+Kurlantzick, A Great Place to Have a War: America in Laos and the Birth of a Military CIA 
+(New York, 2017).
+	8	 James G. Hershberg, “A Dialogue Aborted – The 1962 Geneva Encounter between 
+Averell Harriman and North Vietnamese Foreign Minister Ung Văn Khiêm,” in 
+Christopher Goscha and Karine Laplante (eds.), The Failure of Peace? Indochina between the 
+Two Geneva Accords (1954–1962) (Paris, 2010), 259–69. On FDR, see esp. Stein Tønnesson, 
+“Franklin Roosevelt, Trusteeship, and Indochina,” in Lawrence and Logevall (eds.), First 
+Vietnam War, 56–73; and Stein Tønnesson, The Vietnamese Revolution of 1945: Roosevelt, Ho 
+Chi Minh, and de Gaulle in a World at War (London, 1991).
+
+James G. Hershberg
+584
+condemn Hanoi’s support for subversion in the South; though they balanced 
+this charge with criticism of Saigon’s military alignment with Washington, 
+the rare ICC majority bolstered US claims that North Vietnam had stimu-
+lated the violence.9
+With Geneva seemingly revived, Poland – which regularly consulted 
+DRVN leaders – cautiously explored using its ICC status to mediate. During 
+a January 1963 visit to New Delhi, in separate talks with Nehru and US ambas-
+sador John Kenneth Galbraith, Foreign Minister Adam Rapacki and aide Jerzy 
+Michałowski (an ex-ICC delegate) promoted a Laos-like scheme to replace 
+President Ngô Đình Diệm, neutralize South Vietnam (removing foreign, i.e., 
+US, forces), and kick-start Hanoi–Saigon unification talks. No fan of Diệm, 
+Galbraith liked the idea. So did the Soviets, who sensed an American desire 
+to escape the Vietnam morass and lacked the desire of the People’s Republic 
+of China (PRC) for armed struggle. However, Hanoi balked, Washington 
+demurred, and the matter lapsed.10
+Far better known are the autumn 1963 intrigues surrounding Polish ICC 
+commissioner Mieczysław Maneli. In September, amid tensions between 
+Kennedy and Diệm after the Catholic-led Saigon regime’s harsh crackdown 
+on Buddhists, and swirling, well-founded coup rumors, columnist Joseph 
+Alsop reported that Maneli was secretly conveying messages between Ngô 
+Đình Nhu, Diệm’s powerful brother, and Hanoi. Reports of an unusual Nhu–
+Maneli conversation fanned American fears that, with France’s prodding and 
+Poland’s help, Saigon might improve ties with Hanoi, go neutral, and evict 
+US forces. Alarmed, Washington intensified coup plotting against Diệm and 
+Nhu to evade the supposed peril that South Vietnam might swerve toward 
+neutralism and, inexorably, communism. (Of course, the United States might 
+have been spared untold agony if such a deal had been cut.) After the military 
+ousted the Ngô brothers in November, a few weeks before JFK’s own mur-
+der, the mysterious “Maneli Affair” entered Vietnam War lore.
+Decades later, Polish evidence revealed that Maneli’s activities were 
+inflated by reporters, suspicious US aides, and, perhaps, Nhu himself. Poland’s 
+ICC man had indeed conveyed Hanoi’s interest in minor improvements in 
+cultural, postal, and trade ties with Saigon, presumably to lure Diệm from 
+Washington’s orbit, but was not seriously mediating, nor had Warsaw even 
+	9	 Rutkowsky, “‘Getting in the Ring with the Big Powers,’” ch. 5.
+	10	 Margaret K. Gnoinska, Poland and Vietnam, 1963: New Evidence on Secret Communist 
+Diplomacy and the “Maneli Affair,” Cold War International History Project, Woodrow 
+Wilson International Center for Scholars [hereafter cited as CWIHP], Working Paper 
+45 (Washington, DC, 2005); Hershberg, Marigold, 24–5.
+
+International Peace Initiatives
+585
+authorized him to see Nhu. Declassified American and Polish documents also 
+expose hidden direct contacts in Saigon between Maneli and US officials (CIA 
+operatives?) anxious to grasp his talks with Nhu and Hanoi and open a side 
+channel to the only senior communist diplomat in South Vietnam’s capital.11
+The Maneli intrigue made no discernible progress toward peace, but sug-
+gested that ICC delegates, even if unable to fulfill their nominal mandate, 
+might be critical communications links. Such channels remained vital, given 
+the absence of normal US–DRVN relations and the communist insurgency’s 
+intensification, but Washington believed there was nothing to negotiate: 
+Hanoi had no right to meddle in South Vietnam and should mind its own 
+business – or suffer harsh consequences.
+To transmit this blunt message, the ICC served well. In June and 
+­mid-August 1964, after US briefings, Canadian commissioner J. Blair Seaborn 
+visited Hanoi, carrying an implicit threat of force and vague ­promises 
+of ­economic aid should it desist. The formulation avoided the word 
+­“ultimatum,” but the message was clear. Courteously receiving Seaborn, 
+Premier Phạm Văn Đồng still insisted on a full US pullout from South 
+Vietnam before any settlement; on Seaborn’s second visit, Dong, angry 
+after the Tonkin Gulf incident, declared that “aggression” could not cow 
+Hanoi, rejected the de facto ultimatum, and forecast a ­communist ­victory. 
+As Washington expected, the rebuff portended a military ­showdown. 
+Ottawa concluded sourly that Washington had used it to threaten Hanoi 
+rather than seek negotiations; Seaborn felt queasy at being Henry Cabot 
+Lodge’s “messenger boy.” Seeing the exercise as futile, the Canadians flirted 
+with ditching the ICC altogether, but gritted their teeth and awaited a more 
+auspicious moment for diplomacy.12
+In mid-1964, a push to reconvene Geneva went nowhere, blocked by 
+Chinese and DRVN opposition. Still, as Washington plunged into Vietnam, 
+the conference cochairs, the Soviets and the British, tried to restrain the 
+	11	 Gnoinska, Poland and Vietnam, 1963; James G. Hershberg, “‘Dickering with Communists’ 
+and Pushing the Spaghetti in ‘That Snake Pit Called Saigon’: New Evidence on the ICC 
+and the ‘Maneli Affair,’ 1963,” for Vietnam, 1963 conference, co-sponsored by Vietnam 
+Center and Archive, Texas Tech University, Lubbock, Texas, and US National 
+Archives, Washington, DC, September 28, 2013.
+	12	 SDVW:NVPP, 4–44; Andrew Preston, “Balancing War and Peace: Canadian Diplomacy 
+and the Vietnam War, 1961–1965,” Diplomatic History 27, 1 (January 2003), 73–111; Andrew 
+Preston, “Missions Impossible: Canadian Secret Diplomacy and the Quest for Peace in 
+Vietnam,” in Lloyd C. Gardner and Ted Gittinger (eds.), The Search for Peace in Vietnam, 
+1964–1968 (College Station, TX, 2004), 117–43. The “messenger boy” quote is from J. 
+Blair Seaborn: telephone interview with the author, August 3, 2007.
+
+James G. Hershberg
+586
+burgeoning conflict – using differing means but with equal futility. The 
+United Nations also, warily, got into the act.
+The first and most controversial UN effort originated in the office of 
+Secretary General U Thant in the summer of 1964. After (separate) summits 
+with Khrushchev and LBJ, amid fears that Tonkin Gulf signaled a major war, 
+the Burmese statesman quietly probed the North Vietnamese to see whether 
+they might talk directly with American officials at a neutral site. (To transmit 
+an “oral message,” he used a Soviet aide, who passed it to Moscow.) Not 
+belonging to the world body, the DRVN resisted direct UN involvement, but 
+responded positively – in deepest secrecy – to Thant’s inquiry, through the 
+Soviet Embassy in Hanoi, expressing readiness to meet US officials.
+The Johnson administration, however, responded diffidently. US ambas-
+sador to the UN Adlai Stevenson strongly supported starting talks, but later 
+said privately that higher-ups told him to defer the matter until after the 1964 
+election. When Thant raised the idea again after LBJ had trounced Barry 
+Goldwater, Stevenson found, to his frustration, that Washington remained 
+uninterested, afraid that talking with Hanoi would rile Saigon, and the pro-
+posal died. The matter remained secret, an unexploded landmine, but Thant 
+publicly hinted at his vexation in February 1965. Americans would realize that 
+peace in Vietnam was possible, through “discussions and negotiations,” he 
+said, if they only knew the “true facts,” but, alas, truth was war’s “first casu-
+alty.” The comment infuriated LBJ.13
+1965: The Diplomacy of Escalation
+By then, Johnson had resolved to – in the words of the famous January 27, 1965, 
+“fork in the road” memorandum expressing the views of McGeorge Bundy 
+and Robert McNamara – “force a change of Communist policy.”14 As hostili-
+ties intensified in early 1965, diplomacy took a back seat. Ottawa asked whether 
+Seaborn might aid in communicating with Hanoi, but Washington declined.15 
+	13	 Mario Rossi, “U Thant and Vietnam: The Untold Story,” New York Review of Books, 
+November 17, 1966; Kraslow and Loory, Secret Search, 91–109; Walter Johnson, “The 
+U Thant–Stevenson Peace Initiatives in Vietnam, 1964–1965,” Diplomatic History 1,  3 
+(July 1977), 285–95; Bernard J. Firestone, “Failed Mediation: U Thant, the Johnson 
+Administration, and the Vietnam War,” Diplomatic History 37, 5 (November 2013), ­1060–89. 
+U Thant, View from the UN (Garden City, NY, 1978), 67. (See Soviet evidence in n. 24.)
+	14	 McGeorge Bundy to Lyndon Johnson, January 27, 1965, Foreign Relations of the United 
+States, 1964–1968 [hereafter cited as FRUS with volume and year], vol. II, Vietnam, 
+January–June 1965 (Washington, DC, 1996), doc. 42.
+	15	 Preston, “Balancing War and Peace,” 104–5.
+
+International Peace Initiatives
+587
+In  February, Johnson’s decisions to bomb North Vietnam and send troops 
+alarmed UK prime minister Harold Wilson, who tried vainly to resuscitate 
+Geneva – to curb the violence, ensure London’s involvement, and dampen dis-
+content in his own Labour Party. Moscow briefly mused reprising its cochair 
+role, but Beijing and Hanoi shot the notion down. Like his predecessor Clement 
+Attlee, who had hurried across the Atlantic in December 1950 out of fear that 
+Truman might use the atomic bomb in Korea to counter China’s intervention, 
+Wilson volunteered to cross the pond to see LBJ – only to be told over the 
+phone, “with some sharpness,” to mind his own business (“we ought not to run 
+back and forth across the Atlantic with our shirttails hanging out”).16 Pressured 
+domestically, Wilson promoted a British Commonwealth peace initiative, 
+which included important nonaligned countries, but it fizzled, envisioning but 
+never actually sending a mission to Hanoi.17
+Separately, in the spring of 1965, seventeen nonaligned countries, including 
+Algeria, Egypt, Ghana, India, and Yugoslavia – but not Sukarno’s Indonesia, 
+which vocally backed Hanoi – proposed a ceasefire and negotiations. Outside 
+the ICC purview, New Delhi suggested stopping the violence and sending 
+Afro-Asian troops to patrol the demilitarized zone along the 17th parallel; 
+visiting Moscow in May, Nehru’s successor as premier, Lal Bahadur Shastri, 
+also urged a bombing halt, irking Washington (LBJ vainly hoped India, still 
+hostile to China, would support him in Vietnam). These plans went nowhere, 
+but reflected and exacerbated sharp divisions in the nonaligned movement 
+between those prone to conciliate between East and West, and others, like 
+Sukarno, inclined toward a more militant, Maoist-style stance against impe-
+rialism, colonialism, and US “neo-colonialism.” (In 1966–7, historian Robert 
+Rakove recounts, Washington’s refusal to unilaterally stop bombing alien-
+ated even comparatively moderate nonaligned leaders such as Egypt’s Gamal 
+Abdel Nasser, Yugoslavia’s Josip Broz Tito, and India’s Indira Gandhi.)18
+China stridently backed the Vietnamese communist armed struggle, but 
+was not eager to clash militarily with the United States again as it had in 
+Korea – and in April–May 1965 quietly used international diplomacy to ­“signal” 
+Washington. The PRC message, conveyed most effectively through Britain 
+(Beijing also tried to use Pakistan, Tanzania, and Indonesia), was carefully 
+	16	 Lyndon Johnson–Harold Wilson telecon, February 10, 1965, FRUS, 1964–1968, vol. II, 
+doc. 103.
+	17	 For the Commonwealth initiative, see FO 371 files, The National Archives, Kew, 
+Richmond, UK. For British diplomacy, see Sylvia Ellis, Britain, America, and the Vietnam 
+War (Westport, CT, 2004), and Nicholas Tarling, The British and the Vietnam War: Their 
+Way with LBJ (Singapore, 2017).
+	18	 Robert B. Rakove, Kennedy, Johnson, and the Nonaligned World (New York, 2013), ch. 7.
+
+James G. Hershberg
+588
+calibrated: China did not seek war, but would fight, responding asymmetri-
+cally, if the United States expanded its bombing onto Chinese territory (or, 
+implicitly, if it invaded North Vietnam). Told of the Chinese stand, LBJ lim-
+ited US escalation accordingly, and the two countries avoided repeating the 
+Korean disaster. The evasion of another major Sino-American war, despite 
+Washington and Beijing strongly backing rivals and China’s geographical 
+proximity, was a rare Vietnam-related diplomatic success, an essential pre-
+condition for the impending Sino-American opening, and a striking case of 
+enemies learning from, rather than repeating, grim history.19
+Amid the escalation, Washington and Hanoi engaged in a substantive 
+secret direct dialogue in Paris in the summer of 1965, between DRVN diplo-
+mat Mai Văn Bộ and retired State Department official Edmund Gullion. But 
+Hanoi mysteriously cut short these “XYZ” exchanges (as US officials code-
+named them), which The Pentagon Papers dubbed a “most serious mutual 
+effort to resolve matters of substance.” After four talks, Bộ “did not show up 
+for an arranged fifth meeting,” for unclear reasons.20
+As the United States entered the Vietnam maelstrom in late 1965, two 
+controversies over international diplomatic failures embarrassed LBJ – and 
+foreshadowed the “credibility gap” that would increasingly dog him. In 
+November, the previously hidden abortive U Thant initiative surfaced, when 
+a Look magazine article by CBS commentator Eric Sevareid revealed off-the-
+record comments Stevenson had made shortly before he died a few months 
+earlier. Sevareid quoted him as saying, in his “final troubled hours,” that 
+Washington had spurned Hanoi’s offer through Thant to open direct talks 
+before and after the 1964 elections.21
+Stevenson’s posthumous revelations, coinciding with the bloodiest com-
+bat yet (in the Ia Đrăng Valley), rattled LBJ. Aides scrambled to deny that 
+Washington had blithely ignored a real overture. Secretary of State Dean 
+Rusk, who groused privately that Sevareid had “probably received a very sub-
+stantial fee” and Stevenson was a “scintillating conversationalist,” especially 
+	19	 James G. Hershberg and Chen Jian, “Reading and Warning the Likely Enemy: China’s 
+Signals to the United States about Vietnam in 1965,” International History Review 27, 
+1 (2005), 47–84; James G. Hershberg and Chen Jian, “Informing the Enemy: Sino-
+American ‘Signaling’ and the Vietnam War, 1965,” in Priscilla Roberts (ed.), Behind 
+the Bamboo Curtain: China, Vietnam, and the Cold War (Washington, DC, 2006), 193–257; 
+Lorenz M. Lüthi, “Reading and Warning the Likely Enemy – A Commentary: Signaling 
+across Four Continents,” International History Review 35, 4 (2013), 807–16.
+	20	 Leslie H. Gelb and Richard K. Betts, The Irony of Vietnam: The System Worked 
+(Washington, DC, 1979), 128; SDVW:NVPP, 74–115.
+	21	 Eric Sevareid, “The Final Troubled Hours of Adlai Stevenson,” Look, November 30, 
+1965.
+
+International Peace Initiatives
+589
+off the record, with “a touch of Hamlet,” acknowledged to Johnson that 
+behind the tepid response to Thant was fear the South Vietnamese would 
+be irked if it leaked that “the US was dickering for a settlement behind the[ir] 
+backs.”22 Officials confirmed the story’s outlines but denied politics had inter-
+fered or that Hanoi had wanted “serious” talks.23
+Decades later, after the USSR expired, Russian archival evidence found 
+by Norwegian scholar Mari Olsen confirmed that in August 1964 Hanoi had 
+secretly agreed to rendezvous with a US representative in a neutral country.24 
+Whether such contacts might have led anywhere is doubtful, but Washington 
+had no real desire to find out: Seaborn’s vain missions had sated its curios-
+ity. The incident further poisoned dealings between the UN head and LBJ’s 
+administration: “Thant lied like a sailor,” Rusk fumed.25
+The Thant–Stevenson brouhaha had barely diminished when, in 
+­mid-December, a sequel erupted, involving Italy and a recent trip to Hanoi 
+by Florentine ex-mayor Giorgio La Pira. A flamboyant, eccentric figure who 
+did not inspire American confidence, La Pira told the Italian government that 
+Hồ Chí Minh had said he was “prepared to go anywhere, to meet anyone,” to 
+negotiate peace; Rome’s foreign minister, Amintore Fanfani, duly relayed the 
+report to Washington. After Rusk skeptically demanded evidence of Hanoi’s 
+“real willingness for unconditional negotiations,” Fanfani tried to clarify Hồ 
+Chí Minh’s position – but before getting a reply Washington bombed a power 
+plant near Hải Phòng (the first major DRVN industrial target hit since the 
+war began) and, after a garbled newspaper account, released secret Rusk–
+Fanfani correspondence. When Hanoi denounced the “peace hoax” as “sheer, 
+groundless fabrication,” US aides cited the comment as proof no opportunity 
+was missed, but critics called it a predictable response to the bombing spike, 
+perhaps gauged to reassure Beijing; Fanfani stewed.26
+	22	 Rio de Janeiro embtel, November 18, 1965, FRUS, 1964–1968, vol. III, Vietnam, June–
+December 1965 (Washington, DC, 1996), 572–5.
+	23	 New York Times, November 16, 17, and 27, 1965.
+	24	 On August 29, 1964, in Hanoi, eight days after relaying the direct talks idea to Phạm 
+Văn Đồng, USSR chargé P. I. Privalov was told the North Vietnamese were “not 
+against such a proposal but underlined that from their point of view the best solution 
+was to meet at a conference in Geneva or in a neutral country that both agree upon.” 
+DRV deputy foreign minister Hoàng Văn Tiến treated the matter so warily that he 
+banished everyone else from the room before providing the handwritten answer. See 
+Mari Olsen, Soviet–Vietnam Relations and the Role of China, 1949–1964: Changing Alliances 
+(London, 2006), 133, 190 n. 84.
+	25	 Dean Rusk as told to Richard Rusk, As I Saw It, ed. Daniel S. Papp (New York, 1990), 463.
+	26	 Vietnamese records indicate Hồ Chí Minh told La Pira that Hanoi was ready “to roll 
+out the red carpet and strew flowers in their path to let the Americans withdraw,” but 
+they must first “stop their aggression” before negotiations could start. See Hershberg, 
+
+James G. Hershberg
+590
+LBJ’s 37-Day Bombing “Pause,” 1965–1966
+On the defensive, pressured to show his earnestness in seeking negotiations, 
+LBJ in late December suspended bombing North Vietnam – a “pause” that 
+would last thirty-seven days, until January 31, 1966 – and dispatched emis-
+saries around the globe to explain US peace conditions, which Rusk publicly 
+defined in fourteen points (a Wilsonian touch). Johnson fully anticipated the 
+North Vietnamese would reject those terms, thereby justifying more escala-
+tion – “knocking Hell out of ’em” after he had “walked the last mile” for peace. 
+Kraslow and Loory likened the frenetic “peace offensive” to a Texas hill coun-
+try “fandangle,” more boisterous entertainment than serious diplomacy.27
+Aside from a polite exchange of aides-mémoires between US and North 
+Vietnamese diplomats in Rangoon (code-named PINTA), American officials 
+took most seriously a covert endeavor to transmit US positions to Hanoi 
+via communist Hungary. After Rusk spoke with Budapest’s top diplomat in 
+Washington, Hungary, after duly consulting Moscow, promptly informed 
+North Vietnam through its Hanoi embassy – but then delayed relaying the 
+DRVN’s negative reply, received in early January, hoping to extend the US 
+bombing “pause” as long as possible.28
+Though less appreciated at the time, communist sources disclose that a dif-
+ferent Warsaw Pact nation, Poland, made a more senior, personal approach to 
+Hanoi to relay US terms and even advocate, fraternally, entering direct nego-
+tiations. A late December stop in Warsaw by LBJ envoy Averell Harriman 
+(who would then see Tito and Nasser, among others) prompted the Polish 
+gambit. In a “stormy” encounter with Harriman, Poland’s communist leader, 
+Władysław Gomułka, excoriated US conduct – “You are behaving like ban-
+dits” – but authorized cooperation. Secretly, his foreign minister, Rapacki, 
+sent Michałowski to hand-carry the US proposals to Hanoi. His communist 
+odyssey (which Warsaw code-named Operation Lumbago after the ailment 
+Michałowski faked to explain his absence) illuminated complex connections 
+between sharpening Sino-Soviet tensions and the Vietnam War. Stopping 
+Marigold, 16–20; Kraslow and Loory, Secret Search, 126–36. For Italy and Vietnam War 
+diplomacy, see Giovanni D’Orlandi, Diario Vietnamita, 1962–1968 (Rome, 2006); Mario 
+Sica, L’Italia e la pace in Vietnam (1965–1968) (Rome, 2013).
+	27	 For LBJ’s “pause,” see Hershberg, Marigold, prologue; Kraslow and Loory, Secret Search, 
+137–57 (for “fandangle,” see 137); and Pentagon Papers, VI.C.1 (SDVW:NVPP, 116–58).
+	28	 For the Hungarian overture, see Hershberg, Marigold, 20–3, 59–61; Zoltán Szöke, 
+“Delusion or Reality? Secret Hungarian Diplomacy during the Vietnam War,” Journal 
+of Cold War Studies 12, 4 (Fall 2010), 119–80; James G. Hershberg, “Peace Probes and the 
+Bombing Pause: Hungarian and Polish Diplomacy during the Vietnam War, December 
+1965–January 1966,” Journal of Cold War Studies 5, 2 (Spring 2003), 32–67.
+
+International Peace Initiatives
+591
+in Moscow, he obtained Soviet foreign minister Andrey Gromyko’s wary 
+approval for his journey but, when the Pole reached Beijing, the Chinese 
+blasted his mission (privately and even more nastily, though not by name, 
+in public). Unimpressed by Michałowski’s contention that Poland’s “duty” 
+was to relay the US message to Hanoi, the Chinese denounced anyone aid-
+ing Washington’s “debauched activities,” “lies and deceits,” and “blackmail.” 
+Worse, they stalled Michałowski in south China (on the pretext of US bomb-
+ing in northern North Vietnam) to leap-frog their own man to Hanoi to (the 
+Pole recalled) “get ahead of my mission to prepare the grounds for its rejec-
+tion.” “God damn those Chinese,” he grumbled on returning to Warsaw.29
+The North Vietnamese needed little convincing, having just secretly rati-
+fied a decision to press for military victory.30 After enduring a stern, Chinese-
+style lecture from DRVN foreign minister Nguyễn Duy Trinh, Michałowski 
+was warmly received by Phạm Văn Đồng, who nevertheless rejected the US 
+proposal to talk even when the Pole said this would be a “political failure,” 
+incomprehensible even to progressives and communists around the world. 
+Yet Hồ Chí Minh himself – still DRVN president and symbol of Vietnam’s 
+revolution, even as party head Lê Duẩn increasingly controlled day-to-day 
+decisions in Hanoi – rebuffed the Pole’s appeals most stridently. “Ho growing 
+old, obstinate, sermonizing, unrealistic,” Michałowski cabled Warsaw after 
+their talk, contrasting Đồng’s thoughtfulness with the 75-year-old Hồ Chí 
+Minh’s rigid insistence on inevitable military victory.31 Internal Vietnamese 
+records confirm Hồ Chí Minh’s brusque dismissal of the Pole’s arguments 
+and single-minded determination to evict the foreign invader:
+Why must the Americans go sticking [their] nose in others’ business? The 
+American government has sent their military forces here and now they must 
+stop the invasion. That’s all they need to do to resolve the problem. The 
+Americans must piss off [cút đi]! No matter what we may suffer, the Americans 
+must piss off! They must stop the invasion. Johnson’s mouth says “peace” but 
+his hand gives the order to mobilize troops. We are not rejecting anything. 
+But our people must have peace and stability. We don’t want to become the 
+victors; we just want the Americans to piss off! Goodbye! [Gút bai!]32
+	29	 For the Polish overture and the Michałowski mission, see Hershberg, “Peace Probes 
+and the Bombing Pause”; Hershberg, Marigold, esp. 39–59.
+	30	 Pierre Asselin, “‘We Don’t Want a Munich’: Hanoi’s Diplomatic Strategy, 1965–1968,” 
+Diplomatic History 36, 3 (June 2012), 547–81.
+	31	 Polish Embassy, Hanoi (Michałowski), sz. 299, January 6, 1966, Archiwum Ministerstwa 
+Spraw Zagranicznych (AMSZ), Warsaw (obtained and translated by Leo Gluchowski).
+	32	 Quoted in Lưu Văn Lợi and Nguyễn Anh Vũ, Tiếp xúc bí mật Việt Nam – Hoa Kỳ trước Hội 
+nghị Pari (2002 ed.), 134–5 (trans. Jason Hoai Tran).
+
+James G. Hershberg
+592
+The Soviets also sent a mission to Hanoi in January 1966, headed by 
+ex-KGB head Aleksandr Shelepin, but, sensing the prevailing Beijing-friendly 
+hard line, did not pressure the Vietnamese toward negotiations. As Gromyko 
+explained secretly to his Polish and Hungarian counterparts in late January, 
+“The American proposals have honest elements to them, and they are 
+looking for a way out, but for us the last word is with our Vietnamese com-
+rades.” Moscow likewise refused to deliver US messages when Soviet premier 
+Aleksey Kosygin saw Vice President Hubert H. Humphrey in mid-January at 
+Indian prime minister Shastri’s funeral in New Delhi.
+The predictable failure of the ballyhooed “pause” augured ferocious mili-
+tary escalation in 1966. Washington doubled its troop deployment to almost 
+400,000 and, in June, loosened restrictions on bombing North Vietnamese 
+targets, including near Hanoi; casualties, both US and Vietnamese, corre-
+spondingly soared. With the war dominating the global agenda, international 
+diplomacy persisted. In March and June 1966, in the modestly code-named 
+Operation Smallbridge, Canada sent a new emissary to Hanoi: former envoy 
+to China and India Chester A. Ronning. Phạm Văn Đồng received the “old 
+Asia hand” politely, and Ronning (and Ottawa’s ICC delegate, Victor C. 
+Moore) reported hints of DRVN flexibility on talks, but Washington rebuffed 
+Canada’s pleas to respond positively, reinforcing its cynicism and resentment. 
+“I hope you Americans are not escalating to a new peace offensive,” Moore 
+wryly told the US ambassador in Saigon, Henry Cabot Lodge.33
+Marigold, 1966: A Chance for Peace – Or at Least 
+Direct Talks?
+Lodge, the former Republican senator, UN ambassador, and vice presidential 
+candidate who had also been JFK’s man in Saigon, soon became enmeshed 
+in perhaps the war’s most serious, tantalizing, and controversial international 
+peace initiative: the Polish–Italian channel that Washington dubbed 
+“Marigold.” In late June 1966, Lodge received an excited urgent summons 
+from his friend, Italian ambassador Giovanni D’Orlandi, to secretly rendez-
+vous at his apartment with Polish ICC commissioner Janusz Lewandowski. 
+Based on a recent trip to Hanoi (and talk with Phạm Văn Đồng), Lewandowski 
+described surprisingly moderate DRVN stands, including a willingness to 
+tolerate a separate, noncommunist South Vietnam for a prolonged period 
+	33	 For Ronning’s missions, see SDVW:NNVP, 159–208; Preston, “Missions Impossible,” 
+129–38; Hershberg, Marigold, esp. 88–9, 114–17.
+
+International Peace Initiatives
+593
+before eventual national unification, and an apparent readiness to negotiate. 
+Hearing the report, LBJ called it “the most realistic, the most convincing, the 
+most persuasive peace feeler I’ve had since I’ve been president.” On instruc-
+tions, Lodge sent some probing queries northward in a meeting with the Pole 
+(and Italian) on July 9 but, as it awaited Hanoi’s reply, Washington began 
+bombing of “POL” (petroleum, oil, and lubricants) sites around Hanoi and 
+Hải Phòng – and the North Vietnamese angrily told the Poles to sever the 
+exchanges with the Americans, which Lewandowski did, to a deflated Lodge 
+(and D’Orlandi), on July 24.34
+So ended Marigold’s first act; its second, more serious phase occurred in 
+the fall amid intensifying fighting, and after initiatives involving Poland’s 
+Warsaw Pact comrades Romania, Czechoslovakia, and Hungary sputtered.35 
+At Italian urging, US officials had Lodge give Lewandowski in ­mid-November 
+slightly softened American terms, including the so-called Phase A/Phase B 
+gimmick for starting negotiations (Washington would stop bombing North 
+Vietnam, seemingly unconditionally, but actually in exchange for mutually 
+pre-agreed DRVN compensation) and potential toleration of a neutral South 
+Vietnam. The Pole then went to Hanoi, and returned a fortnight later with 
+the stunning news, delivered to Lodge on December 1 in another tryst at 
+D’Orlandi’s, that if the Americans really adhered to the stands Lewandowski 
+described (reduced to ten discrete points) they could confirm them officially 
+to Hanoi’s ambassador in Warsaw; implicitly, the Pole’s distillation of the US 
+position could undergird peace talks.36
+For a few days, to the handful of informed US, Polish, and Italian officials, a 
+breakthrough seemed imminent: the opening of direct US–North Vietnamese 
+conversations as early as December 6, based on mutually accepted outlines of 
+a settlement. Then, after a week or so of limbo (and near-daily maneuvering 
+between Rapacki and the US ambassador in Warsaw, John A. Gronouski), the 
+effort collapsed, for reasons the two sides would angrily dispute, first secretly 
+to each other, then in mutual leaking (to the pope, U Thant, and various gov-
+ernments, then reporters), later in historical arguments. Warsaw would claim 
+that Washington ruined an authentic, promising peace prospect by bombing 
+	34	 Hershberg, Marigold, ch. 2.
+	35	 For Kissinger and Czechoslovakia, see James G. Hershberg, “‘A Half-Hearted 
+Overture’: Czechoslovakia, Kissinger, and Vietnam, Autumn 1966,” in Gardner and 
+Gittinger (eds.), Search for Peace, 292–320; and Niall Ferguson, Kissinger, vol. I, 1923–1968: 
+The Idealist (New York, 2015), 736–40. For Hungary, see Szöke, “Delusion or Reality?”; 
+for Romania, Larry Watts, Mediating the Vietnam War: Romania and the First Trinh 
+Signal, 1965–1966, CWIHP Working Paper 81 (Washington, DC, July 2016).
+	36	 Hershberg, Marigold, chs. 4–5.
+
+James G. Hershberg
+594
+the Hanoi area for the first time in five months, despite repeated Polish warn-
+ings, on December 2, 4, and 13–14, trying to coerce the North Vietnamese to 
+the table. Conversely, Johnson administration officials would contend that 
+no real chance of peace ever existed; there was no evidence Hanoi ever even 
+authorized the Poles to arrange direct talks; and the whole business was com-
+munist disinformation, scripted by Poland or the KGB.37
+The dispute sank into history, unresolved. In 1983, commenting on the (san-
+itized) Pentagon Papers record of Marigold, the “most intriguing” and “most 
+controversial” of all Vietnam peace efforts, Herring doubted the truth would 
+ever be determined.38 The Cold War’s end, however, offered an unprece-
+dented opportunity to probe the story’s communist side. The present author 
+investigated the case for more than a decade, using new Polish, Vietnamese, 
+Soviet, Italian, Chinese, and other sources, culminating with the publication 
+of Marigold: The Lost Chance for Peace in Vietnam (2012).
+Marigold conclusively resolved the initiative’s main mystery: did North 
+Vietnam, in fact, authorize Poland to arrange direct US–DRVN exchanges 
+in Warsaw, to confirm American adherence to the terms Lodge gave in 
+Saigon to Lewandowski, which he then delivered to Hanoi? New Polish and 
+Vietnamese evidence authoritatively established that Hanoi had done so (as 
+Phạm Văn Đồng told Lewandowski on November 25 and 28 after report-
+edly stormy VWP Politburo meetings), and contrary to Johnson administra-
+tion insinuations that Rapacki or Moscow had contrived the “breakthrough” 
+as disinformation, to entice Washington into a bombing halt and expose its 
+negotiating posture.39 Moreover, evidently authentically interested, Hanoi 
+secretly sent a courier to Warsaw bearing instructions for DRVN ambas-
+sador Đỗ Phát Quang and to interpret the talks with his US counterpart, 
+Gronouski.40
+However, disagreement persists on the “so what?” question. If United 
+States–DRVN discussions in Warsaw had started in December 1966, might 
+they have helped end the war sooner? Did DRVN leaders take the initiative 
+seriously? Scholarly reactions to Marigold’s evidence, and arguments that 
+	37	 Ibid., chs. 5–17.
+	38	 SDVW:NVPP, 211–13.
+	39	 James G. Hershberg, “Cracking a Vietnam War Mystery,” National Security Archive 
+Electronic Briefing Book 369 (January 15, 2012); Hershberg, Marigold, ch. 4.
+	40	 Mysteriously, the courier recalled that on December 6, 1966, DRV ambassador Đỗ Phát 
+Quang expected Gronouski to appear at Hanoi’s embassy in Warsaw, but he never 
+arrived. The US record indicates no such meeting was arranged; Gronouski spent the 
+day negotiating with Rapacki: interview of Nguyen Dinh Phuong by the author, June 
+1999, Hanoi; Hershberg, Marigold, chs. 6–7.
+
+International Peace Initiatives
+595
+Hanoi was serious and the initiative a genuine “lost” chance for progress 
+(direct talks, if not actual peace), have varied. Some experts seem convinced 
+the initiative’s failure may have been a significant squandered opportunity; 
+others, including several fluent in Vietnamese sources, remain skeptical, 
+stressing that both Hanoi and Washington hawks remained intent on mil-
+itary victory.41 More conclusive answers await the opening of still-closed 
+Vietnamese archival evidence, especially VWP Politburo records, DRVN 
+Foreign Ministry–Warsaw embassy communications, and Foreign Minister 
+Trinh’s report on the affair.
+Whether or not Marigold could have yielded progress, its failure, worse 
+than a nonevent, seriously damaged any slim prospects for real negotiations. 
+Each side blamed the other for acting in bad faith. Even if some in Hanoi, 
+such as Đồng, had flirted with direct talks to explore allowing US troops to 
+leave Vietnam “on a red carpet” – the better to reduce the costs of ultimately 
+unifying the country under Northern, communist control, a sort of DRVN 
+analogue to the “decent interval” concept attributed later to Richard Nixon 
+and Henry Kissinger – the US bombing of Hanoi on the eve of scheduled 
+bilateral talks seemed to vindicate hardline opponents’ decision not to meet 
+in Warsaw; they could now say “I told you so” and push for renewed stress 
+on the military and political fronts in South Vietnam even while launching 
+a “diplomatic offensive” within the “fighting while negotiating” framework 
+(as refined in resolutions at the 13th VWP Central Committee Plenum in late 
+January).42
+When Marigold collapsed, the Johnson administration turned, in January 
+1967, to another international actor to probe Hanoi: France. Since Charles 
+de Gaulle condemned the US intervention in Vietnam, Washington hoped 
+to enlist the help of former French Indochina colonial administrator Jean 
+Sainteny, who was friendly with Vietnamese communist leaders. After his 
+last visit to Hanoi, in July 1966, Sainteny had discreetly passed word that the 
+DRVN would not try captured US pilots as war criminals, a prospect that had 
+alarmed Washington. His potential utility as a conduit had been underlined 
+in September when he told Kissinger, then a Harvard professor, that Phạm 
+	41	 See, e.g., Marigold forums in H-Diplo (roundtable 14:16, November 1, 2012); and Journal 
+of Cold War Studies 17, 1 (Winter 2015), 153–80; Lien-Hang T. Nguyen, Hanoi’s War: An 
+International History of the War for Peace in Vietnam (Chapel Hill, NC, 2012), 78; Pierre 
+Asselin, “A Missed Opportunity for Peace in Vietnam?” Diplomatic History 38, 2 (April 
+2013), 473–5; Preston, International Affairs 88, 5 (2012), 25–6; Ang Cheng Guan, “The 
+Vietnam War from Both Sides: Revisiting ‘Marigold,’ ‘Sunflower,’ and ‘Pennsylvania,’” 
+War and Society 24, 2 (November 2005), 93–125.
+	42	 Hershberg, Marigold, esp. 236–9, 540–54.
+
+James G. Hershberg
+596
+Văn Đồng had indicated that North Vietnam would pay “an important price” 
+for a bombing halt; and that, as the “white man most trusted in Hanoi,” he, 
+Sainteny, could undertake a “private” mission to discern more concretely the 
+DRVN position. Harriman, who met Sainteny in Paris in early December, 
+believed that the latter could be an excellent candidate to make a sondage, 
+and with Rusk’s approval dispatched aide Chester L. Cooper to formally ask 
+Sainteny to return to Hanoi. But de Gaulle, despite approving Sainteny’s prior 
+trip, now vetoed any such mission – mostly because he doubted LBJ’s sincer-
+ity in seeking peace, a view reinforced by his awareness of Poland’s conten-
+tion that US bombing had sabotaged a promising peace effort in December 
+(unbeknownst to Washington, Warsaw’s version of Marigold had reached 
+Paris via a secret leak to U Thant).43
+Moscow as Mediator?
+Marigold’s failure, coinciding with Beijing’s reduced influence in Hanoi 
+as China sank into the chaos of the Cultural Revolution and Sino-Soviet 
+friction grew, produced an important shift in Vietnam peace diplomacy: 
+Moscow, after earlier squeamishness, was finally willing to directly mediate 
+between Washington and Hanoi. An overture the Americans code-named 
+SUNFLOWER initially involved, in January, direct US–DRVN diplomatic 
+encounters in Moscow to trade positions and messages, but the first real 
+sign of the changed Soviet approach came during Kosygin’s February 1967 
+visit to Britain for a summit with Harold Wilson, which overlapped with a 
+Tết holiday US bombing stoppage. To the surprise of Wilson and American 
+diplomats in London liaising with him during the summit, the Soviet pre-
+mier, “obsessed” by the frenzied Chinese hostility, seemed ready to pass to 
+Hanoi the US stand conveyed by Wilson, including the so-called Phase A/
+Phase B formula to finesse the bombing negotiations Catch-22. “The British 
+were first startled, then delighted, to find Kosygin eager to play [a]n active 
+role as intermediary between the US and Hanoi,” The Pentagon Papers note.44 
+Hopes briefly soared, then collapsed – after LBJ, influenced by Walt Rostow, 
+hardened the US terms Wilson had given the Soviets, then resumed bombing 
+	43	 James G. Hershberg, “Collateral Damage? ‘Marigold,’ Franco-US Relations, and Secret 
+Vietnam Peace Diplomacy, 1966–1967,” Diplomacy and Statecraft 28, 3 (September 2017), 
+403–30.
+	44	 First revealed in Bernard Gwertzman, “Pentagon Papers Tell of Soviet Peace Role,” 
+New York Times, June 28, 1972.
+
+International Peace Initiatives
+597
+North Vietnam hours after Kosygin left London. Feeling burned – and already 
+furious at Washington for failing to inform him of Marigold when he sent his 
+own foreign secretary, George Brown, to Moscow in late November 1966, 
+thereby undermining his credibility with the Soviets – Wilson blamed the 
+Americans for scuttling a genuine chance for a breakthrough: “I believe peace 
+was almost within our grasp.”45
+With North Vietnam focused on military, not diplomatic, progress, the 
+ever hopeful British leader undoubtedly overstated any opportunity that 
+might have existed – yet the episode represented an important Soviet shift: 
+Kosygin was also willing to convey to Hanoi US conditions for stopping the 
+bombing received during his June 1967 encounter with LBJ in Glassboro, 
+New Jersey.46
+Despite Kosygin’s cooperation, however, SUNFLOWER failed to elicit 
+any reply from Hanoi, none Moscow considered worth reporting. Nineteen 
+sixty-seven was a year for war in Vietnam: Washington further eased limits 
+on Rolling Thunder bombing and upped troop levels from nearly 400,000 to 
+almost half a million, and US casualties doubled. As peace hopes dimmed and 
+global protests surged, international peace efforts yielded “little more than 
+diplomatic shadowboxing,” Herring noted.47 Those pushing peace included 
+Thant, who repeatedly called for a bombing halt and in March met North 
+Vietnamese representatives in Burma; India, which attained the code name 
+but not state of NIRVANA in fitful contacts with a DRVN diplomat in New 
+Delhi, and led together with Canada a futile effort to spark a new ICC ini-
+tiative; Algeria, which after receiving a visit from Harriman tried vainly to 
+arrange a US rendezvous with the local National Liberation Front repre-
+sentative; the Scandinavians, whom Washington enlisted to sound out the 
+North Vietnamese through Swedish and Norwegian diplomats in Warsaw 
+and Beijing (ASPEN and OHIO); a retired Mexican diplomat who met Hồ Chí 
+Minh (AZTEC); and assorted activists, organizations (Center for the Study 
+of Democratic Institutions, Pacem in Terris, et al.), and journalists (radical 
+	45	 For “Sunflower” and the Wilson–Kosygin summit, see Ilya V. Gaiduk, The Soviet Union 
+and the Vietnam War (Chicago, 1996), 96–107; Ellis, Britain, America, and the Vietnam War, 
+ch. 5; John Dumbrell and Sylvia Ellis, “British Involvement in Vietnam Peace Initiatives: 
+Marigolds, Sunflowers, and ‘Kosygin Week,’” Diplomatic History 27, 1 (January 2003), 
+113–49; and Tarling, British and the Vietnam War, ch. 7.
+	46	 Kosygin’s Glassboro conversations with LBJ on June 23 and 25, 1967, can be found in 
+FRUS, 1964–1968, vol. XIV, Soviet Union (Washington, DC, 2001), docs. 232, 235; and 
+Gaiduk, Soviet Union and the Vietnam War, ch. 6.
+	47	 SDVW:NVPP, 521.
+
+James G. Hershberg
+598
+Australian Wilfred Burchett waltzed in MATILDA) able to secure visas to 
+Hanoi or contacts with DRVN agents such as Mai Văn Bộ in Paris.48
+1967–1968: Approaching Tet – And Paris
+However, from June to October 1967 the international diplomatic initiative 
+that garnered the most sustained high-level attention from Washington 
+(and later historians) involved France. This PENNSYLVANIA channel to 
+Hanoi engaged not the de Gaulle government (he remained skeptical of 
+LBJ but gave the initiative his “discreet approval”), but two French scien-
+tists, Raymond Aubrac and Herbert Marcovitch, with personal ties to Hồ Chí 
+Minh, who agreed to mediate after meeting Kissinger at a Paris “Pugwash” 
+session. Over several months, as Aubrac and Marcovitch visited Hanoi in late 
+July, met Hồ Chí Minh and Đồng, and proposed further contacts aimed at a 
+bombing halt and opening negotiations, the North Vietnamese seemed to 
+dangle the prospect of a meeting in Paris between Kissinger and Mai Văn Bộ; 
+the Frenchmen ferried messages between them. Within the Johnson admin-
+istration, PENNSYLVANIA inspired more support from Defense Secretary 
+Robert S. McNamara (who was fast losing faith that military force, in par-
+ticular bombing, could produce victory) than Secretary of State Rusk, who 
+doubted diplomacy could move Hanoi to an acceptable stand.
+PENNSYLVANIA was Kissinger’s most intense preview of his involvement 
+in Vietnam diplomacy under Nixon, but contrary to his memoirs49 it was not 
+his Vietnam diplomatic debut: consulting for Johnson’s State Department, 
+he had already furthered prior efforts to use Czechoslovakia and Sainteny as 
+mediators. Dropping tantalizing hints but repeatedly deferring a Bộ–Kissinger 
+meeting (which the latter avidly desired), the North Vietnamese strung 
+Washington along but were not really yet interested in negotiations, secretly 
+marshaling their energies for the military strike that would take the form of 
+the January 1968 Tet Offensive.50 A captured DRVN document, leaked to a 
+US reporter in mid-1967, hinted at Hanoi’s disdain for diplomacy, quoting Lê 
+Duẩn as telling Southern-based guerrillas that they should fight on even if 
+	48	 The US records on these initiatives are in Pentagon Papers, VI.C.4; FRUS, 1964–1968, vol. 
+V, Vietnam, 1967 (Washington, DC, 2002); and Hershberg, Marigold, chs. 12–13.
+	49	 Henry A. Kissinger, Ending the Vietnam War: A History of America’s Involvement in and 
+Extrication from the Vietnam War (New York, 2003), 41, incorrectly gives this impression.
+	50	 For PENNSYLVANIA, see SDVW:NVPP, 716–71; Robert K. Brigham and George C. 
+Herring, “The PENNSYLVANIA Peace Initiative: June–October 1967,” in Gardner and 
+Gittinger (eds.), Search for Peace, 59–74; and Ferguson, Kissinger, vol. I, ch. 20.
+
+International Peace Initiatives
+599
+North Vietnam agreed to talks with the United States. “We must foresee this 
+so that we have a correct understanding and should not depend upon nego-
+tiations,” the VWP general secretary, a Southerner, explained. “The reason 
+why we advocate negotiations is that we want to prove that we are always 
+concerned about peace on a correct basis.”51
+Ultimately, PENNSYLVANIA nudged the process forward only slightly, 
+prodding LBJ to utter publicly, on September 29, the “San Antonio formula” 
+in which he agreed to stop bombing North Vietnam once assured that step 
+would “lead promptly to productive discussion” and assuming Hanoi would 
+not “take advantage” of a bombing curb (for example, through stepped-up 
+infiltration of the South).52
+In late 1967 diplomatic activities related to the war intensified, but Hanoi 
+and Washington had divergent motives in pursuing them. The Americans still 
+wondered whether Hanoi might enter talks under acceptable conditions, but 
+the North Vietnamese were setting the stage for the Tet Offensive, laying the 
+groundwork for diplomatic follow-up to the military and political gains they 
+anticipated, particularly with LBJ under domestic political pressure facing a 
+reelection (and Democratic renomination) campaign. To do so they tiptoed 
+toward talks. In November, at the annual Bolshevik Revolution festivities in 
+Moscow, they dallied with the Poles again: Lê Duẩn told Gomułka Hanoi 
+would negotiate three weeks after a US bombing halt – but when Warsaw’s 
+ambassador in Washington passed the news along Rusk was unimpressed 
+with the rare DRVN commitment to a concrete date.53 Hanoi went public 
+with more forthcoming language in late December, when Foreign Minister 
+Trinh clarified at a Mongolian reception that North Vietnam “will” – not 
+“could” – talk with the United States once it “unconditionally” stopped 
+bombing.54
+By then, as a new principal channel, Washington had turned to Romania, 
+whose leader, Nicolae Ceauşescu, was acting as a self-styled communist 
+“maverick” by refusing to back the Kremlin in the Sino-Soviet split and balk-
+ing at breaking ties with Israel during the June 1967 Arab–Israeli War like the 
+rest of the Warsaw Pact. Bucharest had quietly tried since early 1965 to prod 
+the North Vietnamese to talk and in late 1966 had perhaps, like the Poles, 
+	51	 Bernard Gwertzman, My Memoirs: Fifty Years of Journalism, from Print to the Internet 
+(Bloomington, 2016), 77.
+	52	 Editorial Note, FRUS, 1964–1968, vol. V, doc. 340.
+	53	 Hershberg, Marigold, 639–40, 643–4.
+	54	 Editorial Note, FRUS, 1964–1968, vol. V, doc. 451; “Hanoi Again Offers Talks If US 
+Bombings End,” New York Times, December 31, 1967, 2.
+
+James G. Hershberg
+600
+exerted some slight fraternal influence on them.55 In the winter of 1967–8, with 
+Moscow again staying aloof, its dialogue with the US and DRVN leaderships 
+came to the fore. In an initiative State Department aides optimistically tagged 
+PACKERS (after the inaugural Super Bowl’s winners), Romania sent missions 
+to Hanoi in December and January, conveying messages and seeking to rec-
+oncile the two sides’ ever-so-slowly-converging stands on a formula to stop 
+the bombing and start talking.56 The fencing fizzled, yet the Romanians’ care-
+ful, accurate, and discreet handling of the sensitive contacts impressed top 
+US officials, who far preferred them to the Hungarians or Poles – so much so 
+that LBJ, while vetoing Warsaw, would secretly approve Bucharest as a pos-
+sible site for what became the Paris talks.57 The exercise boosted Ceauşescu’s 
+ambition to elevate his country’s (and his own) prestige: after he again defied 
+Moscow by opposing the August 1968 invasion of Czechoslovakia, the incom-
+ing Nixon administration would choose Romania for another sensitive medi-
+ation mission, tapping it (along with Pakistan) to relay to Beijing US interest 
+in normalizing Sino-American relations.58
+As PACKERS faded in February, Washington tracked another channel 
+to the North Vietnamese: the Italians, who reported being approached by 
+Hanoi’s ambassador to Czechoslovakia. What Fanfani did not tell Rusk was 
+that Rome had assiduously pursued a dialogue with the DRVN in Prague 
+since the previous summer, in contacts brokered by the Italian Communist 
+Party and involving Marigold veteran Giovanni D’Orlandi, no longer Rome’s 
+envoy in Saigon. The initial contacts proved fruitless, but Hanoi had reopened 
+the channel in mid-January – hoping to integrate the diplomacy with the 
+upcoming offensive. Though wary, the Americans favored the Italian-
+mediated dialogue, and gave it another positive sports-related code name: 
+KILLY, after the gold medal–winning French alpine skier Jean-Claude Killy. 
+Fanfani and D’Orlandi hosted a secret DRVN delegation in Rome, yet a bid 
+to link a bombing halt and negotiations start remained frustratingly elusive.59
+	55	 Watts, “Mediating the Vietnam War.”
+	56	 SDVW:NVPP, esp. 801–15; Mircea Munteanu, “Over the Hills and Far Away: Romania’s 
+Attempts to Mediate the Start of US–North Vietnamese Negotiations, 1967–1968,” 
+Journal of Cold War Studies 14, 3 (Summer 2012), 64–96.
+	57	 Hershberg, Marigold, 684.
+	58	 Mircea Munteanu, “Communication Breakdown? Romania and the Sino-American 
+Rapprochement,” Diplomatic History 33, 4 (September 2009), 615–31.
+	59	 For KILLY, see SDVW:NNPP, esp. 816–18; Sica, L’Italia e la pace in Vietnam; Hershberg, 
+Marigold, 666–81; James G. Hershberg, “Prelude to Paris: New Evidence on Italy, 
+Vietnam, and ‘KILLY,’” paper for conference War, Diplomacy and Public Opinion: 
+The Paris Peace Talks and the End of the War in Vietnam, 1968–1975, Centre d’Études 
+d’Histoire de la Défense, Paris, France, May 13–15, 2008.
+
+International Peace Initiatives
+601
+Ultimately, not international diplomacy but military and political develop-
+ments finally brought the United States and North Vietnam into direct talks. 
+LBJ, facing a powerful challenge from antiwar Democrats, abruptly exited 
+the presidential race and sharply limited US bombing of North Vietnam on 
+March 31, 1968; three days later, Hanoi (having invested so much in Tet) 
+agreed to begin direct discussions. After a month of wrangling over a site for 
+the talks, they agreed to meet in Paris, and bilateral US–DRVN exchanges 
+effectively replaced third-party international diplomacy as the principal arena 
+to seek peace, or at least peace talks.
+Conclusion
+International diplomacy offered only limited opportunities to ameliorate the 
+Vietnam War given incompatible US and DRVN objectives, military confi-
+dence, domestic politics, and willingness to endure pain. As recounted above, 
+the July 1962 Harriman–Ung Văn Khiêm conversation and 1964–5 U Thant 
+initiative were probably missed chances to launch an ongoing US–North 
+Vietnamese dialogue – which would at least have broken the taboo on direct 
+contacts and enabled Washington and Hanoi to understand each other bet-
+ter, though whether this would have lessened, shortened, or avoided the 
+conflict seems doubtful. Of the myriad international diplomatic initiatives 
+during the 1965–8 escalation, Marigold may have offered both Washington 
+and Hanoi a de facto “decent interval” medium-term solution (withdrawal 
+of US troops for a DRVN deferral of unification), or at least a chance to enter 
+direct discussions roughly a year and a half earlier than in fact happened – but 
+it is hard to extract much hope, aside from mutual maneuvering, probing, 
+and seeking benefit in international public opinion, from the numerous other 
+peace campaigns and conspiracies, especially as both sides intensified military 
+operations seeking a decisive blow, in the buildup to 1968.
+So, was it all sound, fury, intrigue, and paper-pushing, signifying very little? 
+In terms of the war’s outcome, perhaps. Yet Vietnam diplomacy also both 
+influenced and reflected wider developments in international affairs, espe-
+cially the Sino-Soviet split and the Cold War – and offered clues to the move at 
+the end of the 1960s toward both détente and Sino-American rapprochement.
+On the communist side, international diplomacy offered a barometer to 
+measure the Sino-Soviet split’s intensity. With Beijing angrily opposing nego-
+tiations and ardently favoring armed struggle, the willingness of Warsaw 
+Pact nations such as Hungary and Poland to take whirls at persuading Hanoi 
+to enter talks with the Americans in 1965–6 signaled Moscow’s cautious 
+
+James G. Hershberg
+602
+approval of that course. In 1967, the Soviets’ attempts to directly mediate, 
+overcoming prior reticence, showed their exasperation with the Chinese 
+and refusal to let Mao Zedong drag them into a war with the United States. 
+Coming as the superpowers – despite differences over the Arab–Israeli War 
+and other issues – finalized a nuclear nonproliferation treaty, the enhanced 
+if still limited Soviet cooperation on Vietnam foreshadowed a broader US–
+Soviet détente and would persist, intermittently, on the Paris talks’ sidelines. 
+As for Hanoi, its spring 1968 consent finally to talk directly with Washington 
+revealed that it had moved to Moscow’s side of the communist quarrel, and 
+aroused sharp protest from the Chinese – who even, bizarrely, blamed the 
+DRVN’s announcement of its readiness to meet the Americans, on April 3, 
+1968, for the assassination of Martin Luther King, Jr., the next day.60 Sino-
+Vietnamese friction over negotiations hinted at sharper tensions to come – 
+exacerbated by the 1971 Sino-US opening and climaxing, of course, in the 1979 
+border clash (the “Third Indochina War”).
+The Vietnam War’s international diplomacy also had implications and 
+complications for the West. Skeptical of Washington’s deepening involve-
+ment, crucial NATO allies criticized LBJ’s handling of peace overtures and, 
+in the case of Ottawa, London, and Rome, felt burned by what they viewed 
+as Washington’s botching of initiatives in which they were involved. The 
+diplomatic debacles increased the tension already developing between 
+Washington and the West European allies over the war, as the Europeans 
+rebuffed LBJ’s entreaties to tangibly support South Vietnam and worried that 
+their superpower patron had become grossly overcommitted and distracted 
+in Southeast Asia.
+Also tangible, if difficult to measure, was the failed international diplo-
+macy’s impact on US domestic politics. The charge that LBJ had fumbled 
+peace efforts through incompetence – or worse, given the repeated untimely 
+bombing raids just as diplomacy seemed on the verge of progress, deliberately 
+sabotaged them in the hawkish belief that military pressure on Hanoi could 
+produce a better outcome – stirred opposition to the president among anti-
+war Democrats, including former supporters on Capitol Hill. Disgust over 
+Johnson’s perceived mismanagement of Vietnam diplomacy helped inspire 
+Senators Eugene McCarthy (D-Minnesota) and Robert F. Kennedy (D-New 
+	60	 Zhou Enlai–Phạm Văn Đồng conversation, April 13, 1968, in Odd Arne Westad, 
+Chen Jian, Stein Tønnesson, Nguyen Vu Tung, and James G. Hershberg (eds.), 77 
+Conversations between Chinese and Foreign Leaders on the Wars in Indochina, 1964–1977, 
+CWIHP Working Paper 22 (Washington, DC, May 1998), 121–2; Qiang Zhai, China and 
+the Vietnamese Wars, 1950–1975 (Chapel Hill, NC, 2000).
+
+International Peace Initiatives
+603
+York) to challenge LBJ for the Democratic Party’s nomination in 1968 – a 
+crucial part of the dynamic that prompted the president’s shocking March 31 
+departure from the race to focus on the search for peace. Conversely, though 
+naturally it is impossible to know how counterfactual history would have 
+gone, had one of the diplomatic initiatives noted above, such as Marigold, 
+produced direct US–North Vietnam negotiations, even if they later broke down, 
+it seems far less likely that a prominent Democrat would have challenged an 
+incumbent. Another speculative yet plausible question is whether, had ongo-
+ing US–DRVN discussions started in 1967 – again, even if they withered – the 
+Tet Offensive’s planning and hence timetable might have been delayed. Had 
+it taken place months later, of course, the consequences for the US presiden-
+tial campaign would have been immense.

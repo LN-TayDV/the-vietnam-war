@@ -1,0 +1,192 @@
+[
+  {
+    "tu_chuan": "giấy bạc",
+    "source_id": "SRC-009",
+    "document": "Tạp chí Bách Khoa số 405 (1974)",
+    "page": "BK405 p.5",
+    "context": "trả bằng những tờ giấy bạc lớn đêu",
+    "ocr_status": "OCR_PENDING",
+    "verification": "OCR_PENDING",
+    "note": "Trích từ OCR Tesseract 5.4.0 + vie; cần đối chiếu với ảnh gốc PDF"
+  },
+  {
+    "tu_chuan": "tiền đồng",
+    "source_id": "SRC-009",
+    "document": "Tạp chí Bách Khoa số 405 (1974)",
+    "page": "BK405 p.1",
+    "context": "tiền đồng",
+    "ocr_status": "OCR_PENDING",
+    "verification": "OCR_PENDING",
+    "note": "Trích từ OCR Tesseract 5.4.0 + vie; cần đối chiếu với ảnh gốc PDF"
+  },
+  {
+    "tu_chuan": "viện trợ",
+    "source_id": "SRC-009",
+    "document": "Tạp chí Bách Khoa số 405 (1974)",
+    "page": "BK405 p.1",
+    "context": "đã có phương tiện đề tung viện trợ",
+    "ocr_status": "OCR_PENDING",
+    "verification": "OCR_PENDING",
+    "note": "Trích từ OCR Tesseract 5.4.0 + vie; cần đối chiếu với ảnh gốc PDF"
+  },
+  {
+    "tu_chuan": "tái thiết",
+    "source_id": "SRC-009",
+    "document": "Tạp chí Bách Khoa số 405 (1974)",
+    "page": "BK405 p.5",
+    "context": "dụng mọi khả năng đề tái thiết một nước Nhật điêu tàn",
+    "ocr_status": "OCR_PENDING",
+    "verification": "OCR_PENDING",
+    "note": "Trích từ OCR Tesseract 5.4.0 + vie; cần đối chiếu với ảnh gốc PDF"
+  },
+  {
+    "tu_chuan": "quỹ",
+    "source_id": "SRC-009",
+    "document": "Tạp chí Bách Khoa số 405 (1974)",
+    "page": "BK405 p.0",
+    "context": "quỹ",
+    "ocr_status": "OCR_PENDING",
+    "verification": "OCR_PENDING",
+    "note": "Trích từ OCR Tesseract 5.4.0 + vie; cần đối chiếu với ảnh gốc PDF"
+  },
+  {
+    "tu_chuan": "khoản",
+    "source_id": "SRC-009",
+    "document": "Tạp chí Bách Khoa số 405 (1974)",
+    "page": "BK405 p.0",
+    "context": "khoản",
+    "ocr_status": "OCR_PENDING",
+    "verification": "OCR_PENDING",
+    "note": "Trích từ OCR Tesseract 5.4.0 + vie; cần đối chiếu với ảnh gốc PDF"
+  },
+  {
+    "tu_chuan": "luật sư",
+    "source_id": "SRC-009",
+    "document": "Tạp chí Bách Khoa số 405 (1974)",
+    "page": "BK405 p.5",
+    "context": "sau đó làm Luật sư Tòa Thượng-thầm",
+    "ocr_status": "OCR_PENDING",
+    "verification": "OCR_PENDING",
+    "note": "Trích từ OCR Tesseract 5.4.0 + vie; cần đối chiếu với ảnh gốc PDF"
+  },
+  {
+    "tu_chuan": "quận trưởng",
+    "source_id": "SRC-009",
+    "document": "Tạp chí Bách Khoa số 405 (1974)",
+    "page": "BK405 p.5",
+    "context": "khi về làm Quận trưởng Tiên-Phước",
+    "ocr_status": "OCR_PENDING",
+    "verification": "OCR_PENDING",
+    "note": "Trích từ OCR Tesseract 5.4.0 + vie; cần đối chiếu với ảnh gốc PDF"
+  },
+  {
+    "tu_chuan": "hội đồng xã",
+    "source_id": "SRC-009",
+    "document": "Tạp chí Bách Khoa số 405 (1974)",
+    "page": "BK405 p.0",
+    "context": "hội đồng xã",
+    "ocr_status": "OCR_PENDING",
+    "verification": "OCR_PENDING",
+    "note": "Trích từ OCR Tesseract 5.4.0 + vie; cần đối chiếu với ảnh gốc PDF"
+  },
+  {
+    "tu_chuan": "luật",
+    "source_id": "SRC-009",
+    "document": "Tạp chí Bách Khoa số 405 (1974)",
+    "page": "BK405 p.0",
+    "context": "luật",
+    "ocr_status": "OCR_PENDING",
+    "verification": "OCR_PENDING",
+    "note": "Trích từ OCR Tesseract 5.4.0 + vie; cần đối chiếu với ảnh gốc PDF"
+  },
+  {
+    "tu_chuan": "dụ",
+    "source_id": "SRC-009",
+    "document": "Tạp chí Bách Khoa số 405 (1974)",
+    "page": "BK405 p.0",
+    "context": "dụ",
+    "ocr_status": "OCR_PENDING",
+    "verification": "OCR_PENDING",
+    "note": "Trích từ OCR Tesseract 5.4.0 + vie; cần đối chiếu với ảnh gốc PDF"
+  },
+  {
+    "tu_chuan": "đô thị",
+    "source_id": "SRC-009",
+    "document": "Tạp chí Bách Khoa số 405 (1974)",
+    "page": "BK405 p.1",
+    "context": "chỗ cho những đô thị vĩ đại với những",
+    "ocr_status": "OCR_PENDING",
+    "verification": "OCR_PENDING",
+    "note": "Trích từ OCR Tesseract 5.4.0 + vie; cần đối chiếu với ảnh gốc PDF"
+  },
+  {
+    "tu_chuan": "nông thôn",
+    "source_id": "SRC-009",
+    "document": "Tạp chí Bách Khoa số 405 (1974)",
+    "page": "BK405 p.1",
+    "context": "nơi (đô thị, nông thôn) và thông qua",
+    "ocr_status": "OCR_PENDING",
+    "verification": "OCR_PENDING",
+    "note": "Trích từ OCR Tesseract 5.4.0 + vie; cần đối chiếu với ảnh gốc PDF"
+  },
+  {
+    "tu_chuan": "đồng bằng",
+    "source_id": "SRC-009",
+    "document": "Tạp chí Bách Khoa số 405 (1974)",
+    "page": "BK405 p.0",
+    "context": "đồng bằng",
+    "ocr_status": "OCR_PENDING",
+    "verification": "OCR_PENDING",
+    "note": "Trích từ OCR Tesseract 5.4.0 + vie; cần đối chiếu với ảnh gốc PDF"
+  },
+  {
+    "tu_chuan": "sông",
+    "source_id": "SRC-009",
+    "document": "Tạp chí Bách Khoa số 405 (1974)",
+    "page": "BK405 p.0",
+    "context": "sông",
+    "ocr_status": "OCR_PENDING",
+    "verification": "OCR_PENDING",
+    "note": "Trích từ OCR Tesseract 5.4.0 + vie; cần đối chiếu với ảnh gốc PDF"
+  },
+  {
+    "tu_chuan": "rừng",
+    "source_id": "SRC-009",
+    "document": "Tạp chí Bách Khoa số 405 (1974)",
+    "page": "BK405 p.0",
+    "context": "rừng",
+    "ocr_status": "OCR_PENDING",
+    "verification": "OCR_PENDING",
+    "note": "Trích từ OCR Tesseract 5.4.0 + vie; cần đối chiếu với ảnh gốc PDF"
+  },
+  {
+    "tu_chuan": "biển",
+    "source_id": "SRC-009",
+    "document": "Tạp chí Bách Khoa số 405 (1974)",
+    "page": "BK405 p.0",
+    "context": "biển",
+    "ocr_status": "OCR_PENDING",
+    "verification": "OCR_PENDING",
+    "note": "Trích từ OCR Tesseract 5.4.0 + vie; cần đối chiếu với ảnh gốc PDF"
+  },
+  {
+    "tu_chuan": "hoàng đế",
+    "source_id": "SRC-009",
+    "document": "Tạp chí Bách Khoa số 405 (1974)",
+    "page": "BK405 p.1",
+    "context": "cuốn Hoàng Đế Nội-Kinh",
+    "ocr_status": "OCR_PENDING",
+    "verification": "OCR_PENDING",
+    "note": "Trích từ OCR Tesseract 5.4.0 + vie; cần đối chiếu với ảnh gốc PDF"
+  },
+  {
+    "tu_chuan": "hội nghị",
+    "source_id": "SRC-009",
+    "document": "Tạp chí Bách Khoa số 405 (1974)",
+    "page": "BK405 p.0",
+    "context": "tham dự hội nghị các",
+    "ocr_status": "OCR_PENDING",
+    "verification": "OCR_PENDING",
+    "note": "Trích từ OCR Tesseract 5.4.0 + vie; cần đối chiếu với ảnh gốc PDF"
+  }
+]
