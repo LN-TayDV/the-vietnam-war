@@ -60,7 +60,7 @@ INK = RGBColor(0x1A, 0x1A, 0x1A)
 MUTED = RGBColor(0x55, 0x55, 0x55)
 RULE = "BFBFBF"
 
-P_HDR = re.compile(r"^--- \[([A-Za-z0-9]+-P\d+)\] \(trang ([^)]+)\)(?: — (.*?))? ---$")
+P_HDR = re.compile(r"^--- \[([A-Za-z0-9]+-(?:P\d+|IMG\d+|PIMG\d+))\] \(trang ([^)]+)\)(?: — (.*?))? ---$")
 N_HDR = re.compile(r"^--- \[Cước chú (.*?)\] ---$")
 FN_BRACKET = re.compile(r"^\[(\d+)\]\s*(.*)$")
 FN_BARE = re.compile(r"^(\d+)\s+(?=\S)(.*)$")

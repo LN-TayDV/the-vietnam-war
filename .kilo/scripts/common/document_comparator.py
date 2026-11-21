@@ -84,6 +84,10 @@ def compare_paragraphs(src_paras: list, vi_paras: list) -> dict:
     
     all_ids = set(src_by_id.keys()) | set(vi_by_id.keys())
     
+    # Loại bỏ paragraph IMAGE (caption riêng) khỏi so sánh alignment
+    # vì chúng được thêm để trình bày hình ảnh trong DOCX, không phải nội dung dịch.
+    all_ids = {pid for pid in all_ids if "-IMG" not in pid}
+    
     for pid in sorted(all_ids):
         src = src_by_id.get(pid)
         vi = vi_by_id.get(pid)

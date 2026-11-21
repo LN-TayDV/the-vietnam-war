@@ -1,0 +1,46 @@
+{
+  "images": [
+    {
+      "image_id": "v1-C09-IMG001",
+      "source_pdf": "C:\\Users\\PC\\Documents\\AI_project\\the-vietnam-war\\books\\The_Cambridge_History_of_the_Vietnam_War.pdf",
+      "volume": "V1",
+      "chapter": 9,
+      "pdf_page": 213,
+      "printed_page": 197,
+      "filename": "ch09_p213_img0.png",
+      "image_type": "raster",
+      "width": 1300,
+      "height": 926,
+      "caption": "Bảo Đại, vị vua của Annam, và các lãnh đạo thiểu số dân tộc ở Đông Dương (khoảng thập niên 1930).",
+      "extraction_status": "OK"
+    },
+    {
+      "image_id": "v1-C09-IMG002",
+      "source_pdf": "C:\\Users\\PC\\Documents\\AI_project\\the-vietnam-war\\books\\The_Cambridge_History_of_the_Vietnam_War.pdf",
+      "volume": "V1",
+      "chapter": 9,
+      "pdf_page": 226,
+      "printed_page": 210,
+      "filename": "ch09_p226_img0.png",
+      "image_type": "raster",
+      "width": 1300,
+      "height": 729,
+      "caption": "Cựu hoàng đế Việt Nam Bảo Đại (đứng) đọc bài phát biểu tại lễ thề tôn thành có sự tham gia của các lãnh đạo thiểu số dân tộc cao nguyên tại thành phố Ban Mê Thuột vào tháng Sáu năm 1949. Léon Pignon, cao ủy Pháp của Đông Dương, đang ngồi trước mặt Bảo Đại.",
+      "extraction_status": "OK"
+    },
+    {
+      "image_id": "v1-C09-VEC003",
+      "source_pdf": "C:\\Users\\PC\\Documents\\AI_project\\the-vietnam-war\\books\\The_Cambridge_History_of_the_Vietnam_War.pdf",
+      "volume": "V1",
+      "chapter": 9,
+      "pdf_page": 231,
+      "printed_page": 215,
+      "filename": "",
+      "image_type": "vector_drawings",
+      "width": 0,
+      "height": 0,
+      "caption": "",
+      "extraction_status": "VECTOR_ONLY_113_drawings"
+    }
+  ]
+}
