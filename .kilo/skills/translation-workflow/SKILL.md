@@ -1,6 +1,6 @@
 ---
 name: translation-workflow
-description: Workflow chuẩn cho dự án dịch The Cambridge History of the Vietnam War sang tiếng Việt miền Nam (VNCH pre-1975). Capture toàn bộ quy trình, cấu trúc file, kiểm tra chất lượng, theo dõi tiến độ và xuất DOCX chuẩn (bố cục sách, footnote chân trang) sau mỗi chương. Dùng khi bắt đầu dịch chương mới, tiếp tục dự án dịch, hoặc xuất bản một chương đã dịch xong.
+description: Workflow chuẩn cho dự án dịch The Cambridge History of the Vietnam War sang tiếng Việt miền Nam (VNCH pre-1975). Bao gồm quy tắc VLP-01 (Tiếng Việt trước) bắt buộc áp dụng ngay từ câu đầu tiên. Capture toàn bộ quy trình, cấu trúc file, kiểm tra chất lượng, theo dõi tiến độ và xuất DOCX chuẩn (bố cục sách, footnote chân trang) sau mỗi chương. Dùng khi bắt đầu dịch chương mới, tiếp tục dự án dịch, hoặc xuất bản một chương đã dịch xong.
 ---
 
 # Translation Workflow — The Cambridge History of the Vietnam War
@@ -186,13 +186,15 @@ python -c "from docx_builder import DocxBuilder; from pathlib import Path; b=Doc
 | 1 | Phân tích ngữ pháp nguyên tác (chủ thể, vị ngữ, đối tượng, quan hệ logic) | `contextual-translation` |
 | 2 | Xác định chủ thể, vị ngữ, đối tượng; passive → chủ động | `contextual-translation` |
 | 3 | Phân tích quan hệ logic (dùng từ nối Nam Bộ: dầu, trái lại, tuy vậy, bởi thế, vả) | `contextual-translation` |
-| 4 | Xác định thuật ngữ (tra Lexicon → VNCH Grammar → Nguồn VNCH → giữ gốc + ghi chú) | `historical-terminology-research` |
-| 5 | Tái cấu trúc VNCH: chủ động hóa, chỉ định, trạng từ nầy/đó/kia, thể khía, đại từ, từ nối, CẤM dịch từng từ | `southern-vietnamese-editorial-style` |
+| 4 | Xác định thuật ngữ (tra Lexicon → VNCH Grammar → Nguồn VNCH → giữ gốc + ghi chú) + **VLP-01: nhận diện từ/cụm ngoại ngữ trong nguồn, phân loại A/B/C/D trước khi dịch** | `historical-terminology-research` |
+| 5 | Tái cấu trúc VNCH: chủ động hóa, chỉ định, trạng từ nầy/đó/kia, thể khía, đại từ, từ nối, CẤM dịch từng từ + **VLP-01: dịch nghĩa sang tiếng Việt trước, chỉ giữ ngoại ngữ khi có lý do ngôn học/nội dung rõ ràng** | `southern-vietnamese-editorial-style` |
+| 5b | **Kiểm tra cấp câu VLP-01**: không còn ngoại ngữ có thể dịch nhưng bị giữ nguyên, không dùng phiên âm thay nghĩa, không cấu trúc dịch máy/ngoại ngữ, tự nhiên với độc giả VNCH trước 1975 | `translation-error-detection` |
 | 6 | Đối chiếu: số câu, thông tin, thuật ngữ, cước chú, alignment (src=vi) | `deep-translation-review` |
 | 7 | Kiểm tra dễ hiểu (hiểu ngay lần đầu) | `deep-translation-review` |
 
-### BƯỚC 4: KIỂM TRA ORTHOGRAPHY
+### BƯỚC 4: KIỂM TRA ORTHOGRAPHY + VLP-01
 - Chạy `python .kilo/scripts/common/vnch_orthography.py --check-only NN` → 0 lỗi CRITICAL/MAJOR.
+- **VLP-01 sentence-level check**: Mỗi câu đã được kiểm tra không còn ngoại ngữ có thể dịch, không phiên âm thay nghĩa, không cấu trúc dịch máy, tự nhiên với độc giả VNCH trước 1975.
 
 ### BƯỚC 5: THÊM CỤC CHÚ
 - Giữ marker `[N]`/`N` trong thân bài. Khối `--- [Cước chú trang X-Y] ---`.
@@ -213,23 +215,106 @@ python -c "from docx_builder import DocxBuilder; from pathlib import Path; b=Doc
    - [ ] 4. Đồng bộ cước chú: src = vi (`docx_builder.py` → `OK N/N`)
    - [ ] 5. Không fabricate
    - [ ] 6. Văn phong tự nhiên (S1-S20, P1-P10)
+   - [ ] 6b. **VLP-01 Tiếng Việt trước**: không còn từ/cụm ngoại ngữ có thể dịch nhưng bị giữ nguyên, không dùng phiên âm thay nghĩa, không cấu trúc dịch máy/ngoại ngữ, phù hợp văn phong miền Nam trước 1975
    - [ ] 7. DOCX tồn tại 09_docx/, sinh bởi `docx_builder.py`
    - [ ] 8. DOCX cước chú: `OK N/N`, Word `Footnotes.Count` = `notes`, footnote chân trang 9pt, 1..N
 4. Cập nhật `progress.json`: `status: "HOAN_TAT"`, `docx`, `docx_status`.
 
-## 9. CHECKLIST BẮT BUỘC MỖI SESSION MỚI (MỞ RỘNG)
+## 9. QUY TẶC VLP-01 — TIẾNG VIỆT TRƯỚC (VIETNAMESE-FIRST TRANSLATION)
+
+**Quy tắc bắt đầu:** Dịch nghĩa sang tiếng Việt trước, chỉ giữ nguyên ngoại ngữ khi có lý do ngôn ngữ học hoặc nội dung rõ ràng.
+
+Áp dụng ngay từ câu đầu tiên, không đợi đến vòng audit sau này.
+
+### 9.1 Quy trình xử lý từng câu
+
+Với từng câu nguồn, người dịch phải thực hiện theo thứ tự:
+
+1. **Nhận diện** các từ, cụm từ, thành ngữ và thuật ngữ có nguồn gốc ngoại ngữ (Nhật, Hán ngữ, Trung Hoa, Đức, Pháp, Anh hoặc ngôn ngữ khác).
+2. **Xác định nghĩa chính xác** trong ngữ cảnh, không dịch dựa trên mặt chữ hoặc phiên âm.
+3. **Tìm cách diễn đạt tương đương** bằng tiếng Việt tự nhiên, phù hợp văn phong miền Nam trước năm 1975.
+4. **Không tự động giữ nguyên** từ ngoại ngữ chỉ vì từ đó xuất hiện trong nguyên tác.
+5. **Không sử dụng phiên âm** ngoại ngữ thay cho việc dịch nghĩa.
+6. **Không tạo từ mới** hoặc cách ghép từ gượng ép để mô phỏng cấu trúc ngôn ngữ nguồn.
+
+### 9.2 Phân loại từ trước khi quyết định giữ lại
+
+Mỗi từ ngoại ngữ phải được xử lý theo một trong bốn nhóm:
+
+| Nhóm | Định nghĩa | Quyết định |
+|---|---|---|
+| **A. Từ đã Việt hóa** | Từ Hán Việt đã trở thành vốn thông dụng; từ vay mượn dùng ổn định trong tiếng Việt; thuật ngữ quen thuộc trong sách báo miền Nam trước 1975. | Được phép sử dụng nếu đúng nghĩa, đúng văn cảnh, phù hợp văn phong. |
+| **B. Từ ngoại quốc có thể dịch** | Có cách diễn đạt tương đương rõ ràng bằng tiếng Việt. | **Phải dịch sang tiếng Việt**. Không giữ nguyên chỉ vì nguyên tác viết bằng ngoại ngữ. |
+| **C. Tên riêng và thuật ngữ cần giữ nguyên** | Tên người, địa danh, tổ chức, nhan đề, danh xưng hoặc thuật ngữ chuyên biệt mà việc dịch sẽ làm sai lệch nội dung. | Có thể giữ nguyên, nhưng phải phân biệt tên riêng với phần mô tả có thể dịch được. |
+| **D. Từ ngoại quốc chưa có cách dịch tương đương rõ ràng** | Chưa xác định được cách dịch tương đương rõ ràng. | Tra cứu glossary và tài liệu tham chiếu. Nếu vẫn chưa xác định, đánh dấu `UNRESOLVED_TERM`, ghi rõ ngữ cảnh, **KHÔNG** tự ý phiên âm hoặc sáng tạo cách dịch. |
+
+### 9.3 Kiểm tra ngay trong từng câu (Sentence-level Check)
+
+Trước khi chuyển sang câu tiếp theo, phải tự hỏi và trả lời có/không cho từng câu hỏi:
+
+- Câu này có còn từ ngoại quốc chưa được dịch không?
+- Có chữ Hán hoặc cách viết theo ngôn ngữ Trung Hoa không cần thiết không?
+- Có từ Nhật, Đức, Pháp hoặc Anh bị giữ lại do thói quen không?
+- Có từ được phiên âm nhưng thực chất có thể dịch nghĩa không?
+- Có cách diễn đạt tiếng Việt miền Nam tự nhiên hơn không?
+- Cấu trúc câu có bị ảnh hưởng bởi ngữ pháp ngoại ngữ không?
+- Một độc giả Việt Nam trước năm 1975 có thể đọc câu này tự nhiên mà không cần biết ngoại ngữ không?
+
+Nếu câu trả lời là "có" cho bất kỳ câu hỏi nào → phải sửa ngay trước khi hoàn tất đoạn.
+
+### 9.4 Phân biệt tiếng Việt gốc Hán và Hán ngữ
+
+Không được hiểu quy tắc thuần Việt là cấm toàn bộ từ Hán Việt. Phải phân biệt:
+
+- **Từ Hán Việt đã Việt hóa**: dùng tự nhiên trong tiếng Việt (ví dụ: chính trị, quốc gia, chiến tranh, dân tộc…) → được phép.
+- **Hán ngữ hiện đại**: giữ nguyên hoặc dịch bám theo tiếng Trung → KHÔNG được phép nếu đã có cách diễn đạt tiếng Việt tự nhiên.
+- **Cách dùng từ, trật tự từ, cấu trúc câu chịu ảnh hưởng trực tiếp từ tiếng Trung** → phải tái cấu trúc theo tiếng Việt.
+- **Từ Hán Việt không phù hợp văn cảnh hoặc không thuộc cách dùng tự nhiên trong văn phong miền Nam** → phải thay bằng từ thay thế thích hợp.
+
+Ưu tiên cách diễn đạt đã được sử dụng trong sách báo, văn liệu và học thuật miền Nam trước năm 1975 khi có căn cứ.
+
+### 9.5 Cơ chế kiểm tra tích hợp vào quy trình dịch
+
+| Giai đoạn | Hành động VLP-01 |
+|---|---|
+| **Before Translation** | Nhận diện thuật ngữ ngoại ngữ trong nguồn; phân loại A/B/C/D |
+| **During Translation** | Dịch nghĩa sang tiếng Việt; áp dụng cách dùng tiếng Việt phù hợp |
+| **Sentence-level Check** | Kiểm tra từng câu ngay sau khi dịch (xem §9.3) |
+| **Paragraph-level Check** | Đọc lại toàn đoạn để bảo đảm câu văn tự nhiên, thống nhất |
+| **Exception Register** | Ghi nhận những từ ngoại quốc thực sự cần giữ lại và lý do |
+
+Chỉ chuyển sang đoạn tiếp theo khi đoạn hiện tại đạt yêu cầu VLP-01.
+
+Không cần tạo báo cáo dài cho từng câu đạt chuẩn. Chỉ ghi nhận những trường hợp ngoại lệ, thuật ngữ chưa giải quyết được và lỗi đã phát hiện.
+
+### 9.6 Điều kiện PASS của một câu
+
+Một câu chỉ được xem là đạt VLP-01 khi:
+
+- [ ] Đã chuyển nghĩa đầy đủ sang tiếng Việt.
+- [ ] Không còn ngoại ngữ có thể dịch nhưng bị giữ nguyên.
+- [ ] Không dùng phiên âm thay cho dịch nghĩa.
+- [ ] Không có cấu trúc dịch máy hoặc cấu trúc ngoại ngữ.
+- [ ] Từ ngữ phù hợp văn phong miền Nam trước năm 1975.
+- [ ] Không làm sai lệch nghĩa, sắc thái và lập luận của nguyên tác.
+
+---
+
+## 10. CHECKLIST BẮT BUỘC MỖI SESSION MỚI (MỞ RỘNG)
 
 1. **Kiểm tra rác workspace** → xóa file lệch.
 2. Đọc `progress.json` → chương tiếp theo.
 3. Đọc `STYLE_GUIDE_PHAN_B.md` + `TRANSLATION_GRAMMAR_ENGINE.md`.
 4. Đọc `MASTER_LEXICON.csv` + `AUDIT_REPORT_CH01-06.md`.
 5. **Kích hoạt skills**: `historical-book-translation`, `contextual-translation`, `southern-vietnamese-editorial-style`.
-6. Dịch theo 8 bước.
-7. Chạy `vnch_orthography.py` → `document_comparator.py` → `quality_gate.py` → `docx_builder.py`.
-8. Quality Gate 8 tiêu chí PASS → cập nhật `progress.json` HOAN_TAT.
-9. **Dọn dẹp file tạm** (tmp_*, debug_*, *.bak).
+6. **Áp dụng VLP-01**: nhận diện từ ngoại ngữ trong nguồn trước khi dịch (§9.1-9.2).
+7. **Áp dụng quy tắc Hán Việt**: chuẩn hóa tên nhân vật Trung Quốc theo bảng Hán Việt đã thiết lập (xem §13), không giữ Pinyin hoặc phiên âm tiếng Anh nếu đã có tên Hán-Việt.
+8. Dịch theo 8 bước (bao gồm kiểm tra cấp câu VLP-01 ở bước 5b).
+9. Chạy `vnch_orthography.py` + **VLP-01 sentence-level check** (§9.3) + quét tên Pinyin còn sót (§13.4) → `document_comparator.py` → `quality_gate.py` → `docx_builder.py`.
+10. Quality Gate 8 tiêu chí + **VLP-01 criterion 6b** + **Hán Việt name check** PASS → cập nhật `progress.json` HOAN_TAT.
+11. **Dọn dẹp file tạm** (tmp_*, debug_*, *.bak).
 
-## 10. TRẠNG THÁI HIỆN TẠI (2026-11-20)
+## 11. TRẠNG THÁI HIỆN TẠI (2026-11-20)
 
 | Chương | Trạng thái | Từ | Cước chú | DOCX | Hình ảnh |
 |---|---|---|---|---|---|
@@ -243,7 +328,7 @@ python -c "from docx_builder import DocxBuilder; from pathlib import Path; b=Doc
 
 **V1-Ch7 đến V1-Ch21**: Chưa bắt đầu. **Volume 2, 3**: Chưa bắt đầu.
 
-## 11. LIÊN KẾT TÀI LIỆU QUAN TRỌNG
+## 12. LIÊN KẾT TÀI LIỆU QUAN TRỌNG
 
 | Tài liệu | Vị trí | Mục đích |
 |---|---|---|
@@ -256,6 +341,66 @@ python -c "from docx_builder import DocxBuilder; from pathlib import Path; b=Doc
 | Quality Gate | `05_qa/FINAL_PILOT_QUALITY_GATE.md` | 8 tiêu chí PASS |
 | Progress | `00_plan/progress.json` | Checkpoint trạng thái |
 
+## 13. QUY TẶC HÁN VIỆT — TÊN NHÂN VẬT TRUNG QUỐC (ESTABLISHED SINO-VIETNAMESE NAMES)
+
+**Mục tiêu:** Bảo đảm tên các lãnh tụ, chính khách, tướng lĩnh và nhân vật lịch sử Trung Quốc được dịch theo cách gọi Hán-Việt đã định hình trong truyền thống sách báo và sử liệu tiếng Việt, thay vì giữ nguyên Pinyin hoặc phiên âm tiếng Anh.
+
+### 13.1 Quy tắc ưu tiên
+
+Khi gặp tên nhân vật Trung Quốc:
+
+1. **Ưu tiên tên Hán-Việt đã được xác lập** và sử dụng phổ biến trong tiếng Việt.
+2. **Không giữ Pinyin** hoặc cách viết tiếng Anh nếu đã có tên Hán-Việt tương ứng.
+3. **Không tự sáng tạo cách phiên âm.**
+4. **Không chuyển đổi tên một cách máy móc** nếu chưa xác minh được chữ Hán và cách đọc.
+5. **Giữ nguyên cách viết tên đã thống nhất** trong toàn bộ bản dịch.
+
+### 13.2 Bảng tên chuẩn (khởi đầu, không phải danh mục đóng)
+
+| Pinyin / English | Tên tiếng Việt phải dùng |
+|---|---|
+| Zhou Enlai / Chou En-lai | Chu Ân Lai |
+| Mao Zedong / Mao Tse-tung | Mao Trạch Đông |
+| Deng Xiaoping | Đặng Tiểu Bình |
+| Liu Shaoqi | Lưu Thiếu Kỳ |
+| Zhu De | Chu Đức |
+| Lin Biao | Lâm Bưu |
+| Hua Guofeng | Hoa Quốc Phong |
+| Chen Yun | Trần Vân |
+| Ye Jianying | Diệp Kiếm Anh |
+| Kang Sheng | Khang Sinh |
+| Wang Hongwen | Vương Hồng Văn |
+| Zhang Chunqiao | Trương Xuân Kiều |
+| Jiang Qing | Giang Thanh |
+| Peng Dehuai | Bành Đức Hoài |
+| Zhou Yongkang | Chu Vĩnh Khang |
+| Xi Jinping | Tập Cận Bình |
+| Hu Jintao | Hồ Cẩm Đào |
+| Jiang Zemin | Giang Trạch Dân |
+
+### 13.3 Xử lý khi dịch
+
+**Ví dụ đúng:**
+
+- Source: Zhou En-lai met Mao Tse-tung in Beijing.
+- Dịch: Chu Ân Lai gặp Mao Trạch Đông tại Bắc Kinh.
+
+**Ví dụ sai:**
+
+- Dịch: Zhou En-lai gặp Mao Tse-tung tại Bắc Kinh. (Giữ Pinyin, không đạt)
+
+### 13.4 Kiểm tra tự động trước khi hoàn thành chương
+
+- Quét toàn bộ bản dịch để phát hiện tên Pinyin còn sót.
+- Đối chiếu với bảng tên chuẩn trong §13.2.
+- Kiểm tra tính nhất quán giữa nội dung chính, chú thích và chú giải.
+- Nếu phát hiện tên chưa có trong bảng, tra cứu và xác minh trước khi quyết định cách viết.
+- Không tự động chuyển đổi tên nếu chưa xác định chắc chắn danh tính nhân vật.
+
+### 13.5 Nguyên tắc văn phong
+
+Sử dụng tên Hán-Việt theo truyền thống văn bản lịch sử tiếng Việt, phù hợp với văn phong Việt Nam Cộng Hòa mà dự án đang theo đuổi. Không pha trộn tùy tiện giữa Pinyin, cách phiên âm tiếng Anh và tên Hán-Việt trong cùng một bản dịch.
+
 ---
 
-*Cập nhật: 2026-11-20 — Tích hợp 9 skills chuyên biệt, Grammar Engine v2.1, Style Guide v2.3, Audit 6 chương, Quality Gate 8 tiêu chí.*
+*Cập nhật: 2026-11-21 — Tích hợp VLP-01 (Tiếng Việt trước) làm quy tắc bắt buộc trong quy trình dịch, Quality Gate criterion 6b, và checklist session; thêm quy tắc Hán Việt (Section 13) chuẩn hóa tên nhân vật Trung Quốc; Grammar Engine v2.1, Style Guide v2.3, Audit 6 chương.*
