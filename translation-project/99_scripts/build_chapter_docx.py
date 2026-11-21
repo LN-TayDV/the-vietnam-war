@@ -275,13 +275,16 @@ def extract_inline_markers(items, notes):
     """Use markers already present in the translation body. Returns
     {item_index: [(offset, note_number), ...]} and cleaned texts.
     Inline [N] markers are always accepted (gaps for unreferenced notes
-    such as note 35 are skipped).  Bare N markers are only accepted when
-    they match the expected sequence, to avoid false positives from
-    page numbers, years, etc. embedded in the body text."""
+    such as note 35 are skipped).  Bare N markers (ch02-style, appended to a
+    word) are only accepted when they match the expected sequence; this is
+    the guard against false positives from page numbers, years and other
+    numbers embedded in the body text.  Chapters that still rely on bare
+    markers are flagged by build() via the used/total count, which forces a
+    manual spot-check before the DOCX is considered done."""
     expect, marks = 1, {}
     texts = {}
     for idx, it in enumerate(items):
-        if it["kind"] != "para":
+        if it["kind"] not in ("para", "quote"):
             continue
         text = it["text"]
         masked = ND_SPAN.sub(lambda m: " " * len(m.group(0)), text)
@@ -762,6 +765,36 @@ def install_footnotes(doc, entries):
 
 
 # ------------------------------------------------------------------ build
+def _safe_unlink(path, required=True):
+    """Delete *path*, retrying briefly if Windows/Word holds the file open.
+
+    On Windows a DOCX that is open in Word cannot be overwritten: os.unlink
+    raises PermissionError (WinError 32).  Without this guard the whole build
+    aborts mid-way and leaves a stale .tmp_ file behind.  We retry a few
+    times, then (if required) raise a clear, actionable error telling the
+    user to close the document in Word.  If not required we silently skip.
+    """
+    import time
+    if not path.exists():
+        return
+    last = None
+    for _ in range(10):
+        try:
+            path.unlink()
+            return
+        except PermissionError as exc:
+            last = exc
+            time.sleep(0.3)
+    # give up
+    if required:
+        raise PermissionError(
+            f"Không thể ghi đè '{path.name}'. File đang mở trong Word hoặc "
+            f"tiến trình khác giữ. Hãy đóng Word rồi chạy lại build.\n"
+            f"Chi tiết: {last}"
+        )
+    # optional: leave the stale file, caller will overwrite next run
+
+
 def build(ch_path):
     ch = parse_chapter(ch_path)
     items, placements, mode = plan_footnotes(ch)
@@ -814,6 +847,17 @@ def build(ch_path):
     img_index = 0
     hinh_pattern = re.compile(r"^\s*H\u00ecnh\s+\d+\.\d+")
     last_hinh_p = None
+
+    def _add_image_paragraph():
+        """Create a centered image paragraph that is bound to the caption
+        that follows it (keep_with_next) so an image and its caption never
+        split across a page break."""
+        new_p = doc.add_paragraph()
+        para_fmt(new_p, first_indent=0.0, space_before=6, space_after=2,
+                 line=1.0, align=WD_ALIGN_PARAGRAPH.CENTER, keep_next=True)
+        run = new_p.add_run()
+        return new_p, run
+
     for p in list(doc.paragraphs):
         if hinh_pattern.match(p.text):
             last_hinh_p = p
@@ -821,15 +865,15 @@ def build(ch_path):
                 run.font.size = Pt(10)
                 run.italic = True
             p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            # Keep the caption together with the image above it.
+            p.paragraph_format.keep_together = True
             # Place the image immediately BEFORE its caption (image then
             # caption, like a printed figure).  Snapshot the paragraph list
             # because we mutate the tree while iterating.
             if img_index < len(chapter_images):
                 img_file = chapter_images[img_index]
                 img_index += 1
-                new_p = doc.add_paragraph()
-                new_p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-                run = new_p.add_run()
+                new_p, run = _add_image_paragraph()
                 run.add_picture(str(img_file), width=Inches(4.5))
                 p._element.addprevious(new_p._element)
     # If more images than captions, append remaining images at the end.
@@ -838,9 +882,7 @@ def build(ch_path):
         while img_index < len(chapter_images):
             img_file = chapter_images[img_index]
             img_index += 1
-            new_p = doc.add_paragraph()
-            new_p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-            run = new_p.add_run()
+            new_p, run = _add_image_paragraph()
             run.add_picture(str(img_file), width=Inches(4.5))
             last_p._element.addnext(new_p._element)
             last_p = new_p
@@ -859,10 +901,10 @@ def build(ch_path):
     out = OUT_DIR / f"{ch['id']}_{slugify(ch['title'])}.docx"
     tmp = OUT_DIR / f".tmp_{ch['id']}_{slugify(ch['title'])}.docx"
     if tmp.exists():
-        tmp.unlink()
+        _safe_unlink(tmp, required=True)
     doc.save(tmp)
     if out.exists():
-        out.unlink()
+        _safe_unlink(out, required=True)
     tmp.rename(out)
     return out, words, len(entries), mode, len(notes)
 
@@ -877,12 +919,15 @@ def main(argv):
     if not paths:
         print("Không tìm thấy chương nào.")
         return 1
+    rc = 0
     for p in paths:
         out, words, used, mode, total = build(p)
         flag = "OK " if used == total else "WARN"
+        if used != total:
+            rc = 1
         print(f"{flag} {p.parent.name} -> {out.name}  "
               f"({words:,} từ, {used}/{total} cước chú, nguồn: {mode})")
-    return 0
+    return rc
 
 
 if __name__ == "__main__":

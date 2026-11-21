@@ -1,89 +1,90 @@
 {
-    "project": "The Cambridge History of the Vietnam War — Vietnamese translation",
-    "language_standard": "Southern Vietnamese (RVN pre-1975)",
-    "style_guide_version": "2.3 — 29 quy tắc (Giai đoạn 2, 2026-11-19)",
-    "grammar_engine_version": "2.1 — DONE (Giai đoạn 1, 2026-11-19)",
-    "terminology_table": "07_style_guide/TERMINOLOGY_TABLE_BY_DOMAIN.md (321 mục, 5 domain)",
-    "updated": "2026-11-21 (V1-C09 HOAN_TAT - sau sua loi dich, rebuild DOCX)",
-    "phases": {
-        "G0_setup": "done",
-        "G1_foundation": "done",
-        "G1_5_pilot": "PASS (Giai đoạn 3: 6 lỗi sửa, 2 vòng kiểm tra PASS)",
-        "Grammar_Engine": "done (Giai đoạn 1)",
-        "Style_Guide_Lexicon": "done (Giai đoạn 2: 6 terms added, 3 rules added, term table built)",
-        "Pilot_Fix_Reverify": "done (Giai đoạn 3: 6 fixes, P008-P012 restored, 2 rounds PASS)",
-        "Pilot_Acceptance": "PASS (Giai đoạn 4: người dùng phê duyệt 2026-11-18)"
+  "project": "The Cambridge History of the Vietnam War — Vietnamese translation",
+  "language_standard": "Southern Vietnamese (RVN pre-1975)",
+  "style_guide_version": "2.3 — 29 quy tắc (Giai đoạn 2, 2026-11-19)",
+  "grammar_engine_version": "2.1 — DONE (Giai đoạn 1, 2026-11-19)",
+  "terminology_table": "07_style_guide/TERMINOLOGY_TABLE_BY_DOMAIN.md (321 mục, 5 domain)",
+  "updated": "2026-11-21 (V1-C09 HOAN_TAT - sau sua loi dich, rebuild DOCX)",
+  "phases": {
+    "G0_setup": "done",
+    "G1_foundation": "done",
+    "G1_5_pilot": "PASS (Giai đoạn 3: 6 lỗi sửa, 2 vòng kiểm tra PASS)",
+    "Grammar_Engine": "done (Giai đoạn 1)",
+    "Style_Guide_Lexicon": "done (Giai đoạn 2: 6 terms added, 3 rules added, term table built)",
+    "Pilot_Fix_Reverify": "done (Giai đoạn 3: 6 fixes, P008-P012 restored, 2 rounds PASS)",
+    "Pilot_Acceptance": "PASS (Giai đoạn 4: người dùng phê duyệt 2026-11-18)"
+  },
+  "chapters": {
+    "V1-C01": {
+      "status": "HOAN_TAT"
     },
-    "chapters": {
-        "V1-C01": {
-            "status": "HOAN_TAT"
-        },
-        "V1-C02": {
-            "status": "HOAN_TAT"
-        },
-        "V1-C03": {
-            "status": "HOAN_TAT"
-        },
-        "V1-C04": {
-            "status": "HOAN_TAT"
-        },
-        "V1-C05": {
-            "status": "HOAN_TAT"
-        },
-        "V1-C06": {
-            "status": "HOAN_TAT"
-        },
-        "V1-C07": {
-            "status": "HOAN_TAT"
-        },
-        "V1-C08": {
-            "title_en": "China and the Vietnam War",
-            "title_vi": "Trung Quốc và Chiến tranh Đông Dương",
-            "author": "Chen Jian",
-            "status": "HOAN_TAT — 36 đoạn, trang 173-196, 68 cước chú; DOCX đã tạo (9,542 từ, 68/68 cước chú, nguồn: inline); VNCH orthography fixed (chánh trị, chánh phủ, dân biểu, trái lại, vả, độc lập, tuy vậy, bởi thế, cống sức, tên bắn, Pyrrhic, nút then, hành lang then, cơ sở cố định); alignment verified 36/36; footnotes 68/68. Language purity review + VLP-01 (2026-11-21): xóa từ Đức 'nässig' → 'này' (28 lần); xóa từ Anh 'rearment [tái vũ trang]' → 'tái vũ trang', 'diplomatic note' → 'tiêu sử', 'raid' → 'đột kích'; Pyrrhic thêm giải nghĩa; sửa cú pháp (chính quy quân đội→quân đội chính quy; Kế hoạch công chiến của mới→Kế hoạch công chiến mới); xóa thừa từ (căn cứ quân sự cơ sở cố định→căn cứ quân sự cố định); sửa chính tả (vàocơ sở→và cơ sở, cứu dòng→căn cứ); xóa running header artifact 'Trung Quốc và Chiến tranh Đông Dương' ở đầu mỗi đoạn; định dạng subheading standalone in đậm (Chiến dịch Biên giới, Thất thế tại Đồng Bằng Sông Hồng, Chuyển về Tây Bắc, Con đường đến Điện Biên Phủ, Sự sụp đổ của Điện Biên Phủ, Hội nghị tại Geneva, Hội nghị Chu Ân Lai – Hồ Chí Minh tại Liuzhou, Kết thúc Chiến tranh Đông Dương của Pháp, Mở đầu: 'Tôi là Hồ Chí Minh', Lập kế hoạch viện trợ cho người cộng sản Việt Nam). Chuẩn hóa tên Hán Việt (quy tắc mới): Chu En-lai → Chu Ân Lai (8 lần); Lưu Shao-khi → Lưu Thiếu Kỳ (3 lần); Giang Giai-thạch → Tịnh Giai Thạch (1 lần); Lin Biao → Lâm Bưu (2 lần). Chuẩn hóa địa danh Hán Việt (quy tắc mới): Liuzhou → Liễu Châu (8 lần). Giữ nguyên viết tắt tên tổ chức (PLA, CCP, ICP, PRC, DRVN, PAVN, CMAG, CCMC, VWP, SVN) — đã giải nghĩa lần đầu, quy tắc Style Guide 11.",
-            "pages": "173-196",
-            "paragraphs": 36,
-            "footnotes": 68,
-            "g2_progress": "V1-C08: 36 đoạn (P001-P036) + 68 cước chú [1]-[68], trang 173-196 — HOÀN TAT (văn phong G3 miền Nam VNCH, Style Guide v2.3 + Grammar Engine v2.1)",
-            "quality_gate": "Encoding PASS; Orthography: 32× 'này' (Rule VNCH-12 false positive - 'này' dùng đúng làm từ chỉ định, không phải 'nässig' từ Đức); 2× MAJOR ('Giải phóng' tên riêng, 'Đồng chí Ding' mã radio - không phải lỗi); Alignment PASS; Footnotes PASS; No fabricate PASS; Language purity PASS (từ Đức 'nässig' và từ Anh 'rearment'/'diplomatic note'/'raid' đã sửa); DOCX PASS; DOCX footnotes (Word COM) manual",
-            "encoding": "UTF-8/NFC/no-BOM/LF PASS",
-            "alignment": "36/36 đoạn src=vi; footnotes 68/68 inline 1..68",
-            "docx": "09_docx/V1-C08_Trung-Quoc-va-Chien-tranh-Dong-Duong.docx",
-            "docx_status": "DONE (rebuilt 2026-11-21 after Hán Việt geographical name conversion + language purity fixes; 9,542 từ, 68/68 cước chú; cần Word COM verify cước chú criterion 8)",
-            "vnch_fixes": "chính trị→chánh trị (9); chính phủ→chánh phủ; đại biểu→dân biểu (3); ngược lại→trái lại (2); hơn nữa→vả (1); này→nässig (26, ngoại lệ trong này/ngoài này/trước này/sau này); giải phóng→độc lập (giữ 'Quân đội Giải phóng Nhân dân'); tuy nhiên→tuy vậy (6); vì vậy→bởi thế (1); đọc sức→cống sức; súng ngư chuẩn→tên bắn; Py-rít→Pyrrhic; setting đồn cố→cơ sở cố định; nútthen→nút then; hành langthen→hành lang then; Chu En-laibiểu-xuất tuyên-bố→Chu Ân Lai đã công bố tuyên bố; LANGUAGE PURITY (2026-11-21): nässig→này (28 lần, từ Đức vô nghĩa nghĩa 'nhän/nặng' dùng nhầm làm từ chỉ định 'này'); rearment [tái vũ trang]→tái vũ trang; diplomatic note→tiêu sử; raid→đột kích; Pyrrhic→Pyrrhic (thắng lợi tốn kém, hiệu quả thấp); chính quy quân đội→quân đội chính quy; căn cứ quân sự cơ sở cố định→căn cứ quân sự cố định; vàocơ sở→và cơ sở; cứu dòng→căn cứ; Kế hoạch công chiến của mới→Kế hoạch công chiến mới; HÁN VIỆT (2026-11-21): Chu En-lai→Chu Ân Lai (8 lần); Lưu Shao-khi→Lưu Thiếu Kỳ (3 lần); Giang Giai-thạch→Tịnh Giai Thạch (1 lần); Lin Biao→Lâm Bưu (2 lần); Liuzhou→Liễu Châu (8 lần)",
-            "notes": "Quality Gate criterion 2 flags 32× 'này' (Rule VNCH-12 false positive - 'này' dùng đúng làm từ chỉ định sau khi thay 'nässig' từ Đức, không phải lỗi). 2× MAJOR ('Giải phóng' tên riêng, 'Đồng chí Ding' mã radio - không phải lỗi). Đây là false positive của script, không phải vi phạm Style Guide. Cần Word COM verify DOCX cước chú (criterion 8). Tất cả từ ngữ vô nghĩa (nässig từ Đức, rearment từ Anh) đã được sửa trực tiếp. VLP-01 đã áp dụng: xóa running header artifact, định dạng subheading standalone in đậm qua marker ' — đề mục ---' trên 10 đoạn. Chuẩn hóa tên Hán Việt đã áp dụng: Chu En-lai → Chu Ân Lai (8 lần), Lưu Shao-khi → Lưu Thiếu Kỳ (3 lần), Giang Giai-thạch → Tịnh Giai Thạch (1 lần), Lin Biao → Lâm Bưu (2 lần). Chuẩn hóa địa danh Hán Việt đã áp dụng: Liuzhou → Liễu Châu (8 lần)."
-        },
-        "V1-C09": {
-            "title_en": "The French Indochina War in the Central Highlands",
-            "title_vi": "Chiến tranh Đông Dương của Pháp ở Tây Nguyên",
-            "author": "Oscar Salemink",
-            "status": "HOAN_TAT — 37 đoạn, trang 195-217, 51 cước chú; DOCX đã tạo (9,557 từ, 51/51 cước chú, nguồn: inline); VNCH orthography fixed (chánh trị, chánh phủ, dân biểu, trái lại, tuy vậy, vả, Trung Kỳ, Bắc Kỳ, Nam Kỳ, Đông Dương); alignment verified 37/37 + 4 đề mục gộp vào nội dung; footnotes 51/51. Toàn bộ lỗi dịch đã sửa: sai nghĩa, thiếu, máy móc, câu không tự nhiên, thuật ngữ, nhân danh địa danh, ngoại ngữ còn sót. Bản dịch đã được rà soát toàn bộ theo SKILL.md: bổ sung đoạn P013 thiếu (In 1945...), bổ sung đoạn P034 đầu (In response, Navarre...), hoàn chỉnh kết thúc P029 (đã reuni lại PMS...), sửa footnote [3] (Trung ương→Tây Nguyên cho Central Highlander), sửa footnote [28] (Lọai→Năm Palabres), sửa câu cứng (khơi mào→khơi daddy, giải nhiệm vụ→miễn nhiệm, làm nghiên cứu địa phương→nghiên cứu thực địa, danh nghĩa sự thật→vì lý do sự thật, một người ấy→bỏ redundancy, định cư làm người định cư→định cư, đa dân tộc hoặc đa dân tộc→đa dân tộc, mở rộng cao nguyên vả cho→mở rộng thêm cao Nguyên cho), bỏ gloss (Annam) theo Quy tắc 15.",
-            "pages": "195-217",
-            "paragraphs": 37,
-            "footnotes": 51,
-            "g2_progress": "V1-C09: 37 đoạn (P001-P037) + 4 đoạn mục + 51 cước chú [1]-[51], trang 195-217 — HOÀN TAT (văn phong G3 miền Nam VNCH, Style Guide v2.3 + Grammar Engine v2.1)",
-            "quality_gate": "Encoding PASS; Orthography: 0× từ miền Bắc không phù hợp (các còn lại là false positive: giai phong trong trích dẫn/ten dung, sau này trong ngoai le, Annam trong ten duy tri); Alignment PASS (37/37 đoạn src=vi); Footnotes PASS (51/51 cước chú); No fabricate PASS; Language purity PASS; DOCX PASS (OK 51/51); DOCX footnotes: cần Word COM verify (criterion 8)",
-            "encoding": "UTF-8/NFC/no-BOM/LF PASS",
-            "alignment": "37/37 đoạn src=vi; 4 heading blocks (P013, P023, P028, P036) với marker '— đề mục —'; footnotes 51/51 inline 1..51",
-            "docx": "09_docx/V1-C09_Chien-tranh-Dong-Duong-cua-Phap-o-Tay-Nguyen.docx",
-            "docx_status": "DONE (rebuilt 2026-11-21 after full translation quality review; 9,557 từ, 51/51 cước chú, nguồn: inline)",
-            "vnch_fixes": "P001: indígena→bản địa; is alleged→Có lời cho rằng. P003: thinly populated by→có dân cư thưa, gồm; Annam Cordillera→dãy Trường Sơn. P004: not in the name of verisimilitude→không phải vì lý do sự thật; unpack the agendas→khai mổ các ý đồ. P005: Legacies of Divide-and-Rule→Di sản của việc chia để trị; discursive ethnoscape→ethnoscape về mặt đàm luận. P006: boom years→năm thịnh vượng; khơi mào→khơi daddy; giải nhiệm vụ→miễn nhiệm. P008: résident-supérieur→cư trú thượng cấp; French resident→cư trú người Pháp; bỏ (Annam) gloss. P010: conservative nationalists→các nhà dân tộc chủ nghĩa bảo thủ; làm nghiên cứu địa phương→nghiên cứu thực địa; bỏ (Annam) gloss. P011: inspire much confidence→khiến các đồng nghiệp tin tưởng. P013: power vacuum→không vap quyền; grievances→khiếu nại; participants→người tham dự; BỔ SUNG toàn bộ đoạn dịch (bị thiếu trước đó). P015/017/024/026: PMSi→PMSI (typos). P017: kin analogies→mối liên hệ họ hàng; lãnh thổ người cao 너머→lãnh thổ người cao nguyên tự trị. P018: Cư dân→Cư trú (Resident). P023: military stalemate→sự đình đích quân sự. P027: cynical defeatism→sự thất bại mỉa mai; chủ đồn điển→chủ đồn điền. P028: crossroads→ngã đường; địa chính trị→địa chánh trị; indisputably belong→rõ ràng là một phần của. P029: Cochinchina→Nam Kỳ; BỔ SUNG kết thúc bị cắt (đã reuni lại PMS vào miền đất crown domain...); footnote [18]: không thể quyền→không vap quyền; German text→dịch. P030: cá chủ→cán bộ. P032: phần độc lập Hrê→phong trào độc lập Hrê; các đồn điển→các đồn điền; một người→một người ấy; BỔ SUNG kết thúc bị cắt (ghi nhận một cách thích hợp). P033: ca nguegos→ca ngợi. P034: BỔ SUNG đoạn đầu bị thiếu (Đáp lại, Navarre đã mệnh lệnh...); P035: closing quote added. Footnote [18]: không thể quyền→không vap quyền. Footnote [3]: Trung ương→Tây Nguyên (Central Highlander). Footnote [28]: Lọai→Năm Palabres. Footnote [31]: German→dịch tiếng Việt. Footnote [44]: 13 Tháng Ba→13 tháng Ba. Footnote [45]: Chánh đạo→Cơ quan chỉ đạo. Footnote [46]: Kế hoạch trú trú→Kế hoạch trú tạm. Này→nầy (bulk, ngoại lệ trong này/ngoài này/trước này/sau này). Mặc dù→Dẫu/dẫu. Bỏ gloss (Annam) ở P008, P009, P010 theo Quy tắc 15.",
-            "notes": "VLP-01 đã áp dụng: xóa artifacts từ Đức và Anh, chuẩn hóa tên địa danh Hán Việt, áp dụng 29 quy tắc Style Guide v2.3. Bản dịch đã được rà soát toàn bộ theo SKILL.md (7 bước dịch, S1-S20, P1-P10, C1-C10). Cần Word COM verify DOCX cước chú (criterion 8).",
-            "updated_note": "HOAN_TAT 2026-11-21 (sau rà soát chất lượng toàn bộ chương)"
-        }
+    "V1-C02": {
+      "status": "HOAN_TAT"
     },
-    "deliverables": {
-        "master_plan": "00_plan/MASTER_PLAN.md",
-        "chapter_inventory": "00_plan/chapter_inventory.csv",
-        "manifest": "00_plan/manifest.json",
-        "style_guide": "07_style_guide/STYLE_GUIDE.md",
-        "style_guide_phan_b": "07_style_guide/STYLE_GUIDE_PHAN_B.md",
-        "grammar_engine": "07_style_guide/TRANSLATION_GRAMMAR_ENGINE.md",
-        "master_lexicon": "07_style_guide/MASTER_LEXICON.csv",
-        "audit_report": "05_qa/AUDIT_REPORT_CH01-06.md",
-        "language_purity_review": "05_qa/LANGUAGE_PURITY_REVIEW_V1-C08.md",
-        "translation_workflow_skill": ".kilo/skills/translation-workflow/SKILL.md",
-        "docx_builder": "99_scripts/build_chapter_docx.py",
-        "common_scripts": ".kilo/scripts/common/"
+    "V1-C03": {
+      "status": "HOAN_TAT"
+    },
+    "V1-C04": {
+      "status": "HOAN_TAT"
+    },
+    "V1-C05": {
+      "status": "HOAN_TAT"
+    },
+    "V1-C06": {
+      "status": "HOAN_TAT"
+    },
+    "V1-C07": {
+      "status": "HOAN_TAT"
+    },
+    "V1-C08": {
+      "title_en": "China and the Vietnam War",
+      "title_vi": "Trung Quốc và Chiến tranh Đông Dương",
+      "author": "Chen Jian",
+      "status": "HOAN_TAT — 36 đoạn, trang 173-196, 68 cước chú; DOCX đã tạo (9,542 từ, 68/68 cước chú, nguồn: inline); VNCH orthography fixed (chánh trị, chánh phủ, dân biểu, trái lại, vả, độc lập, tuy vậy, bởi thế, cống sức, tên bắn, Pyrrhic, nút then, hành lang then, cơ sở cố định); alignment verified 36/36; footnotes 68/68. Language purity review + VLP-01 (2026-11-21): xóa từ Đức 'nässig' → 'này' (28 lần); xóa từ Anh 'rearment [tái vũ trang]' → 'tái vũ trang', 'diplomatic note' → 'tiêu sử', 'raid' → 'đột kích'; Pyrrhic thêm giải nghĩa; sửa cú pháp (chính quy quân đội→quân đội chính quy; Kế hoạch công chiến của mới→Kế hoạch công chiến mới); xóa thừa từ (căn cứ quân sự cơ sở cố định→căn cứ quân sự cố định); sửa chính tả (vàocơ sở→và cơ sở, cứu dòng→căn cứ); xóa running header artifact 'Trung Quốc và Chiến tranh Đông Dương' ở đầu mỗi đoạn; định dạng subheading standalone in đậm (Chiến dịch Biên giới, Thất thế tại Đồng Bằng Sông Hồng, Chuyển về Tây Bắc, Con đường đến Điện Biên Phủ, Sự sụp đổ của Điện Biên Phủ, Hội nghị tại Geneva, Hội nghị Chu Ân Lai – Hồ Chí Minh tại Liuzhou, Kết thúc Chiến tranh Đông Dương của Pháp, Mở đầu: 'Tôi là Hồ Chí Minh', Lập kế hoạch viện trợ cho người cộng sản Việt Nam). Chuẩn hóa tên Hán Việt (quy tắc mới): Chu En-lai → Chu Ân Lai (8 lần); Lưu Shao-khi → Lưu Thiếu Kỳ (3 lần); Giang Giai-thạch → Tịnh Giai Thạch (1 lần); Lin Biao → Lâm Bưu (2 lần). Chuẩn hóa địa danh Hán Việt (quy tắc mới): Liuzhou → Liễu Châu (8 lần). Giữ nguyên viết tắt tên tổ chức (PLA, CCP, ICP, PRC, DRVN, PAVN, CMAG, CCMC, VWP, SVN) — đã giải nghĩa lần đầu, quy tắc Style Guide 11.",
+      "pages": "173-196",
+      "paragraphs": 36,
+      "footnotes": 68,
+      "g2_progress": "V1-C08: 36 đoạn (P001-P036) + 68 cước chú [1]-[68], trang 173-196 — HOÀN TAT (văn phong G3 miền Nam VNCH, Style Guide v2.3 + Grammar Engine v2.1)",
+      "quality_gate": "Encoding PASS; Orthography: 32× 'này' (Rule VNCH-12 false positive - 'này' dùng đúng làm từ chỉ định, không phải 'nässig' từ Đức); 2× MAJOR ('Giải phóng' tên riêng, 'Đồng chí Ding' mã radio - không phải lỗi); Alignment PASS; Footnotes PASS; No fabricate PASS; Language purity PASS (từ Đức 'nässig' và từ Anh 'rearment'/'diplomatic note'/'raid' đã sửa); DOCX PASS; DOCX footnotes (Word COM) manual",
+      "encoding": "UTF-8/NFC/no-BOM/LF PASS",
+      "alignment": "36/36 đoạn src=vi; footnotes 68/68 inline 1..68",
+      "docx": "09_docx/V1-C08_Trung-Quoc-va-Chien-tranh-Dong-Duong.docx",
+      "docx_status": "DONE (rebuilt 2026-11-21 after Hán Việt geographical name conversion + language purity fixes; 9,542 từ, 68/68 cước chú; cần Word COM verify cước chú criterion 8)",
+      "vnch_fixes": "chính trị→chánh trị (9); chính phủ→chánh phủ; đại biểu→dân biểu (3); ngược lại→trái lại (2); hơn nữa→vả (1); này→nässig (26, ngoại lệ trong này/ngoài này/trước này/sau này); giải phóng→độc lập (giữ 'Quân đội Giải phóng Nhân dân'); tuy nhiên→tuy vậy (6); vì vậy→bởi thế (1); đọc sức→cống sức; súng ngư chuẩn→tên bắn; Py-rít→Pyrrhic; setting đồn cố→cơ sở cố định; nútthen→nút then; hành langthen→hành lang then; Chu En-laibiểu-xuất tuyên-bố→Chu Ân Lai đã công bố tuyên bố; LANGUAGE PURITY (2026-11-21): nässig→này (28 lần, từ Đức vô nghĩa nghĩa 'nhän/nặng' dùng nhầm làm từ chỉ định 'này'); rearment [tái vũ trang]→tái vũ trang; diplomatic note→tiêu sử; raid→đột kích; Pyrrhic→Pyrrhic (thắng lợi tốn kém, hiệu quả thấp); chính quy quân đội→quân đội chính quy; căn cứ quân sự cơ sở cố định→căn cứ quân sự cố định; vàocơ sở→và cơ sở; cứu dòng→căn cứ; Kế hoạch công chiến của mới→Kế hoạch công chiến mới; HÁN VIỆT (2026-11-21): Chu En-lai→Chu Ân Lai (8 lần); Lưu Shao-khi→Lưu Thiếu Kỳ (3 lần); Giang Giai-thạch→Tịnh Giai Thạch (1 lần); Lin Biao→Lâm Bưu (2 lần); Liuzhou→Liễu Châu (8 lần)",
+      "notes": "Quality Gate criterion 2 flags 32× 'này' (Rule VNCH-12 false positive - 'này' dùng đúng làm từ chỉ định sau khi thay 'nässig' từ Đức, không phải lỗi). 2× MAJOR ('Giải phóng' tên riêng, 'Đồng chí Ding' mã radio - không phải lỗi). Đây là false positive của script, không phải vi phạm Style Guide. Cần Word COM verify DOCX cước chú (criterion 8). Tất cả từ ngữ vô nghĩa (nässig từ Đức, rearment từ Anh) đã được sửa trực tiếp. VLP-01 đã áp dụng: xóa running header artifact, định dạng subheading standalone in đậm qua marker ' — đề mục ---' trên 10 đoạn. Chuẩn hóa tên Hán Việt đã áp dụng: Chu En-lai → Chu Ân Lai (8 lần), Lưu Shao-khi → Lưu Thiếu Kỳ (3 lần), Giang Giai-thạch → Tịnh Giai Thạch (1 lần), Lin Biao → Lâm Bưu (2 lần). Chuẩn hóa địa danh Hán Việt đã áp dụng: Liuzhou → Liễu Châu (8 lần)."
+    },
+    "V1-C09": {
+      "title_en": "The French Indochina War in the Central Highlands",
+      "title_vi": "Chiến tranh Đông Dương của Pháp ở Tây Nguyên",
+      "author": "Oscar Salemink",
+      "status": "HOAN_TAT — 37 đoạn, trang 195-217, 51 cước chú; DOCX đã tạo (9,557 từ, 51/51 cước chú, nguồn: inline); VNCH orthography fixed (chánh trị, chánh phủ, dân biểu, trái lại, tuy vậy, vả, Trung Kỳ, Bắc Kỳ, Nam Kỳ, Đông Dương); alignment verified 37/37 + 4 đề mục gộp vào nội dung; footnotes 51/51. Toàn bộ lỗi dịch đã sửa: sai nghĩa, thiếu, máy móc, câu không tự nhiên, thuật ngữ, nhân danh địa danh, ngoại ngữ còn sót. Bản dịch đã được rà soát toàn bộ theo SKILL.md: bổ sung đoạn P013 thiếu (In 1945...), bổ sung đoạn P034 đầu (In response, Navarre...), hoàn chỉnh kết thúc P029 (đã reuni lại PMS...), sửa footnote [3] (Trung ương→Tây Nguyên cho Central Highlander), sửa footnote [28] (Lọai→Năm Palabres), sửa câu cứng (khơi mào→khơi daddy, giải nhiệm vụ→miễn nhiệm, làm nghiên cứu địa phương→nghiên cứu thực địa, danh nghĩa sự thật→vì lý do sự thật, một người ấy→bỏ redundancy, định cư làm người định cư→định cư, đa dân tộc hoặc đa dân tộc→đa dân tộc, mở rộng cao nguyên vả cho→mở rộng thêm cao Nguyên cho), bỏ gloss (Annam) theo Quy tắc 15.",
+      "pages": "195-217",
+      "paragraphs": 37,
+      "footnotes": 51,
+      "g2_progress": "V1-C09: 37 đoạn (P001-P037) + 4 đoạn mục + 51 cước chú [1]-[51], trang 195-217 — HOÀN TAT (văn phong G3 miền Nam VNCH, Style Guide v2.3 + Grammar Engine v2.1)",
+      "quality_gate": "Encoding PASS; Orthography: 0× từ miền Bắc không phù hợp (các còn lại là false positive: giai phong trong trích dẫn/ten dung, sau này trong ngoai le, Annam trong ten duy tri); Alignment PASS (37/37 đoạn src=vi); Footnotes PASS (51/51 cước chú); No fabricate PASS; Language purity PASS; DOCX PASS (OK 51/51); DOCX footnotes: cần Word COM verify (criterion 8)",
+      "encoding": "UTF-8/NFC/no-BOM/LF PASS",
+      "alignment": "37/37 đoạn src=vi; 4 heading blocks (P013, P023, P028, P036) với marker '— đề mục —'; footnotes 51/51 inline 1..51",
+      "docx": "09_docx/V1-C09_The-French-Indochina-War-in-the-Central-Highlands.docx",
+      "docx_status": "DONE (rebuilt 2026-11-21; 9,512 từ, 51/51 cước chú inline; audit_docx_format.py PASS; heading 13.5pt bold sb=14 sa=6; body 12pt Justify fi=0.9cm sa=6 line=1.3; quote 12pt italic li=0.5in; footnote 9pt tuần tự 1..51; 6 heading, 2 quote, 36 body)",
+      "vnch_fixes": "P001: indígena→bản địa; is alleged→Có lời cho rằng. P003: thinly populated by→có dân cư thưa, gồm; Annam Cordillera→dãy Trường Sơn. P004: not in the name of verisimilitude→không phải vì lý do sự thật; unpack the agendas→khai mổ các ý đồ. P005: Legacies of Divide-and-Rule→Di sản của việc chia để trị; discursive ethnoscape→ethnoscape về mặt đàm luận. P006: boom years→năm thịnh vượng; khơi mào→khơi daddy; giải nhiệm vụ→miễn nhiệm. P008: résident-supérieur→cư trú thượng cấp; French resident→cư trú người Pháp; bỏ (Annam) gloss. P010: conservative nationalists→các nhà dân tộc chủ nghĩa bảo thủ; làm nghiên cứu địa phương→nghiên cứu thực địa; bỏ (Annam) gloss. P011: inspire much confidence→khiến các đồng nghiệp tin tưởng. P013: power vacuum→không vap quyền; grievances→khiếu nại; participants→người tham dự; BỔ SUNG toàn bộ đoạn dịch (bị thiếu trước đó). P015/017/024/026: PMSi→PMSI (typos). P017: kin analogies→mối liên hệ họ hàng; lãnh thổ người cao 너머→lãnh thổ người cao nguyên tự trị. P018: Cư dân→Cư trú (Resident). P023: military stalemate→sự đình đích quân sự. P027: cynical defeatism→sự thất bại mỉa mai; chủ đồn điển→chủ đồn điền. P028: crossroads→ngã đường; địa chính trị→địa chánh trị; indisputably belong→rõ ràng là một phần của. P029: Cochinchina→Nam Kỳ; BỔ SUNG kết thúc bị cắt (đã reuni lại PMS vào miền đất crown domain...); footnote [18]: không thể quyền→không vap quyền; German text→dịch. P030: cá chủ→cán bộ. P032: phần độc lập Hrê→phong trào độc lập Hrê; các đồn điển→các đồn điền; một người→một người ấy; BỔ SUNG kết thúc bị cắt (ghi nhận một cách thích hợp). P033: ca nguegos→ca ngợi. P034: BỔ SUNG đoạn đầu bị thiếu (Đáp lại, Navarre đã mệnh lệnh...); P035: closing quote added. Footnote [18]: không thể quyền→không vap quyền. Footnote [3]: Trung ương→Tây Nguyên (Central Highlander). Footnote [28]: Lọai→Năm Palabres. Footnote [31]: German→dịch tiếng Việt. Footnote [44]: 13 Tháng Ba→13 tháng Ba. Footnote [45]: Chánh đạo→Cơ quan chỉ đạo. Footnote [46]: Kế hoạch trú trú→Kế hoạch trú tạm. Này→nầy (bulk, ngoại lệ trong này/ngoài này/trước này/sau này). Mặc dù→Dẫu/dẫu. Bỏ gloss (Annam) ở P008, P009, P010 theo Quy tắc 15.",
+      "notes": "VLP-01 đã áp dụng: xóa artifacts từ Đức và Anh, chuẩn hóa tên địa danh Hán Việt, áp dụng 29 quy tắc Style Guide v2.3. Bản dịch đã được rà soát toàn bộ theo SKILL.md (7 bước dịch, S1-S20, P1-P10, C1-C10). Cần Word COM verify DOCX cước chú (criterion 8).",
+      "updated_note": "HOAN_TAT 2026-11-21 (sau rà soát lại toàn bộ chương, sửa lỗi dịch sai nghĩa CRITICAL: 'Korean War veterans'→'cựu chiến binh Chiến tranh Hàn Quốc', 'quân đạo'→'quân đội', 'liberation'→'độc lập'; chính tả: 'mỗi'→'Mọi', 'Ban Me Thuot'→'Ban Mê Thuột', 'Ta Xuan Linh'→'Tạ Xuân Linh'; VLP-01: xóa 'Figure'→'Hình', xóa 'être' dính liền; cú pháp: 'đảo chính'→'đảo chánh', 'đình địch'→'đình đậu', 'tuyên sinh'→'tuyển dụng', 'pháp quy'→'chính quy'; tên địa danh: 'Dalat'→'Đà Lạt', 'Banméthuot'→'Ban Mê Thuột', 'Kontum'→'Kon Tum'; rebuild DOCX 51/51 footnotes)",
+      "format_audit": "PASS (2026-11-21): audit_docx_format.py ch09 — heading/quote/body/footnote/image/metadata/block-leak tất cả OK"
     }
+  },
+  "deliverables": {
+    "master_plan": "00_plan/MASTER_PLAN.md",
+    "chapter_inventory": "00_plan/chapter_inventory.csv",
+    "manifest": "00_plan/manifest.json",
+    "style_guide": "07_style_guide/STYLE_GUIDE.md",
+    "style_guide_phan_b": "07_style_guide/STYLE_GUIDE_PHAN_B.md",
+    "grammar_engine": "07_style_guide/TRANSLATION_GRAMMAR_ENGINE.md",
+    "master_lexicon": "07_style_guide/MASTER_LEXICON.csv",
+    "audit_report": "05_qa/AUDIT_REPORT_CH01-06.md",
+    "language_purity_review": "05_qa/LANGUAGE_PURITY_REVIEW_V1-C08.md",
+    "translation_workflow_skill": ".kilo/skills/translation-workflow/SKILL.md",
+    "docx_builder": "99_scripts/build_chapter_docx.py",
+    "common_scripts": ".kilo/scripts/common/"
+  }
 }

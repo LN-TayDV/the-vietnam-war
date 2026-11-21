@@ -153,12 +153,18 @@ python -c "from docx_builder import DocxBuilder; from pathlib import Path; b=Doc
 
 | Script | Chức năng |
 |---|---|
-| `build_chapter_docx.py` | Legacy chapter DOCX builder (backward compat) |
+| `build_chapter_docx.py` | **Script chuẩn xuất DOCX** (bố cục sách + footnote chân trang). KHÔNG thay thế. |
 | `build_volume_docx.py` | Legacy volume DOCX builder (backward compat) |
 | `extract_chapters.py` | One-time PDF → text extraction (pymupdf) |
 | `build_lexicon.py` | Lexicon management: `build`, `update`, `verify`, `stats` |
 | `write_translation.py` | AI translation writer (79KB, specialized) |
 | `build_corpus.py` | Corpus building for research |
+| `audit_docx_format.py` | **Validator định dạng DOCX** (heading/body/quote/footnote/image). Chạy sau mỗi build. |
+| `test_regression.py` | Regression test ch01-06 (metadata/image/footnote) |
+| `verify_final.py` | Báo cáo kiểm tra từng chương ch01-06 |
+| `analyze_docx.py` | Phân tích chi tiết từng đoạn DOCX (debug) |
+
+*Script phụ trợ tại workspace `99_scripts/` (ngoài translation-project): `inspect_docx_ch09.py`, `check_italic.py`, `check_keepnext.py`, `check_bare_markers.py`, `debug_meta.py` — dùng để debug, không phải script build.*
 
 *Đã xóa: 42 script cũ/debug/chapter-specific/tmp (xem consolidation report).*
 
@@ -219,6 +225,69 @@ python -c "from docx_builder import DocxBuilder; from pathlib import Path; b=Doc
    - [ ] 7. DOCX tồn tại 09_docx/, sinh bởi `docx_builder.py`
    - [ ] 8. DOCX cước chú: `OK N/N`, Word `Footnotes.Count` = `notes`, footnote chân trang 9pt, 1..N
 4. Cập nhật `progress.json`: `status: "HOAN_TAT"`, `docx`, `docx_status`.
+
+## 8A. QUY TẮC ĐỊNH DẠNG DOCX (BẮT BUỘC — TỪ BÀI HỌC CHƯƠNG 9)
+
+> **Áp dụng cho MỌI chương.** Các quy tắc dưới đây được rút ra từ lỗi thực tế khi hiệu chỉnh Chương 9 (V1-C09). Mọi session PHẢI đọc mục này trước khi xuất DOCX. Script chuẩn `translation-project/99_scripts/build_chapter_docx.py` đã tự động áp dụng các quy tắc này; session KHÔNG được tự viết script build thay thế.
+
+### 8A.1 Định dạng chuẩn (không tự thiết kế)
+
+| Thành phần | Font | Cỡ | Canh lề | Khoảng cách | Ghi chú |
+|---|---|---|---|---|---|
+| **Tiêu đề chương (title block)** | Times New Roman | 24pt bold | Canh giữa | — | Tự sinh, không sửa |
+| **Đề mục (heading)** | Times New Roman | 13.5pt bold | Canh trái | sb=14pt, sa=6pt, line=1.15 | `keep_with_next=True` (không tách khỏi đoạn sau) |
+| **Thân bài (body)** | Times New Roman | 12pt (không nghiêng) | Justify (both) | fi=0.9cm, sa=6pt, line=1.3 | `widow_control=True` |
+| **Trích dẫn (quote)** | Times New Roman | 12pt **nghiêng** | Justify (both) | li=0.5" (720 twips), sa=6pt, line=1.3 | Không thụt đầu dòng |
+| **Chú thích hình (caption "Hình X.Y")** | Times New Roman | 10pt nghiêng | Canh giữa | — | `keep_together=True` |
+| **Ảnh (image)** | — | rộng 4.5" | Canh giữa | sb=6pt, sa=2pt | `keep_with_next=True` (dính liền caption) |
+| **Cước chú (footnote)** | Times New Roman | 9pt (sz=18) | Justify | — | Đánh số tự động 1..N, chân trang |
+| **A4, lề** | — | — | — | — | Trên 1.9cm, dưới 1.8cm, trái 2.1cm, phải 1.8cm |
+
+### 8A.2 Lỗi thực tế từ Chương 9 và cách phòng ngừa
+
+| # | Lỗi thực tế | Nguyên nhân | Cách phòng ngừa (đã tích hợp vào script) |
+|---|---|---|---|
+| 1 | **14 cước chú thiếu marker** (4,5,37,39-42,44,45,47-51) → footnote bị dồn cuối chương | TXT thân bài thiếu marker `[N]` ở 14 vị trí; marker 21 ở dạng "20 21" (số trần liền nhau) | Trước khi build, chạy `list_vi_markers.py` để liệt kê marker thiếu. Chèn marker `[N]` đúng vị trí (theo tỷ lệ src). Marker dạng "20 21" phải sửa thành "[20][21]". |
+| 2 | **Trích dẫn không được trích xuất footnote** | `extract_inline_markers` chỉ nhận `kind=="para"`, bỏ qua `kind=="quote"` | ĐÃ SỬA: điều kiện thành `kind in ("para", "quote")`. Không cần làm gì thêm. |
+| 3 | **Heading không đúng định dạng** (sai cỡ/sai khoảng cách) | TXT không có nhãn `đề mục`; build không nhận diện heading | TXT phải ghi `--- [V1CXX-PYYY] (trang Z) — đề mục ---` cho mỗi đề mục. Script tự chuyển thành heading 13.5pt bold. |
+| 4 | **Trích dẫn không được định dạng** | TXT không có nhãn `trích dẫn` | TXT phải ghi `--- [V1CXX-PYYY] (trang Z) — trích dẫn ---`. Script tự chuyển thành quote (nghiêng, li=0.5"). |
+| 5 | **Ảnh và caption bị tách trang** | Đoạn ảnh không có `keep_with_next` | ĐÃ SỬA: ảnh giờ có `keep_with_next=True`, caption có `keep_together=True`. |
+| 6 | **Build crash khi Word đang mở file** | `out.unlink()` raises PermissionError (WinError 32) | ĐÃ SỬA: `_safe_unlink()` retry 10 lần (0.3s mỗi lần), báo lỗi rõ ràng "hãy đóng Word". |
+| 7 | **File DOCX cũ (slug khác) gây nhầm lẫn** | Build cũ dùng slug tiếng Việt, build mới dùng slug tiếng Anh → 2 file cùng chương | `audit_docx_format.py` chọn file MỚI NHẤT. Session nên xóa file DOCX cũ cùng chương trước khi build lại. |
+| 8 | **Bare marker (số trần) false positive** | Số trong thân bài (năm, số trang) trùng `expect` → bị nuốt làm footnote | Script chỉ nhận bare marker khi `num == expect` (chuỗi tuần tự). Chương dùng marker `[N]` an toàn hơn bare marker. |
+
+### 8A.3 Quy tắc chuẩn bị TXT trước khi build
+
+1. **Đề mục (heading):** Mỗi đề mục phải ở dòng riêng với header `--- [V1CXX-PYYY] (trang Z) — đề mục ---`, nội dung đề mục ở dòng kế tiếp.
+2. **Trích dẫn (quote):** Mỗi trích dẫn phải có header `--- [V1CXX-PYYY] (trang Z) — trích dẫn ---`, nội dung trích dẫn ở các dòng kế tiếp.
+3. **Marker cước chú:** Ưu tiên `[N]` (dạng ngoặc vuông) hơn số trần. Nếu dùng số trần, phải đảm bảo tuần tự 1..N và không có số lạc (năm, số trang) trùng `expect`.
+4. **Marker liền nhau:** "20 21" phải sửa thành "[20][21]" để script nhận diện đúng 2 footnote riêng biệt.
+5. **Không để metadata lọt vào thân bài:** Dòng "Source: ..." phải nằm trong khối meta (trước `--- [` đầu tiên), không nằm trong thân đoạn.
+
+### 8A.4 Kiểm tra hồi quy bắt buộc trước khi bàn giao
+
+Sau khi build, CHẠY validator:
+```bash
+python translation-project/99_scripts/audit_docx_format.py NN
+```
+Validator kiểm tra TỰ ĐỘNG:
+- Heading: 13.5pt bold, sb=14pt sa=6pt
+- Body: 12pt, Justify, fi=0.9cm, sa=6pt, line=1.3
+- Quote: 12pt nghiêng, li=0.5"
+- Footnote: 9pt, tuần tự 1..N, không dồn cuối
+- Không leak metadata (Source:, 02_extracted_text)
+- Không leak block-header (`--- [...] ---`)
+- Ảnh đặt trước caption (nếu có)
+- Image/caption count khớp
+
+Exit code 0 = PASS, 1 = FAIL. **Không bàn giao DOCX nếu validator FAIL.**
+
+### 8A.5 Cấm
+
+- KHÔNG tự viết script build thay thế `build_chapter_docx.py`.
+- KHÔNG sửa template DOCX thủ công.
+- KHÔNG dùng bản OCR raw (`*_text_ocr.txt`, `*_text_p1.txt`) làm nguồn build — chỉ dùng `v1_chXX_vi.txt`.
+- KHÔNG bỏ qua cảnh báo `WARN` (footnote không đủ N/N) trong output build.
 
 ## 9. QUY TẶC VLP-01 — TIẾNG VIỆT TRƯỚC (VIETNAMESE-FIRST TRANSLATION)
 
@@ -310,9 +379,10 @@ Một câu chỉ được xem là đạt VLP-01 khi:
 6. **Áp dụng VLP-01**: nhận diện từ ngoại ngữ trong nguồn trước khi dịch (§9.1-9.2).
 7. **Áp dụng quy tắc Hán Việt**: chuẩn hóa tên nhân vật Trung Quốc theo bảng Hán Việt đã thiết lập (xem §13), không giữ Pinyin hoặc phiên âm tiếng Anh nếu đã có tên Hán-Việt.
 8. Dịch theo 8 bước (bao gồm kiểm tra cấp câu VLP-01 ở bước 5b).
-9. Chạy `vnch_orthography.py` + **VLP-01 sentence-level check** (§9.3) + quét tên Pinyin còn sót (§13.4) → `document_comparator.py` → `quality_gate.py` → `docx_builder.py`.
-10. Quality Gate 8 tiêu chí + **VLP-01 criterion 6b** + **Hán Việt name check** PASS → cập nhật `progress.json` HOAN_TAT.
-11. **Dọn dẹp file tạm** (tmp_*, debug_*, *.bak).
+9. Chạy `vnch_orthography.py` + **VLP-01 sentence-level check** (§9.3) + quét tên Pinyin còn sót (§13.4) → `document_comparator.py` → `quality_gate.py` → `build_chapter_docx.py`.
+10. **Chạy `audit_docx_format.py NN`** (§8A.4) → PASS (exit 0). Nếu FAIL, sửa TXT (heading/quote/marker) rồi build lại.
+11. Quality Gate 8 tiêu chí + **VLP-01 criterion 6b** + **Hán Việt name check** + **DOCX format audit** PASS → cập nhật `progress.json` HOAN_TAT.
+12. **Dọn dẹp file tạm** (tmp_*, debug_*, *.bak, file DOCX cũ cùng chương có slug khác).
 
 ## 11. TRẠNG THÁI HIỆN TẠI (2026-11-20)
 
@@ -324,9 +394,12 @@ Một câu chỉ được xem là đạt VLP-01 khi:
 | V1-Ch4 | HOAN_TAT | 8,942 | 71 | 17 trang | 2 (Hình 4.1, 4.2) |
 | V1-Ch5 | HOAN_TAT | 9,124 | 26 | 14 trang | 2 (Hình 5.1, 5.2) |
 | V1-Ch6 | HOAN_TAT | 11,731 | 43 | 18 trang | 1 (Hình 6.1) |
-| **Tổng V1 (1-6)** | **HOAN_TAT** | **56,448** | **257** | **93 trang** | **8** |
+| V1-Ch7 | HOAN_TAT | — | — | — | — |
+| V1-Ch8 | HOAN_TAT | — | — | — | — |
+| V1-Ch9 | HOAN_TAT | 9,512 | 51 | — | 0 |
+| **Tổng V1 (1-9)** | **HOAN_TAT** | — | — | — | — |
 
-**V1-Ch7 đến V1-Ch21**: Chưa bắt đầu. **Volume 2, 3**: Chưa bắt đầu.
+**V1-Ch10 đến V1-Ch21**: Chưa bắt đầu. **Volume 2, 3**: Chưa bắt đầu.
 
 ## 12. LIÊN KẾT TÀI LIỆU QUAN TRỌNG
 
@@ -403,4 +476,4 @@ Sử dụng tên Hán-Việt theo truyền thống văn bản lịch sử tiến
 
 ---
 
-*Cập nhật: 2026-11-21 — Tích hợp VLP-01 (Tiếng Việt trước) làm quy tắc bắt buộc trong quy trình dịch, Quality Gate criterion 6b, và checklist session; thêm quy tắc Hán Việt (Section 13) chuẩn hóa tên nhân vật Trung Quốc; Grammar Engine v2.1, Style Guide v2.3, Audit 6 chương.*
+*Cập nhật: 2026-11-21 — Tích hợp VLP-01 (Tiếng Việt trước) làm quy tắc bắt buộc trong quy trình dịch, Quality Gate criterion 6b, và checklist session; thêm quy tắc Hán Việt (Section 13) chuẩn hóa tên nhân vật Trung Quốc; **thêm Section 8A: Quy tắc định dạng DOCX từ bài học Chương 9** (heading/quote/footnote/image/font/spacing/pagination/layout + validator `audit_docx_format.py`); Grammar Engine v2.1, Style Guide v2.3, Audit 6 chương.*
