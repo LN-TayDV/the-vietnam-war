@@ -1,0 +1,6 @@
+NOT FOUND: chính phủ
+NOT FOUND: chính trị
+NOT FOUND: đại biểu
+NOT FOUND: tài chính
+FOUND: đảo at 3673: RVN bị mảnh vỡ trải khắp các "đảo" lãnh thổ rải rác từ miền Bắc
+FOUND: đảo at 20236: gừng bắn tại Hàn Quốc giữ bán đảo chia thành hai nhà nước tại v

@@ -1,0 +1,19 @@
+OK: chánh phủ
+MISSING: đảo chánh
+OK: chánh trị
+MISSING: tài chánh
+MISSING: dân biểu
+OK: độc lập
+OK: ngôn ngữ lưỡng lự
+OK: Trung ương Đảng
+OK: căn cứ kiên cố
+OK: Thái
+OK: Sư 1 Xích lô
+OK: người
+OK: chính quyền cộng sản
+OK: nêu ra
+OK: đồng bằng
+OK: dầu
+OK: tuy vậy
+OK: chớ không
+Paragraphs: 56

@@ -93,6 +93,8 @@ Dự án hiện có **9 skills chuyên biệt** trong `.kilo/skills/`. Mỗi ski
 | `07_style_guide/TRANSLATION_GRAMMAR_ENGINE.md` | 7 bước dịch + VNCH Grammar Database + Checklist S1-S20, P1-P10, C1-C10 | **Bắt buộc đọc trước mỗi chương** |
 | `03_terminology/glossary_nam_bac_compare.tsv` | Tra cứu từ Bắc/Nam | Nếu từ chưa có → ghi vào `uncertain_terms.md`, KHÔNG tự ý chốt |
 | `03_terminology/SOURCES.md` | Nguồn ngôn ngữ miền Nam | Chỉ dùng để xác định từ, không đổi nội dung nguyên tác |
+| `03_terminology/POLITICAL_ECONOMIC_GLOSSARY.md` | Glossary chính trị - kinh tế - tư tưởng (110+ thuật ngữ, 10 bảng so sánh, 50 ví dụ) | **Bắt buộc tra cứu trước khi dịch thuật ngữ chuyên ngành** |
+| `03_terminology/POLITICAL_ECONOMIC_GLOSSARY.csv` | Dữ liệu có cấu trúc để import vào MASTER_LEXICON (50 mục quan trọng) | 16 cột chuẩn MASTER_LEXICON |
 | `08_southern_vietnamese_library/10_LEXICAL_DATABASE/MASTER_LEXICON.csv` | 321+ mục từ điển Nam | Tra cứu nhanh thuật ngữ |
 | `05_qa/AUDIT_REPORT_CH01-06.md` | Bài học từ 6 chương đầu | **Đọc trước khi dịch chương mới** |
 | `books/doi-chieu-tieng-viet.pdf` | Bảng đối chiếu VNCH-VC (~120 cặp từ) | Tham chiếu khi chọn từ |
@@ -235,6 +237,14 @@ PDF SOURCE
 ### BƯỚC 4: KIỂM TRA ORTHOGRAPHY + VLP-01
 - Chạy `python .kilo/scripts/common/vnch_orthography.py --check-only NN` → 0 lỗi CRITICAL/MAJOR.
 - **VLP-01 sentence-level check**: Mỗi câu đã được kiểm tra không còn ngoại ngữ có thể dịch, không phiên âm thay nghĩa, không cấu trúc dịch máy, tự nhiên với độc giả VNCH trước 1975.
+- **BẮT BUỘC tra cứu Glossary chuyên ngành**: Khi gặp thuật ngữ thuộc các nhóm sau, **BẮT BUỘC** tra cứu `03_terminology/POLITICAL_ECONOMIC_GLOSSARY.md` trước khi dịch:
+  - Các chủ nghĩa chính trị (-ism): Liberalism, Conservatism, Socialism, Communism, Fascism, Nationalism, Imperialism, Colonialism, Authoritarianism, Totalitarianism, Capitalism, Collectivism, Corporatism, Protectionism, Neoliberalism...
+  - Khuynh hướng/trường phái chính trị: Leftism, Rightism, Revisionism, Dogmatism, Opportunism, Sectarianism, Radicalism, Reformism...
+  - Khái niệm tư tưởng/đường lối/đảng phái: Ideology, Doctrine, Philosophy, Political Line, Orthodoxy, Deviation, Rectification, Political Purge...
+  - Thuật ngữ kinh tế học (-ism, -ist): Mercantilism, Keynesianism, Monetarism, Neoliberalism, State Capitalism, Agrarianism...
+  - Khái niệm nhà nước/pháp lý/thể chế: Sovereignty, Constitutionalism, Rule of Law, Civil Society, Federalism, Decentralization...
+  - Quân sự chuyên ngành VNCH: Strategic Hamlet, Search and Destroy, Pacification, Vietnamization, Domino Theory...
+  Nếu thuật ngữ chưa có trong glossary → xử lý theo quy trình §8 (ghi nhận `uncertain_terms.md`, đánh dấu `[CẦN BỔ SUNG LEXICON]`).
 
 ### BƯỚC 5: THÊM CỤC CHÚ
 - Giữ marker `[N]`/`N` trong thân bài. Khối `--- [Cước chú trang X-Y] ---`.
@@ -519,4 +529,58 @@ Sử dụng tên Hán-Việt theo truyền thống văn bản lịch sử tiến
 
 ---
 
-*Cập nhật: 2026-11-21 — Tích hợp VLP-01 (Tiếng Việt trước) làm quy tắc bắt buộc trong quy trình dịch, Quality Gate criterion 6b, và checklist session; thêm quy tắc Hán Việt (Section 13) chuẩn hóa tên nhân vật Trung Quốc; **thêm Section 8A: Quy tắc định dạng DOCX từ bài học Chương 9** (heading/quote/footnote/image/font/spacing/pagination/layout + validator `audit_docx_format.py`); Grammar Engine v2.1, Style Guide v2.3, Audit 6 chương.*
+## 14. QUY TẮC XỬ LÝ GLOSSARY CHÍNH TRỊ - KINH TẾ - TƯ TƯỞNG
+
+### 14.1 Tra cứu bắt buộc (Grammar Engine Bước 4)
+Khi gặp thuật ngữ thuộc các nhóm sau, **BẮT BUỘC** tra cứu `03_terminology/POLITICAL_ECONOMIC_GLOSSARY.md` trước khi dịch:
+- Các chủ nghĩa chính trị (-ism): Liberalism, Conservatism, Socialism, Communism, Fascism, Nationalism, Imperialism, Colonialism, Authoritarianism, Totalitarianism, Capitalism, Collectivism, Corporatism, Protectionism, Neoliberalism...
+- Khuynh hướng/trường phái chính trị: Leftism, Rightism, Revisionism, Dogmatism, Opportunism, Sectarianism, Radicalism, Reformism...
+- Khái niệm tư tưởng/đường lối/đảng phái: Ideology, Doctrine, Philosophy, Political Line, Orthodoxy, Deviation, Rectification, Political Purge...
+- Thuật ngữ kinh tế học (-ism, -ist): Mercantilism, Keynesianism, Monetarism, Neoliberalism, State Capitalism, Agrarianism...
+- Khái niệm nhà nước/pháp lý/thể chế: Sovereignty, Constitutionalism, Rule of Law, Civil Society, Federalism, Decentralization...
+- Quân sự chuyên ngành VNCH: Strategic Hamlet, Search and Destroy, Pacification, Vietnamization, Domino Theory...
+
+### 14.2 Cấu trúc mục từ trong Glossary
+Mỗi thuật ngữ có các thành phần:
+| Thành phần | Nội dung |
+|---|---|
+| English term | Thuật ngữ tiếng Anh |
+| Preferred Vietnamese | Cách dịch chuẩn VNCH |
+| VNCH historical usage | Cách dùng xác nhận trong tài liệu VNCH |
+| Alternative translations | Các cách dịch khác |
+| Conceptual definition | Định nghĩa chính xác khái niệm |
+| Context distinction | Phân biệt với thuật ngữ gần nghĩa |
+| Example 1/2/3 | Ví dụ trong chính trị, lịch sử VN, kinh tế/xã hội |
+| Translation notes | Lưu ý khi dịch |
+| Sources | Tài liệu chứng minh (SRC-001, SRC-009, SRC-021, SRC-023, PDF) |
+
+### 14.3 Bảng so sánh các nhóm từ dễ nhầm
+Glossary cung cấp 10 bảng so sánh chi tiết:
+1. Rightism vs Conservatism
+2. Leftism vs Radicalism vs Extremism  
+3. Socialism vs Communism vs Collectivism
+4. Nationalism vs Patriotism
+5. Imperialism vs Colonialism
+6. Authoritarianism vs Totalitarianism
+7. Revisionism vs Reformism
+8. Deviation vs Dissent vs Opposition
+9. Ideology vs Doctrine vs Philosophy
+10. Movement vs School vs Tendency
+
+### 14.4 Xử lý thuật ngữ chưa có trong Glossary
+Nếu thuật ngữ chuyên ngành **KHÔNG CÓ** trong `POLITICAL_ECONOMIC_GLOSSARY.md`:
+1. Tra cứu theo thứ tự: `MASTER_LEXICON.csv` → VNCH Grammar → Nguồn VNCH sơ cấp → `SOURCES.md` → **Bảng Đối Chiếu Tiếng Việt PDF**.
+2. Nếu vẫn chưa có bằng chứng VNCH:
+   - Dịch theo nghĩa khoa học chính xác (Oxford, Britannica, Stanford Encyclopedia)
+   - Viết in nghiêng + giải nghĩa lần đầu: *[Thuật ngữ gốc] [ND: giải nghĩa]*
+   - Đánh dấu `[CẦN BỔ SUNG LEXICON]` để cập nhật sau
+   - Ghi nhận vào `translation-project/03_terminology/uncertain_terms.md`
+3. **KHÔNG** tự tạo từ mới, **KHÔNG** dùng thuật ngữ hiện nay, **KHÔNG** giữ nguyên Anh nếu có cách dịch Việt chuẩn.
+
+### 14.5 File dữ liệu bổ sung
+- `03_terminology/POLITICAL_ECONOMIC_GLOSSARY.md` — Bản đầy đủ (110+ thuật ngữ, 10 bảng so sánh, 50 ví dụ dịch đúng/sai)
+- `03_terminology/POLITICAL_ECONOMIC_GLOSSARY.csv` — 50 mục quan trọng, 16 cột chuẩn MASTER_LEXICON, sẵn sàng import
+
+---
+
+*Cập nhật: 2026-11-22 — Mở rộng Glossary chính trị - kinh tế - tư tưởng (110+ thuật ngữ, 10 bảng so sánh, 50 ví dụ, file CSV); thêm quy tắc tra cứu bắt buộc tại Grammar Engine Bước 4; tích hợp VLP-01, Quality Gate criterion 6b, quy tắc Hán Việt (Section 13), Section 8A DOCX format; Grammar Engine v2.1, Style Guide v2.3, Audit 6 chương.*
