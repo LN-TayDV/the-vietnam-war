@@ -150,6 +150,9 @@ python .kilo/scripts/common/document_comparator.py --chapter NN
 # Quality Gate tổng hợp
 python .kilo/scripts/common/quality_gate.py --chapter NN
 
+# CỔNG QA BẮT BUỘC (mục 15) — phải PASS trước khi build
+python 99_scripts/audit_chapter.py NN
+
 # Build DOCX (Common)
 python -c "from docx_builder import DocxBuilder; from pathlib import Path; b=DocxBuilder(Path('.')); r=b.build_chapter(Path('translation-project/04_translation/v1/chNN/v1_chNN_vi.txt'), Path('translation-project/09_docx/V1-CNN_<slug>.docx')); print(r)"
 ```
@@ -161,6 +164,8 @@ python -c "from docx_builder import DocxBuilder; from pathlib import Path; b=Doc
 |---|---|
 | `chapter_workflow.py` | **Workflow chính** cho mọi chương: extract → build → audit → compare → quality. **Dùng cho mọi chương mới.** |
 | `build_chapter_docx.py` | **Script chuẩn xuất DOCX** (bố cục sách + footnote chân trang). KHÔNG thay thế. |
+| `audit_chapter.py` | **Cổng QA bắt buộc trước build** (mục 15): English remnant / footnote leak / VNCH calque / omission / markers. FAIL ⇒ không build. |
+| `check_footnote_markers.py` | Kiểm tra riêng footnote markers (đã được `audit_chapter.py` bao gồm). |
 | `extract_images.py` | **BẮT BUỘC**: trích xuất ảnh raster + **rasterize bản đồ/sơ đồ vector** (render_vector_figure, 300 DPI) từ PDF theo chapter, tạo image manifest. Chạy trước `build_chapter_docx.py`. |
 | `audit_docx_format.py` | **Validator định dạng DOCX** (heading/body/quote/footnote/image). Chạy sau mỗi build. |
 | `build_volume_docx.py` | Legacy volume DOCX builder (backward compat) |
@@ -654,4 +659,37 @@ Nếu thuật ngữ chuyên ngành **KHÔNG CÓ** trong `POLITICAL_ECONOMIC_GLOS
 
 ---
 
-*Cập nhật: 2026-11-22 — Mở rộng Glossary chính trị - kinh tế - tư tưởng (110+ thuật ngữ, 10 bảng so sánh, 50 ví dụ, file CSV); thêm quy tắc tra cứu bắt buộc tại Grammar Engine Bước 4; tích hợp VLP-01, Quality Gate criterion 6b, quy tắc Hán Việt (Section 13), Section 8A DOCX format; Grammar Engine v2.1, Style Guide v2.3, Audit 6 chương.*
+## 15. CỔNG KIỂM SOÁT BẮT BUỘC `audit_chapter.py` (CHẶN LỖI TÁI DIỄN)
+
+> **BÀI HỌC TỪ AUDIT CH13 (2026-11-22).** Bản dịch ch13 bị hàng loạt lỗi: (a) bỏ sót
+> toàn bộ phần **Dẫn nhập** (nằm TRƯỚC segment `P001` nên bị coi là "front matter");
+> (b) chép **đuôi cước chú 39** ("1954 before the street violence began. Statler,
+> Replacing France, 284…") thành thân bài; (c) đổ nguyên **trích dẫn cước chú 60**
+> (Catton/Statler/Anderson/Lake) vào thân bài; (d) làm rơi 2 câu ("The logic of
+> containment dictated…", "Once France had acceded…"); (e) dịch máy từng từ
+> ("Việt Nam Nam", "Hàn Quốc Nam", "Châu Á", "Châu Âu"). **Mọi chương phải qua cổng
+> `audit_chapter.py` trước khi build DOCX — FAIL thì KHÔNG build.**
+
+### 15.1 Cách chạy
+```bash
+python 99_scripts/audit_chapter.py 13          # chương 13
+python 99_scripts/audit_chapter.py 13 --json   # xuất JSON
+```
+Exit code: `0`=PASS, `1`=FAIL. (Ngưỡng tỉ lệ từ VN/EN: 1.0–1.6 bình thường; <0.9 ⇒ nghi bỏ sót ⇒ FAIL.)
+
+### 15.2 Năm phép kiểm tra
+1. **FOOTNOTE MARKERS** — đủ `[N]`, không thiếu/trùng/thừa.
+2. **ENGLISH REMNANT** — câu/đoạn tiếng Anh còn sót trong THÂN BÀI (thân bài phải là tiếng Việt hoàn chỉnh).
+3. **FOOTNOTE LEAK** — dấu vết trích dẫn (`Ibid`, `FRUS`, `Public Papers`, `Washington, DC`, `vol.`, ` box `, `interview with author`, tên NXB/đại học…) lọt vào THÂN BÀI. *Cước chú chỉ nằm trong khối `--- [Cước chú …] ---`.*
+4. **VNCH CALQUE** — `Việt Nam Nam`→`Nam Việt Nam`, `Hàn Quốc Nam`→`Nam Hàn`, `Châu Á`→`Á Châu`, `Châu Âu`→`Âu Châu`, `Cộng Hòa Dân Chủ Việt Nam`→`Việt Nam Dân Chủ Cộng Hòa`… (CẢNH BÁO, nên sửa).
+5. **OMISSION** — tỉ lệ số từ VN/EN <0.9 ⇒ nghi bỏ sót.
+
+### 15.3 Quy tắc biên dịch bắt buộc (rút từ lỗi ch13)
+- **Không bỏ sót phần TRƯỚC segment đầu tiên.** Nếu nguồn EN có tiêu đề + đoạn Dẫn nhập/Mở đầu trước `--- [V1CNN-P001]`, phải dịch thành segment riêng ở đầu file (dùng nhãn `— đề mục —` cho tiêu đề mục).
+- **Không dịch/chép trích dẫn vào thân bài.** Thân bài chỉ chứa `[N]`; toàn bộ trích dẫn giữ nguyên tiếng Anh trong khối cước chú. Nếu một đoạn nguồn EN chỉ là **đuôi cước chú bị cắt rời** (vd "1954 before the street violence began. Statler…"), **KHÔNG dịch thành thân bài** — đó là phần của cước chú.
+- **Không làm rơi câu khi gộp/tách đoạn** gần vùng nhiều cước chú hoặc gần đề mục kết luận; đối chiếu từng câu EN↔VN.
+- **Chuẩn hóa VNCH, không dịch máy từng từ** (xem danh sách mục 15.2.4).
+
+---
+
+*Cập nhật: 2026-11-22 — Thêm Mục 15: Cổng kiểm soát bắt buộc `99_scripts/audit_chapter.py` (English remnant / footnote leak / VNCH calque / omission / markers) + quy tắc biên dịch chống lặp lỗi ch13 (bỏ sót Dẫn nhập, chép đuôi cước chú vào thân bài, đổ trích dẫn vào thân bài, rơi câu, dịch máy từng từ). Trước đó: Mở rộng Glossary chính trị - kinh tế - tư tưởng (110+ thuật ngữ, 10 bảng so sánh, 50 ví dụ, file CSV); quy tắc tra cứu bắt buộc tại Grammar Engine Bước 4; tích hợp VLP-01, Quality Gate criterion 6b, quy tắc Hán Việt (Section 13), Section 8A DOCX format; Grammar Engine v2.1, Style Guide v2.3, Audit 6 chương.*
