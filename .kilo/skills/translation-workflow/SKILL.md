@@ -203,7 +203,35 @@ PDF SOURCE
 11. **Bản đồ/sơ đồ dạng VECTOR (drawings) PHẢI được rasterize và nhúng**, không được ghi nhận `VECTOR_ONLY` rồi bỏ. Script `extract_images.py` (hàm `render_vector_figure()`) tự động phát hiện trang có ≥20 vector drawings + caption "Map/Figure/Bản đồ/..." và render thành 1 ảnh PNG (300 DPI, crop theo vùng hình + caption). Đây là bài học từ Chương 9: Map 9.1 (p231) trước đây bị bỏ vì chỉ ghi `VECTOR_ONLY_113_drawings` — nay đã sửa và áp dụng chung cho mọi chương.
 12. **Trang có bản đồ vector thường có vài raster nhỏ** (la bàn, thước tỉ lệ) — KHÔNG trích xuất riêng chúng; bản đồ được render trọn vẹn thành một ảnh duy nhất.
 
-## 8. QUY TRÌNH DỊCH MỘT CHƯƠNG (8 BƯỚC + QUALITY GATE)
+## 7B. QUY TẮC ĐẶT FILE SCRIPT VÀ TEMP (KHÔNG ĐỂ LẺ LẺ TẠI WORKSPACE ROOT)
+
+Áp dụng cho MỌI session. Mọi session PHẢI đọc mục này trước khi tạo script mới.
+
+### 7B.1 Nơi tạo file chuẩn
+
+| Loại file | Thư mục đích | Ghi chú |
+|-----------|-------------|---------|
+| Script Python/PowerShell mới | `99_scripts/` | Chỉ tên tiếng Việt_Anh, không ký tự đặc biệt |
+| Script dùng chung (nếu có) | `.kilo/scripts/common/` | Theo hệ thống Common Scripts (section 6) |
+| File output/debug/temp từ script | `99_scripts/` hoặc `C:\Users\PC\AppData\Local\Temp\kilo\` | Sẽ bị `.gitignore`, không commit |
+| File DOCX tạm test | `99_scripts/` | Xóa sau khi verify xong |
+| File txt check/debug | `99_scripts/` | Xóa sau mỗi session |
+
+### 7B.2 CẤM (TUYỆT ĐỐI KHÔNG)
+
+- KHÔNG tạo file `.py`, `.ps1`, `.txt`, `.json` tạm/lẻ lẻ ở workspace root (ngoại trừ các file cấu hình dự án đã có: `.gitignore`, `kilo.json`, `CLAUDE.md`).
+- KHÔNG để file `debug*.txt`, `fix*.txt`, `*_check.txt`, `*_result.txt`, `*_out.txt`, `*.bak`, `*_old` rải rác ở workspace root hoặc `99_scripts/` sau khi session kết thúc.
+- KHÔNG để Word lock file `~$*.docx` còn lại sau khi build xong.
+
+### 7B.3 Dọn dẹp sau mỗi session (bắt buộc)
+
+Trước khi kết thúc session, phải thực hiện:
+
+1. Xóa file tạm trong `99_scripts/` (`debug*`, `fix*`, `*_check.txt`, `*_result.txt`, `*_out.txt`, `*.txt` liên quan đến debug).
+2. Xóa file lẻ lẻ ở workspace root (nếu có).
+3. Đóng tất cả file DOCX bằng Word (tránh lock file `~$`).
+4. Chạy `git status --short` để xác nhận không còn file lạ chưa theo dõi.
+
 
 ### BƯỚC 0: KHỞI ĐỘNG SESSION MỚI (BẮT BUỘC)
 1. Kiểm tra rác workspace (xóa file lệch thư mục).

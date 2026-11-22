@@ -2,10 +2,63 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.pytest_cache/
+*.egg-info/
 
 # OS
 Thumbs.db
 .DS_Store
 
-# Microsoft Word lock files
+# Microsoft Word lock / temp files
 ~$*.docx
+*.docx~
+
+# Debug / temp output files in scripts folder
+99_scripts/*.txt
+99_scripts/*_out.txt
+99_scripts/*_result.txt
+99_scripts/*_check.txt
+99_scripts/*_diag.txt
+99_scripts/*_report.txt
+99_scripts/*_debug.txt
+99_scripts/debug*
+99_scripts/fix*
+99_scripts/align*
+99_scripts/audit*
+99_scripts/build*
+99_scripts/docx_text*
+99_scripts/extract*
+99_scripts/find*
+99_scripts/footnotes*
+99_scripts/json_validate*
+99_scripts/marker*
+99_scripts/qa_result*
+99_scripts/qc*
+99_scripts/qg*
+99_scripts/scan*
+99_scripts/search*
+99_scripts/show*
+99_scripts/src_markers*
+99_scripts/temp*
+99_scripts/term*
+99_scripts/title*
+99_scripts/update_skill*
+99_scripts/vi_fn*
+99_scripts/vnch*
+99_scripts/verify*
+99_scripts/*.json
+99_scripts/99_scripts_backup_*/
+99_scripts/backup/
+
+# Temp / check files at project root
+*.txt
+!translation-project/**/*.txt
+!translation-project/*.txt
+!CLAUDE.md
+translation-project/chinese_check.txt
+
+# Images extracted from PDF (regenerated, not source)
+translation-project/04_translation/v1/images/
+
+# Temp directory
+translation-project/06_temp/
