@@ -16,12 +16,13 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding="utf-8")
 chap = sys.argv[1] if len(sys.argv) > 1 else "09"
 PROJECT = Path(__file__).resolve().parents[1]
+TP = PROJECT / "translation-project"
 if len(sys.argv) > 2:
     path = Path(sys.argv[2])
 else:
     # find the NEWEST docx for this chapter (a chapter may have stale
     # files from earlier builds with a different title slug).
-    cands = sorted((PROJECT / "09_docx").glob(f"V1-C{int(chap):02d}_*.docx"),
+    cands = sorted((TP / "09_docx").glob(f"V1-C{int(chap):02d}_*.docx"),
                    key=lambda p: p.stat().st_mtime)
     path = cands[-1] if cands else None
 if path is None or not path.exists():

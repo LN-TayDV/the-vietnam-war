@@ -1,0 +1,9 @@
+L4: 'earth' :: Vào ngày mười ba tháng Ba năm 1954, hàng ngàn binh sĩ đã xuống từ các đồi phía trên thung lũng Mường Thanh ở miền Tây Bắc Việt Nam. Những bộ binh của Quân đội N
+L22: 'Pyrrhic' :: Salan thắng tại Nà Sản, nhưng nó lại là một thắng lợi đắt giá (Pyrrhic). Giáp đơn giản đã dẫn các sư của mình vòng quanh ngọc đài thù và sâu vào miền Đông Bắc Đ
+L22: 'Pyrrhic' :: Salan thắng tại Nà Sản, nhưng nó lại là một thắng lợi đắt giá (Pyrrhic). Giáp đơn giản đã dẫn các sư của mình vòng quanh ngọc đài thù và sâu vào miền Đông Bắc Đ
+L36: 'chính thức' :: Tướng mới của họ không làm thất vọng khi, vào giữa năm 1953, ông đã trình bày dự án của mình. "Kế hoạch Navarre" dựa trên bốn giả định chính. Đầu tiên, tổng tư 
+L122: 'đã lắc' :: Không phải ai cũng chịu đựng được. Nhiều người không thể vượt qua mọi tổn thương về thể chất và tâm lý họ đã gặp trong vài giờ đông đúc khốn khổ. Những người kh
+L158: 'chính thức' :: Dù chiến thắng vinh quang thế nào, Điện Biên Phủ đã đến với một giá cao cho người Việt Nam. Số lượng chính thức về thương tử quân sự của người Việt Nam trong tr
+
+--- Lines with CJK / Korean / Hebrew remnants ---
+None found.

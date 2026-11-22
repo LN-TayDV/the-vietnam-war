@@ -56,15 +56,15 @@ translation-project/
 ├── 09_docx/                       # DOCX xuất bản — do script sinh, KHÔNG sửa tay
 │   └── V1-CNN_<slug>.docx         # 1 file / chương HOAN_TAT
 └── 99_scripts/
-    ├── extract_chapters.py
-    ├── extract_images.py          # **BẮT BUỘC**: trích xuất ảnh raster từ PDF theo chapter
-    ├── build_chapter_docx.py      # Script chuẩn xuất DOCX (bố cục sách + footnote chân trang)
-    ├── apply_vnch_fixes.py        # Áp dụng quy tắc VNCH (30 quy tắc)
-    ├── ch01_realign.py            # Căn lại đoạn chương 1
-    ├── ch05_realign.py            # Căn lại đoạn chương 5
-    ├── build_docx_final.py        # Script build DOCX cuối cùng
-    ├── debug_align.py             # Kiểm tra alignment src vs vi
-    └── check_encoding.py          # Kiểm tra encoding UTF-8/NFC/no BOM/LF
+    ├── chapter_workflow.py       # **Workflow chính** cho mọi chương (extract→build→audit→compare→quality)
+    ├── build_chapter_docx.py     # Script chuẩn xuất DOCX (bố cục sách + footnote chân trang)
+    ├── extract_images.py         # **BẮT BUỘC**: trích xuất ảnh raster + rasterize vector map từ PDF theo chapter
+    ├── audit_docx_format.py      # Validator định dạng DOCX (heading/body/quote/footnote/image)
+    ├── build_volume_docx.py      # Legacy volume DOCX builder (backward compat)
+    ├── build_lexicon.py          # Lexicon management: build, update, verify, stats
+    ├── extract_chapters.py       # One-time PDF → text extraction (pymupdf)
+    ├── test_regression.py        # Regression test ch01-06 (metadata/image/footnote)
+    └── verify_final.py           # Báo cáo kiểm tra từng chương ch01-06
 ```
 
 ## 3. HỆ THỐNG SKILLS CHUYÊN BIỆT (`.kilo/skills/`)
@@ -76,7 +76,7 @@ Dự án hiện có **9 skills chuyên biệt** trong `.kilo/skills/`. Mỗi ski
 | **translation-workflow** (này) | Workflow chính end-to-end | Bắt đầu session mới, dịch chương mới, xuất DOCX |
 | **historical-book-translation** | Quy trình dịch sách lịch sử end-to-end | Dịch chương mới (bổ sung chi tiết cho workflow này) |
 | **contextual-translation** | Phân tích ngữ cảnh, lập luận trước khi dịch | Mỗi câu/đoạn dịch (Grammar Engine Bước 1-3) |
-| **southern-vietnamese-editorial-style** | Chuẩn hóa văn phong VNCH (29 quy tắc) | Mỗi câu dịch (Bước 5), chạy `apply_vnch_fixes.py`, review |
+| **southern-vietnamese-editorial-style** | Chuẩn hóa văn phong VNCH (29 quy tắc) | Mỗi câu dịch (Bước 5), chạy `vnch_orthography.py`, review |
 | **historical-terminology-research** | Nghiên cứu thuật ngữ lịch sử/chính trị/quân sự | Bước 4 (thuật ngữ), gặp từ/câu khó |
 | **deep-translation-review** | Đối chiếu sâu cấp câu/đoạn/chương | Sau dịch xong chương, audit, re-review |
 | **translation-error-detection** | Phát hiện lỗi E01-E16 (taxonomy) | Chạy scripts, deep review, audit |
@@ -157,21 +157,17 @@ python -c "from docx_builder import DocxBuilder; from pathlib import Path; b=Doc
 
 | Script | Chức năng |
 |---|---|
+| `chapter_workflow.py` | **Workflow chính** cho mọi chương: extract → build → audit → compare → quality. **Dùng cho mọi chương mới.** |
 | `build_chapter_docx.py` | **Script chuẩn xuất DOCX** (bố cục sách + footnote chân trang). KHÔNG thay thế. |
-| `extract_chapters.py` | One-time PDF → text extraction (pymupdf) |
 | `extract_images.py` | **BẮT BUỘC**: trích xuất ảnh raster + **rasterize bản đồ/sơ đồ vector** (render_vector_figure, 300 DPI) từ PDF theo chapter, tạo image manifest. Chạy trước `build_chapter_docx.py`. |
+| `audit_docx_format.py` | **Validator định dạng DOCX** (heading/body/quote/footnote/image). Chạy sau mỗi build. |
 | `build_volume_docx.py` | Legacy volume DOCX builder (backward compat) |
 | `build_lexicon.py` | Lexicon management: `build`, `update`, `verify`, `stats` |
-| `write_translation.py` | AI translation writer (79KB, specialized) |
-| `build_corpus.py` | Corpus building for research |
-| `audit_docx_format.py` | **Validator định dạng DOCX** (heading/body/quote/footnote/image). Chạy sau mỗi build. |
+| `extract_chapters.py` | One-time PDF → text extraction (pymupdf) |
 | `test_regression.py` | Regression test ch01-06 (metadata/image/footnote) |
 | `verify_final.py` | Báo cáo kiểm tra từng chương ch01-06 |
-| `analyze_docx.py` | Phân tích chi tiết từng đoạn DOCX (debug) |
 
-*Script phụ trợ tại workspace `99_scripts/` (ngoài translation-project): `inspect_docx_ch09.py`, `check_italic.py`, `check_keepnext.py`, `check_bare_markers.py`, `debug_meta.py` — dùng để debug, không phải script build.*
-
-*Đã xóa: 42 script cũ/debug/chapter-specific/tmp (xem consolidation report).*
+*Đã xóa: 100+ script cũ/debug/chapter-specific/tmp (xem consolidation report). Chỉ giữ 9 scripts cốt lõi.*
 
 ## 7A. QUY TRÌNH XỬ LÝ HÌNH ẢNH (BẮT BUỘC — MỌI CHƯƠNG)
 
@@ -213,7 +209,7 @@ PDF SOURCE
 3. Đọc `STYLE_GUIDE_PHAN_B.md` + `TRANSLATION_GRAMMAR_ENGINE.md`.
 4. Đọc `MASTER_LEXICON.csv` + `AUDIT_REPORT_CH01-06.md`.
 5. **Kích hoạt skill**: `historical-book-translation` + `contextual-translation` + `southern-vietnamese-editorial-style`.
-6. **Kiểm tra hình ảnh trước khi dịch**: Chạy `99_scripts/extract_images.py --chapter XX --volume v1` để kiểm kê ảnh của chương. Nếu có ảnh chưa trích xuất → trích xuất trước khi tiếp tục. Nếu không thể trích xuất → ghi nhận lỗi vào `00_plan/image_manifest.json` và đánh trạng thái chương là BLOCKED.
+6. **Kiểm tra hình ảnh trước khi dịch**: Chạy `python 99_scripts/extract_images.py --chapter XX --volume v1` để kiểm kê ảnh của chương. Nếu có ảnh chưa trích xuất → trích xuất trước khi tiếp tục. Nếu không thể trích xuất → ghi nhận lỗi vào `00_plan/image_manifest.json` và đánh trạng thái chương là BLOCKED.
 
 ### BƯỚC 1: ĐỌC NGUYÊN TÁC
 - Mở `02_extracted_text/v1/chXX.txt`. Ghi nhận: trang PDF, số đoạn, số cước chú, **số hình ảnh theo từng trang** (từ image manifest).
@@ -250,8 +246,8 @@ PDF SOURCE
 - Thêm entry `V1-CXX` với status, paragraphs, footnotes, pages.
 
 ### BƯỚC 8: XUẤT DOCX + QUALITY GATE (8 TIÊU CHÍ)
-1. `python -c "from docx_builder import DocxBuilder; from pathlib import Path; b=DocxBuilder(Path('.')); r=b.build_chapter(Path('translation-project/04_translation/v1/chNN/v1_chNN_vi.txt'), Path('translation-project/09_docx/V1-CNN_<slug>.docx')); print(r)"` → `OK N/N`.
-2. **Kiểm tra hình ảnh trong DOCX**: Chạy `python translation-project/99_scripts/audit_docx_format.py NN` → phải PASS với `Images: N | Captions: N` (N = số ảnh trong image manifest). Mỗi caption phải đứng sau ảnh tương ứng (`every caption preceded by its image`, `image count == caption count`).
+1. `python 99_scripts/build_chapter_docx.py NN` → `OK N/N`.
+2. **Kiểm tra hình ảnh trong DOCX**: Chạy `python 99_scripts/audit_docx_format.py NN` → phải PASS với `Images: N | Captions: N` (N = số ảnh trong image manifest). Mỗi caption phải đứng sau ảnh tương ứng (`every caption preceded by its image`, `image count == caption count`).
 3. Word COM: `Footnotes.Count` = `notes` trong progress.json.
 4. **Quality Gate 8 tiêu chí** (translation-quality-gate skill):
    - [ ] 1. Encoding UTF-8/NFC/no BOM/LF (`encoding_checker.py`)
@@ -307,7 +303,7 @@ PDF SOURCE
 
 Sau khi build, CHẠY validator:
 ```bash
-python translation-project/99_scripts/audit_docx_format.py NN
+python 99_scripts/audit_docx_format.py NN
 ```
 Validator kiểm tra TỰ ĐỘNG:
 - Heading: 13.5pt bold, sb=14pt sa=6pt
@@ -422,6 +418,12 @@ Một câu chỉ được xem là đạt VLP-01 khi:
 10. **Chạy `audit_docx_format.py NN`** (§8A.4) → PASS (exit 0). Nếu FAIL, sửa TXT (heading/quote/marker) rồi build lại.
 11. Quality Gate 8 tiêu chí + **VLP-01 criterion 6b** + **Hán Việt name check** + **DOCX format audit** PASS → cập nhật `progress.json` HOAN_TAT.
 12. **Dọn dẹp file tạm** (tmp_*, debug_*, *.bak, file DOCX cũ cùng chương có slug khác).
+
+**Workflow thống nhất (khuyên dùng):**
+```bash
+python 99_scripts/chapter_workflow.py NN --volume v1 --step all
+```
+Tự động chạy: extract → build → audit → compare → quality → orthography → encoding.
 
 ## 11. TRẠNG THÁI HIỆN TẠI (2026-11-21)
 

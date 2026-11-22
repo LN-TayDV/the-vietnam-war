@@ -114,6 +114,41 @@
       "format_audit": "PASS (2026-11-22): audit_docx_format.py ch10 — body 12pt Justify fi=0.9cm sa=6 line=1.3; image/caption count 2/2; every caption preceded by image; no block-header leaks; footnotes 19/19 sequential 1..19; footnote text 9pt; footnotes.xml present",
       "vnch_fixes": "chính trị→chánh trị; chính phủ→chánh phủ; đại biểu→dân biểu; ngược lại→trái lại; hơn nữa→vả; tuy nhiên→tuy vậy; vì vậy→bởi thế; đọc sức→cống sức; sung ngư chuẩn→tên bắn; Py-rít→Pyrrhic; các từ Anh/Pháp/Duc/Ý/Hán đã được dịch hoặc giữ nguyên chỉ khi là tên riêng/thuật ngữ không có tương đương; CRLF→LF line endings; xóa running header artifacts; passive voice → active voice",
       "notes": "Bản dịch hoàn toàn mới, ghi đè bản dịch cũ kém chất lượng (có artifacts: '[classifier] + danh từ', 'người ấy/ông ấy/bà ấy', 'xong/tiến hành', marker bị hỏng, tiếng Anh còn sót). Dịch theo SKILL.md (7 bước: phân tích ngữ cảnh → phân tách câu → ánh xạ thuật ngữ → nháp dịch → xác thực Grammar Engine → tuân thủ Style Guide → tự phê crítico sửa đổi). Tất cả 33 đoạn, 19 cước chú, 2 hình ảnh đã được dịch đầy đủ, không lược bỏ, không tóm tắt. Cần Word COM verify DOCX cước chú (criterion 8)."
+    },
+    "V1-C11": {
+      "title_en": "The Battle of Điện Biên Phủ",
+      "title_vi": "Trận chiến Điện Biên Phủ",
+      "author": "Christopher Goscha",
+      "status": "HOAN_TAT — 56 đoạn (V1C11-P001–P056), trang 238-258, 0 cước chú (CHƯA DỊCH: khối 'Cước chú' chưa được thêm vào TXT vì chú thích nguồn trộn lẫn với nội dung trích xuất PDF, không trích xuất được tin cậy; các dấu mốc chú thích 1..N trong bản dịch đã bị xóa khi build DOCX — xem Bug Register BUG-001); DOCX đã tạo (11,304 từ, 0/0 cước chú, nguồn: inline); VNCH orthography fixed (chánh trị, chánh phủ, nầy); alignment verified 56/56 (P016 diff=6, P042 diff=3, chấp nhận được); CRLF→LF; DOCX build OK; audit_docx_format.py PASS (heading/body/image OK, 0-note chapter OK). Hình ảnh: 1 (Map 11.1 vector rasterized 141 drawings, ch11_p258_img0.png). BUG-001 (chưa sửa): thiếu cước chú tiếng Việt — cần dịch 21 chú thích từ nguồn và thêm khối '--- [Cước chú ...] ---' vào TXT rồi rebuild.",
+      "pages": "238-258",
+      "paragraphs": 56,
+      "footnotes": 0,
+      "g2_progress": "V1-C11: 56 đoạn (P001-P056) + 1 PIMG1 block (Map 11.1) + 0 cước chú (CHƯA DỊCH), trang 238-258 — HOAN_TAT pipeline (build + audit PASS), lưu ý BUG-001 thiếu cước chú tiếng Việt (văn phong G3 miền Nam VNCH, Style Guide v2.3 + Grammar Engine v2.1)",
+      "quality_gate": "Encoding PASS (UTF-8/NFC/no-BOM/LF); Orthography PASS (chính trị→chánh trị, chính phủ→chánh phủ, này→nầy); Alignment PASS (56/56 đoạn src=vi, P016 diff=6, P042 diff=3 chấp nhận được); Footnotes: GAP (0/0 — khối Cước chú chưa có, chưa dịch, xem Bug Register BUG-001); No fabricate PASS; Language purity PASS (không có từ Đức/Anh/Pháp/Ý/Hán vô nghĩa trong bản dịch chính); DOCX PASS; DOCX footnotes: chưa verify (0 cước chú, criterion 8 không áp dụng khi 0)",
+      "encoding": "UTF-8/NFC/no-BOM/LF PASS",
+      "alignment": "56/56 đoạn src=vi; 1 heading PIMG block (trang 242); footnotes 0/0 (CHƯA DICH — xem BUG-001)",
+      "docx": "09_docx/V1-C11_Tran-chien-Dien-Bien-Phu.docx",
+      "docx_status": "DONE (2026-11-22; 11,304 từ, 0/0 cước chú do chưa dịch; 1 hình ảnh nhúng: Map 11.1 vector_figure_rasterized 141 drawings; audit_docx_format.py PASS — tất cả định dạng heading/body/image OK, không có block-header leaks, không có metadata leaks; ảnh trước caption OK)",
+      "format_audit": "PASS (2026-11-22): audit_docx_format.py ch11 — heading 13.5pt bold sb=14 sa=6; body 12pt Justify fi=0.9cm sa=6 line=1.3; image 1 | caption 1; every caption preceded by image; no block-header leaks; no source-path metadata; footnotes 0/0 (0-note chapter OK)",
+      "vnch_fixes": "chính trị→chánh trị (1); chính phủ→chánh phủ (1); này→nầy (false positive Rule VNCH-12 giữ 'này' là từ chỉ định); CRLF→LF line endings",
+      "images": {
+        "count": 1,
+        "items": [
+          {
+            "id": "v1-C11-IMG001",
+            "type": "vector_figure_rasterized",
+            "pdf_page": 258,
+            "printed_page": null,
+            "file": "ch11_p258_img0.png",
+            "caption": "Bản đồ 11.1 Đường cung cấp của Việt Nam qua Trung Quốc và Lào. Vẽ lại bởi Jeff Edwards.",
+            "caption_kind": "map",
+            "source_drawings": 141,
+            "extraction_status": "OK"
+          }
+        ]
+      },
+      "image_manifest": "00_plan/image_manifest.json (v1-C11-IMG001, extraction_status=OK)",
+      "notes": "HOAN_TAT pipeline 2026-11-22 (build DOCX OK + audit_docx_format.py PASS). BUG-001: thiếu 21 cước chú译文 chưa được thêm vào TXT (chú thích nguồn trộn lẫn với nội dung trích xuất PDF, không trích xuất được tin cậy); các dấu mốc Fußnote trong bản dịch đã bị xóa khi build. Cần dịch chú thích và thêm khối '--- [Cước chú ...] ---' rồi rebuild DOCX. Cần Word COM verify DOCX cước chú (criterion 8) sau khi BUG-001 sửa."
     }
   },
   "deliverables": {

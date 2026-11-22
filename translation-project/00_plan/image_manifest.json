@@ -81,6 +81,22 @@
       "caption_kind": "map",
       "source_drawings": 113,
       "extraction_status": "OK"
+    },
+    {
+      "image_id": "v1-C11-IMG001",
+      "source_pdf": "C:\\Users\\PC\\Documents\\AI_project\\the-vietnam-war\\books\\The_Cambridge_History_of_the_Vietnam_War.pdf",
+      "volume": "V1",
+      "chapter": 11,
+      "pdf_page": 258,
+      "printed_page": null,
+      "filename": "ch11_p258_img0.png",
+      "image_type": "vector_figure_rasterized",
+      "width": 1416,
+      "height": 1858,
+      "caption": "Map 11.1  Vietnamese supply routes through China and Laos.",
+      "caption_kind": "map",
+      "source_drawings": 141,
+      "extraction_status": "OK"
     }
   ]
 }

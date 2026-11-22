@@ -1,0 +1,3 @@
+VI exists: True lines: 183
+VI header: V1-C11 · Trận chiến Điện Biên Phủ · Christopher Goscha
+EN exists: True

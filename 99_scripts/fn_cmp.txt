@@ -1,0 +1,6 @@
+ch01 Cước chú blocks: 1
+  sample: --- [Cước chú trang 27-43] ---||[1] “Báo Việt Nam độc lập ra số đầu tiên” [The First Issue of the Ne
+ch02 Cước chú blocks: 1
+  sample: --- [Cước chú chương 2] ---||[1] Vũ Đường Luân, "The Politics of Frontier Mining: Local Chieftains, 
+ch10 Cước chú blocks: 1
+  sample: --- [Cước chú trang 218-237] ---|[1] Để thảo luận chi tiết hơn, xem tác phẩm của tôi The Road to Die

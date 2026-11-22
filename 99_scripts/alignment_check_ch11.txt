@@ -1,0 +1,70 @@
+SRC blocks: 56, VI blocks: 56
+SRC markers match expected P001-P056: True
+VI markers match expected P001-P056: True
+
+V1C11-P001: src=7, vi=7, diff=0 OK
+V1C11-P002: src=8, vi=8, diff=0 OK
+V1C11-P003: src=0, vi=0, diff=0 OK
+V1C11-P004: src=6, vi=6, diff=0 OK
+V1C11-P005: src=3, vi=3, diff=0 OK
+V1C11-P006: src=9, vi=9, diff=0 OK
+V1C11-P007: src=12, vi=12, diff=0 OK
+V1C11-P008: src=6, vi=6, diff=0 OK
+V1C11-P009: src=8, vi=8, diff=0 OK
+V1C11-P010: src=0, vi=0, diff=0 OK
+V1C11-P011: src=5, vi=5, diff=0 OK
+V1C11-P012: src=13, vi=13, diff=0 OK
+V1C11-P013: src=7, vi=7, diff=0 OK
+V1C11-P014: src=1, vi=1, diff=0 OK
+V1C11-P015: src=4, vi=4, diff=0 OK
+V1C11-P016: src=10, vi=16, diff=6 *** MISMATCH ***
+  SRC:  (trang 245) ---
+Despite this tough talk, the Vietnamese did not rush into the northwest. Nor did they abandon their interest in the delta. For now, the Vietnamese and their Chinese advisors "kept two
+  VI:   (trang 245) ---
+Dù nói lớn như vậy, người Việt Nam không vội vàng tiến vào miền Tây Bắc. Cũng không từ bỏ sự quan tâm của họ đến đồng bằng. Đối thời nầy, người Việt Nam và cố vấn Trung Hoa của họ "gi
+V1C11-P017: src=6, vi=6, diff=0 OK
+V1C11-P018: src=6, vi=6, diff=0 OK
+V1C11-P019: src=0, vi=0, diff=0 OK
+V1C11-P020: src=7, vi=7, diff=0 OK
+V1C11-P021: src=6, vi=6, diff=0 OK
+V1C11-P022: src=6, vi=7, diff=1 OK
+V1C11-P023: src=7, vi=7, diff=0 OK
+V1C11-P024: src=0, vi=0, diff=0 OK
+V1C11-P025: src=7, vi=7, diff=0 OK
+V1C11-P026: src=6, vi=6, diff=0 OK
+V1C11-P027: src=10, vi=10, diff=0 OK
+V1C11-P028: src=9, vi=9, diff=0 OK
+V1C11-P029: src=8, vi=9, diff=1 OK
+V1C11-P030: src=7, vi=7, diff=0 OK
+V1C11-P031: src=6, vi=6, diff=0 OK
+V1C11-P032: src=7, vi=7, diff=0 OK
+V1C11-P033: src=6, vi=6, diff=0 OK
+V1C11-P034: src=0, vi=0, diff=0 OK
+V1C11-P035: src=7, vi=7, diff=0 OK
+V1C11-P036: src=3, vi=3, diff=0 OK
+V1C11-P037: src=5, vi=5, diff=0 OK
+V1C11-P038: src=10, vi=10, diff=0 OK
+V1C11-P039: src=8, vi=8, diff=0 OK
+V1C11-P040: src=6, vi=6, diff=0 OK
+V1C11-P041: src=13, vi=13, diff=0 OK
+V1C11-P042: src=9, vi=12, diff=3 *** MISMATCH ***
+  SRC:  (trang 254) ---
+Not everyone could take it. Many could not overcome all the physical and psychological trauma they had encountered in a few crowded hours. Others were exhausted from the endless diggi
+  VI:   (trang 254) ---
+Không phải ai cũng chịu đựng được. Nhiều người không thể vượt qua mọi tổn thương về thể chất và tâm lý họ đã gặp trong vài giờ đông đúc khốn khổ. Những người khác bị kiệt sức từ việc 
+V1C11-P043: src=3, vi=3, diff=0 OK
+V1C11-P044: src=0, vi=0, diff=0 OK
+V1C11-P045: src=4, vi=4, diff=0 OK
+V1C11-P046: src=5, vi=5, diff=0 OK
+V1C11-P047: src=13, vi=13, diff=0 OK
+V1C11-P048: src=8, vi=8, diff=0 OK
+V1C11-P049: src=8, vi=8, diff=0 OK
+V1C11-P050: src=4, vi=4, diff=0 OK
+V1C11-P051: src=7, vi=7, diff=0 OK
+V1C11-P052: src=6, vi=6, diff=0 OK
+V1C11-P053: src=0, vi=0, diff=0 OK
+V1C11-P054: src=12, vi=11, diff=-1 OK
+V1C11-P055: src=7, vi=7, diff=0 OK
+V1C11-P056: src=0, vi=0, diff=0 OK
+
+Total mismatches (|diff|>2): 2

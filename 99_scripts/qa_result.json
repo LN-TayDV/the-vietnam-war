@@ -1,0 +1,104 @@
+{
+  "checks": [
+    {
+      "name": "File ton tai: Kinh Tế Học Cơ Bản - Sách Vỡ Lòng Về Kinh Tế - Thomas Sowell.pdf",
+      "ok": true,
+      "detail": "C:\\Users\\PC\\Documents\\AI_project\\the-vietnam-war\\books\\Kinh Tế Học Cơ Bản - Sách Vỡ Lòng Về Kinh Tế - Thomas Sowell.pdf"
+    },
+    {
+      "name": "File ton tai: Thomas_Sowell_final.pdf",
+      "ok": true,
+      "detail": "C:\\Users\\PC\\Documents\\AI_project\\the-vietnam-war\\books\\processed\\Thomas_Sowell\\Thomas_Sowell_final.pdf"
+    },
+    {
+      "name": "File ton tai: Thomas_Sowell_formatted.docx",
+      "ok": true,
+      "detail": "C:\\Users\\PC\\Documents\\AI_project\\the-vietnam-war\\books\\processed\\Thomas_Sowell\\Thomas_Sowell_formatted.docx"
+    },
+    {
+      "name": "File ton tai: Thomas_Sowell_converted.docx",
+      "ok": true,
+      "detail": "C:\\Users\\PC\\Documents\\AI_project\\the-vietnam-war\\books\\processed\\Thomas_Sowell\\Thomas_Sowell_converted.docx"
+    },
+    {
+      "name": "So trang goc == final",
+      "ok": false,
+      "detail": "goc=784 final=805"
+    },
+    {
+      "name": "Do dai text final/goc trong [0.85, 1.15]",
+      "ok": false,
+      "detail": "goc=1949812 final=1438738 ty le=0.738"
+    },
+    {
+      "name": "Ky tu dia dau Viet Nam duoc luu (final > 0)",
+      "ok": true,
+      "detail": "goc=325281 final=324824"
+    },
+    {
+      "name": "Ty le ky tu Viet Nam final/goc trong [0.5, 1.5]",
+      "ok": true,
+      "detail": "goc=325281 final=324824"
+    },
+    {
+      "name": "Tieu de chuong duoc luu trong final",
+      "ok": true,
+      "detail": "duoc luu=27 bo=[]"
+    },
+    {
+      "name": "Anh duoc luu trong final PDF (>=2)",
+      "ok": true,
+      "detail": "so anh final=1610"
+    },
+    {
+      "name": "Khong co trang trong bat thuong (<5 trang)",
+      "ok": true,
+      "detail": "trang trong=[]"
+    },
+    {
+      "name": "DOCX kich thuc A4 (21x29.7)",
+      "ok": true,
+      "detail": "w=21.00 h=29.70"
+    },
+    {
+      "name": "DOCX le 2.54cm (1 inch)",
+      "ok": true,
+      "detail": "left=2.54 right=2.54"
+    },
+    {
+      "name": "Font Times New Roman duoc su dung",
+      "ok": true,
+      "detail": "fonts=['Times New Roman']"
+    },
+    {
+      "name": "Chuong dam trong DOCX",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "Gian dong 1.5 (trong khoang 1.3-1.5)",
+      "ok": true,
+      "detail": "ok=16117/total=16117"
+    },
+    {
+      "name": "Noi dung can deu hai le (justify)",
+      "ok": true,
+      "detail": "so doan justify=15997"
+    },
+    {
+      "name": "Thu tu chuong tang dan",
+      "ok": true,
+      "detail": "trang=[1, 11, 46, 84, 115, 146, 183, 202]"
+    },
+    {
+      "name": "Trang dau noi dung khac biet (format thay doi) - co text",
+      "ok": true,
+      "detail": ""
+    }
+  ],
+  "errors": [
+    "So trang goc == final",
+    "Do dai text final/goc trong [0.85, 1.15]"
+  ],
+  "warnings": []
+}

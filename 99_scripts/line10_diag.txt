@@ -1,0 +1,24 @@
+LINE 10 len=29
+  pos 0: U+0110 'Đ'
+  pos 1: U+1EA7 'ầ'
+  pos 2: U+0075 'u'
+  pos 3: U+0020 ' '
+  pos 4: U+05DE 'מ'
+  pos 5: U+05DC 'ל'
+  pos 6: U+05D7 'ח'
+  pos 7: U+05DE 'מ'
+  pos 8: U+05EA 'ת'
+  pos 9: U+003A ':'
+  pos 10: U+0020 ' '
+  pos 11: U+0053 'S'
+  pos 12: U+00E2 'â'
+  pos 13: U+0075 'u'
+  pos 14: U+0020 ' '
+  pos 15: U+0076 'v'
+  pos 16: U+00E0 'à'
+  pos 17: U+006F 'o'
+  pos 18: U+0020 ' '
+  pos 19: U+0043 'C'
+  contains 'Đầu Chiến tranh': False
+  contains 'Đầu': True
+  contains 'Chiến': False

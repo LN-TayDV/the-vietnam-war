@@ -33,9 +33,10 @@ from docx.oxml.ns import nsdecls, qn
 from docx.shared import Cm, Inches, Pt, RGBColor
 
 PROJECT = Path(__file__).resolve().parents[1]
-SRC_DIR = PROJECT / "04_translation" / "v1"
-EN_DIR = PROJECT / "02_extracted_text" / "v1"
-OUT_DIR = PROJECT / "09_docx"
+TP = PROJECT / "translation-project"
+SRC_DIR = TP / "04_translation" / "v1"
+EN_DIR = TP / "02_extracted_text" / "v1"
+OUT_DIR = TP / "09_docx"
 
 BOOK_TITLE = "The Cambridge History of the Vietnam War"
 VOLUME_LABEL = "TẬP I — ORIGINS · NGUỒN CỘI"
@@ -344,7 +345,7 @@ def _join_lines(body_lines, title, author):
 def source_path(chap_id):
     """V1-C05 -> 02_extracted_text/v1/ch05.txt (same rule for V2/V3)."""
     vol, no = chap_id[1], chap_id[-2:]
-    path = PROJECT / "02_extracted_text" / f"v{vol}" / f"ch{no}.txt"
+    path = TP / "02_extracted_text" / f"v{vol}" / f"ch{no}.txt"
     return path if path.exists() else None
 
 
@@ -852,7 +853,7 @@ def build(ch_path):
     # Image captions are standalone paragraphs that START with "Hình X.Y".
     # Inline references such as "(Hình 1.1)" inside body text must NOT be
     # treated as captions and must not receive an image.
-    img_dir = PROJECT / "04_translation" / "v1" / "images"
+    img_dir = TP / "04_translation" / "v1" / "images"
     chap_num = ch["id"].split("-")[1].replace("C", "")
     # Collect all images for this chapter in order (raster photos + rasterized maps)
     chapter_images = sorted(img_dir.glob(f"ch{chap_num}_p*_img*.png"))
