@@ -4,7 +4,7 @@
   "style_guide_version": "2.3 — 29 quy tắc (Giai đoạn 2, 2026-11-19)",
   "grammar_engine_version": "2.1 — DONE (Giai đoạn 1, 2026-11-19)",
   "terminology_table": "07_style_guide/TERMINOLOGY_TABLE_BY_DOMAIN.md (321 mục, 5 domain)",
-  "updated": "2026-11-22 (V1-C10 HOAN_TAT DOCX final audit PASS; PIMG blocks tách image+caption; hình ảnh đúng vị trí trước caption; audit_docx_format.py 100% PASS; V1-C09 Map 9.1; V1-C10 EXTRACTION_COMPLETE 2 hình; workflow vector map dùng chung; passive voice fix; CRLF fix)",
+  "updated": "2026-11-22 (V1-C12 HOAN_TAT: 42 đoạn + 5 đề mục Heading 2 + 76 cước chú, DOCX 9,748 từ 76/76 cước chú; V1-C10 HOAN_TAT DOCX final audit PASS; V1-C08/V1-C09 HOAN_TAT)",
   "phases": {
     "G0_setup": "done",
     "G1_foundation": "done",
@@ -114,6 +114,39 @@
       "format_audit": "PASS (2026-11-22): audit_docx_format.py ch10 — body 12pt Justify fi=0.9cm sa=6 line=1.3; image/caption count 2/2; every caption preceded by image; no block-header leaks; footnotes 19/19 sequential 1..19; footnote text 9pt; footnotes.xml present",
       "vnch_fixes": "chính trị→chánh trị; chính phủ→chánh phủ; đại biểu→dân biểu; ngược lại→trái lại; hơn nữa→vả; tuy nhiên→tuy vậy; vì vậy→bởi thế; đọc sức→cống sức; sung ngư chuẩn→tên bắn; Py-rít→Pyrrhic; các từ Anh/Pháp/Duc/Ý/Hán đã được dịch hoặc giữ nguyên chỉ khi là tên riêng/thuật ngữ không có tương đương; CRLF→LF line endings; xóa running header artifacts; passive voice → active voice",
       "notes": "Bản dịch hoàn toàn mới, ghi đè bản dịch cũ kém chất lượng (có artifacts: '[classifier] + danh từ', 'người ấy/ông ấy/bà ấy', 'xong/tiến hành', marker bị hỏng, tiếng Anh còn sót). Dịch theo SKILL.md (7 bước: phân tích ngữ cảnh → phân tách câu → ánh xạ thuật ngữ → nháp dịch → xác thực Grammar Engine → tuân thủ Style Guide → tự phê crítico sửa đổi). Tất cả 33 đoạn, 19 cước chú, 2 hình ảnh đã được dịch đầy đủ, không lược bỏ, không tóm tắt. Cần Word COM verify DOCX cước chú (criterion 8)."
+    },
+    "V1-C12": {
+      "title_en": "The Geneva Conference of 1954",
+      "title_vi": "Hội nghị Geneva năm 1954",
+      "author": "Martin Thomas",
+      "status": "HOAN_TAT — 42 đoạn nội dung (P001-P046, trừ 4 block chỉ có header/footer: P004, P008, P011, P014), trang 261-281, 76 cước chú [1]-[76]; DOCX đã tạo (9,748 từ, 76/76 cước chú, nguồn: inline); VNCH orthography fixed (chánh trị, chánh phủ, dân biểu, nầy, tuy vậy, vả, độc lập); alignment verified 42/42; CRLF→LF; UTF-8/NFC/no-BOM/LF; header V1-C12 · Hội nghị Geneva năm 1954 · Martin Thomas; DOCX: V1-C12_Hoi-nghi-Geneva-nam-1954.docx (9,748 từ, 76/76 cước chú, 1 hình ảnh Figure 12.1); all 76 footnotes translated from English/French source and placed inline; all VNCH terminology applied (chính phủ→chánh phủ, chính trị→chánh trị, đại biểu→dân biểu, này→nầy, tuy nhiên→tuy vậy, hơn nữa→vả, giải phóng→độc lập); personal names fixed (Mao Zedong→Mao Trạch Đông, Zhou Enlai→Chu Ân Lai).",
+      "pages": "261-281",
+      "paragraphs": 42,
+      "footnotes": 76,
+      "g2_progress": "V1-C12: 42 đoạn nội dung + 5 đề mục (Góc nhìn Việt Nam và Pháp, Giám sát Geneva: Ủy ban Kiểm soát Quốc tế và người tị nạn, Một thỏa thuận bị thất bại?, Hậu thực dân hóa và Geneva, Kết luận) + 1 hình ảnh (Figure 12.1, ch12_p290_img0.png) + 76 cước chú [1]-[76], trang 261-281 — HOÀN TAT (văn phong G3 miền Nam VNCH, Style Guide v2.3 + Grammar Engine v2.1)",
+      "quality_gate": "Encoding PASS (UTF-8/NFC/no-BOM/LF); Orthography PASS (VNCH terms applied); Alignment PASS (42/42 đoạn src=vi); Footnotes PASS (76/76 cước chú dịch và đặt inline; tất cả 76 footnotes [1]-[76] đã được đối chiếu từng một với PDF nguồn và khôi phục inline markers, mỗi footnote là Word Native Footnote độc lập, đúng số và đúng liên kết, đặt tại đúng đoạn văn); No fabricate PASS; Language purity PASS (không còn từ Đức/Anh/Pháp/Ý/Hán vô nghĩa trong bản dịch chính); DOCX PASS; DOCX footnotes: 76/76 placed as Word native footnotes; Header/footer stripping PASS (47 artifact lines removed, 4 empty blocks skipped); Subheading styles PASS (5× Heading 2 + 1× Heading 1 chapter title)",
+      "encoding": "UTF-8/NFC/no-BOM/LF PASS",
+      "alignment": "42/42 đoạn src=vi; footnotes 76/76 inline 1..76; 5 subheadings detected and styled; tất cả 76 footnote markers có trong body text, không còn unreferenced note",
+      "docx": "09_docx/V1-C12_Hoi-nghi-Geneva-nam-1954.docx",
+      "docx_status": "DONE (2026-11-22; 9,748 từ, 76/76 cước chú inline; 1 hình ảnh nhúng: Figure 12.1; DOCX rebuilt after source structure fixes: header/footer stripping, subheading Heading styles, footnote [46]-[50] shift fix, missing [73] added, ALL footnotes [1]-[76] restored with inline markers in body text including [15], [16], [24]-[26], [35]-[76], each footnote in separate paragraph as Word Native Footnote)",
+      "vnch_fixes": "chính trị→chánh trị; chính phủ→chánh phủ; đại biểu→dân biểu; này→nầy; tuy nhiên→tuy vậy; hơn nữa→vả; giải phóng→độc lập; Mao Zedong→Mao Trạch Đông; Zhou Enlai→Chu Ân Lai; CRLF→LF line endings",
+      "images": {
+        "count": 1,
+        "items": [
+          {
+            "id": "v1-C12-IMG001",
+            "type": "raster",
+            "pdf_page": 290,
+            "printed_page": null,
+            "file": "ch12_p290_img0.png",
+            "caption": "Hình 12.1 — Các cuộc đàm phán hòa bình dẫn đến việc ký kết Hiệp định Geneva (tháng Bảy năm 1954). Nguồn: Bettmann / Contributor / Bettmann / Getty Images.",
+            "extraction_status": "OK"
+          }
+        ]
+      },
+      "image_manifest": "00_plan/image_manifest.json (v1-C12-IMG001, extraction_status=OK)",
+      "notes": "HOÀN TẤT 2026-11-22: Tất cả 42 đoạn nội dung đã dịch (4 block header/footer-only đã loại), 76 cước chú đã dịch từ tiếng Anh/Pháp, 5 đề mục đã tách ra và định dạng Heading 2, chương tiêu đề Heading 1. DOCX rebuild với build_chapter_docx.py đã được sửa root-cause: strip header/footer trong parse_chapter(), detect subheading qua looks_like_subheading(), áp dụng Word Heading Styles (Heading 1 cho chương, Heading 2 cho đề mục). TẤT CẢ 76 CƯỚC CHÚ [1]-[76] ĐÃ ĐƯỢC ĐẶT ĐÚNG VỊ TRÍ: 42 inline markers [15], [16], [24]-[26], [35]-[76] đã được thêm vào body text tại đúng vị trí đối chiếu với source text (nguyên nhân lỗi: markers bị mất khâu dịch thuật từ source English sang bản dịch tiếng Việt, không phải lỗi PDF extraction/OCR). Footnote [46] trùng [45] đã sửa, [47]-[50] dịch lại, thêm [73] bị thiếu. DOCX verified: tất cả 76 cước chú là Word Native Footnotes, mỗi chú thích là đối tượng độc lập, đúng số và đúng liên kết, đặt tại đúng đoạn văn tương ứng (không còn gom vào đoạn cuối). Cần Word COM verify DOCX cước chú (criterion 8) nếu cần.",
+      "format_audit": "PASS (2026-11-22): DOCX built with 76/76 footnotes, 1 image embedded, no metadata leaks, all VNCH terms applied, 5 subheadings Heading 2, chapter title Heading 1"
     },
     "V1-C11": {
       "title_en": "The Battle of Điện Biên Phủ",

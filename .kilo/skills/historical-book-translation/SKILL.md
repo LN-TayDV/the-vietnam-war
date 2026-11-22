@@ -134,10 +134,13 @@ Sử dụng **bảng từ nối logic Nam Bộ** (Grammar Engine §1.8):
 - Cập nhật `volumes.V1.status`.
 
 ### BƯỚC 8: XUẤT DOCX CHUẨN (BẮT BUỘC)
-- Chạy script: `python translation-project/99_scripts/build_chapter_docx.py NN` (NN = số chương).
-- Xác nhận dòng `OK ... (N/N cước chú, nguồn: inline|source)`; nếu `WARN` → sửa input, build lại.
-- Mở bằng Word COM, kiểm tra `Footnotes.Count` = `notes` trong `progress.json`.
-- Cập nhật `docx`, `docx_status` trong `progress.json`.
+
+**Trước khi build, BẮT BUỘC chạy kiểm tra footnote markers:**
+1. `python 99_scripts/check_footnote_markers.py NN` → phải PASS (0 missing, 0 duplicate, 0 orphan). Nếu FAIL → sửa TXT, không được build DOCX.
+2. Chạy script: `python translation-project/99_scripts/build_chapter_docx.py NN` (NN = số chương).
+3. Xác nhận dòng `OK ... (N/N cước chú, nguồn: inline|source)`; nếu `WARN` → sửa input, build lại.
+4. Mở bằng Word COM, kiểm tra `Footnotes.Count` = `notes` trong `progress.json`.
+5. Cập nhật `docx`, `docx_status` trong `progress.json`.
 
 ## 5. QUALITY GATE (8 TIÊU CHÍ — Quy tắc 29)
 Chương chỉ được đánh dấu `HOAN_TAT` khi **TẤT CẢ PASS**:

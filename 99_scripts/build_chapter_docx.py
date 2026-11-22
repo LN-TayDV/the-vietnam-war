@@ -78,6 +78,68 @@ INLINE = re.compile(
 MARKER = re.compile(r"\[(\d{1,3})\]|(?<=[^\s\d])(\d{1,3})(?=\s|$)")
 
 BLOCK_START = re.compile(r"--- \[[^\]]+\](?: \([^)]*\))?(?: — .*?)? ---")
+# Running header/footer patterns to strip from translation block content.
+# These are artifacts of the source PDF page layout, not author content.
+# Values are read from the chapter header line (V1-CNN · Title · Author)
+# so the script works generically for every chapter, not hardcoded per-chapter.
+CHAPTER_TITLE_VI = None  # set in parse_chapter from header line
+CHAPTER_TITLE_EN = None
+AUTHOR_NAME = None
+CONTINUATION = "(tiếp từ trang trước)"
+
+
+def is_header_footer_line(s, chap_title_vi=None, chap_title_en=None, author=None):
+    """Return True if *s* is a running header/footer artifact, not author content.
+
+    Works generically for any chapter: compares against the chapter title (VI/EN)
+    and author name parsed from the chapter header line, plus page-number-only
+    lines and continuation markers.  No hardcoded per-chapter values.
+    """
+    s = s.strip()
+    if not s:
+        return False
+    # Page number only (e.g. "261")
+    if re.fullmatch(r"\d{1,3}", s):
+        return True
+    # Continuation marker
+    if s == CONTINUATION:
+        return True
+    # Chapter title (VI or EN)
+    if chap_title_vi and s == chap_title_vi:
+        return True
+    if chap_title_en and s == chap_title_en:
+        return True
+    # Author name
+    if author and s == author:
+        return True
+    return False
+
+# Known subheadings are detected via explicit "— đề mục —" marker in the block
+# header, not via hardcoded per-chapter lists.  The heuristic fallback
+# (looks_like_subheading) catches any remaining short lines without terminal
+# punctuation.
+
+def looks_like_subheading(s, chap_title_vi=None, chap_title_en=None, author=None):
+    """Heuristic: short line (< 90 chars), no sentence-ending punctuation,
+    not a header/footer line, not the chapter title or author.
+    Question marks are allowed (e.g. subheadings phrased as questions)."""
+    s = s.strip()
+    if not s:
+        return False
+    # Không nhận chapter title hoặc author làm subheading
+    if chap_title_vi and s == chap_title_vi:
+        return False
+    if chap_title_en and s == chap_title_en:
+        return False
+    if author and s == author:
+        return False
+    if is_header_footer_line(s, chap_title_vi, chap_title_en, author):
+        return False
+    if len(s) > 90:
+        return False
+    if s[-1] in ".!…\"’”":
+        return False
+    return True
 
 
 # ---------------------------------------------------------------- helpers
@@ -192,6 +254,13 @@ def parse_chapter(path):
     chap_id, title = parts[0], parts[1]
     author = parts[2] if len(parts) > 2 else ""
 
+    # Tiêu đề chương (VI/EN) và tác giả dùng để nhận diện header/footer artifacts
+    # một cách generic, không hardcode per-chapter.
+    chap_title_vi = title
+    chap_title_en = None  # có thể được điền từ VOLUME_EN_TITLES nếu có
+    if chap_id in VOLUME_EN_TITLES:
+        chap_title_en = VOLUME_EN_TITLES[chap_id]
+
     meta, i = [], 1
     while i < len(lines) and not lines[i].startswith("--- ["):
         s = lines[i].strip()
@@ -238,13 +307,27 @@ def parse_chapter(path):
         page = int(re.match(r"\d+", m.group(2)).group())
         chunks, buf = [], []
         for line in b["lines"]:
-            if line.strip():
-                buf.append(line.strip())
-            elif buf:
-                chunks.append(" ".join(buf))
-                buf = []
+            s = line.strip()
+            if not s:
+                if buf:
+                    chunks.append(" ".join(buf))
+                    buf = []
+            elif looks_like_subheading(s, chap_title_vi, chap_title_en, author):
+                # Subheading line: flush any pending buffer, then start a new
+                # chunk with just the subheading (it will be split out later).
+                if buf:
+                    chunks.append(" ".join(buf))
+                    buf = []
+                chunks.append(s)
+            else:
+                buf.append(s)
         if buf:
             chunks.append(" ".join(buf))
+
+        # Strip any remaining header/footer artifacts from chunks.
+        # Truyền chap_title_vi/chap_title_en/author để nhận diện generic.
+        chunks = [c for c in chunks if not is_header_footer_line(
+            c, chap_title_vi, chap_title_en, author)]
 
         # Special handling for PIMG blocks (images with captions)
         if "PIMG" in block_id:
@@ -269,6 +352,13 @@ def parse_chapter(path):
                 label = "Dẫn nhập"
             label = SECTION_VI.get((chap_id, label), label)
             items.append({"kind": "heading", "text": label})
+
+        # Subheading detection: first chunk is a short line without sentence
+        # terminal punctuation (e.g. "Góc nhìn Việt Nam và Pháp", "Kết luận").
+        # Split it out as a standalone heading item so it gets Word Heading Style.
+        if chunks and looks_like_subheading(chunks[0]):
+            items.append({"kind": "heading", "text": chunks.pop(0), "page": page})
+
         for text in chunks:
             items.append({"kind": "para", "text": text, "page": page})
 
@@ -588,6 +678,8 @@ def add_title_block(doc, ch):
 
     vi_title = VI_TITLES.get(ch["id"], ch["title"])
     t = doc.add_paragraph()
+    # Chapter title uses Heading 1 so it's a proper structural element
+    t.style = doc.styles["Heading 1"]
     para_fmt(t, align=WD_ALIGN_PARAGRAPH.CENTER, space_after=6, line=1.15)
     run = t.add_run(vi_title)
     tsize = 24 if len(vi_title) <= 38 else (21 if len(vi_title) <= 52 else 19)
@@ -617,12 +709,17 @@ def add_title_block(doc, ch):
     start_body_section(doc)
 
 
-def add_section_heading(doc, text):
+def add_section_heading(doc, text, level=2):
     p = doc.add_paragraph()
-    para_fmt(p, space_before=14, space_after=6, line=1.15,
-             align=WD_ALIGN_PARAGRAPH.LEFT, keep_next=True)
+    # Apply real Word Heading style so subheadings are proper structural
+    # elements (TOC-aware, navigation-pane friendly, accessible).
+    style_name = "Heading 1" if level == 1 else "Heading 2"
+    p.style = doc.styles[style_name]
+    para_fmt(p, space_before=14 if level == 2 else 20, space_after=6,
+             line=1.15, align=WD_ALIGN_PARAGRAPH.LEFT, keep_next=True)
     run = p.add_run(text)
-    set_run_font(run, size=13.5, bold=True, color=INK)
+    # Heading styles already carry bold/color; keep size consistent.
+    set_run_font(run, size=13.5 if level == 1 else 12.5, bold=True, color=INK)
 
 
 def add_footnote_ref(paragraph, fid):
@@ -814,7 +911,7 @@ def build(ch_path):
     placed_nums = set()
     for idx, it in enumerate(items):
         if it["kind"] == "heading":
-            add_section_heading(doc, it["text"])
+            add_section_heading(doc, it["text"], level=2)
             continue
         if it["kind"] == "image":
             # Placeholder for image sequencing; actual insertion happens at caption
@@ -837,15 +934,17 @@ def build(ch_path):
         words += len(it["text"].split())
         nparas += 1
 
-    # Add any notes that have no body reference (e.g. note 35 unreferenced)
-    # so every note in the notes block gets a Word footnote entry.
-    last_p = doc.paragraphs[-1] if doc.paragraphs else None
-    if last_p is not None:
-        for num in sorted(notes):
-            if num not in placed_nums:
-                add_footnote_ref(last_p, next_id)
-                entries.append((next_id, notes[num]))
-                next_id += 1
+    # KHÔNG được dump orphan footnotes vào paragraph cuối (BUG-006).
+    # Mọi note trong notes block phải có inline marker tương ứng trong body.
+    # Nếu có note chưa được place → raise error, chặn build, báo rõ ràng.
+    unplaced = [num for num in sorted(notes) if num not in placed_nums]
+    if unplaced:
+        raise ValueError(
+            f"FOOTNOTE ORPHAN: {len(unplaced)} note không có inline marker trong body: "
+            f"{unplaced}. "
+            f"Hãy thêm marker [{num}] vào đúng đoạn văn tương ứng trong "
+            f"v1_ch{ch['id'][-2:]}_vi.txt rồi rebuild."
+        )
 
     # add_colophon removed per user request
     # Caption formatting: paragraphs containing "Hình X.Y" -> 10pt italic centered

@@ -9,11 +9,12 @@ Usage:
 
 Steps:
     extract       - Trích xuất hình ảnh từ PDF (bắt buộc trước khi dịch)
+    check_markers - Kiểm tra toàn vẹn footnote inline markers (BẮT BUỘC trước build)
     build         - Build DOCX từ bản dịch
     audit         - Kiểm tra định dạng DOCX
     compare       - Đối chiếu src vs vi (alignment)
     quality       - Chạy Quality Gate
-    all           - Chạy toàn bộ pipeline (extract → build → audit → compare → quality)
+    all           - Chạy toàn bộ pipeline (extract → check_markers → build → audit → compare → quality)
 
 Các script chuyên dụng (chỉ dùng khi cần thiết):
     - build_chapter_docx.py: Build DOCX
@@ -62,6 +63,18 @@ def step_extract(root: Path, chapter: int, volume: str) -> int:
         sys.executable, "99_scripts/extract_images.py",
         str(chapter), "--volume", volume
     ], root, f"Extract images for {volume.upper()}-Ch{chapter:02d}")
+
+
+def step_check_markers(root: Path, chapter: int) -> int:
+    """Bước 1.5: Kiểm tra toàn vẹn footnote inline markers trước khi build DOCX.
+    
+    BẮT BUỘC chạy trước `build`. Nếu thiếu marker, duplicate, hoặc orphan
+    → exit 1, chặn build DOCX.
+    """
+    return run_cmd([
+        sys.executable, "99_scripts/check_footnote_markers.py",
+        str(chapter)
+    ], root, f"Check footnote markers for Chapter {chapter:02d}")
 
 
 def check_file_locked(filepath: Path) -> bool:
@@ -140,25 +153,26 @@ def main():
         epilog="""
 Vi du:
   python 99_scripts/chapter_workflow.py 11 --volume v1 --step all
-  python 99_scripts/chapter_workflow.py 12 --volume v1 --step extract build audit
+  python 99_scripts/chapter_workflow.py 12 --volume v1 --step extract check_markers build audit
   python 99_scripts/chapter_workflow.py 09 --volume v1 --step compare quality
 
 Quy trinh chuan (theo SKILL.md):
   1. extract_images.py    -> Trich xuat anh tu PDF
-  2. Dich ban dich (tu dong/hand)
-  3. build_chapter_docx.py -> Build DOCX
-  4. audit_docx_format.py  -> Kiem tra format
-  5. document_comparator.py -> Doi chieu src vs vi
-  6. quality_gate.py       -> Quality Gate 8 tieu chi
-  7. vnch_orthography.py   -> Kiem tra chinh ta VNCH
-  8. encoding_checker.py   -> Kiem tra UTF-8/NFC/no BOM/LF
+  2. check_footnote_markers.py -> Kiem tra toan van footnote markers (BAT BUOC)
+  3. Dich ban dich (tu dong/hand)
+  4. build_chapter_docx.py -> Build DOCX
+  5. audit_docx_format.py  -> Kiem tra format
+  6. document_comparator.py -> Doi chieu src vs vi
+  7. quality_gate.py       -> Quality Gate 8 tieu chi
+  8. vnch_orthography.py   -> Kiem tra chinh ta VNCH
+  9. encoding_checker.py   -> Kiem tra UTF-8/NFC/no BOM/LF
         """
     )
     parser.add_argument("chapter", type=int, help="Số chương (ví dụ: 11)")
     parser.add_argument("--volume", default="v1", help="Tập (mặc định: v1)")
     parser.add_argument(
         "--step", nargs="+", choices=[
-            "extract", "build", "audit", "compare", "quality",
+            "extract", "check_markers", "build", "audit", "compare", "quality",
             "orthography", "encoding", "all"
         ], default=["all"], help="Các bước cần chạy"
     )
@@ -170,8 +184,8 @@ Quy trinh chuan (theo SKILL.md):
 
     steps = args.step
     if "all" in steps:
-        steps = ["extract", "build", "audit", "compare", "quality",
-                 "orthography", "encoding"]
+        steps = ["extract", "check_markers", "build", "audit", "compare",
+                 "quality", "orthography", "encoding"]
 
     print(f"\n{'#'*60}")
     print(f"# WORKFLOW CHUONG {chapter:02d} - {volume.upper()}")
@@ -182,6 +196,8 @@ Quy trinh chuan (theo SKILL.md):
     for step in steps:
         if step == "extract":
             exit_codes[step] = step_extract(root, chapter, volume)
+        elif step == "check_markers":
+            exit_codes[step] = step_check_markers(root, chapter)
         elif step == "build":
             exit_codes[step] = step_build(root, chapter)
         elif step == "audit":

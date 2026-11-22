@@ -21,16 +21,20 @@ description: Quality Gate 8 tiêu chí bắt buộc PASS mới được đánh d
 | **1** | **Encoding** | UTF-8, NFC, no BOM, LF | `encoding_checker.py --chapter NN` | File đọc đúng tiếng Việt, không lỗi font |
 | **2** | **Orthography** | 0× "chính trị", 0× từ miền Bắc không phù hợp | `vnch_orthography.py --chapter NN` | 0 occurrence từ sai CRITICAL/MAJOR; false positive trong trích dẫn được ghi nhận |
 | **3** | **Đồng bộ đoạn** | Số đoạn src = số đoạn vi | `document_comparator.py --chapter NN` | src paragraphs = vi paragraphs; marker `[V1CNN-Pxxx]` khớp 1-1 |
-| **4** | **Đồng bộ cước chú** | Số cước chú src = số cước chú vi | `docx_builder.py` build → `OK N/N`; Word COM `Footnotes.Count` = `notes` | Số lượng khớp, thứ tự 1..N đúng |
+| **4** | **Đồng bộ cước chú** | Số cước chú src = số cước chú vi | `check_footnote_markers.py --chapter NN` → PASS (0 missing, 0 duplicate, 0 orphan); `docx_builder.py` build → `OK N/N`; Word COM `Footnotes.Count` = `notes` | Số lượng khớp, thứ tự 1..N đúng, **mỗi marker `[N]` trong body phải có footnote tương ứng, không có orphan, không có duplicate** |
 | **5** | **Không fabricate** | Không bịa số trang, trích dẫn, ví dụ | Đối chiếu số trang, trích dẫn với extracted text; check `[ND: ...]` | Tất cả thông tin truy xuất được về nguyên tác |
 | **6** | **Văn phong tự nhiên** | Câu có ý nghĩa, không dịch máy từng từ | Checklist S1-S20, P1-P10; `translation_validator.py` | S7 PASS (hiểu ngay lần đầu), S9 PASS (không cấu trúc ngoại ngữ) |
 | **7** | **DOCX tồn tại** | File `09_docx/V1-CNN_<slug>.docx` sinh bởi `docx_builder.py` | File exists; script log `OK ...` | File tồn tại, script báo OK |
-| **8** | **DOCX cước chú & bố cục** | Footnote chân trang 9pt, đánh số 1..N; bố cục A4 chuẩn | Word COM: `Footnotes.Count` = `notes`; check footnote format; page layout | Footnotes.Count khớp; 9pt, hanging indent 0.4cm, liên tục 1..N; A4, lề 1.9/1.8/2.1/1.8cm |
+| **8** | **DOCX cước chú & bố cục** | Footnote chân trang 9pt, đánh số 1..N; bố cục A4 chuẩn; **mỗi footnote đặt tại đúng đoạn văn tương ứng với marker `[N]`** | Word COM: `Footnotes.Count` = `notes`; check footnote format; check placement: mỗi footnote `[N]` trong DOCX nằm ở paragraph tương ứng với marker `[N]` trong TXT | Footnotes.Count khớp; 9pt, hanging indent 0.4cm, liên tục 1..N; **placement đúng đoạn văn**; A4, lề 1.9/1.8/2.1/1.8cm |
 
 ## 4. QUY TRÌNH CHẠY QUALITY GATE (COMMON SCRIPTS)
 
 ### 4.1 Tự động (Common Scripts)
 ```bash
+# 0. Kiểm tra toàn vẹn footnote markers (BẮT BUỘC trước build)
+python 99_scripts/check_footnote_markers.py --chapter NN
+# Output: PASS/FAIL, danh sách missing/duplicate/orphan nếu có
+
 # 1. Kiểm tra encoding
 python .kilo/scripts/common/encoding_checker.py --chapter NN
 # Output: UTF-8 OK, NFC OK, no BOM, LF OK
@@ -125,6 +129,7 @@ Chỉ cập nhật `progress.json` khi **TẤT CẢ 8 TIÊU CHÍ PASS**:
 ## 9. COMMON SCRIPTS HỖ TRỢ
 | Script | Chức năng | Quality Gate liên quan |
 |---|---|---|
+| `check_footnote_markers.py` | Kiểm tra toàn vẹn footnote inline markers (missing/duplicate/orphan) | Tiêu chí 4, 8 |
 | `encoding_checker.py` | Check UTF-8, NFC, no BOM, LF | Tiêu chí 1 |
 | `vnch_orthography.py` | Fix/check thuật ngữ VNCH (30 quy tắc) | Tiêu chí 2, 6 |
 | `document_comparator.py` | So sánh src vs vi: đoạn, câu, cước chú | Tiêu chí 3, 4 |

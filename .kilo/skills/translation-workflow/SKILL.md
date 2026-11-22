@@ -256,10 +256,13 @@ PDF SOURCE
 - Thêm entry `V1-CXX` với status, paragraphs, footnotes, pages.
 
 ### BƯỚC 8: XUẤT DOCX + QUALITY GATE (8 TIÊU CHÍ)
-1. `python 99_scripts/build_chapter_docx.py NN` → `OK N/N`.
-2. **Kiểm tra hình ảnh trong DOCX**: Chạy `python 99_scripts/audit_docx_format.py NN` → phải PASS với `Images: N | Captions: N` (N = số ảnh trong image manifest). Mỗi caption phải đứng sau ảnh tương ứng (`every caption preceded by its image`, `image count == caption count`).
-3. Word COM: `Footnotes.Count` = `notes` trong progress.json.
-4. **Quality Gate 8 tiêu chí** (translation-quality-gate skill):
+
+**Trước khi build, BẮT BUỘC chạy kiểm tra footnote markers:**
+1. `python 99_scripts/check_footnote_markers.py NN` → phải PASS (0 missing, 0 duplicate, 0 orphan). Nếu FAIL → sửa TXT, không được build DOCX.
+2. `python 99_scripts/build_chapter_docx.py NN` → `OK N/N`.
+3. **Kiểm tra hình ảnh trong DOCX**: Chạy `python 99_scripts/audit_docx_format.py NN` → phải PASS với `Images: N | Captions: N` (N = số ảnh trong image manifest). Mỗi caption phải đứng sau ảnh tương ứng (`every caption preceded by its image`, `image count == caption count`).
+4. Word COM: `Footnotes.Count` = `notes` trong progress.json.
+5. **Quality Gate 8 tiêu chí** (translation-quality-gate skill):
    - [ ] 1. Encoding UTF-8/NFC/no BOM/LF (`encoding_checker.py`)
    - [ ] 2. Orthography: 0× "chính trị", 0× từ miền Bắc (`vnch_orthography.py`)
    - [ ] 3. Đồng bộ đoạn: src = vi (`document_comparator.py`)
@@ -268,8 +271,8 @@ PDF SOURCE
    - [ ] 6. Văn phong tự nhiên (S1-S20, P1-P10)
    - [ ] 6b. **VLP-01 Tiếng Việt trước**: không còn từ/cụm ngoại ngữ có thể dịch nhưng bị giữ nguyên, không dùng phiên âm thay nghĩa, không cấu trúc dịch máy/ngoại ngữ, phù hợp văn phong miền Nam trước 1975
    - [ ] 7. DOCX tồn tại 09_docx/, sinh bởi `docx_builder.py`
-   - [ ] 8. DOCX cước chú: `OK N/N`, Word `Footnotes.Count` = `notes`, footnote chân trang 9pt, 1..N
-5. Cập nhật `progress.json`: `status: "HOAN_TAT"`, `docx`, `docx_status`.
+   - [ ] 8. DOCX cước chú: `OK N/N`, Word `Footnotes.Count` = `notes`, footnote chân trang 9pt, 1..N, **mỗi footnote đặt tại đúng đoạn văn tương ứng với marker `[N]`**
+6. Cập nhật `progress.json`: `status: "HOAN_TAT"`, `docx`, `docx_status`.
 
 ## 8A. QUY TẮC ĐỊNH DẠNG DOCX (BẮT BUỘC — TỪ BÀI HỌC CHƯƠNG 9)
 
@@ -333,6 +336,46 @@ Exit code 0 = PASS, 1 = FAIL. **Không bàn giao DOCX nếu validator FAIL.**
 - KHÔNG sửa template DOCX thủ công.
 - KHÔNG dùng bản OCR raw (`*_text_ocr.txt`, `*_text_p1.txt`) làm nguồn build — chỉ dùng `v1_chXX_vi.txt`.
 - KHÔNG bỏ qua cảnh báo `WARN` (footnote không đủ N/N) trong output build.
+
+## 8B. QUY TRÌNH KIỂM TRA FOOTNOTE MARKERS TRƯỚC BUILD (BẮT BUỘC — TỪ BÀI HỌC CHƯƠNG 12)
+
+> **Bài học từ Chương 12 (V1-C12):** 42 inline footnote markers ([15], [16], [24]-[26], [35]-[76]) bị mất khi dịch từ tiếng Anh sang tiếng Việt. Lỗi không bị phát hiện bởi bất kỳ kiểm tra tự động nào → DOCX bị build thiếu footnotes, một số footnote bị dồn vào paragraph cuối. Nguyên nhân gốc: markers `[N]` không phải nội dung ngữ nghĩa nên dịch giả dễ bỏ qua; không có script validate markers trước build.
+
+Áp dụng cho MỌI chương. Mọi session PHẢI đọc mục này trước khi xuất DOCX.
+
+### 8B.1 Nguyên tắc cốt lõi
+
+1. **Mọi footnote trong notes block (`--- [Cước chú ...] ---`) phải có marker `[N]` tương ứng trong thân bài.** Không được có note chưa được reference.
+2. **Mọi marker `[N]` trong thân bài phải có footnote tương ứng trong notes block.** Không được có marker orphan.
+3. **Không được có marker trùng lặp** trong thân bài.
+4. **Không được dump orphan footnotes vào paragraph cuối** (build_chapter_docx.py đã sửa: raise error nếu có orphan).
+
+### 8B.2 Kiểm tra bắt buộc trước khi build
+
+```bash
+# Chạy trước build_chapter_docx.py
+python 99_scripts/check_footnote_markers.py NN
+
+# Kết quả mong đợi:
+#   Total notes block: N
+#   Total markers in body: N
+#   Unique markers in body: N
+#   RESULT: PASS — All markers match, no missing, no duplicate, no orphan.
+```
+
+Nếu kết quả là FAIL (có missing, duplicate, hoặc orphan) → **KHÔNG được build DOCX**. Phải sửa `v1_chNN_vi.txt` rồi chạy lại check_footnote_markers.py cho đến khi PASS.
+
+### 8B.3 Nguyên nhân gốc và phòng ngừa
+
+| Nguyên nhân | BUG ID | Phương án phòng ngừa |
+|-------------|--------|---------------------|
+| Dịch giả coi `[N]` là artifacts định dạng, bỏ qua khi dịch | BUG-001 | Buộc chạy `check_footnote_markers.py` trước build |
+| Không có script validate markers trước build | BUG-002 | `check_footnote_markers.py` kiểm tra missing/duplicate/orphan |
+| Marker trùng lặp không được phát hiện | BUG-003 | `check_footnote_markers.py` báo duplicate |
+| Header/footer artifacts hardcode per-chapter | BUG-004 | `is_header_footer_line()` generic, đọc từ chapter header |
+| Subheading detection dùng heuristic | BUG-005 | Buộc marker `— đề mục —` trong block header |
+| `build()` dump orphan footnotes vào paragraph cuối | BUG-006 | Đã xóa fallback, raise ValueError nếu có orphan |
+| Quality Gate chỉ kiểm tra count, không kiểm tra placement | BUG-007 | Tiêu chí 8 bổ sung: mỗi footnote phải đúng đoạn văn |
 
 ## 9. QUY TẶC VLP-01 — TIẾNG VIỆT TRƯỚC (VIETNAMESE-FIRST TRANSLATION)
 

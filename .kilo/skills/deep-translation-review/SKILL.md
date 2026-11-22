@@ -68,7 +68,7 @@ description: Đối chiếu và kiểm tra bản dịch ở cấp câu, đoạn 
 | P3 | Có câu lặp ý hoặc thừa? | Gộp hoặc bỏ |
 | **P4** | **Kết thúc bằng dấu chấm?** | Hoàn tất câu cuối (Quy tắc 16) |
 | **P5** | **Số câu = gốc?** | Kiểm tra alignment (Quy tắc 18) |
-| **P6** | **Marker cước chú `[N]`/`N` đúng vị trí, thứ tự?** | Điều chỉnh marker |
+| **P6** | **Marker cước chú `[N]`/`N` đúng vị trí, thứ tự?** | Điều chỉnh marker. **BẮT BUỘC**: chạy `python 99_scripts/check_footnote_markers.py --chapter NN` để xác nhận không missing, không duplicate, không orphan. |
 | **P7** | **Heading có marker "— đề mục —"?** | Khôi phục marker |
 | P8 | Thuật ngữ nhất quán trong đoạn? | Thống nhất theo lexicon |
 | P9 | Văn phong tự nhiên, mượt mà? | Viết lại câu cứng |
@@ -126,7 +126,8 @@ description: Đối chiếu và kiểm tra bản dịch ở cấp câu, đoạn 
 2. **Đọc bản dịch** (vi.txt) — đánh dấu chỗ nghi ngờ.
 3. **Đối chiếu từng câu** — S1-S20.
 4. **Đối chiếu từng đoạn** — P1-P10 (đặc biệt P4, P5, P6, P7).
-5. **Kiểm tra alignment** — chạy `python .kilo/scripts/common/document_comparator.py NN` (C2).
+5. **Kiểm tra toàn vẹn footnote markers** — chạy `python 99_scripts/check_footnote_markers.py NN` (P6, C3). Nếu FAIL → sửa TXT trước khi tiếp tục.
+6. **Kiểm tra alignment** — chạy `python .kilo/scripts/common/document_comparator.py NN` (C2).
 6. **Kiểm tra thuật ngữ VNCH** — chạy `python .kilo/scripts/common/vnch_orthography.py --check-only NN` (C5).
 7. **Kiểm tra encoding** — `python .kilo/scripts/common/encoding_checker.py --chapter NN` (C6).
 8. **Build DOCX verify** — dùng `docx_builder.py` (Common) → `OK N/N` (C7).
@@ -145,7 +146,8 @@ description: Đối chiếu và kiểm tra bản dịch ở cấp câu, đoạn 
 |---|---|---|
 | **Heading mismatch** | 3 heading bị mất marker "— đề mục —" | Ch4 (3 heading), Ch6 (3 heading) |
 | **Sentence count mismatch** | Nhiều đoạn lệch 1-2 câu so với gốc | Ch2 (P001, P027, P035, P040), Ch3 (P021, P025, P060, P062), Ch4 (10+ đoạn), Ch6 (P051, P058, P073, P078, P080) |
-| **Footnote marker missing** | Thiếu marker `[N]` trong thân bài | Ch1, Ch3, Ch4 |
+| **Footnote marker missing** | Thiếu marker `[N]` trong thân bài so với notes block | Ch12 (42 markers bị mất: [15], [16], [24]-[26], [35]-[76]); Ch11 (0/0 footnotes, xem Bug Register BUG-008) |
+| **Footnote marker duplicate** | Marker `[N]` xuất hiện >1 lần trong thân bài | Ch12 ([20] xuất hiện 2 lần) |
 | **VNCH false positive** | 43 "lỗi" trong tên sách/trích dẫn/tổ chức tiếng Pháp — KHÔNG SỬA | Toàn bộ |
 | **Từ tiếng Anh còn sót** | *nation, pays, supposedly transient, staffing, greatly, severely, staging, meant to be, agitation, coolie, trump mere patriotism, voie royale, Five Dragons, Front populaire, grafting, teleology, ultima avis, glass ceiling, allegory, brinkmanship, en même temps, en route, gouvernement de fait, essentialism, fascism, autarky, ersatz, phalanx, exacted a dreadful toll, Improvisation, deus ex machina* | Ch2, Ch3, Ch4 |
 
