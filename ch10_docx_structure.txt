@@ -1,0 +1,49 @@
+P  0 | Normal               | sz=10.5  | b=None  | i=None  | THE CAMBRIDGE HISTORY OF THE VIETNAM WAR
+P  1 | Normal               | sz=10.5  | b=None  | i=True  | TẬP I — ORIGINS · NGUỒN CỘI
+P  2 | Normal               | sz=13.0  | b=True  | i=None  | CHƯƠNG 10
+P  3 | Normal               | sz=19.0  | b=True  | i=None  | Chiến tranh Đông Dương của Pháp ở Bắc Việt Nam
+P  4 | Normal               | sz=None  | b=None  | i=True  | Christopher Goscha
+P  5 | Normal               | sz=None  | b=None  | i=None  | 
+P  6 | Normal               | sz=None  | b=None  | i=None  | 
+P  7 | Normal               | sz=None  | b=None  | i=None  | Sự phức tạp của Chiến tranh Đông Dương của Pháp thật đáng kinh ngạc. Nó không phải là một cuộc xung đột duy nhất, mà là 
+P  8 | Normal               | sz=None  | b=None  | i=None  | Viet Nam trong thời gian xung đột cũng không phải là một nhà nước thống nhất. Vào cuối tháng Chín năm 1945, người Pháp t
+P  9 | Normal               | sz=13.5  | b=True  | i=None  | Chiến tranh Đông Dương của Pháp ở Bắc Việt Nam
+P 10 | Normal               | sz=13.5  | b=True  | i=None  | Một loại chiến tranh mới đến miền trên Việt Nam
+P 11 | Normal               | sz=None  | b=None  | i=None  | Vào ngày mười chín tháng Mười hai năm 1946, sau hơn một năm nỗ lực thương lượng hoà bình thất bại để hoàn tất quá trình 
+P 12 | Normal               | sz=None  | b=None  | i=None  | Người Pháp vẫn kiểm soát Hà Nội, Huế, và Sài Gòn và, dù thay đổi, phần lớn đồng bằng sông Mekong và Đồng bằng sông Hồng 
+P 13 | Normal               | sz=None  | b=None  | i=None  | Chiến thắng của cộng sản trong nội chiến Trung Quốc vào tháng Mười năm 1949 và quyết định của Mao Trạch Đông ủng hộ Hồ C
+P 14 | Normal               | sz=None  | b=None  | i=None  | Phía đông bắc xa nhất, hải quân Pháp tuần tra vịnh Bắc Kỳ từ Cảng Hải Phòng. Cuộc cách mạng quân sự mà cộng sản Trung Qu
+P 15 | Normal               | sz=None  | b=None  | i=None  | đối với quyền kiểm soát các tỉnh giàu gạo ở Vùng III, dưới Hà Nội và Hải Phòng. Tóm lại, DRVN giờ đây quán quanh chu vi 
+P 16 | Normal               | sz=None  | b=None  | i=None  | De Lattre đồng ý tiếp nhiệm ở Đông Dương trên hiểu biết rằng sẽ không còn thất bại, không còn rút lui, và không còn nhục
+P 17 | Normal               | sz=None  | b=None  | i=None  | 
+P 18 | Normal               | sz=10.0  | b=None  | i=True  | Hình 10.1 — Đại tướng Jean de Lattre de Tassigny, Tổng tư lệnh Pháp trong Chiến tranh Đông Dương của Pháp. Nguồn: ullste
+P 19 | Normal               | sz=None  | b=None  | i=None  | một quân đội Việt Nam thứ hai – Quân đội Quốc gia Việt Nam (VNA), lực lượng vũ trang của ASVN – thực sự bắt đầu hoạt độn
+P 20 | Normal               | sz=None  | b=None  | i=None  | Vĩnh Yên là bài kiểm tra bằng lửa cho PAVN. Các cuộc tấn công sóng vào vị trí đã kiên cố để lại hàng nghìn chính quy chế
+P 21 | Normal               | sz=None  | b=None  | i=None  | Sự thất bại của cuộc tấn công năm 1951 của Giáp không có nghĩa là các chiến lược gia DRVN đã chuyển sự chú ý của họ khỏi
+P 22 | Normal               | sz=None  | b=None  | i=None  | De Lattre và Salan nhận ra rằng các biện pháp phòng thủ và an bình thuộc địa một mình sẽ không chiến thắng cuộc chiến ch
+P 23 | Normal               | sz=None  | b=None  | i=None  | DRVN cuối cùng đã giành lại Hòa Bình, nhưng không phải vì họ đã đánh bại đối thủ trên trận chiến. Những người dưới quyền
+P 24 | Normal               | sz=None  | b=None  | i=None  | Điều gì xảy ra ở Hòa Bình có những ảnh hưởng lớn đến những gì lãnh đạo Pháp và DRVN sẽ làm tiếp theo. Salan có thể đã ng
+P 25 | Normal               | sz=None  | b=None  | i=None  | 
+P 26 | Normal               | sz=10.0  | b=None  | i=True  | Bản đồ 10.1 — Các vùng chiến lược do Dân chủ Cộng hòa Việt Nam quy định. Vẽ lại bởi Jeff Edwards. Được dùng với sự cho p
+P 27 | Normal               | sz=13.5  | b=True  | i=None  | Về Gạo và Chiến Tranh
+P 28 | Normal               | sz=None  | b=None  | i=None  | (Tên vùng và địa điểm trên bản đồ: Tonlé Sap, Biển Nam Trung Quốc, Vịnh Thái Lan, Vịnh Bắc Kỳ, Bangkok, Sài Gòn, Campuch
+P 29 | Normal               | sz=None  | b=None  | i=None  | người Pháp đã vận hành giữa năm 1950 và 1954 để ngăn cản các đối thủ của họ từ việc mua sắm thức ăn – trên hết, gạo – họ
+P 30 | Normal               | sz=None  | b=None  | i=None  | Người Pháp thấy trong "Tướng Gạo" một đồng minh có thể giúp họ ngăn cản DRVN từ việc nuôi các binh sĩ và công chức của n
+P 31 | Normal               | sz=None  | b=None  | i=None  | Kinh tế luôn là một phần của cuộc đấu tranh giữa người Pháp và người Việt Nam. Không ai biết điều nầy tốt hơn Salan. Ông
+P 32 | Normal               | sz=None  | b=None  | i=None  | Cơ quan thuộc địa và các đối tác Việt Nam của họ đã cố hết sức để ngăn các đối thủ của họ tạo ra các liên kết kinh tế gi
+P 33 | Normal               | sz=None  | b=None  | i=None  | Cuộc tấn công kinh tế bền bỉ đối với DRVN từ vùng V về phía bắc chỉ thực sự bắt đầu vào năm 1950 – sau quyết định của Ma
+P 34 | Normal               | sz=None  | b=None  | i=None  | khi nói đến chiến tranh kinh tế," tướng Pháp phụ trách cuộc chiến gạo của miền Trung Việt Nam viết cho đồng cấp Việt Nam
+P 35 | Normal               | sz=None  | b=None  | i=None  | Cuộc sống làng trong Chiến tranh Đông Dương chưa từng dễ dàng ở đồng bằng phía Bắc hoặc miền Trung Việt Nam. Nhưng bây g
+P 36 | Normal               | sz=None  | b=None  | i=None  | Một giai đoạn thứ ba và cuối cùng đã đưa chiến tranh kinh tế lên một mức cao hơn từ giữa năm 1952 khi mùa thu tháng Tư–N
+P 37 | Normal               | sz=None  | b=None  | i=None  | biến nó thành một "vùng vô chủ." Binh sĩ và quản lý viên đổ vào các vùng biên giới, được hỗ trợ bởi Hải quân và Không qu
+P 38 | Normal               | sz=None  | b=None  | i=None  | Bom tấn chiến lược đã trở thành một phần thiết yếu của cuộc tấn công kinh tế của người Pháp. Để chọn mục tiêu, các viên 
+P 39 | Normal               | sz=None  | b=None  | i=None  | Danh sách mục tiêu trong cuộc chiến kinh tế nầy không chỉ dừng lại ở các hệ thống tưới tiêu. Năm 1952, Không quân Pháp đ
+P 40 | Normal               | sz=None  | b=None  | i=None  | Việc phá hủy cơ sở hạ tầng DRVN của người Pháp đã buộc Hồ Chí Minh phải động viên dân số của ông ấy để sửa chữa đê, đamb
+P 41 | Normal               | sz=None  | b=None  | i=None  | Chiến tranh đòi hỏi nhiều từ phụ nữ cũng như từ nam giới. Phụ nữ và con gái đã thay thế ở các ruộng lúa khi chồng và cha
+P 42 | Normal               | sz=None  | b=None  | i=None  | Từ giữa năm 1952, cuộc chiến kinh tế của người Pháp đang chuyển vào số cao. Theo một nghiên cứu Việt Nam, Không quân Phá
+P 43 | Normal               | sz=None  | b=None  | i=True  | Một người phải để người đói chết (Il faut faire crever les gens de faim). Tôi tin rằng nếu chúng ta đã giết tất cả các c
+P 44 | Normal               | sz=None  | b=None  | i=None  | Xung đột Đông Dương là một cuộc chiến thảm khốc của quá trình thoát thuộc địa. Điều nầy đặc biệt đúng ở hai phần ba phía
+
+=== IMAGES ===
+  media/image1.png
+  media/image2.png
