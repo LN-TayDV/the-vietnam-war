@@ -1,0 +1,38 @@
+  0 | para       | p218 | Sự phức tạp của Chiến tranh Đông Dương của Pháp thật đáng kinh ngạc. Nó không ph
+  1 | para       | p218 | Viet Nam trong thời gian xung đột cũng không phải là một nhà nước thống nhất. Và
+  2 | heading    | p? | Chiến tranh Đông Dương của Pháp ở Bắc Việt Nam
+  3 | heading    | p? | Một loại chiến tranh mới đến miền trên Việt Nam
+  4 | para       | p219 | Vào ngày mười chín tháng Mười hai năm 1946, sau hơn một năm nỗ lực thương lượng 
+  5 | para       | p220 | Người Pháp vẫn kiểm soát Hà Nội, Huế, và Sài Gòn và, dù thay đổi, phần lớn đồng 
+  6 | para       | p220 | Chiến thắng của cộng sản trong nội chiến Trung Quốc vào tháng Mười năm 1949 và q
+  7 | para       | p221 | Phía đông bắc xa nhất, hải quân Pháp tuần tra vịnh Bắc Kỳ từ Cảng Hải Phòng. Cuộ
+  8 | para       | p222 | đối với quyền kiểm soát các tỉnh giàu gạo ở Vùng III, dưới Hà Nội và Hải Phòng. 
+  9 | para       | p222 | De Lattre đồng ý tiếp nhiệm ở Đông Dương trên hiểu biết rằng sẽ không còn thất b
+ 10 | image      | p223 | 
+ 11 | caption    | p223 | Hình 10.1 — Đại tướng Jean de Lattre de Tassigny, Tổng tư lệnh Pháp trong Chiến 
+ 12 | para       | p224 | một quân đội Việt Nam thứ hai – Quân đội Quốc gia Việt Nam (VNA), lực lượng vũ t
+ 13 | para       | p225 | Vĩnh Yên là bài kiểm tra bằng lửa cho PAVN. Các cuộc tấn công sóng vào vị trí đã
+ 14 | para       | p226 | Sự thất bại của cuộc tấn công năm 1951 của Giáp không có nghĩa là các chiến lược
+ 15 | para       | p227 | De Lattre và Salan nhận ra rằng các biện pháp phòng thủ và an bình thuộc địa một
+ 16 | para       | p227 | DRVN cuối cùng đã giành lại Hòa Bình, nhưng không phải vì họ đã đánh bại đối thủ
+ 17 | para       | p228 | Điều gì xảy ra ở Hòa Bình có những ảnh hưởng lớn đến những gì lãnh đạo Pháp và D
+ 18 | heading    | p? | Về Gạo và Chiến Tranh
+ 19 | image      | p229 | 
+ 20 | caption    | p229 | Bản đồ 10.1 — Các vùng chiến lược do Dân chủ Cộng hòa Việt Nam quy định. Vẽ lại 
+ 21 | para       | p229 | (Tên vùng và địa điểm trên bản đồ: Tonlé Sap, Biển Nam Trung Quốc, Vịnh Thái Lan
+ 22 | para       | p229 | người Pháp đã vận hành giữa năm 1950 và 1954 để ngăn cản các đối thủ của họ từ v
+ 23 | para       | p230 | Người Pháp thấy trong "Tướng Gạo" một đồng minh có thể giúp họ ngăn cản DRVN từ 
+ 24 | para       | p231 | Kinh tế luôn là một phần của cuộc đấu tranh giữa người Pháp và người Việt Nam. K
+ 25 | para       | p231 | Cơ quan thuộc địa và các đối tác Việt Nam của họ đã cố hết sức để ngăn các đối t
+ 26 | para       | p231 | Cuộc tấn công kinh tế bền bỉ đối với DRVN từ vùng V về phía bắc chỉ thực sự bắt 
+ 27 | para       | p232 | khi nói đến chiến tranh kinh tế," tướng Pháp phụ trách cuộc chiến gạo của miền T
+ 28 | para       | p232 | Cuộc sống làng trong Chiến tranh Đông Dương chưa từng dễ dàng ở đồng bằng phía B
+ 29 | para       | p233 | Một giai đoạn thứ ba và cuối cùng đã đưa chiến tranh kinh tế lên một mức cao hơn
+ 30 | para       | p234 | biến nó thành một "vùng vô chủ." Binh sĩ và quản lý viên đổ vào các vùng biên gi
+ 31 | para       | p234 | Bom tấn chiến lược đã trở thành một phần thiết yếu của cuộc tấn công kinh tế của
+ 32 | para       | p235 | Danh sách mục tiêu trong cuộc chiến kinh tế nầy không chỉ dừng lại ở các hệ thốn
+ 33 | para       | p235 | Việc phá hủy cơ sở hạ tầng DRVN của người Pháp đã buộc Hồ Chí Minh phải động viê
+ 34 | para       | p236 | Chiến tranh đòi hỏi nhiều từ phụ nữ cũng như từ nam giới. Phụ nữ và con gái đã t
+ 35 | para       | p236 | Từ giữa năm 1952, cuộc chiến kinh tế của người Pháp đang chuyển vào số cao. Theo
+ 36 | quote      | p237 | Một người phải để người đói chết (Il faut faire crever les gens de faim). Tôi ti
+ 37 | para       | p237 | Xung đột Đông Dương là một cuộc chiến thảm khốc của quá trình thoát thuộc địa. Đ

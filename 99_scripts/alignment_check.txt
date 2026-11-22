@@ -1,19 +1,137 @@
-=== KIEM TRA ALIGNMENT VA ENCODING ===
+V1C10-P001: src=3, vi=3, diff=0
 
-SRC file: v1_ch01_src.txt
-VI file: v1_ch01_vi.txt
+V1C10-P002: src=7, vi=7, diff=0
 
---- Encoding ---
-SRC BOM: False, VI BOM: False
-SRC CRLF: False, VI CRLF: False
-SRC LF-only: True, VI LF-only: True
-SRC NFC: True, VI NFC: True
+V1C10-P003: src=0, vi=0, diff=0
 
---- Alignment ---
-SRC so doan: 49
-VI so doan: 49
-SRC cac so: ['001', '002', '003', '004', '005'] ... ['045', '046', '047', '048', '049']
-VI cac so: ['001', '002', '003', '004', '005'] ... ['045', '046', '047', '048', '049']
-Marker khop 1-1: True
+V1C10-P004: src=13, vi=13, diff=0
 
---- Ket thuc ===
+V1C10-P005: src=7, vi=8, diff=1
+
+V1C10-P006: src=14, vi=14, diff=0
+
+V1C10-P007: src=11, vi=11, diff=0
+
+V1C10-P008: src=20, vi=20, diff=0
+
+V1C10-P009: src=9, vi=9, diff=0
+
+V1C10-P010: src=20, vi=17, diff=-3
+  *** MISMATCH ***
+  SRC:  (trang 224) ---
+Christopher Goscha
+224
+a second Vietnamese army – the Vietnam National Army (VNA), the armed 
+forces of the ASVN – truly came to life in 1951 with the full approval of the 
+Americans.[3]
+Backed by his government, de Lattre lost no time reinforcing his hold 
+over the plains surroundi
+  VI:   (trang 224) ---
+một quân đội Việt Nam thứ hai – Quân đội Quốc gia Việt Nam (VNA), lực lượng vũ trang của ASVN – thực sự bắt đầu hoạt động vào năm 1951 với sự chấp thuận đầy đủ của người Mỹ.[3] Được hỗ trợ bởi chánh phủ của mình, de Lattre không lãng phí thời gian củng cố nắm giữ của mình trên các đ
+
+V1C10-P011: src=22, vi=22, diff=0
+
+V1C10-P012: src=17, vi=18, diff=1
+
+V1C10-P013: src=14, vi=14, diff=0
+
+V1C10-P014: src=4, vi=4, diff=0
+
+V1C10-P015: src=18, vi=11, diff=-7
+  *** MISMATCH ***
+  SRC:  (trang 228) ---
+Christopher Goscha
+228
+What happened at Hòa Bình had big implications for what French and 
+DRVN leaders would do next. Salan may have held off his attackers in this 
+clash, but he had not destroyed the PAVN. Second, by returning Hòa Bình 
+to the adversary, he allowed his adversaries
+  VI:   (trang 228) ---
+Điều gì xảy ra ở Hòa Bình có những ảnh hưởng lớn đến những gì lãnh đạo Pháp và DRVN sẽ làm tiếp theo. Salan có thể đã ngăn chặn những kẻ tấn công của ông ấy trong cuộc xung đột này, nhưng ông ấy chưa hủy diệt PAVN. Thứ hai, bằng cách trả lại Hòa Bình cho đối thủ, ông ấy đã cho phép 
+
+V1C10-P016: src=2, vi=5, diff=3
+  *** MISMATCH ***
+  SRC:  (trang 228-229) — đề mục ---
+Of Rice and War
+
+--- [V1C10-P016b] (trang 228-229) ---
+Although the French Indochina War in northern Vietnam featured many 
+bloody battlefield clashes, it was also a struggle for food.[8] This struggle 
+occurred almost everywhere along the edges of the DRVN's sickle sha
+  VI:   (trang 228-229) — đề mục ---
+Về Gạo và Chiến Tranh
+
+--- [V1C10-P016b] (trang 228-229) ---
+Dẫu Chiến tranh Đông Dương của Pháp ở miền Bắc Việt Nam có nhiều cuộc xung đột trên chiến trường máu me, nó cũng là một cuộc đấu tranh vì thức ăn.[8] Cuộc đấu tranh này xảy ra gần như khắp mọi nơi dọc theo các
+
+V1C10-P017: src=4, vi=0, diff=-4
+  *** MISMATCH ***
+  SRC:  (trang 229) ---
+The French Indochina War in Northern Vietnam
+229
+Tonlé Sap
+N
+South China
+Sea
+Gulf of  Thailand
+Gulf of  Tonkin
+Bangkok
+Saigon
+C A M B O D I A
+T H A I L A N D
+L
+A
+O
+S
+C
+H
+I
+N
+A
+Hanoi
+Viet Bac Zone
+Upper Laos Zone
+Mid
+Laos Zone
+Lower
+Laos Zone
+Cambodia Zone
+Zone IX
+Zone V
+Zone IV
+Zone
+  VI:   (trang 229) ---
+(Tên vùng và địa điểm trên bản đồ: Tonlé Sap, Biển Nam Trung Quốc, Vịnh Thái Lan, Vịnh Bắc Kỳ, Bangkok, Sài Gòn, Campuchia, Thái Lan, Lào, Trung Quốc, Hanoi, Việt Bắc, Vùng Lào Trên, Vùng Lào Giữa, Vùng Lào Dưới, Vùng Campuchia, Vùng IX, Vùng V, Vùng IV, Vùng III, Phnom Penh, Vienti
+
+V1C10-P018: src=6, vi=5, diff=-1
+
+V1C10-P019: src=10, vi=9, diff=-1
+
+V1C10-P020: src=8, vi=8, diff=0
+
+V1C10-P021: src=7, vi=7, diff=0
+
+V1C10-P022: src=11, vi=11, diff=0
+
+V1C10-P023: src=7, vi=7, diff=0
+
+V1C10-P024: src=11, vi=10, diff=-1
+
+V1C10-P025: src=14, vi=12, diff=-2
+
+V1C10-P026: src=8, vi=8, diff=0
+
+V1C10-P027: src=10, vi=10, diff=0
+
+V1C10-P028: src=6, vi=6, diff=0
+
+V1C10-P029: src=12, vi=11, diff=-1
+
+V1C10-P030: src=7, vi=7, diff=0
+
+V1C10-P031: src=10, vi=9, diff=-1
+
+V1C10-P032: src=4, vi=4, diff=0
+
+V1C10-P033: src=22, vi=23, diff=1
+

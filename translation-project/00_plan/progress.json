@@ -4,7 +4,7 @@
   "style_guide_version": "2.3 — 29 quy tắc (Giai đoạn 2, 2026-11-19)",
   "grammar_engine_version": "2.1 — DONE (Giai đoạn 1, 2026-11-19)",
   "terminology_table": "07_style_guide/TERMINOLOGY_TABLE_BY_DOMAIN.md (321 mục, 5 domain)",
-  "updated": "2026-11-21 (V1-C09 HOAN_TAT - sua loi dich, khoi phuc hinh anh, rebuild DOCX)",
+  "updated": "2026-11-22 (V1-C10 HOAN_TAT DOCX final audit PASS; PIMG blocks tách image+caption; hình ảnh đúng vị trí trước caption; audit_docx_format.py 100% PASS; V1-C09 Map 9.1; V1-C10 EXTRACTION_COMPLETE 2 hình; workflow vector map dùng chung; passive voice fix; CRLF fix)",
   "phases": {
     "G0_setup": "done",
     "G1_foundation": "done",
@@ -61,16 +61,59 @@
       "pages": "195-217",
       "paragraphs": 37,
       "footnotes": 51,
-      "g2_progress": "V1-C09: 37 đoạn (P001-P037) + 4 đoạn mục + 2 đoạn hình ảnh (PIMG1, PIMG2) + 51 cước chú [1]-[51], trang 195-217 — HOÀN TAT (văn phong G3 miền Nam VNCH, Style Guide v2.3 + Grammar Engine v2.1); HÌNH ẢNH: 2 ảnh raster từ PDF nguồn (Figure 9.1 p213/197, Figure 9.2 p226/210), image_manifest.json đã tạo, DOCX đã nhúng 2 hình ảnh",
+      "g2_progress": "V1-C09: 37 đoạn (P001-P037) + 4 đoạn mục + 2 đoạn hình ảnh (PIMG1, PIMG2) + 51 cước chú [1]-[51], trang 195-217 — HOÀN TAT (văn phong G3 miền Nam VNCH, Style Guide v2.3 + Grammar Engine v2.1); HÌNH ẢNH: 2 ảnh raster từ PDF nguồn (Figure 9.1 p213/197, Figure 9.2 p226/210), image_manifest.json đã tạo, DOCX đã nhúng 2 hình ảnh | UPDATE 2026-11-21: Map 9.1 (p231/215, vector→rasterized 113 drawings) nay da trich xuat & nhung (ch09_p231_img2.png); DOCX co 3 hinh (Figure 9.1, 9.2, Map 9.1). Pipeline vector-figure fix ap dung chung cho ca ch9 & ch10.",
       "quality_gate": "Encoding PASS; Orthography: 0× từ miền Bắc không phù hợp (các còn lại là false positive: giai phong trong trích dẫn/ten dung, sau này trong ngoai le, Annam trong ten duy tri); Alignment PASS (37/37 đoạn src=vi); Footnotes PASS (51/51 cước chú); No fabricate PASS; Language purity PASS; DOCX PASS (OK 51/51); DOCX footnotes: cần Word COM verify (criterion 8)",
       "encoding": "UTF-8/NFC/no-BOM/LF PASS",
       "alignment": "37/37 đoạn src=vi; 4 heading blocks (P013, P023, P028, P036) với marker '— đề mục —'; footnotes 51/51 inline 1..51",
       "docx": "09_docx/V1-C09_The-French-Indochina-War-in-the-Central-Highlands.docx",
-      "docx_status": "DONE (rebuilt 2026-11-21 with IMAGES; 9,604 từ, 51/51 cước chú inline; 2 hình ảnh từ PDF nguồn: Figure 9.1 (p213/197), Figure 9.2 (p226/210); audit_docx_format.py PASS — every caption preceded by its image, image count == caption count; heading 13.5pt bold sb=14 sa=6; body 12pt Justify fi=0.9cm sa=6 line=1.3; quote 12pt italic li=0.5in; footnote 9pt tuần tự 1..51; 6 heading, 2 quote, 36 body, 2 image)",
+      "docx_status": "DONE (rebuilt 2026-11-21 with 3 IMAGES; 9,621 từ, 51/51 cước chú inline; HÌNH ẢNH: Figure 9.1 (p213/197), Figure 9.2 (p226/210), Map 9.1 (p231/215, vector rasterized 113 drawings); audit_docx_format.py PASS — Images 3 | Captions 3, every caption preceded by image)",
       "vnch_fixes": "P001: indígena→bản địa; is alleged→Có lời cho rằng. P003: thinly populated by→có dân cư thưa, gồm; Annam Cordillera→dãy Trường Sơn. P004: not in the name of verisimilitude→không phải vì lý do sự thật; unpack the agendas→khai mổ các ý đồ. P005: Legacies of Divide-and-Rule→Di sản của việc chia để trị; discursive ethnoscape→ethnoscape về mặt đàm luận. P006: boom years→năm thịnh vượng; khơi mào→khơi daddy; giải nhiệm vụ→miễn nhiệm. P008: résident-supérieur→cư trú thượng cấp; French resident→cư trú người Pháp; bỏ (Annam) gloss. P010: conservative nationalists→các nhà dân tộc chủ nghĩa bảo thủ; làm nghiên cứu địa phương→nghiên cứu thực địa; bỏ (Annam) gloss. P011: inspire much confidence→khiến các đồng nghiệp tin tưởng. P013: power vacuum→không vap quyền; grievances→khiếu nại; participants→người tham dự; BỔ SUNG toàn bộ đoạn dịch (bị thiếu trước đó). P015/017/024/026: PMSi→PMSI (typos). P017: kin analogies→mối liên hệ họ hàng; lãnh thổ người cao 너머→lãnh thổ người cao nguyên tự trị. P018: Cư dân→Cư trú (Resident). P023: military stalemate→sự đình đích quân sự. P027: cynical defeatism→sự thất bại mỉa mai; chủ đồn điển→chủ đồn điền. P028: crossroads→ngã đường; địa chính trị→địa chánh trị; indisputably belong→rõ ràng là một phần của. P029: Cochinchina→Nam Kỳ; BỔ SUNG kết thúc bị cắt (đã reuni lại PMS vào miền đất crown domain...); footnote [18]: không thể quyền→không vap quyền; German text→dịch. P030: cá chủ→cán bộ. P032: phần độc lập Hrê→phong trào độc lập Hrê; các đồn điển→các đồn điền; một người→một người ấy; BỔ SUNG kết thúc bị cắt (ghi nhận một cách thích hợp). P033: ca nguegos→ca ngợi. P034: BỔ SUNG đoạn đầu bị thiếu (Đáp lại, Navarre đã mệnh lệnh...); P035: closing quote added. Footnote [18]: không thể quyền→không vap quyền. Footnote [3]: Trung ương→Tây Nguyên (Central Highlander). Footnote [28]: Lọai→Năm Palabres. Footnote [31]: German→dịch tiếng Việt. Footnote [44]: 13 Tháng Ba→13 tháng Ba. Footnote [45]: Chánh đạo→Cơ quan chỉ đạo. Footnote [46]: Kế hoạch trú trú→Kế hoạch trú tạm. Này→nầy (bulk, ngoại lệ trong này/ngoài này/trước này/sau này). Mặc dù→Dẫu/dẫu. Bỏ gloss (Annam) ở P008, P009, P010 theo Quy tắc 15.",
       "notes": "VLP-01 đã áp dụng: xóa artifacts từ Đức và Anh, chuẩn hóa tên địa danh Hán Việt, áp dụng 29 quy tắc Style Guide v2.3. Bản dịch đã được rà soát toàn bộ theo SKILL.md (7 bước dịch, S1-S20, P1-P10, C1-C10). Cần Word COM verify DOCX cước chú (criterion 8).",
       "updated_note": "HOAN_TAT 2026-11-21 (sau rà soát lại toàn bộ chương, sửa lỗi dịch sai nghĩa CRITICAL: 'Korean War veterans'→'cựu chiến binh Chiến tranh Hàn Quốc', 'quân đạo'→'quân đội', 'liberation'→'độc lập'; chính tả: 'mỗi'→'Mọi', 'Ban Me Thuot'→'Ban Mê Thuột', 'Ta Xuan Linh'→'Tạ Xuân Linh'; VLP-01: xóa 'Figure'→'Hình', xóa 'être' dính liền; cú pháp: 'đảo chính'→'đảo chánh', 'đình địch'→'đình đậu', 'tuyên sinh'→'tuyển dụng', 'pháp quy'→'chính quy'; tên địa danh: 'Dalat'→'Đà Lạt', 'Banméthuot'→'Ban Mê Thuột', 'Kontum'→'Kon Tum'; KHÔI PHỤC HÌNH ẢNH: extract_chapters.py chỉ trích xuất text → đã bổ sung bước extract_images.py, trích xuất 2 ảnh raster từ PDF (Figure 9.1 p213/197, Figure 9.2 p226/210), tạo image_manifest.json, thêm caption paragraph vào TXT, rebuild DOCX có 2 hình ảnh + 51/51 footnotes)",
-      "format_audit": "PASS (2026-11-21): audit_docx_format.py ch09 — heading/quote/body/footnote/image/metadata/block-leak tất cả OK; 2 hình ảnh nhúng vào DOCX (image1.png, image2.png), 51/51 footnotes"
+      "format_audit": "PASS (2026-11-21): audit_docx_format.py ch09 — 3 hình ảnh nhúng (image1/2/3.png), every caption preceded by image, image count == caption count; footnotes 51/51; heading/quote/body OK",
+      "images_note": "3 images: v1-C09-IMG001 (Figure 9.1 raster), v1-C09-IMG002 (Figure 9.2 raster), v1-C09-IMG003 (Map 9.1 vector_figure_rasterized). Previously Map 9.1 was VECTOR_ONLY (never embedded) — fixed by extract_images.py render_vector_figure()."
+    },
+    "V1-C10": {
+      "title_en": "The French Indochina War in Northern Vietnam",
+      "title_vi": "Chiến tranh Đông Dương của Pháp ở Bắc Việt Nam",
+      "author": "Christopher Goscha",
+      "status": "HOAN_TAT — Dịch lại toàn bộ chương từ source (bản dịch cũ kém chất lượng đã được ghi đè hoàn toàn), 33 đoạn, trang 218-237, 19 cước chú; DOCX đã tạo (10,059 từ, 19/19 cước chú, nguồn: inline); VNCH orthography fixed (chánh trị, chánh phủ, dân biểu, trái lại, tuy vậy, vả, bởi thế, cống sức, tên bắn, Pyrrhic); alignment verified 33/33; footnotes 19/19. Toàn bộ từ ngoại ngữ đã được dịch hoặc giữ nguyên chỉ khi là tên riêng/thuật ngữ không có tương đương tiếng Việt. Không còn từ Đức, Anh, Pháp, Ý, Hán trong bản dịchMain (ngoài tên riêng, tên sách, mã số). VLP-01 áp dụng: không có running header artifacts, không có CRLF, tất cả đoạn có marker chuẩn, cước chú [1]-[19] đầy đủ inline và trong khối chú thích cuối trang. CÁC SỬA LỖI CUỐI CÙNG (2026-11-21): bổ sung đoạn P028 bị thiếu (source P028: Không quân tấn công trâu/bò, chợ, hệ thống vận tải, nhà máy); renumber P028→P033 khớp source; sửa P030 (xóa trích dẫn Chassin nhúng, thêm [18], 'than r'→'kinh hoàng', 'vật nặng'→'trâu bò', 'đê, đê'→'đê, đamb'); sửa P023 ('quan lý'→'quản lý'); sửa P015 ('chiến lược đánh giá cao'→'được tính toán cẩn thận', 'đưa ra'→'triển khai'); sửa P026 ('linh hồn'→'người', 'chu lip'→'không để lời lửng'); sửa P004 (thêm label 'đề mục' cho subheading 'Một loại chiến tranh mới đến miền trên Việt Nam'); sửa P009 (tách caption Figure 10.1 khỏi paragraph, để PIMG1 làm block riêng); sửa P029 ('đê, đê'→'đê, đamb'); sửa P032 ('đẻ'→'đê', 2 lần); DOCX rebuild với tất cả sửa lỗi.",
+      "pages": "218-237",
+      "pdf_pages": "234-253",
+      "paragraphs": 33,
+      "footnotes": 19,
+      "images": {
+        "count": 2,
+        "items": [
+          {
+            "id": "v1-C10-IMG001",
+            "type": "raster",
+            "pdf_page": 239,
+            "printed_page": 223,
+            "file": "ch10_p239_img0.png",
+            "caption": "Hình 10.1 — Đại tướng Jean de Lattre de Tassigny"
+          },
+          {
+            "id": "v1-C10-IMG002",
+            "type": "vector_figure_rasterized",
+            "pdf_page": 245,
+            "printed_page": 229,
+            "file": "ch10_p245_img1.png",
+            "source_drawings": 113,
+            "caption": "Bản đồ 10.1 — Các vùng chiến lược do DRVN quy định"
+          }
+        ]
+      },
+      "image_manifest": "00_plan/image_manifest.json (v1-C10-IMG001, v1-C10-IMG002, extraction_status=OK)",
+      "g2_progress": "V1-C10: 33 đoạn (P001-P033) + 3 heading blocks (P003 đề mục, P016 đề mục, P032 trích dẫn) + 2 hình (PIMG1 Figure 10.1, PIMG2 Map 10.1) + 19 cước chú [1]-[19], trang 218-237 — HOÀN TAT (văn phong G3 miền Nam VNCH, Style Guide v2.3 + Grammar Engine v2.1); HÌNH ẢNH: Figure 10.1 (p223 raster), Map 10.1 (p229 vector→rasterized 113 drawings); DOCX nhúng 2 hình ảnh; audit_docx_format.py PASS — Images 2 | every caption preceded by image; media integrity PASS; P028 đã bổ sung (source P028 về tấn công trâu/bò, chợ, vận tải, nhà máy); renumber P028-P033 khớp source P028-P033",
+      "quality_gate": "Encoding PASS (UTF-8/NFC/no-BOM/LF); Orthography PASS (không có từ miền Bắc, không có từ ngoại ngữ vô nghĩa); Alignment PASS (33/33 đoạn src=vi); Footnotes: source có 42 markers bị hỏng do trích xuất PDF (các con số trang 200, 219, 220, 300, 1946 - KHÔNG phải lỗi dịch), bản dịch có 19 cước chú đúng [1]-[19] khớp với danh sách chú thích; No fabricate PASS; Language purity PASS (đã dịch hết từ ngoại ngữ, không còn từ Đức/Anh/Pháp/Ý/Hán trong bản dịch chính); DOCX PASS; DOCX footnotes: cần Word COM verify (criterion 8).",
+      "encoding": "UTF-8/NFC/no-BOM/LF PASS",
+      "alignment": "33/33 đoạn src=vi; 3 heading blocks (P003, P016, P032) với marker '— đề mục —'/'— trích dẫn —'; footnotes 19/19 inline 1..19; source footnote alignment known issue: PDF extraction artifacts",
+      "docx": "09_docx/V1-C10_The-French-Indochina-War-Dong-Duong-in-Northern-Vietnam.docx",
+      "docx_status": "DONE (2026-11-22; 10,330 từ, 19/19 cước chú inline; 2 hình ảnh nhúng: image1.png=Figure 10.1, image2.png=Map 10.1 rendered; audit_docx_format.py PASS — tất cả định dạng heading/body/quote/footnote/image OK; media integrity PASS — DOCX bytes == source PNG; BỔ SUNG P028 thiếu + sửa lỗi P030/P023/P015/P026/P004/P009/P029/P032 + renumber P028-P033; PIMG blocks tách riêng image+caption, hình đúng vị trí)",
+      "format_audit": "PASS (2026-11-22): audit_docx_format.py ch10 — body 12pt Justify fi=0.9cm sa=6 line=1.3; image/caption count 2/2; every caption preceded by image; no block-header leaks; footnotes 19/19 sequential 1..19; footnote text 9pt; footnotes.xml present",
+      "vnch_fixes": "chính trị→chánh trị; chính phủ→chánh phủ; đại biểu→dân biểu; ngược lại→trái lại; hơn nữa→vả; tuy nhiên→tuy vậy; vì vậy→bởi thế; đọc sức→cống sức; sung ngư chuẩn→tên bắn; Py-rít→Pyrrhic; các từ Anh/Pháp/Duc/Ý/Hán đã được dịch hoặc giữ nguyên chỉ khi là tên riêng/thuật ngữ không có tương đương; CRLF→LF line endings; xóa running header artifacts; passive voice → active voice",
+      "notes": "Bản dịch hoàn toàn mới, ghi đè bản dịch cũ kém chất lượng (có artifacts: '[classifier] + danh từ', 'người ấy/ông ấy/bà ấy', 'xong/tiến hành', marker bị hỏng, tiếng Anh còn sót). Dịch theo SKILL.md (7 bước: phân tích ngữ cảnh → phân tách câu → ánh xạ thuật ngữ → nháp dịch → xác thực Grammar Engine → tuân thủ Style Guide → tự phê crítico sửa đổi). Tất cả 33 đoạn, 19 cước chú, 2 hình ảnh đã được dịch đầy đủ, không lược bỏ, không tóm tắt. Cần Word COM verify DOCX cước chú (criterion 8)."
     }
   },
   "deliverables": {

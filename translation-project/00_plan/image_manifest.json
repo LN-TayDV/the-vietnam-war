@@ -1,6 +1,39 @@
 {
   "images": [
     {
+      "image_id": "v1-C10-IMG001",
+      "source_pdf": "C:\\Users\\PC\\Documents\\AI_project\\the-vietnam-war\\books\\The_Cambridge_History_of_the_Vietnam_War.pdf",
+      "volume": "V1",
+      "chapter": 10,
+      "pdf_page": 239,
+      "printed_page": 223,
+      "filename": "ch10_p239_img0.png",
+      "image_type": "raster",
+      "width": 680,
+      "height": 1040,
+      "caption": "Hình 10.1 — Đại tướng Jean de Lattre de Tassigny, Tổng tư lệnh Pháp trong Chiến tranh Đông Dương của Pháp. Nguồn: ullstein bild Dtl. / ullstein bild / Getty Images.",
+      "caption_en": "Figure 10.1  General Jean de Lattre de Tassigny, French Commander during the French Indochina War. Source: ullstein bild Dtl. / ullstein bild / Getty Images.",
+      "caption_kind": "figure",
+      "extraction_status": "OK"
+    },
+    {
+      "image_id": "v1-C10-IMG002",
+      "source_pdf": "C:\\Users\\PC\\Documents\\AI_project\\the-vietnam-war\\books\\The_Cambridge_History_of_the_Vietnam_War.pdf",
+      "volume": "V1",
+      "chapter": 10,
+      "pdf_page": 245,
+      "printed_page": 229,
+      "filename": "ch10_p245_img1.png",
+      "image_type": "vector_figure_rasterized",
+      "width": 1333,
+      "height": 1966,
+      "caption": "Bản đồ 10.1 — Các vùng chiến lược do nước Việt Nam Dân chủ Cộng hòa quy định. Vẽ lại bởi Jeff Edwards. Được dùng với sự cho phép.",
+      "caption_en": "Map 10.1  The strategic zones as defined by the Democratic Republic of Vietnam. Redrawn by Jeff Edwards. Used with permission.",
+      "caption_kind": "map",
+      "source_drawings": 113,
+      "extraction_status": "OK"
+    },
+    {
       "image_id": "v1-C09-IMG001",
       "source_pdf": "C:\\Users\\PC\\Documents\\AI_project\\the-vietnam-war\\books\\The_Cambridge_History_of_the_Vietnam_War.pdf",
       "volume": "V1",
@@ -11,7 +44,9 @@
       "image_type": "raster",
       "width": 1300,
       "height": 926,
-      "caption": "Bảo Đại, vị vua của Annam, và các lãnh đạo thiểu số dân tộc ở Đông Dương (khoảng thập niên 1930).",
+      "caption": "Hình 9.1 Bảo Đại, vị vua của Annam, và các lãnh đạo thiểu số dân tộc ở Đông Dương (khoảng thập niên 1930).",
+      "caption_en": "Figure 9.1  Bao Dai, the emperor of Annam, and minority-group leaders in Indochina (circa 1930s).",
+      "caption_kind": "figure",
       "extraction_status": "OK"
     },
     {
@@ -25,22 +60,27 @@
       "image_type": "raster",
       "width": 1300,
       "height": 729,
-      "caption": "Cựu hoàng đế Việt Nam Bảo Đại (đứng) đọc bài phát biểu tại lễ thề tôn thành có sự tham gia của các lãnh đạo thiểu số dân tộc cao nguyên tại thành phố Ban Mê Thuột vào tháng Sáu năm 1949. Léon Pignon, cao ủy Pháp của Đông Dương, đang ngồi trước mặt Bảo Đại.",
+      "caption": "Hình 9.2 Cựu hoàng đế Việt Nam Bảo Đại (đứng) đọc bài phát biểu tại lễ thề tôn thành có sự tham gia của các lãnh đạo thiểu số dân tộc cao nguyên tại thành phố Ban Mê Thuột vào tháng Sáu năm 1949. Léon Pignon, cao ủy Pháp của Đông Dương, đang ngồi trước mặt Bảo Đại.",
+      "caption_en": "Figure 9.2  Former Vietnamese emperor Bao Dai (standing) delivers a speech at the swearing-in ceremony attended by Montagnard ethnic-minority leaders in Ban Me Thuot, June 1949. Leon Pignon, French high commissioner for Indochina, sits facing Bao Dai.",
+      "caption_kind": "figure",
       "extraction_status": "OK"
     },
     {
-      "image_id": "v1-C09-VEC003",
+      "image_id": "v1-C09-IMG003",
       "source_pdf": "C:\\Users\\PC\\Documents\\AI_project\\the-vietnam-war\\books\\The_Cambridge_History_of_the_Vietnam_War.pdf",
       "volume": "V1",
       "chapter": 9,
       "pdf_page": 231,
       "printed_page": 215,
-      "filename": "",
-      "image_type": "vector_drawings",
-      "width": 0,
-      "height": 0,
-      "caption": "",
-      "extraction_status": "VECTOR_ONLY_113_drawings"
+      "filename": "ch09_p231_img2.png",
+      "image_type": "vector_figure_rasterized",
+      "width": 1691,
+      "height": 2483,
+      "caption": "Bản đồ 9.1 Các vị trí của những nhóm sắc tộc chính ở miền Trung Việt Nam.",
+      "caption_en": "Map 9.1  The locations of the major ethnic groups in central Vietnam.",
+      "caption_kind": "map",
+      "source_drawings": 113,
+      "extraction_status": "OK"
     }
   ]
 }

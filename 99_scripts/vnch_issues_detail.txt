@@ -1,0 +1,688 @@
+Total issues: 128
+CRITICAL: 68
+MAJOR: 7
+MINOR: 53
+
+[CRITICAL] VNCH-02: "Chính phủ" -> "chánh phủ"
+  Category: core
+  Position: 11607
+  Context: ...ông Dương. Hình dạng lưỡi lê mới cho phép PAVN tiến công theo bất kỳ chiều nào. Chính phủ Pháp nhận ra khi Cao Bằng sụp đổ vào tháng Mười năm 1950 rằng nó phải sẵn sàng...
+
+[CRITICAL] VNCH-02: "chính phủ" -> "chánh phủ"
+  Category: core
+  Position: 21964
+  Context: ...hể, và thanh niên nam và nữ vào dịch vụ vận chuyển nhân lực và đội làm việc của chính phủ. Ít nhất sáu đại bộ binh PAVN hoạt động bí mật trong đồng bằng quanh Hà Nội vào...
+
+[CRITICAL] VNCH-02: "Chính phủ" -> "chánh phủ"
+  Category: core
+  Position: 22750
+  Context: ...của đối thủ này ở thung lũng Sông Đen phía tây Hà Nội là "Hành lang Hòa Bình." Chính phủ Pháp kết luận rằng việc đứt đoạn đường cung cấp này là rất quan trọng. Nếu PAVN...
+
+[MAJOR] VNCH-10: "giải phóng" -> "độc lập/kháng cự"
+  Category: north_south
+  Position: 12640
+  Context: ...trong giai đoạn giữa hai chiến tranh, và dẫn dắt đội quân Pháp tự do trong cuộc giải phóng miền nam Pháp năm 1944. Đã từng làm tổng kiểm tướng cho quân đội Pháp vào cuối...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 666
+  Context: ...à, cho đến cuối, là nơi diễn ra chiến tranh giai cấp kiểu cộng sản. Tất cả điều này xảy ra đồng thời khi người Trung Quốc và người Mỹ can thiệp ủng hộ những đối tá...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 1371
+  Context: ...c chiến quy mô toàn diện tràn ngập toàn bộ nước vào cuối năm 1946. Từ thời điểm này, nhà nước của Hồ Chí Minh – được biết chính thức là Dân chủ Cộng hòa Việt Nam (...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 1542
+  Context: ...thực sự bị chuyển thành một quần đảo gồm các "đảo" lãnh thổ rải rác. Tình trạng này kéo dài cho đến năm 1950 khi sự hỗ trợ quân sự và tư vấn của Mao Trạch Đông cho...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 1709
+  Context: ...p Hồ Chí Minh triển khai quân đội hiện đại mà ông ấy cần để bắt đầu nối các đảo này thành một nhà nước chặt chẽ hơn dưới chế độ cộng sản. Chỉ sau ngày đó, Quân đội...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 2072
+  Context: ...soát, nối cuối cùng với các vùng do DRVN cai quản ở miền Trung phía dưới. Điều này tạo ra một DRVN hình lưỡi lê ở nửa trên của Việt Nam, là chủ đề của chương này,...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 2151
+  Context: ...này tạo ra một DRVN hình lưỡi lê ở nửa trên của Việt Nam, là chủ đề của chương này, với thanh lưỡi quấn quanh đồng bằng sông Hồng và thanh gù bao gồm đồng bằng th...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 2293
+  Context: ...bao gồm đồng bằng thấp của miền Trung phía dưới. Việc tạo ra đoạn dài liên tục này của lãnh thổ DRVN chạy từ biên giới Trung Quốc đến miền Trung phía dưới là một...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 3461
+  Context: ...kiểm soát biên giới với Trung Quốc và củng cố nắm giữ Đồng bằng sông Hồng. Điều này cho phép người Việt Nam xây dựng một vùng căn cứ phía Bắc, mà họ gọi là vùng Vi...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 3561
+  Context: ...iệt Nam xây dựng một vùng căn cứ phía Bắc, mà họ gọi là vùng Việt Bắc, dẫu vùng này không bao quát toàn bộ "miền Bắc" như tên tiếng Việt của nó ám chỉ. Cùng lúc đó...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 3870
+  Context: ...ở miền Trung hầu như không bị can thiệp trực tiếp từ chủ nghĩa thuộc địa. Điều này bao gồm nhiều tỉnh giàu gạo nằm ở phía nam Hà Nội, mà DRVN chỉ định là vùng III...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 5717
+  Context: ...ước quần đảo, điều tương tự cũng đúng với Bang Liên kết Việt Nam. Những cụm đảo này, Pháp, ASVN, và DRVN, luôn ở trạng thái luân chuyển cạnh tranh không ngừng. Mỗi...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 6087
+  Context: ...ư Trưởng bộ Đảng Cộng sản, Trường Chinh, đã mô tả sớm từ năm 1947: "Chiến tranh này có đặc trưng của hai cái lược, những cái răng được chím vào nhau."[2]
+
+--- [V1C...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 8073
+  Context: ...Pháp duy trì một căn cứ ở tỉnh Lai Châu. Cung cấp bằng đường hàng không, căn cứ này có thể quấy rầy các đơn vị PAVN di chuyển qua khu vực, nhưng không nhiều hơn. M...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 8768
+  Context: .... Được hỗ trợ bởi khoảng hai trăm cố vấn Trung Quốc, họ đã dùng các phương pháp này để đảm bảo sự thượng quyền của đảng đối với nhà nước DRVN và cơ quan quản lý củ...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 9368
+  Context: ...à việc tạo ra một kinh tế kế hoạch và hệ thống tài chánh được cải tạo lại. Điều này không xảy ra trong một đêm, nhưng nó diễn ra từng bước ở miền trên Việt Nam tro...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 9771
+  Context: ...VN vào khi các ủy ban kháng chiến và tế bào của Đảng Cộng sản nổi lên. Khi điều này xảy ra, hình dạng của Việt Nam dạng quần đảo của Hồ Chí Minh bắt đầu thay đổi k...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 10071
+  Context: ...phép Hồ Chí Minh và những người đi theo nối vùng lãnh thổ phía Bắc đang mở rộng này, vùng Việt Bắc, đến Vùng IV của miền Trung phía trên, hình thành hình nửa trăng...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 10227
+  Context: ...a trăng hoặc đầu của một lưỡi lê. Các đơn vị PAVN sắp chuyển qua điểm giao nhau này để đi đến đồng bằng thấp phía nam Hà Nội lần đầu tiên. Những binh sĩ Việt Nam đ...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 10731
+  Context: ...hạy về phía nam qua Hòa Bình đến vùng III và IV. Hình nguyệt thái vùng lãnh thổ này là mới. Từ đó, không có gì cản trở Hồ Chí Minh từ việc củng cố liên kết của ông...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 11070
+  Context: ...lý viên, và thức ăn từ biên giới Trung Quốc đến Vùng V. Khi sự mở rộng quân sự này xảy ra, cấu hình chánh trị phân mảnh của DRVN bắt đầu biến mất ở hai phần ba ph...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 12455
+  Context: ...de Lattre de Tassigny (Hình 10.1). Không có gì đặt vấn đề về tài tình của người này. De Lattre đã tham gia chiến tranh thế giới thứ nhất, chỉ huy các chiến dịch ch...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 17697
+  Context: ...sĩ. Napalm: Lửa rơi từ bầu trời. Một máy bay khác tiến tới phun thêm nhiều lửa này. Bom rơi sau lưng tôi và tôi cảm thấy một làn gió nóng đốt toàn bộ thân thể tôi...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 17887
+  Context: ...i chạy; tôi không thể ngăn họ. Không cách nào bạn có thể ở lại dưới cơn mây lửa này đốt cháy mọi thứ trên đường đi của nó một khu rừng nhỏ chỉ mười phút trước đó....
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 18489
+  Context: ...ố vấn Trung Quốc của họ đã gửi những cậu bé Việt Nam trở lại ngọn lửa Franco-Mỹ này. Khi quân đội PAVN vào cuộc vào đêm ngày 23–24 tháng Ba năm 1951, ở các khu vực...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 20390
+  Context: ...ng, dịch vụ nhân sự, và dịch vụ hành chính lưu thông trong hành lang cao nguyên này giữa Việt Bắc về một bên và vùng III, IV, và V về bên kia. Thứ ba, Giáp cần gạo...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 21259
+  Context: ...n bình không phải là độc quyền của thuộc địa. Cuộc tấn công thứ hai, gián tiếp, này chống lại Đồng bằng Bắc Kỳ đã hoạt động vì một lý do khác. Ngay sau khi Giáp hủ...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 21622
+  Context: ...c chiến du kích trong các vùng do Pháp quản lý. Giáp có thể kết hợp lại các đội này thành các sư cha khi cần thiết. Từ giữa năm 1951, các đội PAVN này hoạt động dư...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 21689
+  Context: ...lại các đội này thành các sư cha khi cần thiết. Từ giữa năm 1951, các đội PAVN này hoạt động dưới hình thức du kích và tiến hành một cuộc tấn công gián tiếp bền b...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 22683
+  Context: ...n Bắc Việt Nam. Các viên chức thông tin Pháp đã gọi đến sự trao đổi của đối thủ này ở thung lũng Sông Đen phía tây Hà Nội là "Hành lang Hòa Bình." Chính phủ Pháp k...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 22808
+  Context: ..."Hành lang Hòa Bình." Chính phủ Pháp kết luận rằng việc đứt đoạn đường cung cấp này là rất quan trọng. Nếu PAVN dám phản công lực lượng Pháp ở đó, thì càng tốt. Và...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 25012
+  Context: ...heo. Salan có thể đã ngăn chặn những kẻ tấn công của ông ấy trong cuộc xung đột này, nhưng ông ấy chưa hủy diệt PAVN. Thứ hai, bằng cách trả lại Hòa Bình cho đối t...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 25516
+  Context: ...ển khai các nhóm đặc nhiệm di động ở đồng bằng phía Bắc. Mối quan hệ tương sinh này giữa các miền núi và các đồng bằng không đảm bảo chiến thắng quân sự, nhưng nó...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 25975
+  Context: ...ãnh đạo DRVN và các cố vấn Trung Quốc của họ rút ra ít nhất bốn bài học từ việc này: Thứ nhất, họ nhận ra rằng người Pháp sẽ không từ bỏ Đồng bằng sông Hồng, việc...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 27130
+  Context: ...hiến trường máu me, nó cũng là một cuộc đấu tranh vì thức ăn.[8] Cuộc đấu tranh này xảy ra gần như khắp mọi nơi dọc theo các cạnh của hình dạng lưỡi lê của DRVN. Ở...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 27440
+  Context: ...thức ăn – trên hết, gạo – họ cần để tiếp tục nỗ lực chiến tranh của họ.[8] Mục này dựa phần lớn trên tác phẩm The Road to Dien Bien Phu của tôi, các chương 7 và 9...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 28607
+  Context: ...cảnh báo người đọc của ông ấy rằng một tướng thứ ba đang đi trên đất. Quân viên này không có quốc tịch. Ông ấy không cần quân đội hay luật nghĩa vụ quân sự để chiế...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 29281
+  Context: ...t đầu từ đầu năm 1951, de Lattre và Salan đã hệ thống hóa cuộc tấn công kinh tế này và kết nối nó với các nỗ lực an bình của họ trong các ruộng lúa Bắc Kỳ. Mục tiê...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 30312
+  Context: ...t phần của cuộc đấu tranh giữa người Pháp và người Việt Nam. Không ai biết điều này tốt hơn Salan. Ông ấy đã đi theo Hồ Chí Minh đến Pháp trong mùa hè năm 1946 khi...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 32096
+  Context: ...inh tế thường xốc xèche và không nhất quán. Một ngoại lệ quan trọng đến quy tắc này xảy ra vào cuối những năm 1940 khi Quân đội Pháp hiệu quả đã chặn khả năng di c...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 32827
+  Context: ...hức tạp cho miền Trung và miền Bắc Việt Nam. Áp lực cho hành động trong khu vực này tăng lên khi cộng sản tấn công đồng bằng trong nửa đầu của năm 1951. Người Pháp...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 33745
+  Context: ...tế được kiểm soát nghiêm ngặt, hoặc đơn giản là bị chặn. Các biện pháp kinh tế này đi tay trong tay với các bước quân sự mới, như việc củng cố và xây dựng các trạ...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 34789
+  Context: ...àm vũ khí và bom (phụ kiện máy, xăng dầu, hóa chất). Sóng đầu của các kiểm soát này áp dụng cho toàn bộ Đông Dương, bao gồm các vùng bị chặn ở miền Nam. Là trọng t...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 35971
+  Context: ...nh các phương pháp khốc liệt có thể thúc đẩy dân làng vào tay đối thủ (dầu điều này không phải lúc nào cũng được tuân thủ bởi lực lượng Pháp, như lời chứng từ ngườ...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 38221
+  Context: ...ăm dường như thiếu hụt đối với người Pháp. Một số điều phân biệt giai đoạn cuối này từ những giai đoạn trước. Thứ nhất, đám đông xung quanh Salan kết luận rằng sự...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 38467
+  Context: ...ục nhập khẩu phần lớn những gì họ cần từ các vùng thuộc địa, gạo trên hết. Điều này, theo luân tự, đã cho phép người Việt Nam nuôi các sư PAVN của họ dẫu cộng sản...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 38623
+  Context: ...ng sản Trung Quốc không cung cấp viện trợ thức ăn. Thứ hai, để khắc phục vấn đề này, nhóm Salan kết luận rằng họ phải làm mọi thứ trong quyền lực của họ để hệ thốn...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 38910
+  Context: ...n, và lực lượng đặc biệt sẽ giúp quân đội và đồng minh Việt Nam của họ làm điều này. Thứ ba, sau khi không giữ được Hòa Bình vào đầu năm 1952, Salan đã nỗ lực mạnh...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 39373
+  Context: ...i với người Việt Nam. Điều mới trong giai đoạn thứ ba của cuộc tấn công kinh tế này là động viên của hải quân và đặc biệt là Không quân Pháp. Salan cũng nhận được...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 39811
+  Context: ...ổ vào các vùng biên giới, được hỗ trợ bởi Hải quân và Không quân Pháp. Vùng đệm này trải ra từ biên giới Pháp-Việt Nam khoảng 6 dặm (10 kilômét) hoặc hơn trước khi...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 39952
+  Context: ...ét) hoặc hơn trước khi chạm vào lãnh thổ DRVN. Không có gì được phép đi qua dải này – không gạo, muối, thuốc men, giấy, hoặc hóa chất. Với Salan, "không" cũng có n...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 40077
+  Context: ...hóa chất. Với Salan, "không" cũng có nghĩa là không có con người sống trong dải này. Để đạt mục tiêu này, tổng tư lệnh đã bức thải hai mươi nghìn người Việt Nam từ...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 40098
+  Context: ..."không" cũng có nghĩa là không có con người sống trong dải này. Để đạt mục tiêu này, tổng tư lệnh đã bức thải hai mươi nghìn người Việt Nam từ phía bắc và phía tây...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 40277
+  Context: ...và tám mươi ngàn người từ phía tây nam. Theo Salan, ai bị bắt trong vùng vô chủ này có thể bị giết như một người được cho là hậu vệ của đối thủ – một chỉ thị đã dự...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 40390
+  Context: ...được cho là hậu vệ của đối thủ – một chỉ thị đã dự báo các "vùng bắn tự do" sau này được sử dụng bởi người Pháp ở Algeria và bởi lực lượng Mỹ và Việt Nam Cộng Hòa...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 40820
+  Context: ...rất lớn nguồn cung thực phẩm trong lúa của họ. Do đó, cần tiếp tục trải nghiệm này và làm nó trở nên càng mạnh mẽ bằng cách sửa các vấn đề nhỏ có thể đã được phát...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 42008
+  Context: ...hai vụ. Bắt đầu từ năm 1952, Không quân Pháp bắt đầu bom các mục tiêu tưới tiêu này. Khích lệ bởi kết quả ban đầu, cuộc chiến đã được mở rộng để tấn công các kênh,...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 42526
+  Context: ....
+
+--- [V1C10-P028] (trang 235) ---
+Danh sách mục tiêu trong cuộc chiến kinh tế này không chỉ dừng lại ở các hệ thống tưới tiêu. Năm 1952, Không quân Pháp được cho...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 44921
+  Context: ...p đã đi và dân làng quay lại hoạt động bình thường của họ, tất cả những con vật này trở nên sôi động lại và phát ra những tiếng ồn và âm thanh thông thường của chú...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 45443
+  Context: ...ở các ruộng lúa như chưa từng có trong cuộc sống ngắn ngủi của họ. Sự gia tăng này của hoạt động thể chất trên toàn bộ miền Bắc Việt Nam có nghĩa là sự đốt cháy l...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 46184
+  Context: ...trăm nghìn" trâu bò. Chỉ trong giai đoạn dẫn đến trận chiến Điện Biên Phủ, điều này bao gồm việc giết 3.594 con trâu. Một báo cáo hậu sự của Pháp xác nhận rằng tro...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 46488
+  Context: ...m như một vũ khí kinh tế tiết lộ tầm quan trọng mà người Pháp đặt lên khía cạnh này của chiến tranh. Đến tháng Tư năm 1953, quân đội Pháp đã mở rộng cuộc tấn công...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 46991
+  Context: ...Việt Nam, gửi những cơn đau đói vào bụng hàng trăm nghìn người. Trong quá trình này, người Pháp đã loại bỏ sự phân biệt truyền thống giữa chiến binh và dân thường...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 47460
+  Context: ...1950, đã đưa ra một đánh giá kinh hoàng về những gì hình thức chiến tranh tổng này là và nên giữ lại, theo ý kiến của ông, trong một chiến tranh thuộc địa:
+
+--- [...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 48530
+  Context: ...đột Đông Dương là một cuộc chiến thảm khốc của quá trình thoát thuộc địa. Điều này đặc biệt đúng ở hai phần ba phía trên của DRVN, nơi hàng trăm nghìn người Việt...
+
+[CRITICAL] VNCH-12: "này" -> "nầy"
+  Category: north_south
+  Position: 49656
+  Context: ...7–28, 446–62.
+[7] Xem Gras, Histoire de la guerre d'Indochine, 429–62.
+[8] Phần này dựa lớn phần trên tác phẩm The Road to Dien Bien Phu của tôi, các chương 7 và 9...
+
+[MAJOR] VNCH-16: "hơn nữa" -> "vả/lại"
+  Category: north_south
+  Position: 29824
+  Context: ...t cuộc xung đột đã tàn khốc, Chiến tranh Đông Dương của Pháp sắp trở nên tồi tệ hơn nữa.[9] Về đói và đói kém trong Chiến tranh Đông Dương của Pháp, xem Christian Lent...
+
+[MAJOR] VNCH-25: "Indochine" -> "Đông Dương (Indochine)"
+  Category: colonial
+  Position: 39557
+  Context: ...ách hệ thống cơ sở hạ tầng nông nghiệp của DRVN.[13] Lucien Bodard, La guerre d'Indochine (Paris, 1997), tr. 483.[14] Goscha, The Road to Dien Bien Phu, tr. 305.
+
+--- [V...
+
+[MAJOR] VNCH-25: "Indochine" -> "Đông Dương (Indochine)"
+  Category: colonial
+  Position: 49563
+  Context: ...e de la guerre d'Indochine (Paris, 1979).
+[6] Xem Gras, Histoire de la guerre d'Indochine, 417–28, 446–62.
+[7] Xem Gras, Histoire de la guerre d'Indochine, 429–62.
+[8] P...
+
+[MAJOR] VNCH-25: "Indochine" -> "Đông Dương (Indochine)"
+  Category: colonial
+  Position: 49628
+  Context: ...de la guerre d'Indochine, 417–28, 446–62.
+[7] Xem Gras, Histoire de la guerre d'Indochine, 429–62.
+[8] Phần này dựa lớn phần trên tác phẩm The Road to Dien Bien Phu của...
+
+[MAJOR] VNCH-25: "Indochine" -> "Đông Dương (Indochine)"
+  Category: colonial
+  Position: 50347
+  Context: ...).
+[12] Goscha, The Road to Dien Bien Phu, 303.
+[13] Lucien Bodard, La guerre d'Indochine (Paris, 1997), 483.
+[14] Goscha, The Road to Dien Bien Phu, 305.
+[15] Goscha, T...
+
+[MAJOR] VNCH-26: "Indochina" -> "Đông Dương (Indochina)"
+  Category: colonial
+  Position: 20
+  Context: ...V1-C10 · The French Indochina War in Northern Vietnam · Christopher Goscha
+
+--- [V1C10-P001] (trang 218) ---...
+
+[MINOR] VNCH-27: "một năm" -> "một [classifier] + noun"
+  Category: grammar
+  Position: 2697
+  Context: ...mới đến miền trên Việt Nam
+
+Vào ngày mười chín tháng Mười hai năm 1946, sau hơn một năm nỗ lực thương lượng hoà bình thất bại để hoàn tất quá trình thoát thuộc địa, nh...
+
+[MINOR] VNCH-27: "Một năm" -> "một [classifier] + noun"
+  Category: grammar
+  Position: 16285
+  Context: ...tự, ông ấy không lãng phí thời gian trong việc đưa ra hành động. Vào đầu tháng Một năm 1951, ông ấy ra lệnh các liên đoàn của PAVN từ sư 308 và 312 tấn công trực diện...
+
+[MINOR] VNCH-27: "Một năm" -> "một [classifier] + noun"
+  Category: grammar
+  Position: 16553
+  Context: ...mình. Khi quân đội PAVN tấn công trực diện vào vị trí của ông ấy vào giữa tháng Một năm 1951, de Lattre đã đáp bằng pháo và napalm.
+
+--- [V1C10-P011] (trang 225) ---
+V...
+
+[MINOR] VNCH-27: "một năm" -> "một [classifier] + noun"
+  Category: grammar
+  Position: 22909
+  Context: .... Nếu PAVN dám phản công lực lượng Pháp ở đó, thì càng tốt. Vào giữa tháng Mười một năm 1951, người Pháp đã chiếm Hòa Bình và đảm bảo đường nối nó với thủ đô thuộc địa...
+
+[MINOR] VNCH-27: "Một năm" -> "một [classifier] + noun"
+  Category: grammar
+  Position: 24487
+  Context: ...t nối ở Đồng bằng Bắc Kỳ. Sau khi nhận nhiệm vụ sau khi de Lattre mất vào tháng Một năm 1952, Salan nhận ra rằng nếu ông ấy tiếp tục giữ Hòa Bình, nó sẽ nguy hiểm đến...
+
+[MINOR] VNCH-27: "một năm" -> "một [classifier] + noun"
+  Category: grammar
+  Position: 30533
+  Context: ...về thương mại, tài chánh, và chính sách tiền tệ. Salan cũng ở đó vào tháng Mười một năm 1946 khi các khác biệt về chủ quyền dẫn đến cuộc xung đột bạo lực ở Cảng Hải Ph...
+
+[MINOR] VNCH-27: "một người" -> "một [classifier] + noun"
+  Category: grammar
+  Position: 40300
+  Context: ...từ phía tây nam. Theo Salan, ai bị bắt trong vùng vô chủ này có thể bị giết như một người được cho là hậu vệ của đối thủ – một chỉ thị đã dự báo các "vùng bắn tự do" sau...
+
+[MINOR] VNCH-27: "Một người" -> "một [classifier] + noun"
+  Category: grammar
+  Position: 47583
+  Context: ...trong một chiến tranh thuộc địa:
+
+--- [V1C10-P032] (trang 237) — trích dẫn ---
+Một người phải để người đói chết (Il faut faire crever les gens de faim). Tôi tin rằng nế...
+
+[MINOR] VNCH-28: "sau này" -> "nầy"
+  Category: grammar
+  Position: 40386
+  Context: ...ười được cho là hậu vệ của đối thủ – một chỉ thị đã dự báo các "vùng bắn tự do" sau này được sử dụng bởi người Pháp ở Algeria và bởi lực lượng Mỹ và Việt Nam Cộng Hòa...
+
+[MINOR] VNCH-29: "đang diễn" -> "đang... xong/tiến hành"
+  Category: grammar
+  Position: 4184
+  Context: ...đài đã cố hết sức để giữ thủ đô DRVN tại Thái Nguyên được thông báo về những gì đang diễn ra ở các vùng xa xôi. Dẫu các người trung thành DRVN cũng kiểm soát các đoạn lã...
+
+[MINOR] VNCH-29: "đang làm" -> "đang... xong/tiến hành"
+  Category: grammar
+  Position: 7716
+  Context: ...i Quân đội Nhân dân của chính họ vào Đông Dương phía Bắc vào chính thời điểm họ đang làm điều đó ở Hàn Quốc. Cuối năm, người Pháp hiệu quả đã nhường các tỉnh chiến lược...
+
+[MINOR] VNCH-29: "đang sống" -> "đang... xong/tiến hành"
+  Category: grammar
+  Position: 8208
+  Context: ...ực, nhưng không nhiều hơn. Mục tiêu chính của nó là giữ càng nhiều dân tộc Thái đang sống ở đó dưới quyền thuộc địa dưới hình thức một liên bang.
+
+--- [V1C10-P007] (tran...
+
+[MINOR] VNCH-29: "đang mở" -> "đang... xong/tiến hành"
+  Category: grammar
+  Position: 10058
+  Context: ...Hòa Bình cho phép Hồ Chí Minh và những người đi theo nối vùng lãnh thổ phía Bắc đang mở rộng này, vùng Việt Bắc, đến Vùng IV của miền Trung phía trên, hình thành hình...
+
+[MINOR] VNCH-29: "đang diễn" -> "đang... xong/tiến hành"
+  Category: grammar
+  Position: 15839
+  Context: ...từng có thể đánh chiến tranh họ đã làm sau năm 1950. Một sự biến đổi song song đang diễn ra ở phía DRVN. Khích lệ bởi chiến thắng của họ ở Cao Bằng và dồi dào với hỗ tr...
+
+[MINOR] VNCH-29: "đang đợi" -> "đang... xong/tiến hành"
+  Category: grammar
+  Position: 16452
+  Context: ...vào mặt phía bắc của đồng bằng thuộc địa tại khu vực Vĩnh Yên. Nhưng de Lattre đang đợi đối thủ của mình. Khi quân đội PAVN tấn công trực diện vào vị trí của ông ấy và...
+
+[MINOR] VNCH-29: "đang nhảy" -> "đang... xong/tiến hành"
+  Category: grammar
+  Position: 17987
+  Context: ...trên đường đi của nó một khu rừng nhỏ chỉ mười phút trước đó. Mọi nơi ngọn lửa đang nhảy. Sau đó chúng (người Pháp) xả pháo binh, cối xay, và súng máy, tạo nên một mộ l...
+
+[MINOR] VNCH-29: "đang mở" -> "đang... xong/tiến hành"
+  Category: grammar
+  Position: 20288
+  Context: ...đồng bằng thấp sản xuất gạo mà cộng sản Việt Nam cần để nuôi quân đội chính quy đang mở rộng nhanh chóng, dịch vụ nhân sự, và dịch vụ hành chính lưu thông trong hành l...
+
+[MINOR] VNCH-29: "đang kín" -> "đang... xong/tiến hành"
+  Category: grammar
+  Position: 23240
+  Context: ...o điểm đó. Giáp đã gửi các sư tinh hoa của ông ấy chống lại lực lượng thuộc địa đang kín trong Hòa Bình trong khi các đại đội 316 và 320 tiếp tục mở rộng an bình trong...
+
+[MINOR] VNCH-29: "đang đến" -> "đang... xong/tiến hành"
+  Category: grammar
+  Position: 24352
+  Context: ...ã đẩy lùi mọi cuộc tấn công của PAVN. Nhưng thành công của Salan ở các miền núi đang đến với giá là mất kiểm soát đất đai ở mặt trận kết nối ở Đồng bằng Bắc Kỳ. Sau khi...
+
+[MINOR] VNCH-29: "đang đi" -> "đang... xong/tiến hành"
+  Category: grammar
+  Position: 28579
+  Context: ...Cộng sản, Trường Chinh, đã cảnh báo người đọc của ông ấy rằng một tướng thứ ba đang đi trên đất. Quân viên này không có quốc tịch. Ông ấy không cần quân đội hay luật...
+
+[MINOR] VNCH-29: "đang ở" -> "đang... xong/tiến hành"
+  Category: grammar
+  Position: 28806
+  Context: ...ướng Gạo." Trong khi không ai có thể thấy ông ấy thực sự, mọi người biết ông ấy đang ở đó. Và mọi người sợ vũ khí mà ông ấy mang bên cạnh: đói khát.[9]
+
+--- [V1C10-P0...
+
+[MINOR] VNCH-29: "đang mở" -> "đang... xong/tiến hành"
+  Category: grammar
+  Position: 29056
+  Context: ...họ ngăn cản DRVN từ việc nuôi các binh sĩ và công chức của nhà nước chiến tranh đang mở rộng của nó. Các sĩ quan Pháp gọi đến dự án mới nổi của họ xen kẽ là "chiến tra...
+
+[MINOR] VNCH-29: "đang chiến" -> "đang... xong/tiến hành"
+  Category: grammar
+  Position: 32261
+  Context: ...yển gạo từ các kho lúa lớn ở phía tây của mũi phía nam Việt Nam đến các binh sĩ đang chiến đấu ở vùng phía Đông ở miền Nam.[11]
+
+--- [V1C10-P022] (trang 231-232) ---
+Cuộc...
+
+[MINOR] VNCH-29: "đang tăng" -> "đang... xong/tiến hành"
+  Category: grammar
+  Position: 41892
+  Context: ...quan chức thuộc địa đã xây dựng các công trình thủy lợi phức tạp để nuôi dân số đang tăng ở miền Bắc thông qua gieo hai vụ. Bắt đầu từ năm 1952, Không quân Pháp bắt đầu...
+
+[MINOR] VNCH-29: "đang chuyển" -> "đang... xong/tiến hành"
+  Category: grammar
+  Position: 45724
+  Context: ...0-P031] (trang 236-237) ---
+Từ giữa năm 1952, cuộc chiến kinh tế của người Pháp đang chuyển vào số cao. Theo một nghiên cứu Việt Nam, Không quân Pháp đã bom mười hai hệ th...
+
+[MINOR] VNCH-30: "Nó không phải là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 178
+  Context: ...g 218) ---
+Sự phức tạp của Chiến tranh Đông Dương của Pháp thật đáng kinh ngạc. Nó không phải là một cuộc xung đột duy nhất, mà là một tập hợp các cuộc – một cuộc chiến tái chi...
+
+[MINOR] VNCH-30: "nó ám chỉ. Cùng lúc đó, bằng cách tập trung vào quyền kiểm soát các đồng bằng phía Bắc và phía Nam, người Pháp để các đối thủ của họ quản trị các vùng lãnh thổ rộng lớn ở miền Trung hầu như không bị can thiệp trực tiếp từ chủ nghĩa thuộc địa. Điều này bao gồm nhiều tỉnh giàu gạo nằm ở phía nam Hà Nội, mà DRVN chỉ định là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 3622
+  Context: ...Việt Bắc, dẫu vùng này không bao quát toàn bộ "miền Bắc" như tên tiếng Việt của nó ám chỉ. Cùng lúc đó, bằng cách tập trung vào quyền kiểm soát các đồng bằng phía Bắc và phía Nam, người Pháp để các đố...
+
+[MINOR] VNCH-30: "Nó gia nhập các tiểu quốc tương tự ở Là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 4619
+  Context: ...của họ lập nên một Việt Nam thứ hai được gọi là Bang Liên kết Việt Nam (ASVN). Nó gia nhập các tiểu quốc tương tự ở Lào và Campuchia như một phần của các Tiểu quốc Liên kết Đông Dương, tất cả đều đư...
+
+[MINOR] VNCH-30: "Nó cũng đã biến đổi nhà nước mà tổng thống DRVN lãnh đạo. Bắt đầu từ đầu năm 1950, cộng sản Trung Quốc, theo sau bởi Liên Xô và phần còn lại của khối cộng sản, chính thức công nhận DRVN. Họ đã cung cấp hỗ trợ quân sự hiện đại và đào tạo mà Hồ cần để tạo thành PAVN, một quân đội chuyên nghiệp gồm cuối cùng bảy sư. Như người Trung Quốc, người Việt Nam không từ bỏ chiến tranh du kích, nhưng họ hiện dùng các sư và vũ khí hiện đại để đem cuộc chiến đến với người Pháp ở miền Bắc và cuối cùng ở miền Trung. Chiến thắng của người Việt Nam trên người Pháp ở Cao Bằng vào tháng Mười năm 1950 đã khởi đầu sự thay đổi trong hình cấu hình dạng đảo của DRVN ở hai phần ba phía trên và bắt đầu tạo ra hình thức lãnh thổ chặt chẽ hơn cho nhà nước mà Hồ Chí Minh quyết tâm thành lập. Không có vũ khí hiện đại và sự giúp đỡ của Trung Quốc trong việc tạo thành các sư đầu tiên của PAVN, tổng tư lệnh, Võ Nguyên Giáp, sẽ chưa từng có thể bắt buộc đối thủ rút tay ở Cao Bằng. Người Việt Nam cũng có người Pháp phải cảm ơn. Thay vì phản công để giữ vùng biên giới, đối thủ của Giáp, Tướng Marcel Carpentier, đã mất can đảm vào cuối năm 1950 và rút phần lớn quân đội của ông ấy về phía đồng bằng. Ông ấy và các lãnh đạo Pháp khác lo lắng rằng người Trung Quốc có thể gửi Quân đội Nhân dân của chính họ vào Đông Dương phía Bắc vào chính thời điểm họ đang là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 6385
+  Context: ...ng ủng hộ Hồ Chí Minh đã thay đổi bản chất của Chiến tranh Đông Dương của Pháp. Nó cũng đã biến đổi nhà nước mà tổng thống DRVN lãnh đạo. Bắt đầu từ đầu năm 1950, cộng sản Trung Quốc, theo sau bởi Liê...
+
+[MINOR] VNCH-30: "nó là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 8174
+  Context: ...ác đơn vị PAVN di chuyển qua khu vực, nhưng không nhiều hơn. Mục tiêu chính của nó là giữ càng nhiều dân tộc Thái đang sống ở đó dưới quyền thuộc địa dưới hình thức...
+
+[MINOR] VNCH-30: "nó, quân đội và sĩ quan của nó, dịch vụ an ninh, và dân số nông dân cùng các lãnh đạo là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 8853
+  Context: ...ể đảm bảo sự thượng quyền của đảng đối với nhà nước DRVN và cơ quan quản lý của nó, quân đội và sĩ quan của nó, dịch vụ an ninh, và dân số nông dân cùng các lãnh đạo làng của họ. Các biện pháp cụ thể ...
+
+[MINOR] VNCH-30: "nó phải sẵn sàng bảo vệ các đồng bằng phía Bắc nếu Giáp quyết định tấn công theo hướng đó. Đồng minh Mỹ của Pháp đồng ý. Dẫu họ tập trung vào việc chống cộng sản ở Hàn Quốc, họ dựa vào người Pháp để giúp họ giữ hàng rào phòng thủ ở Đồng bằng sông Hồng – Bắc Kỳ như họ và người Pháp gọi nó – và đẩy nhanh sự hỗ trợ của họ đến người Pháp. Là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 11679
+  Context: ...ều nào. Chính phủ Pháp nhận ra khi Cao Bằng sụp đổ vào tháng Mười năm 1950 rằng nó phải sẵn sàng bảo vệ các đồng bằng phía Bắc nếu Giáp quyết định tấn công theo hướng đó. Đồng minh Mỹ của Pháp đồng ý....
+
+[MINOR] VNCH-30: "nó gây ra. Ông ấy tăng cường giám sát hải quân của vịnh Bắc Kỳ và bờ biển dài của Việt Nam. Ông ấy cải thiện các sân bay hiện có, xây dựng một vài sân bay mới, và mở rộng đường băng để nhận các máy bay ném bom của Mỹ. Dây thép gai mọc khắp các đồng bằng thấp phía Bắc. De Lattre hoan nghênh pháo binh, viên đạn, napalm, máy bay ném bom, xe tăng, xe tải, nhiên liệu, các tàu đổ bộ, bộ thu vô tuyến, và nhiên liệu của Mỹ. Người Mỹ cũng giúp người Pháp tài chánh và trang bị VNA. Không có sự hỗ trợ của Mỹ, de Lattre và những người thừa kế của ông ở Đông Dương sẽ chưa từng có thể đánh chiến tranh họ đã là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 15194
+  Context: ...các binh sĩ chính quy từ các phần khác của Đông Dương bất kể bất kỳ phàn nàn gì nó gây ra. Ông ấy tăng cường giám sát hải quân của vịnh Bắc Kỳ và bờ biển dài của Việt Nam. Ông ấy cải thiện các sân bay...
+
+[MINOR] VNCH-30: "nó một khu rừng nhỏ chỉ mười phút trước đó. Mọi nơi ngọn lửa đang nhảy. Sau đó chúng (người Pháp) xả pháo binh, cối xay, và súng máy, tạo nên một mộ lửa từ những gì chỉ mười phút trước đó từng là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 17926
+  Context: ...ch nào bạn có thể ở lại dưới cơn mây lửa này đốt cháy mọi thứ trên đường đi của nó một khu rừng nhỏ chỉ mười phút trước đó. Mọi nơi ngọn lửa đang nhảy. Sau đó chúng (người Pháp) xả pháo binh, cối xay,...
+
+[MINOR] VNCH-30: "nó sẽ sống sót và giành thắng lợi. Nó cần gạo và binh tân trên hết. Không thể chiếm đồng bằng phía Bắc trong một cú đả o, lãnh đạo DRVN đã thay đổi chiến thuật của họ. Họ quyết định quay lại chậm rãi – từng bước, từng ngày, từng là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 20762
+  Context: ...c miền núi, cần tiếp cận liên tục vào các vùng của đối thủ ở đồng bằng thấp nếu nó sẽ sống sót và giành thắng lợi. Nó cần gạo và binh tân trên hết. Không thể chiếm đồng bằng phía Bắc trong một cú đả o...
+
+[MINOR] VNCH-30: "nó với thủ đô thuộc địa. Sự đáp đả của người Việt Nam là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 22973
+  Context: ...giữa tháng Mười một năm 1951, người Pháp đã chiếm Hòa Bình và đảm bảo đường nối nó với thủ đô thuộc địa. Sự đáp đả của người Việt Nam là ngay lập tức. Sự toàn vẹn lãnh thổ của nhà nước chiến tranh do ...
+
+[MINOR] VNCH-30: "nó là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 25596
+  Context: ...này giữa các miền núi và các đồng bằng không đảm bảo chiến thắng quân sự, nhưng nó làm loãng khả năng của người Pháp để đòi và làm chậm các người dưới quyền Salan. H...
+
+[MINOR] VNCH-30: "nó là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 25724
+  Context: ...àm chậm các người dưới quyền Salan. Hòa Bình là một chiến thắng của Pháp, nhưng nó là một chiến thắng Pyrrhic. Nhưng bất kể cái xoay của máy tuyên truyền Hồ Chí Minh...
+
+[MINOR] VNCH-30: "nó, chỉ huy Pháp đã đánh bại Giáp trong trận chiến trực diện, lần nữa. Các lãnh đạo DRVN và các cố vấn Trung Quốc của họ rút ra ít nhất bốn bài học từ việc này: Thứ nhất, họ nhận ra rằng người Pháp sẽ không từ bỏ Đồng bằng sông Hồng, việc bảo vệ nó vẫn là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 25819
+  Context: ...thắng Pyrrhic. Nhưng bất kể cái xoay của máy tuyên truyền Hồ Chí Minh đặt trên nó, chỉ huy Pháp đã đánh bại Giáp trong trận chiến trực diện, lần nữa. Các lãnh đạo DRVN và các cố vấn Trung Quốc của họ ...
+
+[MINOR] VNCH-30: "nó cũng là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 27070
+  Context: ...g của Pháp ở miền Bắc Việt Nam có nhiều cuộc xung đột trên chiến trường máu me, nó cũng là một cuộc đấu tranh vì thức ăn.[8] Cuộc đấu tranh này xảy ra gần như khắp mọi nơ...
+
+[MINOR] VNCH-30: "nó. Các sĩ quan Pháp gọi đến dự án mới nổi của họ xen kẽ là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 29073
+  Context: ...từ việc nuôi các binh sĩ và công chức của nhà nước chiến tranh đang mở rộng của nó. Các sĩ quan Pháp gọi đến dự án mới nổi của họ xen kẽ là "chiến tranh kinh tế" hoặc "cuộc chiến gạo" – la bataille du...
+
+[MINOR] VNCH-30: "nó với các nỗ lực an bình của họ trong các ruộng lúa Bắc Kỳ. Mục tiêu không còn chỉ đơn giản là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 29296
+  Context: ...m 1951, de Lattre và Salan đã hệ thống hóa cuộc tấn công kinh tế này và kết nối nó với các nỗ lực an bình của họ trong các ruộng lúa Bắc Kỳ. Mục tiêu không còn chỉ đơn giản là xây dựng một chính quyền...
+
+[MINOR] VNCH-30: "nó. Kích thích bởi thành công của cuộc chặn nam, các sĩ quan quân sự Pháp, quản lý viên thuộc địa, và các đối tác Việt Nam của họ đã thiết kế một chương trình từ chối thức ăn phức tạp cho miền Trung và miền Bắc Việt Nam. Áp lực cho hành động trong khu vực này tăng lên khi cộng sản tấn công đồng bằng trong nửa đầu của năm 1951. Người Pháp có thể đã đánh bại cuộc tấn công của Giáp, nhưng họ nhận ra rằng ưu tiên hàng đầu của DRVN trong đồng bằng không phải là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 32571
+  Context: ...khai một quân đội chuyên nghiệp và xây dựng một nhà nước cách mạng để vận hành nó. Kích thích bởi thành công của cuộc chặn nam, các sĩ quan quân sự Pháp, quản lý viên thuộc địa, và các đối tác Việt Na...
+
+[MINOR] VNCH-30: "nó. Cuộc tấn công kinh tế của người Pháp phát triển trong ba giai đoạn chồng chéo giữa năm 1950 và 1954. Sóng đầu bắt đầu vào đầu năm 1950 khi các cơ quan quân sự bắt đầu chia vùng lãnh thổ ASVN thành ba khu vực. Vùng A ám chỉ các không gian nằm sâu bên trong các vùng lãnh thổ cốt lõi của Đông Dương thuộc Pháp, nơi hàng hóa và dịch vụ có thể lưu thông tự do. Các vùng ít an toàn hơn được chỉ định là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 33112
+  Context: ...chiếm Hà Nội, mà là bảo vệ các ruộng lúa gần đó có thể nuôi các sư đói khát của nó. Cuộc tấn công kinh tế của người Pháp phát triển trong ba giai đoạn chồng chéo giữa năm 1950 và 1954. Sóng đầu bắt đầ...
+
+[MINOR] VNCH-30: "nó là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 34009
+  Context: ...gạo của miền Trung Việt Nam viết cho đồng cấp Việt Nam của mình vào năm 1952, "nó là sự kết hợp hoàn hảo của hành động hành chính và hành động quân sự dẫn đến thành...
+
+[MINOR] VNCH-30: "nó là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 34460
+  Context: ...gạo của miền Trung Việt Nam viết cho đồng cấp Việt Nam của mình vào năm 1952, "nó là sự kết hợp hoàn hảo của hành động hành chính và hành động quân sự dẫn đến thành...
+
+[MINOR] VNCH-30: "nó ở các nơi an toàn sao cho không còn gì lại cho đối thủ; và (5) tránh các phương pháp khốc liệt có thể thúc đẩy dân là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 35822
+  Context: ...a sẽ mua gạo thặng dư với giá ưu tiên bằng piaster thuộc địa và sau đó bảo quản nó ở các nơi an toàn sao cho không còn gì lại cho đối thủ; và (5) tránh các phương pháp khốc liệt có thể thúc đẩy dân là...
+
+[MINOR] VNCH-30: "nó đã trở nên tệ hơn nhiều. Bạo lực của các cuộc chiến trực diện trong nửa đầu của năm 1951 đã tràn sang hàng chục là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 36422
+  Context: ...chưa từng dễ dàng ở đồng bằng phía Bắc hoặc miền Trung Việt Nam. Nhưng bây giờ nó đã trở nên tệ hơn nhiều. Bạo lực của các cuộc chiến trực diện trong nửa đầu của năm 1951 đã tràn sang hàng chục làng s...
+
+[MINOR] VNCH-30: "nó. Cuối cùng, Salan đã nhận được sự cho phép tấn công cơ sở hạ tầng kinh tế của DRVN trong một nỗ lực mạnh mẽ hơn để đưa đối thủ xuống giá trị. Vào tháng Sáu năm 1952, ông ấy đã tuyên bố một cuộc chiến kinh tế hệ thống đối với người Việt Nam. Điều mới trong giai đoạn thứ ba của cuộc tấn công kinh tế này là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 39071
+  Context: ...nh mẽ để đẩy một cọc giữa đồng bằng giàu gạo và hành lang của đối thủ ôm chu vi nó. Cuối cùng, Salan đã nhận được sự cho phép tấn công cơ sở hạ tầng kinh tế của DRVN trong một nỗ lực mạnh mẽ hơn để đư...
+
+[MINOR] VNCH-30: "nó thành một "vùng vô chủ." Binh sĩ và quản lý viên đổ vào các vùng biên giới, được hỗ trợ bởi Hải quân và Không quân Pháp. Vùng đệm này trải ra từ biên giới Pháp-Việt Nam khoảng 6 dặm (10 kilômét) hoặc hơn trước khi chạm vào lãnh thổ DRVN. Không có gì được phép đi qua dải này – không gạo, muối, thuốc men, giấy, hoặc hóa chất. Với Salan, "không" cũng có nghĩa là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 39678
+  Context: ...cha, The Road to Dien Bien Phu, tr. 305.
+
+--- [V1C10-P026] (trang 234) ---
+biến nó thành một "vùng vô chủ." Binh sĩ và quản lý viên đổ vào các vùng biên giới, được hỗ trợ bởi Hải quân và Không quân Ph...
+
+[MINOR] VNCH-30: "Nó đã trở thành một vũ khí hiệu quả trong việc là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 40670
+  Context: ...o tháng Sáu của năm nay đã đánh một đòn thật vào chiến tranh kinh tế Việt Minh. Nó đã trở thành một vũ khí hiệu quả trong việc làm khô cạn trong tỷ lệ rất lớn nguồn cung thực phẩm trong lúa của họ. Do...
+
+[MINOR] VNCH-30: "y tá. Trong khoảng 1,7 triệu người là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 45248
+  Context: ...ủa họ rời đi để chiến đấu. Họ cũng đóng vai người vác hàng, công nhân đường, và y tá. Trong khoảng 1,7 triệu người làm công nhân vác hàng trong giai đoạn 1950–4, nửa số là phụ nữ. Trẻ em làm việc ở...
+
+[MINOR] VNCH-30: "nó, xem Hew Strachan, "Essay and Reflection: On Total War and Modern War," The International History Review 22 (2) (Tháng Sáu 2000), 341–70, đặc biệt là" -> "người ấy/ông ấy/bà ấy"
+  Category: grammar
+  Position: 50687
+  Context: ...on, 2012), 79.
+[18] Về khái niệm chiến tranh tổng, các ứng dụng và lạm dụng của nó, xem Hew Strachan, "Essay and Reflection: On Total War and Modern War," The International History Review 22 (2) (Thán...
+

@@ -66,7 +66,9 @@ print(f"=== AUDIT {path.name} ===\n")
 
 # Classify paragraphs
 heads, quotes, bodies, others = [], [], [], []
-hinh_pat = re.compile(r"^\s*H\u00ecnh\s+\d+\.\d+")
+hinh_pat = re.compile(
+    r"^\s*(?:H\u00ecnh|B\u1ea3n \u0111\u1ed3|Bi\u1ec3u \u0111\u1ed3|S\u01a1 \u0111\u1ed3|B\u1ea3ng)\s+\d+\.\d+"
+)
 for i, pe in enumerate(para_elems):
     m = para_metrics(pe)
     if m["sz"] == 27 and m["bold"]:
@@ -103,6 +105,7 @@ for i, m in quotes:
     check(m["sz"] == 24, f"Q P{i} sz={m['sz']} (expect 24=12pt)")
 
 # --- Footnote checks ---
+fn_ids = []
 try:
     fn = z.read("word/footnotes.xml").decode("utf-8")
     fn_ids = sorted(int(i) for i in re.findall(r'w:footnote w:id="(\d+)"', fn) if int(i) > 0)
@@ -111,7 +114,9 @@ try:
     # footnote text size = 18 (9pt)
     check(fn.count('w:sz w:val="18"') >= len(fn_ids), "footnote text 9pt (sz=18)")
 except KeyError:
-    check(False, "footnotes.xml MISSING")
+    # No footnotes.xml: only a real failure if the body references footnotes.
+    check(xml.count("w:footnoteReference") == 0,
+          "footnotes.xml MISSING but body has no footnote refs (0-note chapter OK)")
 
 nref = xml.count("w:footnoteReference")
 print(f"Body footnote refs: {nref} | native footnotes: {len(fn_ids)}")

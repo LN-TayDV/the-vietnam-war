@@ -1,0 +1,68 @@
+
+=== V1-C03_Ho-Chi-Minh-va-Su-Noi-Len-cua-Dang-Cong-San-Viet-Nam.docx ===
+  P 0 | Normal          | sz=10.5 | b=None | i=None | al=CENTER (1) | THE CAMBRIDGE HISTORY OF THE VIETNAM WAR
+  P 1 | Normal          | sz=10.5 | b=None | i=True | al=CENTER (1) | TẬP I — ORIGINS · NGUỒN CỘI
+  P 2 | Normal          | sz=13.0 | b=True | i=None | al=CENTER (1) | CHƯƠNG 3
+  P 3 | Normal          | sz=19.0 | b=True | i=None | al=CENTER (1) | Hồ Chí Minh và Sự Nổi Dậy của Đảng Cộng sản Việt Nam
+  P 4 | Normal          | sz=12.0 | b=None | i=True | al=CENTER (1) | Hồ Chí Minh and the Rise of the Vietnamese Communist Party
+  P 5 | Normal          | sz=12.0 | b=None | i=True | al=CENTER (1) | Pierre Brocheux†
+  P 6 | Normal          | sz=None | b=None | i=None | al=JUSTIFY (3) | 
+  P 7 | Normal          | sz=9.0 | b=None | i=None | al=CENTER (1) | Source: 02_extracted_text/v1/ch03.txt · printed pages 66-83 · 52 body paragraphs
+  P 8 | Normal          | sz=12.0 | b=None | i=None | al=JUSTIFY (3) | Thách thức đầu tiên và lớn nhất mà bất kỳ nhà biên soạn tiểu sử về Hồ Chí Minh n
+  P 9 | Normal          | sz=12.0 | b=None | i=None | al=JUSTIFY (3) | Từ khi Hồ Chí Minh qua đời năm 1969, địa vị của ông ấy như một nhân vật sùng bái
+  P10 | Normal          | sz=12.0 | b=None | i=None | al=JUSTIFY (3) | Nhưng sự phong thánh ấy không phải là điều không thể tránh được. Dầu Hồ Chí Minh
+  P11 | Normal          | sz=13.5 | b=True | i=None | al=LEFT (0) | Chống Thực Dân, Xã Hội Chủ Nghĩa, và Sự Hình Thành của một Kẻ Cách Mạng Thực Dụn
+  P12 | Normal          | sz=12.0 | b=None | i=None | al=JUSTIFY (3) | Khi tương lai Hồ Chí Minh còn là một thiếu niên sống ở tỉnh quê mình Nghệ An, to
+  P13 | Normal          | sz=12.0 | b=None | i=None | al=JUSTIFY (3) | Sự trấn áp phong trào của Phan Bội Châu trùng hợp với nỗ lực mới của Pháp nhằm g
+  P14 | Normal          | sz=12.0 | b=None | i=None | al=JUSTIFY (3) | Dầu cả năm người đều là những kẻ chỉ trích ách cai trị thuộc địa, Nguyễn Ái Quốc
+
+=== V1-C06_The-Birth-of-the-Democratic-Republic-of-Vietnam.docx ===
+  P 0 | Normal          | sz=10.5 | b=None | i=None | al=CENTER (1) | THE CAMBRIDGE HISTORY OF THE VIETNAM WAR
+  P 1 | Normal          | sz=10.5 | b=None | i=True | al=CENTER (1) | TẬP I — ORIGINS · NGUỒN CỘI
+  P 2 | Normal          | sz=13.0 | b=True | i=None | al=CENTER (1) | CHƯƠNG 6
+  P 3 | Normal          | sz=21.0 | b=True | i=None | al=CENTER (1) | Sự Ra Đời của Cộng hòa Dân chủ Việt Nam
+  P 4 | Normal          | sz=12.0 | b=None | i=True | al=CENTER (1) | David G. Marr
+  P 5 | Normal          | sz=None | b=None | i=None | al=JUSTIFY (3) | 
+  P 6 | Normal          | sz=None | b=None | i=None | al=None  | 
+  P 7 | Normal          | sz=12.0 | b=None | i=False | al=JUSTIFY (3) | Người đàn ông có vẻ ngoài gầy gò đứng trước đám đông tụ tập tại Hà Nội ngày 2 th
+  P 8 | Normal          | sz=12.0 | b=None | i=False | al=JUSTIFY (3) | Việt Nam có quyền hưởng tự do và độc lập, và thực tế đã trở thành một nước tự do
+  P 9 | Normal          | sz=12.0 | b=None | i=False | al=JUSTIFY (3) | Dĩ nhiên, Hồ Chí Minh biết rằng tuyên bố độc lập là một chuyện, đạt được sự công
+  P10 | Normal          | sz=12.0 | b=None | i=False | al=JUSTIFY (3) | Tại thời điểm này chúng ta có thể tưởng tượng Hồ Chí Minh đang bình tĩnh suy ngẫ
+  P11 | Normal          | sz=12.0 | b=None | i=False | al=JUSTIFY (3) | Đến năm 1945, Hồ Chí Minh đã trải qua nhiều thập niên chiến tranh, cách mạng, và
+  P12 | Normal          | sz=13.5 | b=True | i=None | al=LEFT (0) | Xây dựng Nhà nước
+  P13 | Normal          | sz=12.0 | b=None | i=False | al=JUSTIFY (3) | Loại nhà nước mà Hồ Chí Minh và các nhà tinh hoa Việt Nam khác hy vọng xây dựng 
+  P14 | Normal          | sz=12.0 | b=None | i=False | al=JUSTIFY (3) | Các sắc lệnh và tuyên bố công khai ban đầu của VNDCCH tiết lộ một thiên hướng mạ
+
+=== V1-C09_The-French-Indochina-War-in-the-Central-Highlands.docx ===
+  P 0 | Normal          | sz=10.5 | b=None | i=None | al=CENTER (1) | THE CAMBRIDGE HISTORY OF THE VIETNAM WAR
+  P 1 | Normal          | sz=10.5 | b=None | i=True | al=CENTER (1) | TẬP I — ORIGINS · NGUỒN CỘI
+  P 2 | Normal          | sz=13.0 | b=True | i=None | al=CENTER (1) | CHƯƠNG 9
+  P 3 | Normal          | sz=21.0 | b=True | i=None | al=CENTER (1) | Chiến tranh Đông Dương của Pháp ở Cao nguyên Trung phần
+  P 4 | Normal          | sz=12.0 | b=None | i=True | al=CENTER (1) | Oscar Salemink
+  P 5 | Normal          | sz=None | b=None | i=None | al=JUSTIFY (3) | 
+  P 6 | Normal          | sz=None | b=None | i=None | al=None  | 
+  P 7 | Normal          | sz=13.5 | b=True | i=None | al=LEFT (0) | Dẫn nhập
+  P 8 | Normal          | sz=12.0 | b=None | i=False | al=JUSTIFY (3) | Chương nầy khảo sát Chiến tranh Đông Dương của Pháp ở Tây Nguyên. Thay vì chỉ tậ
+  P 9 | Normal          | sz=12.0 | b=None | i=False | al=JUSTIFY (3) | Hàng thập niên trước khi cuộc chiến bắt đầu, quan chức thuộc địa Pháp đã nhận ra
+  P10 | Normal          | sz=12.0 | b=None | i=False | al=JUSTIFY (3) | Tây Nguyên là một vùng núi ở miền trung-nam Việt Nam hiện nay, giáp với dãy Trườ
+  P11 | Normal          | sz=None | b=None | i=None | al=CENTER (1) | 
+  P12 | Normal          | sz=10.0 | b=None | i=True | al=CENTER (1) | Hình 9.1 Bảo Đại, vị vua của Annam, và các lãnh đạo thiểu số dân tộc ở Đông Dươn
+  P13 | Normal          | sz=12.0 | b=None | i=False | al=JUSTIFY (3) | Dẫu vùng nầy được coi là quan trọng về chiến lược, nó chưa được biết rõ. Các tên
+  P14 | Normal          | sz=13.5 | b=True | i=None | al=LEFT (0) | Di sản của việc chia để trị
+
+=== V1-C10_The-French-Indochina-War-Dong-Duong-in-Northern-Vietnam.docx ===
+  P 0 | Normal          | sz=10.5 | b=None | i=None | al=CENTER (1) | THE CAMBRIDGE HISTORY OF THE VIETNAM WAR
+  P 1 | Normal          | sz=10.5 | b=None | i=True | al=CENTER (1) | TẬP I — ORIGINS · NGUỒN CỘI
+  P 2 | Normal          | sz=13.0 | b=True | i=None | al=CENTER (1) | CHƯƠNG 10
+  P 3 | Normal          | sz=19.0 | b=True | i=None | al=CENTER (1) | Chiến tranh Đông Dương của Pháp ở Bắc Việt Nam
+  P 4 | Normal          | sz=None | b=None | i=True | al=CENTER (1) | Christopher Goscha
+  P 5 | Normal          | sz=None | b=None | i=None | al=JUSTIFY (3) | 
+  P 6 | Normal          | sz=None | b=None | i=None | al=None  | 
+  P 7 | Normal          | sz=None | b=None | i=None | al=JUSTIFY (3) | Sự phức tạp của Chiến tranh Đông Dương của Pháp thật đáng kinh ngạc. Nó không ph
+  P 8 | Normal          | sz=None | b=None | i=None | al=JUSTIFY (3) | Viet Nam trong thời gian xung đột cũng không phải là một nhà nước thống nhất. Và
+  P 9 | Normal          | sz=13.5 | b=True | i=None | al=None  | Chiến tranh Đông Dương của Pháp ở Bắc Việt Nam
+  P10 | Normal          | sz=13.5 | b=True | i=None | al=None  | Một loại chiến tranh mới đến miền trên Việt Nam
+  P11 | Normal          | sz=None | b=None | i=None | al=JUSTIFY (3) | Vào ngày mười chín tháng Mười hai năm 1946, sau hơn một năm nỗ lực thương lượng 
+  P12 | Normal          | sz=None | b=None | i=None | al=JUSTIFY (3) | Người Pháp vẫn kiểm soát Hà Nội, Huế, và Sài Gòn và, dù thay đổi, phần lớn đồng 
+  P13 | Normal          | sz=None | b=None | i=None | al=JUSTIFY (3) | Chiến thắng của cộng sản trong nội chiến Trung Quốc vào tháng Mười năm 1949 và q
+  P14 | Normal          | sz=None | b=None | i=None | al=JUSTIFY (3) | Phía đông bắc xa nhất, hải quân Pháp tuần tra vịnh Bắc Kỳ từ Cảng Hải Phòng. Cuộ

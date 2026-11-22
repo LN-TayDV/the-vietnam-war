@@ -60,7 +60,7 @@ INK = RGBColor(0x1A, 0x1A, 0x1A)
 MUTED = RGBColor(0x55, 0x55, 0x55)
 RULE = "BFBFBF"
 
-P_HDR = re.compile(r"^--- \[([A-Za-z0-9]+-(?:P\d+|IMG\d+|PIMG\d+))\] \(trang ([^)]+)\)(?: — (.*?))? ---$")
+P_HDR = re.compile(r"^--- \[([A-Za-z0-9]+-(?:P\d+|IMG\d+|PIMG\d+)|PIMG\d+)\] \(trang ([^)]+)\)(?: — (.*?))? ---$")
 N_HDR = re.compile(r"^--- \[Cước chú (.*?)\] ---$")
 FN_BRACKET = re.compile(r"^\[(\d+)\]\s*(.*)$")
 FN_BARE = re.compile(r"^(\d+)\s+(?=\S)(.*)$")
@@ -76,13 +76,6 @@ INLINE = re.compile(
 #   [12]   (ch01 style)   or   12 appended to a word (ch02 style)
 MARKER = re.compile(r"\[(\d{1,3})\]|(?<=[^\s\d])(\d{1,3})(?=\s|$)")
 
-# Block header boundaries.  In the extracted translation files the block
-# headers ``--- [..] ---`` are NOT always at the start of a line: several
-# blocks can be concatenated on a single physical line.  Match them anywhere
-# so every block is split out correctly.
-#   --- [V1C01-P001] (trang 27) ---
-#   --- [V1C01-P005] (trang 28) — đề mục ---
-#   --- [Cước chú trang 27-43] ---
 BLOCK_START = re.compile(r"--- \[[^\]]+\](?: \([^)]*\))?(?: — .*?)? ---")
 
 
@@ -239,6 +232,7 @@ def parse_chapter(path):
         m = P_HDR.match(h)
         if not m:
             continue
+        block_id = m.group(1)  # e.g., V1C10-PIMG1
         label = (m.group(3) or "").strip()
         page = int(re.match(r"\d+", m.group(2)).group())
         chunks, buf = [], []
@@ -250,6 +244,17 @@ def parse_chapter(path):
                 buf = []
         if buf:
             chunks.append(" ".join(buf))
+
+        # Special handling for PIMG blocks (images with captions)
+        if "PIMG" in block_id:
+            # First chunk is usually "(trang XX) ---", skip it
+            # Remaining chunks are captions
+            caption_chunks = [c for c in chunks if not c.startswith("(trang")]
+            for cap_text in caption_chunks:
+                items.append({"kind": "image", "page": page})
+                items.append({"kind": "caption", "text": cap_text, "page": page})
+            continue
+
         if label.lower() == "đề mục" and chunks:
             items.append({"kind": "heading", "text": chunks.pop(0)})
             label = ""
@@ -810,6 +815,9 @@ def build(ch_path):
         if it["kind"] == "heading":
             add_section_heading(doc, it["text"])
             continue
+        if it["kind"] == "image":
+            # Placeholder for image sequencing; actual insertion happens at caption
+            continue
         marks = []
         for off, num in sorted(placements.get(idx, [])):
             if num in notes:
@@ -819,6 +827,10 @@ def build(ch_path):
                 next_id += 1
         if it.get("kind") == "quote":
             add_quote_paragraph(doc, it["text"], marks)
+        elif it.get("kind") == "caption":
+            # Caption paragraph: will be styled and have image inserted before it in post-processing
+            p = doc.add_paragraph()
+            add_text_runs(p, it["text"], size=12)  # base size; post-processing sets 10pt italic
         else:
             add_body_paragraph(doc, it["text"], marks)
         words += len(it["text"].split())
@@ -842,10 +854,15 @@ def build(ch_path):
     # treated as captions and must not receive an image.
     img_dir = PROJECT / "04_translation" / "v1" / "images"
     chap_num = ch["id"].split("-")[1].replace("C", "")
-    # Collect all images for this chapter in order
+    # Collect all images for this chapter in order (raster photos + rasterized maps)
     chapter_images = sorted(img_dir.glob(f"ch{chap_num}_p*_img*.png"))
     img_index = 0
-    hinh_pattern = re.compile(r"^\s*H\u00ecnh\s+\d+\.\d+")
+    # Caption pattern: "Hình X.Y", "Bản đồ X.Y", "Biểu đồ X.Y", "Sơ đồ X.Y",
+    # "Bảng X.Y" all introduce an embedded figure/map/chart/diagram/table.
+    # Match anywhere in paragraph (PIMG blocks include "(trang XX) ---" prefix).
+    hinh_pattern = re.compile(
+        r"(?:H\u00ecnh|B\u1ea3n \u0111\u1ed3|Bi\u1ec3u \u0111\u1ed3|S\u01a1 \u0111\u1ed3|B\u1ea3ng)\s+\d+\.\d+"
+    )
     last_hinh_p = None
 
     def _add_image_paragraph():

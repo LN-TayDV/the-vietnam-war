@@ -159,7 +159,7 @@ python -c "from docx_builder import DocxBuilder; from pathlib import Path; b=Doc
 |---|---|
 | `build_chapter_docx.py` | **Script chuẩn xuất DOCX** (bố cục sách + footnote chân trang). KHÔNG thay thế. |
 | `extract_chapters.py` | One-time PDF → text extraction (pymupdf) |
-| `extract_images.py` | **BẮT BUỘC**: trích xuất ảnh raster từ PDF theo chapter, tạo image manifest. Chạy trước `build_chapter_docx.py`. |
+| `extract_images.py` | **BẮT BUỘC**: trích xuất ảnh raster + **rasterize bản đồ/sơ đồ vector** (render_vector_figure, 300 DPI) từ PDF theo chapter, tạo image manifest. Chạy trước `build_chapter_docx.py`. |
 | `build_volume_docx.py` | Legacy volume DOCX builder (backward compat) |
 | `build_lexicon.py` | Lexicon management: `build`, `update`, `verify`, `stats` |
 | `write_translation.py` | AI translation writer (79KB, specialized) |
@@ -198,10 +198,12 @@ PDF SOURCE
 4. **Phải lưu hình ảnh** vào thư mục `translation-project/0<vol>/v1/images/` với tên `ch<NN>_p<PDF_PAGE>_img<IDX>.png`.
 5. **Phải tạo image manifest** tại `translation-project/00_plan/image_manifest.json` ghi nhận: image_id, source_pdf, volume, chapter, pdf_page, printed_page, filename, image_type, width, height, caption, extraction_status.
 6. **Text raw phải giữ placeholder tham chiếu** đến hình ảnh tại đúng vị trí tương ứng (thêm block `--- [V1CXX-PIMGN] (trang Z) ---` với nội dung "Hình X.Y ..." vào file `_vi.txt`).
-7. **DOCX phải nhúng hình ảnh** và caption theo đúng thứ tự trong tài liệu nguồn. Script `build_chapter_docx.py` tự động chèn ảnh trước paragraph bắt đầu bằng "Hình X.Y".
+7. **DOCX phải nhúng hình ảnh** và caption theo đúng thứ tự trong tài liệu nguồn. Script `build_chapter_docx.py` tự động chèn ảnh trước paragraph bắt đầu bằng "Hình X.Y", "Bản đồ X.Y", "Biểu đồ X.Y", "Sơ đồ X.Y", hoặc "Bảng X.Y".
 8. **Không được coi một chương đã extraction thành công** nếu hình ảnh chưa được kiểm tra.
 9. **Không được tự ý bỏ qua** hình, biểu đồ, bản đồ hoặc sơ đồ. Nếu không thể trích xuất một hình, phải ghi nhận lỗi rõ ràng trong manifest thay vì âm thầm bỏ qua.
 10. **Không được tự tạo hình ảnh thay thế** không có trong PDF nguồn.
+11. **Bản đồ/sơ đồ dạng VECTOR (drawings) PHẢI được rasterize và nhúng**, không được ghi nhận `VECTOR_ONLY` rồi bỏ. Script `extract_images.py` (hàm `render_vector_figure()`) tự động phát hiện trang có ≥20 vector drawings + caption "Map/Figure/Bản đồ/..." và render thành 1 ảnh PNG (300 DPI, crop theo vùng hình + caption). Đây là bài học từ Chương 9: Map 9.1 (p231) trước đây bị bỏ vì chỉ ghi `VECTOR_ONLY_113_drawings` — nay đã sửa và áp dụng chung cho mọi chương.
+12. **Trang có bản đồ vector thường có vài raster nhỏ** (la bàn, thước tỉ lệ) — KHÔNG trích xuất riêng chúng; bản đồ được render trọn vẹn thành một ảnh duy nhất.
 
 ## 8. QUY TRÌNH DỊCH MỘT CHƯƠNG (8 BƯỚC + QUALITY GATE)
 
@@ -421,7 +423,7 @@ Một câu chỉ được xem là đạt VLP-01 khi:
 11. Quality Gate 8 tiêu chí + **VLP-01 criterion 6b** + **Hán Việt name check** + **DOCX format audit** PASS → cập nhật `progress.json` HOAN_TAT.
 12. **Dọn dẹp file tạm** (tmp_*, debug_*, *.bak, file DOCX cũ cùng chương có slug khác).
 
-## 11. TRẠNG THÁI HIỆN TẠI (2026-11-20)
+## 11. TRẠNG THÁI HIỆN TẠI (2026-11-21)
 
 | Chương | Trạng thái | Từ | Cước chú | DOCX | Hình ảnh |
 |---|---|---|---|---|---|
@@ -433,10 +435,12 @@ Một câu chỉ được xem là đạt VLP-01 khi:
 | V1-Ch6 | HOAN_TAT | 11,731 | 43 | 18 trang | 1 (Hình 6.1) |
 | V1-Ch7 | HOAN_TAT | — | — | — | — |
 | V1-Ch8 | HOAN_TAT | — | — | — | — |
-| V1-Ch9 | HOAN_TAT | 9,512 | 51 | — | 0 |
-| **Tổng V1 (1-9)** | **HOAN_TAT** | — | — | — | — |
+| V1-Ch9 | HOAN_TAT | 9,621 | 51 | 3 hình | 3 (Hình 9.1, 9.2, Bản đồ 9.1) |
+| V1-Ch10 | EXTRACTION_COMPLETE (dịch dở P012+) | 3,475 | 0 | 2 hình | 2 (Hình 10.1 p223, Bản đồ 10.1 p229) |
+| **Tổng V1 (1-10)** | — | — | — | — | — |
 
-**V1-Ch10 đến V1-Ch21**: Chưa bắt đầu. **Volume 2, 3**: Chưa bắt đầu.
+**V1-Ch10**: DOCUMENT_EXTRACTION_COMPLETE — 20 trang PDF (218-237), raw text + 2 hình (Figure 10.1 raster + Map 10.1 vector rasterized) + image_manifest.json + DOCX (audit PASS, 2 hình nhúng). DỊCH mới xong P001-P011; P012+ CHƯA dịch.
+**V1-Ch11 đến V1-Ch21**: Chưa bắt đầu. **Volume 2, 3**: Chưa bắt đầu.
 
 ## 12. LIÊN KẾT TÀI LIỆU QUAN TRỌNG
 
