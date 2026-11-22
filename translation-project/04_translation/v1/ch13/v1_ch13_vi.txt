@@ -185,7 +185,7 @@ Việc quản lý Việt Nam của Eisenhower như một vấn đề an ninh qu�
 Khi Eisenhower rời nhiệm, Việt Nam vẫn quan trọng chiến lược nhưng có mức độ ưu tiên thấp hơn trong các điểm nóng thế giới. Washington tin một thời rằng liên minh với Diệm bảo vệ lợi ích Mỹ, nhưng cuối cùng các lãnh đạo Mỹ mất niềm tin vào khả năng của những nhà lãnh đạo Sài Gòn.
 
 --- [V1C13-P058] (trang 301) ---
-Tháng Mười năm 1960, vào năm năm ngày thành lập RVN của Diệm, Eisenhower khen ngợi "cuộc đấu tranh thành công của nó để trở thành một Cộng hòa độc lập."[60] Khi Pháp đã nhượng bộ cho thiết kế của Mỹ cho Việt Nam, chính quyền cho rằng Sài Gòn đã thoát khỏi vết bẩn thực dân.
+Tháng Mười năm 1960, vào năm năm ngày thành lập RVN của Diệm, Eisenhower khen ngợi "cuộc đấu tranh thành công của nó để trở thành một Cộng hòa độc lập."[60] Philip E. Catton, Diem's Final Failure: Prelude to America's War in Vietnam (Lawrence, KS, 2002), 19–20; Statler, Replacing France, 249–74. Some historians analyze the tensions between US containment strategy and Vietnamese sovereignty via a "liberal-realist" critique; according to this view, US Vietnam policy contravened both the ideals and real interests of the United States. See David L. Anderson, "The Vietnam War," in Robert D. Schulzinger (ed.), A Companion to American Foreign Relations (Malden, MA, 2003), 313–14. David A. Lake, The Statebuilder's Dilemma: On the Limits of Foreign Intervention (Ithaca, 2016) argues that the more the state-builder invests the more the recipient finds its legitimacy and stability threatened.
 
 --- [V1C13-P059] (trang 301) ---
 Washington đánh giá thấp nguy hiểm của việc gắn liền lợi ích Mỹ với lợi ích của Diệm và gia đình ông. Hoa Kỳ không khai thác kinh tế Việt Nam để lấy lợi; thực tế, nó chi tiêu những khoản khổng lồ tại đó. Nhưng những dòng viện trợ khổng lồ và những màn trình diễn ngoại giao sảng khói không làm dấy sự sụt giảm uy tín và sự chính thống của Diệm, đặc biệt sau năm 1960. Những thất bại này sẽ tốn kém đắt đỏ – tốn kém hơn Eisenhower hay cố vấn của ông bao giờ có thể tưởng tượng, đặc biệt trong những ngày thanh bình cuối thập niên 1950, khi Việt Nam Nam dường như là một câu chuyện không thể cưỡng lại về thành công Chiến Tranh Lạnh của Hoa Kỳ.[61]
@@ -252,13 +252,3 @@ Washington đánh giá thấp nguy hiểm của việc gắn liền lợi ích M
 [59] Immerman, "Dealing with a Government of Madmen," 134; Richard E. Neustadt, Presidential Power and the Modern Presidents (New York, 1990), 301.
 [60] Philip E. Catton, Diem's Final Failure: Prelude to America's War in Vietnam (Lawrence, KS, 2002), 19–20; Statler, Replacing France, 249–74. Some historians analyze the tensions between US containment strategy and Vietnamese sovereignty via a "liberal-realist" critique; according to this view, US Vietnam policy contravened both the ideals and real interests of the United States. See David L. Anderson, "The Vietnam War," in Robert D. Schulzinger (ed.), A Companion to American Foreign Relations (Malden, MA, 2003), 313–14. David A. Lake, The Statebuilder's Dilemma: On the Limits of Foreign Intervention (Ithaca, 2016) argues that the more the state-builder invests the more the recipient finds its legitimacy and stability threatened.
 [61] US Department of State, Bulletin (November 14, 1960), 758.
-filePath">
-C:\Users\PC\Documents\AI_project\the-vietnam-war/translation-project/04_translation/v1/ch13/v1_ch13_vi.txt--- [V1C13-P059] (trang 301) ---
- (trang 301) ---
-critique; according to this view, US Vietnam policy contravened both the ideals and real 
-interests of the United States. See David L. Anderson, “The Vietnam War,” in Robert 
-D. Schulzinger (ed.), A Companion to American Foreign Relations (Malden, MA, 2003), 
-313–14. David A. Lake, The Statebuilder’s Dilemma: On the Limits of Foreign Intervention 
-(Ithaca, 2016) argues that the more the state-builder invests the more the recipient finds 
-its legitimacy and stability threatened.
-	61	 US Department of State, Bulletin (November 14, 1960), 758.
