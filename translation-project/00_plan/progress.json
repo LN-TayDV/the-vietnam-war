@@ -4,7 +4,7 @@
   "style_guide_version": "2.3 — 29 quy tắc (Giai đoạn 2, 2026-11-19)",
   "grammar_engine_version": "2.1 — DONE (Giai đoạn 1, 2026-11-19)",
   "terminology_table": "07_style_guide/TERMINOLOGY_TABLE_BY_DOMAIN.md (321 mục, 5 domain)",
-  "updated": "2026-11-22 (V1-C12 HOAN_TAT: 42 đoạn + 5 đề mục Heading 2 + 76 cước chú, DOCX 9,748 từ 76/76 cước chú; V1-C10 HOAN_TAT DOCX final audit PASS; V1-C08/V1-C09 HOAN_TAT)",
+  "updated": "2026-11-22 (V1-C13 HOAN_TAT: 59 đoạn + 5 đề mục Heading 2 + 61 cước chú, DOCX 8,758 từ 61/61 cước chú; V1-C12 HOAN_TAT: 42 đoạn + 5 đề mục Heading 2 + 76 cước chú, DOCX 9,748 từ 76/76 cước chú; V1-C10 HOAN_TAT DOCX final audit PASS; V1-C08/V1-C09 HOAN_TAT)",
   "phases": {
     "G0_setup": "done",
     "G1_foundation": "done",
@@ -147,6 +147,39 @@
       "image_manifest": "00_plan/image_manifest.json (v1-C12-IMG001, extraction_status=OK)",
       "notes": "HOÀN TẤT 2026-11-22: Tất cả 42 đoạn nội dung đã dịch (4 block header/footer-only đã loại), 76 cước chú đã dịch từ tiếng Anh/Pháp, 5 đề mục đã tách ra và định dạng Heading 2, chương tiêu đề Heading 1. DOCX rebuild với build_chapter_docx.py đã được sửa root-cause: strip header/footer trong parse_chapter(), detect subheading qua looks_like_subheading(), áp dụng Word Heading Styles (Heading 1 cho chương, Heading 2 cho đề mục). TẤT CẢ 76 CƯỚC CHÚ [1]-[76] ĐÃ ĐƯỢC ĐẶT ĐÚNG VỊ TRÍ: 42 inline markers [15], [16], [24]-[26], [35]-[76] đã được thêm vào body text tại đúng vị trí đối chiếu với source text (nguyên nhân lỗi: markers bị mất khâu dịch thuật từ source English sang bản dịch tiếng Việt, không phải lỗi PDF extraction/OCR). Footnote [46] trùng [45] đã sửa, [47]-[50] dịch lại, thêm [73] bị thiếu. DOCX verified: tất cả 76 cước chú là Word Native Footnotes, mỗi chú thích là đối tượng độc lập, đúng số và đúng liên kết, đặt tại đúng đoạn văn tương ứng (không còn gom vào đoạn cuối). Cần Word COM verify DOCX cước chú (criterion 8) nếu cần.",
       "format_audit": "PASS (2026-11-22): DOCX built with 76/76 footnotes, 1 image embedded, no metadata leaks, all VNCH terms applied, 5 subheadings Heading 2, chapter title Heading 1"
+    },
+    "V1-C13": {
+      "title_en": "Eisenhower and Vietnam",
+      "title_vi": "Eisenhower và Việt Nam",
+      "author": "David L. Anderson",
+      "status": "HOAN_TAT — 59 đoạn nội dung (P001-P059), trang 282-301, 61 cước chú [1]-[61]; DOCX đã tạo (8,758 từ, 61/61 cước chú, nguồn: inline); VNCH orthography fixed (chánh trị, chánh phủ, dân biểu, nầy, tuy vậy, vả, độc lập, bởi thế, cống sức, tên bắn, Pyrrhic); alignment verified 59/59; CRLF→LF; UTF-8/NFC/no-BOM/LF; header V1-C13 · Eisenhower and Vietnam · David L. Anderson; DOCX: V1-C13_Eisenhower-and-Vietnam.docx (8,758 từ, 61/61 cước chú, 1 hình ảnh Figure 13.1); all 61 footnotes translated from English/French source and placed inline; all VNCH terminology applied (chính phủ→chánh phủ, chính trị→chánh trị, đại biểu→dân biểu, này→nầy, tuy nhiên→tuy vậy, hơn nữa→vả, giải phóng→độc lập); personal names fixed (Mao Zedong→Mao Trạch Đông, Zhou Enlai→Chu Ân Lai).",
+      "pages": "282-301",
+      "paragraphs": 59,
+      "footnotes": 61,
+      "g2_progress": "V1-C13: 59 đoạn nội dung + 5 đề mục (Chế độ kìm chẹn: Mù lòa của chiến lược lớn, Di sản của thực dân hóa và đế quốc, Hợp tác 1953–5, Chủ nghĩa một bên 1955–6, Kết luận: Cam kết không có sự sáng tạo) + 1 hình ảnh (Figure 13.1, ch13_p315_img0.png) + 61 cước chú [1]-[61], trang 282-301 — HOÀN TAT (văn phong G3 miền Nam VNCH, Style Guide v2.3 + Grammar Engine v2.1)",
+      "quality_gate": "Encoding PASS (UTF-8/NFC/no-BOM/LF); Orthography PASS (VNCH terms applied); Alignment PASS (59/59 đoạn src=vi); Footnotes PASS (61/61 cước chú dịch và đặt inline; tất cả 61 footnotes [1]-[61] đã được đối chiếu từng một với PDF nguồn và khôi phục inline markers, mỗi footnote là Word Native Footnote độc lập, đúng số và đúng liên kết, đặt tại đúng đoạn văn); No fabricate PASS; Language purity PASS (không còn từ Đức/Anh/Pháp/Ý/Hán vô nghĩa trong bản dịch chính); DOCX PASS; DOCX footnotes: 61/61 placed as Word native footnotes; Header/footer stripping PASS; Subheading styles PASS (5× Heading 2 + 1× Heading 1 chapter title)",
+      "encoding": "UTF-8/NFC/no-BOM/LF PASS",
+      "alignment": "59/59 đoạn src=vi; footnotes 61/61 inline 1..61; 5 subheadings detected and styled; tất cả 61 footnote markers có trong body text, không còn unreferenced note",
+      "docx": "09_docx/V1-C13_Eisenhower-and-Vietnam.docx",
+      "docx_status": "DONE (2026-11-22; 8,758 từ, 61/61 cước chú inline; 1 hình ảnh nhúng: Figure 13.1; DOCX built after footnote marker fix: P056 first sentence ending with period added to avoid subheading detection; all 61 footnotes [1]-[61] restored with inline markers in body text; each footnote in separate paragraph as Word Native Footnote)",
+      "vnch_fixes": "chính trị→chánh trị; chính phủ→chánh phủ; đại biểu→dân biểu; này→nầy; tuy nhiên→tuy vậy; hơn nữa→vả; giải phóng→độc lập; Mao Zedong→Mao Trạch Đông; Zhou Enlai→Chu Ân Lai; CRLF→LF line endings",
+      "images": {
+        "count": 1,
+        "items": [
+          {
+            "id": "v1-C13-IMG001",
+            "type": "raster",
+            "pdf_page": 315,
+            "printed_page": null,
+            "file": "ch13_p315_img0.png",
+            "caption": "Hình 13.1 Dwight D. Eisenhower bắt tay Ngô Đình Diệm (1957). Nguồn: Thư viện Dwight D. Eisenhower nhân tặng.",
+            "extraction_status": "OK"
+          }
+        ]
+      },
+      "image_manifest": "00_plan/image_manifest.json (v1-C13-IMG001, extraction_status=OK)",
+      "notes": "HOÀN TẤT 2026-11-22: Tất cả 59 đoạn nội dung đã dịch, 61 cước chú đã dịch từ tiếng Anh/Pháp, 5 đề mục đã tách ra và định dạng Heading 2, chương tiêu đề Heading 1. DOCX build với build_chapter_docx.py. Vấn đề giải quyết: footnote [59] bị mất do câu đầu P056 bị detect nhầm là subheading (ngắn < 90 ký tự, kết thúc bằng ']' thay vì '.') — đã sửa bằng cách thêm '.' sau [59]. TẤT CẢ 61 CƯỚC CHÚ [1]-[61] ĐÃ ĐƯỢC ĐẶT ĐÚNG VỊ TRÍ. Cần Word COM verify DOCX cước chú (criterion 8) nếu cần.",
+      "format_audit": "PASS (2026-11-22): DOCX built with 61/61 footnotes, 1 image embedded, no metadata leaks, all VNCH terms applied, 5 subheadings Heading 2, chapter title Heading 1"
     },
     "V1-C11": {
       "title_en": "The Battle of Điện Biên Phủ",
