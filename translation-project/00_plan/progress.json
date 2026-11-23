@@ -4,7 +4,7 @@
   "style_guide_version": "2.3 — 29 quy tắc (Giai đoạn 2, 2026-11-19)",
   "grammar_engine_version": "2.1 — DONE (Giai đoạn 1, 2026-11-19)",
   "terminology_table": "07_style_guide/TERMINOLOGY_TABLE_BY_DOMAIN.md (321 mục, 5 domain)",
-  "updated": "2026-11-22 (V1-C13 HOÀN TAT sau audit–sửa: 64 đoạn + 8 đề mục + 61 cước chú, DOCX 9,290 từ 61/61; audit_chapter.py PASS; V1-C12 HOAN_TAT: 42 đoạn + 5 đề mục + 76 cước chú, DOCX 9,748 từ 76/76)",
+  "updated": "2026-11-23 (V1-C14 REVIEW_AUDIT HOAN_TAT: 52 đoạn + 1 hình + 76 cước chú, DOCX 11,171 từ 76/76, Quality Gate PASS, audit_docx_format PASS — xem 05_qa/REVIEW_AUDIT_CH14.md; V1-C13 HOÀN TAT sau audit–sửa: 64 đoạn + 8 đề mục + 61 cước chú, DOCX 9,290 từ 61/61; V1-C12 HOAN_TAT: 42 đoạn + 5 đề mục + 76 cước chú, DOCX 9,748 từ 76/76)",
   "phases": {
     "G0_setup": "done",
     "G1_foundation": "done",
@@ -180,6 +180,40 @@
       "image_manifest": "00_plan/image_manifest.json (v1-C13-IMG001, extraction_status=OK)",
       "notes": "HOÀN TẤT 2026-11-22: Tất cả 59 đoạn nội dung đã dịch, 61 cước chú đã dịch từ tiếng Anh/Pháp, 5 đề mục đã tách ra và định dạng Heading 2, chương tiêu đề Heading 1. DOCX build với build_chapter_docx.py. Vấn đề giải quyết: footnote [59] bị mất do câu đầu P056 bị detect nhầm là subheading (ngắn < 90 ký tự, kết thúc bằng ']' thay vì '.') — đã sửa bằng cách thêm '.' sau [59]. TẤT CẢ 61 CƯỚC CHÚ [1]-[61] ĐÃ ĐƯỢC ĐẶT ĐÚNG VỊ TRÍ. Cần Word COM verify DOCX cước chú (criterion 8) nếu cần.",
       "format_audit": "PASS (2026-11-22): DOCX built with 61/61 footnotes, 1 image embedded, no metadata leaks, all VNCH terms applied, 5 subheadings Heading 2, chapter title Heading 1"
+    },
+    "V1-C14": {
+      "title_en": "Ngô Đình Diệm and the Birth of the Republic of Vietnam",
+      "title_vi": "Ngô Đình Diệm và Sự Ra Đời của Cộng hòa Việt Nam",
+      "author": "Phi-Vân Nguyen",
+      "status": "REVIEW_AUDIT_2026-11-23: HOAN_TAT SAU SỬA LỖI — 52 đoạn nội dung (P001-P056) + 1 hình ảnh PIMG1 (Figure 14.1), trang 302-325 (PDF 318-341), 76 cước chú [1]-[76]; DOCX đã tạo lại (11,171 từ, 76/76 cước chú native, nguồn: inline); audit_docx_format.py PASS; Quality Gate 8 tiêu chí PASS; alignment PASS (52/52, 0 sentence mismatch); UTF-8/NFC/no-BOM/LF; DOCX: V1-C14_Ngo-Dinh-Diem-va-Su-Ra-Doi-cua-Cong-hoa-Viet-Nam.docx. Xem audit: 05_qa/REVIEW_AUDIT_CH14.md.",
+      "pages": "302-325",
+      "paragraphs": "52 đoạn nội dung (P001-P056) + 1 PIMG1 block (Figure 14.1), trang 302-325 (PDF 318-341)",
+      "footnotes": "76 cước chú [1]-[76]",
+      "g2_progress": "V1-C14: 52 đoạn nội dung (P001-P056) + 1 hình ảnh (PIMG1 Figure 14.1, ch14_p339_img0.png, trang in 323) + 76 cước chú [1]-[76], trang 302-325 (PDF 318-341) — REVIEW_AUDIT 2026-11-23: HOAN_TAT SAU SỬA LỖI (văn phong G3 miền Nam VNCH, Style Guide v2.3 + Grammar Engine v2.1)",
+      "quality_gate": "Quality Gate 8/8 PASS (2026-11-23 sau audit): Encoding PASS (UTF-8/NFC/no-BOM/LF); Orthography PASS (0 CRITICAL; 45 flag còn lại là FALSE POSITIVE — tựa sách Anh/Pháp trong cước chú theo Rule 11, và 'một người/đang+động từ' chính xác); Alignment PASS (52/52, 0 sentence mismatch); Footnotes PASS (76/76 native Word, ids 1..76 liên tục); No fabricate PASS; Văn phong (S1-S20,P1-P10) PASS; DOCX tồn tại PASS; audit_docx_format.py PASS",
+      "encoding": "UTF-8/NFC/no-BOM/LF PASS",
+      "alignment": "52/52 đoạn src=vi; footnotes 76/76 inline 1..76; 1 PIMG block; all footnote markers in body text",
+      "docx": "09_docx/V1-C14_Ngo-Dinh-Diem-va-Su-Ra-Doi-cua-Cong-hoa-Viet-Nam.docx",
+      "docx_status": "REBUILT (2026-11-23 sau audit độc lập; 11,171 từ, 76/76 cước chú native inline; 1 hình ảnh nhúng Figure 14.1; audit_docx_format.py PASS; Quality Gate 8/8 PASS)",
+      "vnch_fixes": "chính phủ→chánh phủ; Tuy nhiên→Tuy vậy (×3); ngược lại→trái lại; giải phóng→giải thoát (P016); đại từ câu đầu 'Nó'→danh từ rõ (×5); 177.000/60.000→177 000/60 000; thay toàn bộ placeholder ([classifier]+noun, đang...xong/tiến hành, người ấy/ông ấy/bà ấy, Tuy vậy/đã vậy, dầu/dẫu, Vả/lại, độc lập/kháng cự); dịch từ chưa dịch (feudō→lãnh địa fief, empujar→gạt ra ngoài lề, eminence grise/playboy/espousing/hiệu trung); xóa ký tự Ả Rập حكم→pháp quyền; khôi phục nguyên tựa 76 cước chú",
+      "images": {
+        "count": 1,
+        "items": [
+          {
+            "id": "v1-C14-IMG001",
+            "type": "raster",
+            "pdf_page": 339,
+            "printed_page": 323,
+            "file": "ch14_p339_img0.png",
+            "caption": "Hình 14.1 — Ngô Đình Diệm tại Sài Gòn (1954). Nguồn: Arhiv Đại sứ quán Mỹ tại Sài Gòn.",
+            "extraction_status": "OK"
+          }
+        ]
+      },
+      "image_manifest": "00_plan/image_manifest.json (v1-C14-IMG001, extraction_status=OK)",
+      "notes": "REVIEW & AUDIT ĐỘC LẬP 2026-11-23 (05_qa/REVIEW_AUDIT_CH14.md): Phát hiện bản gốc là bản nháp máy còn placeholder + đoạn vỡ + từ chưa dịch + ký tự Ả Rập + ~15 cước chú bị chèn sai tựa. ĐÃ SỬA TOÀN BỘ (viết lại 56 đoạn + khôi phục 76 cước chú) và rebuild DOCX. Tất cả 76 cước chú [1]-[76] là native Word footnotes, đặt đúng vị trí. Word COM verify (criterion 8) chưa chạy — đã thay bằng kiểm tra XML footnotes trực tiếp (76 native, id 1..76 đủ).",
+      "format_audit": "PASS (2026-11-23): audit_docx_format.py ch14 — body 12pt Justify fi=0.9cm sa=6 line=1.3; image/caption count 1/1; every caption preceded by image; no block-header leaks; footnotes 76/76 sequential 1..76 (native Word footnotes, ids 1..76 complete); footnote text 9pt",
+      "audit_2026_11_23": "REVIEW & AUDIT ĐỘC LẬP (05_qa/REVIEW_AUDIT_CH14.md): Phát hiện bản dịch gốc là bản nháp máy còn nguyên placeholder ([classifier] + noun ×7, 'đang... xong/tiến hành' ×10, 'người ấy/ông ấy/bà ấy' ×6, 'Tuy vậy/đã vậy' ×6, 'dầu/dẫu', 'Vả/lại', 'độc lập/kháng cự'), nhiều đoạn vỡ/thiếu nội dung (P006, P028, P031, P033, P039, P040, P047), từ chưa dịch (feudō, empujar[Spanish], eminence grise, playboy, espousing, hiệu trung), ký tự Ả Rập (حكم, P016), và ~15 cước chú bị chèn sai 'Đông Dương (Indochine)/(Indochina)'/'Trung Kỳ (Annam)' vào tựa sách Anh/Pháp. ĐÃ SỬA TOÀN BỘ: viết lại sạch 56 đoạn theo văn phong VNCH; khôi phục nguyên tựa 76 cước chú; sửa chính tả (chính phủ→chánh phủ, Tuy nhiên→Tuy vậy ×3, ngược lại→trái lại, giải phóng→giải thoát, đại từ 'Nó'×5, 177 000/60 000). Rebuild DOCX + QA lại: alignment 52/52 (0 mismatch), footnotes 76/76, Quality Gate PASS, audit_docx_format PASS, encoding PASS.Orthography còn 45 flag đều là FALSE POSITIVE (tựa sách Anh/Pháp trong cước chú — Rule 11 giữ nguyên; 'một người/đang+verb' chính xác). Ghi chú metadata: src ghi 'trang 302-330' nhưng thực tế in là 302-325 (PDF 318-341); không ảnh hưởng nội dung DOCX (marker chỉ là metadata, không render)."
     },
     "V1-C11": {
       "title_en": "The Battle of Điện Biên Phủ",
