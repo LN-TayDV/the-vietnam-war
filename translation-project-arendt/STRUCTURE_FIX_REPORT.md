@@ -1,0 +1,83 @@
+# Structure Fix Report
+
+Generated: 2026-11-26T10:45:15.016345
+
+- ch01: V1C01-P004 marked as [TRONG]
+- ch01: V1C01-P005 marked as [TRONG]
+- ch01: FILE UPDATED
+- ch02: V1C02-P001 marked as [TRONG]
+- ch02: V1C02-P002 marked as [TRONG]
+- ch02: V1C02-P003 marked as [TRONG]
+- ch02: V1C02-P004 marked as [TRONG]
+- ch02: V1C02-P005 marked as [TRONG]
+- ch02: V1C02-P006 marked as [TRONG]
+- ch02: V1C02-P007 marked as [TRONG]
+- ch02: V1C02-P008 marked as [TRONG]
+- ch02: V1C02-P009 marked as [TRONG]
+- ch02: V1C02-P010 marked as [TRONG]
+- ch02: V1C02-P011 marked as [TRONG]
+- ch02: V1C02-P012 marked as [TRONG]
+- ch02: V1C02-P013 marked as [TRONG]
+- ch02: V1C02-P014 marked as [TRONG]
+- ch02: V1C02-P015 marked as [TRONG]
+- ch02: V1C02-P016 marked as [TRONG]
+- ch02: V1C02-P017 marked as [TRONG]
+- ch02: V1C02-P018 marked as [TRONG]
+- ch02: V1C02-P019 marked as [TRONG]
+- ch02: V1C02-P020 marked as [TRONG]
+- ch02: V1C02-P021 marked as [TRONG]
+- ch02: V1C02-P022 marked as [TRONG]
+- ch02: V1C02-P023 marked as [TRONG]
+- ch02: V1C02-P024 marked as [TRONG]
+- ch02: V1C02-P025 marked as [TRONG]
+- ch02: V1C02-P026 marked as [TRONG]
+- ch02: FILE UPDATED
+- ch03: FILE UPDATED
+- ch04: FILE UPDATED
+- ch05: FILE UPDATED
+- ch06: FILE UPDATED
+- ch07: FILE UPDATED
+- ch08: FILE UPDATED
+- ch09: FILE UPDATED
+- ch10: V1C10-P007 marked as [TRONG]
+- ch10: V1C10-P008 marked as [TRONG]
+- ch10: FILE UPDATED
+- ch11: FILE UPDATED
+- ch12: Separated chapter title from V1C12-P001 -> [V1C12-P000]
+- ch12: V1C12-P002 removed leaked page number
+- ch12: V1C12-P003 removed leaked page number
+- ch12: V1C12-P004 removed leaked page number
+- ch12: V1C12-P005 removed leaked page number
+- ch12: V1C12-P006 removed leaked page number
+- ch12: V1C12-P003 removed orphaned number
+- ch12: V1C12-P007 removed orphaned number
+- ch12: V1C12-P008 removed orphaned number
+- ch12: V1C12-P009 removed orphaned number
+- ch12: V1C12-P010 removed orphaned number
+- ch12: V1C12-P011 removed orphaned number
+- ch12: V1C12-P012 removed orphaned number
+- ch12: V1C12-P013 removed orphaned number
+- ch12: V1C12-P014 removed orphaned number
+- ch12: V1C12-P015 removed orphaned number
+- ch12: V1C12-P016 removed orphaned number
+- ch12: V1C12-P017 removed orphaned number
+- ch12: V1C12-P018 removed orphaned number
+- ch12: V1C12-P019 removed orphaned number
+- ch12: V1C12-P020 removed orphaned number
+- ch12: V1C12-P021 removed orphaned number
+- ch12: V1C12-P022 removed orphaned number
+- ch12: Extracted inline footnote 1 from V1C12-P001: Bọn Nazi nhận thức đầy đủ rằng việc nắm chính quyền có thể d...
+- ch12: Extracted inline footnote 2 from V1C12-P001: Thuyết của Trotsky, lần đầu tuyên bố năm 1905, dĩ nhiên khôn...
+- ch12: Extracted inline footnote 3 from V1C12-P002: Năm 1934 có ý nghĩa vì điều lệ mới của Đảng, được công bố tạ...
+- ch12: Extracted inline footnote 4 from V1C12-P002: Deutscher, op. cit., tr. 282, mô tả cuộc tấn công đầu tiên v...
+- ch12: Extracted inline footnote 5 from V1C12-P002: Việc thanh lý phe cánh Röhm vào tháng Sáu 1934 được đi trước...
+- ch12: Extracted inline footnote 6 from V1C12-P002: Robert Ley, Der Weg zur Ordensburg (không có ngày, khoảng 19...
+- ch12: Extracted inline footnote 7 from V1C12-P002: Heinrich Himmler, "Die Schutzstaffel," trong Grundlagen, Auf...
+- ch12: Extracted inline footnote 8 from V1C12-P004: Thông thường người ta biết rằng tại Nga "sự đàn áp xã hội ch...
+- ch12: Extracted inline footnote 13 from V1C12-P005: Xem Deutscher, op. cit., tr. 375. — Khi đọc kỹ bài diễn văn ...
+- ch12: Extracted inline footnote 14 from V1C12-P005: "Đời sống hiến pháp Đức do đó được đặc trưng bởi sự vô hình ...
+- ch12: Extracted inline footnote 15 from V1C12-P005: Trích từ Boris Souvarine, Stalin: A Critical Survey of Bolsh...
+- ch12: Extracted inline footnote 16 from V1C12-P005: Stephen H. Roberts, The House that Hitler Built, London, 193...
+- ch12: Extracted inline footnote 17 from V1C12-P005: Justice Robert H. Jackson, trong bài diễn văn khai mạc tại c...
+- ch12: FILE UPDATED
+- ch13: FILE UPDATED

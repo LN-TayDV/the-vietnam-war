@@ -1,0 +1,24 @@
+{
+  "generated": "2026-11-25T15:48:40Z",
+  "chapters": {
+    "front_matter": { "status": "SKIP", "reason": "missing src or vi" },
+    "preface_first_edition": { "status": "SKIP", "reason": "missing src or vi" },
+    "preface_part_one": { "status": "SKIP", "reason": "missing src or vi" },
+    "preface_part_two": { "status": "SKIP", "reason": "missing src or vi" },
+    "preface_part_three": { "status": "SKIP", "reason": "missing src or vi" },
+    "part_one_intro": { "status": "SKIP", "reason": "missing src or vi" },
+    "ch01": { "status": "OK", "paragraphs": 5, "footnotes": 0, "footnote_range": "0-0", "aligned": true },
+    "ch02": { "status": "OK", "paragraphs": 40, "footnotes": 21, "footnote_range": "1-21", "aligned": true },
+    "ch03": { "status": "OK", "paragraphs": 35, "footnotes": 79, "footnote_range": "1-79", "aligned": true },
+    "ch04": { "status": "OK", "paragraphs": 34, "footnotes": 100, "footnote_range": "1-100", "aligned": true },
+    "ch05": { "status": "OK", "paragraphs": 37, "footnotes": 60, "footnote_range": "1-60", "aligned": true },
+    "ch06": { "status": "OK", "paragraphs": 29, "footnotes": 65, "footnote_range": "1-65", "aligned": true },
+    "ch07": { "status": "OK", "paragraphs": 39, "footnotes": 103, "footnote_range": "1-103", "aligned": true },
+    "ch08": { "status": "OK", "paragraphs": 44, "footnotes": 98, "footnote_range": "1-98", "aligned": true },
+    "ch09": { "status": "OK", "paragraphs": 36, "footnotes": 54, "footnote_range": "1-54", "aligned": true },
+    "ch10": { "status": "OK", "paragraphs": 37, "footnotes": 65, "footnote_range": "1-65", "aligned": true },
+    "ch11": { "status": "OK", "paragraphs": 43, "footnotes": 103, "footnote_range": "1-103", "aligned": true },
+    "ch12": { "status": "OK", "paragraphs": 71, "footnotes": 139, "footnote_range": "1-162", "aligned": true, "note": "gaps in numbering" },
+    "ch13": { "status": "OK", "paragraphs": 61, "footnotes": 5, "footnote_range": "1-5", "aligned": true }
+  }
+}

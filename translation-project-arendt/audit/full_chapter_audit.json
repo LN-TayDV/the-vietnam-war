@@ -1,0 +1,2649 @@
+{
+  "ch01": {
+    "chapter": "ch01",
+    "status": "AUDITED",
+    "source_quality": {
+      "v1_ocr_vs_v2_clean": "Compare v1 OCR source vs v2 clean source - needs manual review per chapter",
+      "page_boundaries_preserved": true,
+      "paragraph_splits_merges": "Detected via cross-page continuity check below",
+      "ocr_artifacts": "PAGE artifacts in ch12 footnotes; Cyrillic artifacts in ch12"
+    },
+    "paragraph_reconstruction": {
+      "vi_paragraph_count": 5,
+      "src_paragraph_count": 5,
+      "aligned": true,
+      "id_mismatches": [],
+      "missing_in_vi": [],
+      "extra_in_vi": []
+    },
+    "chapter_structure": {
+      "headings": [],
+      "heading_count": 0,
+      "heading_issues": []
+    },
+    "cross_page_continuity": [],
+    "text_integrity": {
+      "duplicates": {},
+      "out_of_order": [],
+      "missing_paragraphs": [],
+      "extra_paragraphs": []
+    },
+    "translation_alignment": {
+      "para_count_match": true,
+      "id_order_match": true,
+      "fn_defs_count": 0,
+      "fn_defs_range": "0-0",
+      "body_markers_count": 0,
+      "body_markers_range": "0-0",
+      "missing_markers": [],
+      "orphan_markers": [],
+      "fn_defs_sequential": true
+    },
+    "vnch_quality": {
+      "orthography_issues": [
+        {
+          "rule": "được passive overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 42,
+          "positions": [
+            816,
+            1512,
+            2079,
+            2322,
+            2524,
+            3571,
+            4587,
+            4609,
+            5009,
+            8244
+          ]
+        },
+        {
+          "rule": "rất vs quá (Northern prefers rất, VNCH prefers quá)",
+          "type": "vocabulary_northern",
+          "count": 4,
+          "positions": [
+            3716,
+            14537,
+            21025,
+            22199
+          ]
+        }
+      ],
+      "english_fragments": [
+        "nan",
+        "nghe",
+        "chi",
+        "coresponsible",
+        "cung",
+        "say",
+        "khung",
+        "Plato",
+        "Joseph",
+        "nhanh",
+        "danh",
+        "vinh",
+        "Tuy",
+        "cai",
+        "suy",
+        "khi",
+        "Sophistes",
+        "Phaedrus",
+        "khinh",
+        "Trung",
+        "nay",
+        "trinh",
+        "Dreyfus",
+        "Quan",
+        "huy",
+        "tin",
+        "Hit",
+        "theo",
+        "xem",
+        "Hai"
+      ],
+      "cyrillic_artifacts": false
+    },
+    "footnotes": {
+      "citation_patterns": {
+        "op_cit": 0,
+        "loc_cit": 0,
+        "ibid": 0,
+        "page_refs": 0
+      },
+      "placeholder_notes": "None",
+      "unintegrated_notes": []
+    },
+    "structural_elements": {
+      "block_quotes": 0,
+      "bibliography_entries": 0,
+      "index_entries": 0,
+      "tables": 0,
+      "figures": 0
+    },
+    "encoding": {
+      "has_bom": false,
+      "has_crlf": false,
+      "is_nfc": true
+    }
+  },
+  "ch02": {
+    "chapter": "ch02",
+    "status": "AUDITED",
+    "source_quality": {
+      "v1_ocr_vs_v2_clean": "Compare v1 OCR source vs v2 clean source - needs manual review per chapter",
+      "page_boundaries_preserved": true,
+      "paragraph_splits_merges": "Detected via cross-page continuity check below",
+      "ocr_artifacts": "PAGE artifacts in ch12 footnotes; Cyrillic artifacts in ch12"
+    },
+    "paragraph_reconstruction": {
+      "vi_paragraph_count": 40,
+      "src_paragraph_count": 40,
+      "aligned": true,
+      "id_mismatches": [],
+      "missing_in_vi": [],
+      "extra_in_vi": []
+    },
+    "chapter_structure": {
+      "headings": [],
+      "heading_count": 0,
+      "heading_issues": []
+    },
+    "cross_page_continuity": [
+      {
+        "type": "likely_continuation",
+        "page_boundary": "84→85",
+        "para_ids": "V1C02-P027 → V1C02-P028",
+        "curr_end": "g, và Nga; trong các cuộc thảo luận, Stoecker bị bại bởi các yếu tố cấp tiến họp lại một năm sau tại",
+        "next_start": "với hiện trạng; nó thường bị bỏ qua vì những người chống người Do Thái bản thân, một phần vì thói qu",
+        "severity": "HIGH"
+      }
+    ],
+    "text_integrity": {
+      "duplicates": {},
+      "out_of_order": [],
+      "missing_paragraphs": [],
+      "extra_paragraphs": []
+    },
+    "translation_alignment": {
+      "para_count_match": true,
+      "id_order_match": true,
+      "fn_defs_count": 21,
+      "fn_defs_range": "1-21",
+      "body_markers_count": 26,
+      "body_markers_range": "1-21",
+      "missing_markers": [],
+      "orphan_markers": [],
+      "fn_defs_sequential": true
+    },
+    "vnch_quality": {
+      "orthography_issues": [
+        {
+          "rule": "được passive overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 45,
+          "positions": [
+            2870,
+            3705,
+            4548,
+            5125,
+            5421,
+            7129,
+            9775,
+            9931,
+            10659,
+            14073
+          ]
+        },
+        {
+          "rule": "cái classifier overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 2,
+          "positions": [
+            24588,
+            42013
+          ]
+        },
+        {
+          "rule": "rất vs quá (Northern prefers rất, VNCH prefers quá)",
+          "type": "vocabulary_northern",
+          "count": 7,
+          "positions": [
+            17328,
+            17573,
+            20851,
+            24262,
+            33522,
+            39190,
+            44203
+          ]
+        }
+      ],
+      "english_fragments": [
+        "konnte",
+        "nghe",
+        "Return",
+        "Ergebnis",
+        "unterschieden",
+        "aus",
+        "Alldeutschen",
+        "vay",
+        "massacre",
+        "einfach",
+        "Habsburger",
+        "Trung",
+        "Monarchie",
+        "huy",
+        "Grossgrundbesitzadel",
+        "Ende",
+        "Bourbon",
+        "sehr",
+        "ban",
+        "dictadura",
+        "Oppenheimers",
+        "geworden",
+        "man",
+        "khoa",
+        "Stefan",
+        "West",
+        "Briefe",
+        "theo",
+        "Unique",
+        "Charles"
+      ],
+      "cyrillic_artifacts": false
+    },
+    "footnotes": {
+      "citation_patterns": {
+        "op_cit": 0,
+        "loc_cit": 0,
+        "ibid": 0,
+        "page_refs": 5
+      },
+      "placeholder_notes": "None",
+      "unintegrated_notes": []
+    },
+    "structural_elements": {
+      "block_quotes": 0,
+      "bibliography_entries": 0,
+      "index_entries": 0,
+      "tables": 0,
+      "figures": 0
+    },
+    "encoding": {
+      "has_bom": false,
+      "has_crlf": false,
+      "is_nfc": true
+    }
+  },
+  "ch03": {
+    "chapter": "ch03",
+    "status": "AUDITED",
+    "source_quality": {
+      "v1_ocr_vs_v2_clean": "Compare v1 OCR source vs v2 clean source - needs manual review per chapter",
+      "page_boundaries_preserved": true,
+      "paragraph_splits_merges": "Detected via cross-page continuity check below",
+      "ocr_artifacts": "PAGE artifacts in ch12 footnotes; Cyrillic artifacts in ch12"
+    },
+    "paragraph_reconstruction": {
+      "vi_paragraph_count": 35,
+      "src_paragraph_count": 35,
+      "aligned": true,
+      "id_mismatches": [],
+      "missing_in_vi": [],
+      "extra_in_vi": []
+    },
+    "chapter_structure": {
+      "headings": [],
+      "heading_count": 0,
+      "heading_issues": []
+    },
+    "cross_page_continuity": [],
+    "text_integrity": {
+      "duplicates": {
+        "DÂN TỘC QUỐC GIA, SỰ RA ĐỜI CHỦ NGHĨA PHÂN BIỂT CHỦNG TỘC DO THÁI để liên kết và thiết lập các tổ chức đám đông của riêng họ; tuyên truyền và sức hút của chúng dựa trên giả định rằng một xã hội đã thể hiện sự sẵn sàng kết hợp tội ác dưới hình thức lộc vào chính cấu trúc của nó sẽ đến lúc nầy đã sẵn sàng thanh tẩy mình khỏi sự gian ác bằng cách công khai chấp nhận kẻ phạm tội và công khai phạm tội.": [
+          "V1C03-P014",
+          "V1C03-P035"
+        ]
+      },
+      "out_of_order": [],
+      "missing_paragraphs": [],
+      "extra_paragraphs": []
+    },
+    "translation_alignment": {
+      "para_count_match": true,
+      "id_order_match": true,
+      "fn_defs_count": 79,
+      "fn_defs_range": "1-79",
+      "body_markers_count": 79,
+      "body_markers_range": "1-79",
+      "missing_markers": [],
+      "orphan_markers": [],
+      "fn_defs_sequential": true
+    },
+    "vnch_quality": {
+      "orthography_issues": [
+        {
+          "rule": "được passive overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 171,
+          "positions": [
+            1892,
+            1924,
+            2127,
+            3091,
+            3441,
+            4294,
+            5110,
+            5319,
+            5583,
+            5888
+          ]
+        },
+        {
+          "rule": "cái classifier overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 9,
+          "positions": [
+            5742,
+            13683,
+            19240,
+            20964,
+            46129,
+            73113,
+            75074,
+            80304,
+            82024
+          ]
+        },
+        {
+          "rule": "rất vs quá (Northern prefers rất, VNCH prefers quá)",
+          "type": "vocabulary_northern",
+          "count": 16,
+          "positions": [
+            7574,
+            7896,
+            13630,
+            18412,
+            21432,
+            30577,
+            40245,
+            45293,
+            55945,
+            62448
+          ]
+        }
+      ],
+      "english_fragments": [
+        "Life",
+        "tha",
+        "Morel",
+        "chi",
+        "liu",
+        "Alroy",
+        "cung",
+        "Sodome",
+        "say",
+        "Carlyle",
+        "Crossfire",
+        "khung",
+        "vita",
+        "Joseph",
+        "danh",
+        "trai",
+        "nhanh",
+        "mong",
+        "khao",
+        "Nha",
+        "Deucalion",
+        "vay",
+        "Tuy",
+        "cai",
+        "vinh",
+        "Syria",
+        "pha",
+        "suy",
+        "khi",
+        "ghen"
+      ],
+      "cyrillic_artifacts": false
+    },
+    "footnotes": {
+      "citation_patterns": {
+        "op_cit": 0,
+        "loc_cit": 0,
+        "ibid": 17,
+        "page_refs": 17
+      },
+      "placeholder_notes": "None",
+      "unintegrated_notes": []
+    },
+    "structural_elements": {
+      "block_quotes": 0,
+      "bibliography_entries": 0,
+      "index_entries": 0,
+      "tables": 0,
+      "figures": 0
+    },
+    "encoding": {
+      "has_bom": false,
+      "has_crlf": false,
+      "is_nfc": true
+    }
+  },
+  "ch04": {
+    "chapter": "ch04",
+    "status": "AUDITED",
+    "source_quality": {
+      "v1_ocr_vs_v2_clean": "Compare v1 OCR source vs v2 clean source - needs manual review per chapter",
+      "page_boundaries_preserved": true,
+      "paragraph_splits_merges": "Detected via cross-page continuity check below",
+      "ocr_artifacts": "PAGE artifacts in ch12 footnotes; Cyrillic artifacts in ch12"
+    },
+    "paragraph_reconstruction": {
+      "vi_paragraph_count": 34,
+      "src_paragraph_count": 34,
+      "aligned": true,
+      "id_mismatches": [],
+      "missing_in_vi": [],
+      "extra_in_vi": []
+    },
+    "chapter_structure": {
+      "headings": [],
+      "heading_count": 0,
+      "heading_issues": []
+    },
+    "cross_page_continuity": [
+      {
+        "type": "likely_continuation",
+        "page_boundary": "134→135",
+        "para_ids": "V1C04-P001 → V1C04-P002",
+        "curr_end": " Paris vào tháng Tư năm 1900. Tháng Năm, khi sự thành công của Hội chợ đã được bảo đảm, Hạ viện, với",
+        "next_start": "đa số áp đảo, đã bỏ phiếu chống lại mọi cuộc xét xử lại vụ Dreyfus. Vào tháng Chạp cùng năm ấy, mọi ",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "139→140",
+        "para_ids": "V1C04-P006 → V1C04-P007",
+        "curr_end": "fus mà là Clemenceau, và nó khởi đầu không phải với việc bắt giữ một sĩ quan tham mưu Do Thái mà với",
+        "next_start": "vụ tai tiếng kênh đào Panama. Công hòa Thứ ba và người Do Thái Pháp Giữa năm 1880 và 1888, Công ty P",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "145→146",
+        "para_ids": "V1C04-P012 → V1C04-P013",
+        "curr_end": "àm ăn. Chẳng phải họ đã buôn bán công khai những bản kê làm giả và gán cho chúng cái giá hờ hững như",
+        "next_start": "một thương gia buôn da thú rồi lại có thể trở thành Tổng thống Cộng hòa, hoặc con rể của Tổng thống ",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "155→156",
+        "para_ids": "V1C04-P022 → V1C04-P023",
+        "curr_end": " dội hơn trên đường phố.⁷⁴ Tổ chức của bè lũ bởi Bộ Tổng Tham mưu thật đáng kể. Dấu vết dẫn thẳng từ",
+        "next_start": "quân đội đến tờ Libre Parole, tờ báo mà — trực tiếp hay gián tiếp, qua các bài viết của nó hoặc sự c",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "156→157",
+        "para_ids": "V1C04-P023 → V1C04-P024",
+        "curr_end": "ốt nhạc hiện đại. Chính Régis trẻ tuổi nầy đã từng kêu gọi đám đông Paris đang hoan hô hãy \"tưới tắm",
+        "next_start": "cây tự do bằng máu của người Do Thái.\" Régis đại diện cho thành phần của phong trào hy vọng giành đư",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "159→160",
+        "para_ids": "V1C04-P026 → V1C04-P027",
+        "curr_end": "ó đủ tự tin để chỉ coi những ai nghe theo ông mới là dân chúng chân chính của Pháp, thì ông đã không",
+        "next_start": "sa vào cái niềm kiêu hãnh định mệnh vốn đánh dấu phần còn lại của sự nghiệp ông. Từ những kinh nghiệ",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "162→163",
+        "para_ids": "V1C04-P030 → V1C04-P031",
+        "curr_end": "họ rằng sự an ninh của họ đang bị đe dọa, thì họ đang sa vào một tiến trình đồng hóa đang tan rã, mà",
+        "next_start": "trong đó sự thiếu vắng khôn ngoan chánh trị của họ lại càng trầm trọng thêm chứ không phải giảm bớt.",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "164→165",
+        "para_ids": "V1C04-P032 → V1C04-P033",
+        "curr_end": "a hiệp. Nhưng thất bại của Clemenceau không có nghĩa là chiến thắng của Giáo hội và [tiếp trang sau]",
+        "next_start": "quân đội. Sự tách biệt giữa Giáo hội và Nhà nước cùng lệnh cấm giáo dục giáo xứ đã chấm dứt ảnh hưởn",
+        "severity": "HIGH"
+      }
+    ],
+    "text_integrity": {
+      "duplicates": {},
+      "out_of_order": [],
+      "missing_paragraphs": [],
+      "extra_paragraphs": []
+    },
+    "translation_alignment": {
+      "para_count_match": true,
+      "id_order_match": true,
+      "fn_defs_count": 100,
+      "fn_defs_range": "1-100",
+      "body_markers_count": 108,
+      "body_markers_range": "1-100",
+      "missing_markers": [],
+      "orphan_markers": [],
+      "fn_defs_sequential": true
+    },
+    "vnch_quality": {
+      "orthography_issues": [
+        {
+          "rule": "được passive overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 111,
+          "positions": [
+            265,
+            350,
+            440,
+            1337,
+            2284,
+            2419,
+            2617,
+            3134,
+            3205,
+            3268
+          ]
+        },
+        {
+          "rule": "cái classifier overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 35,
+          "positions": [
+            389,
+            7956,
+            9455,
+            10804,
+            11655,
+            13201,
+            15162,
+            18010,
+            18410,
+            18948
+          ]
+        },
+        {
+          "rule": "rất vs quá (Northern prefers rất, VNCH prefers quá)",
+          "type": "vocabulary_northern",
+          "count": 2,
+          "positions": [
+            9934,
+            30986
+          ]
+        }
+      ],
+      "english_fragments": [
+        "tra",
+        "nan",
+        "tha",
+        "nghe",
+        "chi",
+        "Zionist",
+        "Clermont",
+        "binh",
+        "Lueger",
+        "Meyer",
+        "cung",
+        "Gallifet",
+        "Prevost",
+        "Walsin",
+        "say",
+        "quinzaine",
+        "truy",
+        "Emile",
+        "Marsyas",
+        "danh",
+        "nhanh",
+        "bordereau",
+        "oan",
+        "Nha",
+        "bom",
+        "trai",
+        "mong",
+        "vay",
+        "khao",
+        "Labori"
+      ],
+      "cyrillic_artifacts": false
+    },
+    "footnotes": {
+      "citation_patterns": {
+        "op_cit": 51,
+        "loc_cit": 1,
+        "ibid": 1,
+        "page_refs": 48
+      },
+      "placeholder_notes": "None",
+      "unintegrated_notes": []
+    },
+    "structural_elements": {
+      "block_quotes": 0,
+      "bibliography_entries": 0,
+      "index_entries": 0,
+      "tables": 0,
+      "figures": 0
+    },
+    "encoding": {
+      "has_bom": false,
+      "has_crlf": false,
+      "is_nfc": true
+    }
+  },
+  "ch05": {
+    "chapter": "ch05",
+    "status": "AUDITED",
+    "source_quality": {
+      "v1_ocr_vs_v2_clean": "Compare v1 OCR source vs v2 clean source - needs manual review per chapter",
+      "page_boundaries_preserved": true,
+      "paragraph_splits_merges": "Detected via cross-page continuity check below",
+      "ocr_artifacts": "PAGE artifacts in ch12 footnotes; Cyrillic artifacts in ch12"
+    },
+    "paragraph_reconstruction": {
+      "vi_paragraph_count": 37,
+      "src_paragraph_count": 37,
+      "aligned": true,
+      "id_mismatches": [],
+      "missing_in_vi": [],
+      "extra_in_vi": []
+    },
+    "chapter_structure": {
+      "headings": [],
+      "heading_count": 0,
+      "heading_issues": []
+    },
+    "cross_page_continuity": [],
+    "text_integrity": {
+      "duplicates": {
+        "CHỦ NGHĨA ĐẾ QUỐC nghệ thuật xây dựng đế quốc kiểu La Mã mà ở việc noi theo khuôn mẫu khai thuộc địa của Hy Lạp. Thay vì chinh phục và áp đặt luật pháp của mình lên các dân tộc ngoại quốc, các thực dân Anh định cư trên những lãnh thổ mới chiếm được ở bốn góc thế giới và vẫn là thành viên của cùng một quốc gia Anh.¹⁰ Liệu cái cấu trúc liên bang của Khối thịnh vượng chung, được xây dựng một cách đáng khâm phục trên thực tại của một quốc gia tản lạc khắp địa cầu, có đủ mềm dẻo để cân bằng những khó khăn cố hữu của quốc gia trong việc xây dựng đế quốc và để thu nhận vĩnh viễn các dân tộc không phải là người Anh như những \"đối tác trong công ty\" của Khối thịnh vượng chung hay chăng, thì vẫn còn phải chờ xem. Quy chế tự trị hiện nay của Ấn Độ — một quy chế, nhân tiện, đã bị các nhà dân tộc chủ nghĩa Ấn cương quyết khước từ trong cuộc chiến — đã thường được coi là một giải pháp tạm thời và quá độ.¹¹ Mâu thuẫn nội tại giữa chính thể của quốc gia và chinh phục như một thủ đoạn chánh trị đã hiển nhiên kể từ thất bại của giấc mơ Napoleon. Chính vì kinh nghiệm nầy chứ không phải vì những cân nhắc nhân đạo mà sự chinh phục từ đó đã bị lên án chính thức và chỉ đóng một vai trò thứ yếu trong việc điều chỉnh các cuộc xung đột biên giới. Sự thất bại của Napoleon trong việc thống nhất châu Âu dưới lá cờ Pháp là một chỉ dấu rõ ràng rằng sự chinh phục của một quốc gia dẫn đến hoặc là sự thức tỉnh hoàn toàn ý thức dân tộc của dân tộc bị chinh phục và cuộc nổi dậy tiếp theo chống lại kẻ đi chinh phục, hoặc là bạo chúa. Và dầu bạo chúa, bởi vì nó không cần đến sự tán thành, có thể cai trị thành công các dân tộc ngoại quốc, thì nó chỉ có thể ở lại quyền lực nếu trước hết nó phá hủy các định chế dân tộc của chính dân tộc mình. Người Pháp, trái với người Anh và mọi quốc gia khác ở châu Âu,": [
+          "V1C05-P006",
+          "V1C05-P007"
+        ],
+        "CHỦ NGHĨA ĐẾ QUỐC Hobbes chỉ ra rằng trong cuộc tranh giành quyền lực, cũng như trong các năng khiếu bẩm sinh về quyền lực của họ, mọi người đều bình đẳng; bởi vì sự bình đẳng của con người đặt nền tảng trên cái sự kiện rằng mỗi người theo tự nhiên có đủ quyền lực để giết một người khác. Sự yếu đuối có thể được bù đắp bằng mưu trí. Sự bình đẳng của họ với tư cách những kẻ sát nhân tiềm tàng đặt mọi người vào cùng một sự bất an, mà từ đó phát sinh nhu cầu về một nhà nước. Lý do tồn tại của nhà nước là nhu cầu về một sự an ninh nào đó cho cá nhân, kẻ cảm thấy mình bị đe dọa bởi tất cả các đồng loại của mình. Cái đặc điểm quyết định trong bức tranh của Hobbes về con người hoàn toàn không phải là sự bi quan hiện thực mà vì đó ông đã được ca ngợi trong thời gian gần đây. Bởi vì nếu quả thật con người là một hữu thể như Hobbes muốn nó, thì nó sẽ không có khả năng thiết lập bất kỳ chính thể nào cả. Hobbes, quả thật, đã không thành công, và thậm chí không muốn thành công, trong việc kết hợp dứt khoát hữu thể nầy vào một cộng đồng chánh trị. Con Người của Hobbes không mắc nợ lòng trung thành nào với tổ quốc của mình nếu nó đã bị đánh bại và được miễn xá cho mọi sự phản bội nếu nó tình cờ bị bắt làm tù binh. Những kẻ sống bên ngoài Thịnh vượng chung (chẳng hạn, nô lệ) không có nghĩa vụ gì thêm đối với đồng loại của họ nhưng được phép giết nhiều kẻ tùy thích; trong khi, trái lại, \"chống lại Thanh Gươm của Thịnh vượng chung để bảo vệ một người khác, có tội hay vô tội, không ai có Quyền,\" mà có nghĩa là không có tình huynh đệ cũng không có trách nhiệm giữa người với người. Cái giữ họ lại với nhau là một quyền lợi chung mà có thể là \"một Tội đại hình nào đó, mà mỗi kẻ trong bọn họ đều mong cái chết\"; trong trường hợp nầy họ có quyền \"chống lại Thanh Gươm của Thịnh vượng chung,\" để \"kết hợp lại, và hỗ trợ, và bảo vệ lẫn nhau . . . Bởi vì họ chỉ bảo vệ đời sống của mình mà thôi.\" Bởi thế, tư cách thành viên trong bất kỳ hình thức cộng đồng nào đối với Hobbes là một công việc tạm thời và giới hạn mà về căn bản không thay đổi tính cách cô độc và tư nhân của cá nhân (kẻ mà \"không có niềm vui nào, mà trái lại có nhiều nỗi buồn khổ trong việc bầu bạn, nơi không có quyền lực để áp đảo tất cả bọn họ\") hay không tạo ra các mối dây liên kết thường trực giữa người ấy với đồng loại của mình. Dường như bức tranh của Hobbes về con người đã đánh bại chính mục đích của ông là cung cấp nền tảng cho một Thịnh vượng chung và thay vào đó đưa ra một khuôn mẫu nhất quán của các thái độ mà qua đó mọi cộng đồng chân chính đều có thể dễ dàng bị phá hủy. Điều nầy dẫn đến sự bất ổn cố hữu và đã được thừa nhận của Thịnh vượng chung Hobbes, mà chính quan niệm của nó bao gồm sự giải thể của chính nó — \"khi trong một cuộc chiến (ngoại quốc, hay nội bộ,) kẻ thù giành được một Chiến Thắng chung cuộc . . . thì Thịnh vượng chung bị giải thể, và mỗi người được tự do để tự bảo vệ mình\" — một sự bất ổn càng nổi bật hơn bởi vì mục tiêu chính và thường được lặp lại của Hobbes là bảo đảm một sự an ninh và ổn định tối đa. Sẽ là một sự bất công nghiêm trọng đối với Hobbes và nhân phẩm của ông như một nhà triết học nếu coi bức tranh nầy về con người là một nỗ lực nhằm hiện thực luận tâm lý hay chân lý triết học. Sự thật là Hobbes không quan tâm đến cái nào trong hai thứ đó, mà chỉ quan tâm độc quyền đến cấu trúc chánh trị tự thân, và ông mô tả các đặc điểm của con người theo nhu cầu của Leviathan. Vì lý lẽ và xác tín, ông trình bày cái phác thảo chánh trị của mình như thể ông khởi sự từ một sự sáng suốt hiện thực vào con người, một hữu thể mà \"thèm khát quyền lực nầy rồi quyền lực khác,\" và như thể ông tiến từ sự sáng suốt nầy đến một kế hoạch cho một chính thể thích hợp nhất": [
+          "V1C05-P019",
+          "V1C05-P020"
+        ],
+        "CHỦ NGHĨA ĐẾ QUỐC Nhà kinh doanh theo tư tưởng đế quốc, kẻ mà các ngôi sao đã làm phiền lòng vì ông không thể thâu tóm chúng, đã nhận ra rằng quyền lực được tổ chức vì chính nó sẽ đẻ ra nhiều quyền lực hơn. Khi sự tích lũy tư bản đã đạt tới giới hạn dân tộc tự nhiên của nó, thì giai cấp tư sản đã hiểu rằng chỉ với một ý thức hệ \"bành trướng là tất cả,\" và chỉ với một tiến trình tích lũy quyền lực tương ứng, thì mới có thể khởi động lại cái động cơ cũ. Cùng lúc ấy, khi dường như cái nguyên lý chân chính của chuyển động vĩnh cửu đã được khám phá, thì tâm trạng lạc quan đặc thù của ý thức hệ tiến bộ đã bị lung lay. Không phải có ai đó bắt đầu nghi ngờ tính không thể cưỡng lại của tiến trình tự thân, mà là nhiều người bắt đầu thấy cái điều đã làm Cecil Rhodes sợ hãi: rằng thân phận con người và những giới hạn của địa cầu là một chướng ngại nghiêm trọng đối với một tiến trình không có khả năng dừng lại và ổn định, và do đó chỉ có thể khởi sự một chuỗi thảm họa phá hủy một khi nó đã đạt tới những giới hạn nầy. Trong thời đại đế quốc, một triết học về quyền lực đã trở thành triết học của giới tinh hoa, những kẻ đã nhanh chóng khám phá và khá sẵn sàng thừa nhận rằng cơn khát quyền lực chỉ có thể được dập tắt thông qua sự phá hủy. Đây là nguyên nhân thiết yếu của chủ nghĩa hư vô của họ (đặc biệt nổi bật ở Pháp vào lúc bấy giờ, và ở Đức trong thập niên 1920 của thế kỷ nầy) mà đã thay thế sự mê tín về tiến bộ bằng sự mê tín không kém phần tầm thường về diệt vong, và đã rao giảng sự tiêu diệt tự động với cùng một lòng nhiệt thành mà những kẻ cuồng tín của tiến bộ tự động đã rao giảng tính không thể cưỡng lại của các quy luật kinh tế. Phải mất ba thế kỷ thì Hobbes, vị thần tượng vĩ đại của Thành Công, mới thành công. Điều nầy một phần là vì Cách mạng Pháp, với quan niệm của nó về con người như nhà lập pháp và citoyen, đã gần như thành công trong việc ngăn ngừa giai cấp tư sản phát triển đầy đủ quan niệm của nó về lịch sử như một tiến trình tất yếu. Nhưng nó cũng một phần là vì những hàm ý cách mạng của Thịnh vượng chung, sự đoạn tuyệt can đảm của nó với truyền thống Tây phương, mà Hobbes đã không quên chỉ ra. Mọi người và mọi tư tưởng không phục vụ và không tuân theo cứu cánh tối hậu của một cỗ máy mà cứu cánh duy nhất của nó là sự sản sinh và tích lũy quyền lực đều là một mối phiền toái nguy hiểm. Hobbes đã phán đoán rằng các sách vở của \"người Hy Lạp và La Mã cổ đại\" cũng \"bất lợi\" như giáo lý của một \"Summum bonum\" Cơ Đốc . . . \"như [nó] được nói đến trong các Sách của các Triết Gia Đạo Đức Cũ\" hay học thuyết rằng \"bất cứ điều gì một người làm trái với Lương Tâm của mình, là Tội\" và rằng \"Luật Pháp là các Quy Tắc của Điều Phải và Điều Bất.\" Sự nghi ngờ sâu sắc của Hobbes đối với toàn bộ truyền thống Tây phương của tư tưởng chánh trị sẽ không làm chúng ta ngạc nhiên nếu chúng ta nhớ rằng ông không muốn gì hơn gì kém hơn sự biện minh cho Bạo Chúa mà, dầu đã xảy ra nhiều lần trong lịch sử Tây phương, đã chưa bao giờ được vinh dự với một nền tảng triết học. Rằng cuốn Leviathan thật ra tương đương với một sự cai trị thường trực của bạo chúa, thì Hobbes tự hào thừa nhận: \"cái tên Bạo Chúa chẳng hàm nghĩa gì hơn gì kém hơn cái tên Chủ Quyền . . . ; tôi nghĩ rằng sự dung thứ cho một lòng căm ghét đã được tuyên bố đối với Bạo Chúa, là một Sự Dung Thứ cho lòng căm ghét đối với Thịnh vượng chung nói chung . . .\" Bởi vì Hobbes là một nhà triết học, nên ông đã có thể phát hiện trong sự trỗi dậy của": [
+          "V1C05-P024",
+          "V1C05-P025"
+        ]
+      },
+      "out_of_order": [],
+      "missing_paragraphs": [],
+      "extra_paragraphs": []
+    },
+    "translation_alignment": {
+      "para_count_match": true,
+      "id_order_match": true,
+      "fn_defs_count": 60,
+      "fn_defs_range": "1-60",
+      "body_markers_count": 64,
+      "body_markers_range": "1-60",
+      "missing_markers": [],
+      "orphan_markers": [],
+      "fn_defs_sequential": true
+    },
+    "vnch_quality": {
+      "orthography_issues": [
+        {
+          "rule": "được passive overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 145,
+          "positions": [
+            1212,
+            1258,
+            1315,
+            2465,
+            3016,
+            3758,
+            6381,
+            6690,
+            8659,
+            9941
+          ]
+        },
+        {
+          "rule": "cái classifier overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 91,
+          "positions": [
+            737,
+            1368,
+            2225,
+            5600,
+            6518,
+            7089,
+            10064,
+            10372,
+            10806,
+            12389
+          ]
+        },
+        {
+          "rule": "rất vs quá (Northern prefers rất, VNCH prefers quá)",
+          "type": "vocabulary_northern",
+          "count": 9,
+          "positions": [
+            6664,
+            7832,
+            11374,
+            27098,
+            30538,
+            74364,
+            75472,
+            91046,
+            91587
+          ]
+        }
+      ],
+      "english_fragments": [
+        "Cape",
+        "Dung",
+        "Front",
+        "tha",
+        "Bench",
+        "chi",
+        "Aryan",
+        "binh",
+        "Hesketh",
+        "Carl",
+        "tia",
+        "Far",
+        "cung",
+        "khung",
+        "truy",
+        "Xlaven",
+        "danh",
+        "nhanh",
+        "khao",
+        "mong",
+        "bonum",
+        "trai",
+        "vay",
+        "East",
+        "boomerang",
+        "Tuy",
+        "cai",
+        "vinh",
+        "pha",
+        "colonies"
+      ],
+      "cyrillic_artifacts": false
+    },
+    "footnotes": {
+      "citation_patterns": {
+        "op_cit": 25,
+        "loc_cit": 0,
+        "ibid": 1,
+        "page_refs": 39
+      },
+      "placeholder_notes": "None",
+      "unintegrated_notes": []
+    },
+    "structural_elements": {
+      "block_quotes": 0,
+      "bibliography_entries": 0,
+      "index_entries": 0,
+      "tables": 0,
+      "figures": 0
+    },
+    "encoding": {
+      "has_bom": false,
+      "has_crlf": false,
+      "is_nfc": true
+    }
+  },
+  "ch06": {
+    "chapter": "ch06",
+    "status": "AUDITED",
+    "source_quality": {
+      "v1_ocr_vs_v2_clean": "Compare v1 OCR source vs v2 clean source - needs manual review per chapter",
+      "page_boundaries_preserved": true,
+      "paragraph_splits_merges": "Detected via cross-page continuity check below",
+      "ocr_artifacts": "PAGE artifacts in ch12 footnotes; Cyrillic artifacts in ch12"
+    },
+    "paragraph_reconstruction": {
+      "vi_paragraph_count": 29,
+      "src_paragraph_count": 29,
+      "aligned": true,
+      "id_mismatches": [],
+      "missing_in_vi": [],
+      "extra_in_vi": []
+    },
+    "chapter_structure": {
+      "headings": [],
+      "heading_count": 0,
+      "heading_issues": []
+    },
+    "cross_page_continuity": [],
+    "text_integrity": {
+      "duplicates": {
+        "CHỦ NGHĨA ĐẾ QUỐC được \"affranchissement,\" nhờ ân sủng của những kẻ sinh ra đã tự do, tức giới quý tộc. Vài năm sau, những kẻ Pháp lưu vong quả thật đã cố gắng lập một internationale của giới quý tộc nhằm ngăn chặn cuộc nổi dậy của những kẻ mà họ xem là một dân tộc nô lệ ngoại quốc. Và mặc dầu khía cạnh thực tiễn hơn của những nỗ lực nầy đã chịu thảm họa ngoạn mục ở Valmy, thì những kẻ di tản như Charles François Dominique de Villiers, người vào khoảng năm 1800 đã đặt các \"Gallo-Romain\" đối lập với các Germanic, hay như William Alter, người một thập niên sau mơ về một liên bang của tất cả các dân tộc Germanic,¹² đã không thừa nhận thất bại. Có lẽ chưa bao giờ thoáng qua tâm trí họ rằng họ thật ra là những kẻ phản bội, bởi vì họ tin chắc đến nỗi xem Cách mạng Pháp như một \"cuộc chiến giữa các dân tộc ngoại quốc\" — như François Guizot về sau đã diễn tả. Trong khi Boulainvilliers, với sự công bằng điềm tĩnh của một thời ít bị xáo trộn hơn, đã đặt nền quyền của giới quý tộc hoàn toàn trên quyền chinh phục mà không trực tiếp hạ thấp chính bản chất của dân tộc bị chinh phục kia, thì Bá tước de Montlosier, một trong những nhân vật khá khả nghi giữa những kẻ Pháp lưu vong, đã công khai bày tỏ sự khinh miệt của ông đối với cái \"dân tộc mới trỗi dậy từ đám nô lệ (một sự pha trộn) của mọi chủng tộc và mọi thời đại.\"¹³ Rõ ràng thời thế đã đổi thay và những quý tộc không còn thuộc về một chủng tộc chưa bị chinh phục cũng phải thay đổi. Họ từ bỏ ý niệm cũ, vốn rất thân thiết với Boulainvilliers và thậm chí với Montesquieu, rằng riêng sự chinh phục, tức fortune des armes, quyết định số phận của con người. Cái Valmy của các hệ tư tưởng quý tộc đã đến khi vị Abbé Sieyès trong tập sách trứ danh của ông bảo Tiers Etat hãy \"gởi trả về những khu rừng của Franconia tất cả những gia đình còn giữ cái tham vọng lố bịch là hậu duệ của chủng tộc đi chinh phục và đã thừa kế quyền của họ.\"¹⁴ Điều khá kỳ lạ là, kể từ những thời kỳ đầu nầy, khi các quý tộc Pháp trong cuộc đấu tranh giai cấp chống lại giai cấp tư sản đã khám phá ra rằng họ thuộc về một dân tộc khác, có một nguồn gốc phả hệ khác, và gắn bó với một giai cấp quốc tế chặt chẽ hơn là với mảnh đất nước Pháp, thì tất cả các học thuyết chủng tộc Pháp đều đã ủng hộ thuyết German hay ít nhất là sự thượng đẳng của các dân tộc Nordic đối với chính các đồng bào của họ. Bởi vì nếu những con người của Cách mạng Pháp tự đồng hóa mình về mặt tinh thần với Rome, thì không phải vì họ đối lập một \"thuyết Latin\" của Tiers Etat với \"thuyết German\" của giới quý tộc mình, mà vì họ cảm thấy mình là những kẻ thừa kế tinh thần của nền Cộng hòa La Mã. Yêu sách lịch sử nầy, tương phản với sự đồng hóa bộ tộc của giới quý tộc, có lẽ đã là một trong những nguyên nhân ngăn \"thuyết Latin\" nổi lên thành một học thuyết chủng tộc riêng của chính nó. Dù sao đi nữa, nghịch lý thay, sự kiện là người Pháp đã khăng khăng về cái ý tưởng cố định nầy về sự thượng đẳng Germanic sớm hơn người Đức": [
+          "V1C06-P007",
+          "V1C06-P008"
+        ],
+        "TƯ DUY VỀ CHỦNG TỘC TRƯỚC CHỦ NGHĨA PHÂN BIỆT CHỦNG TỘC giữa thế kỷ mười chín cho đến khi chủ nghĩa đế quốc thực sự bùng nổ vào cuối thế kỷ ấy, không một ai thoát khỏi ảnh hưởng của Carlyle, nhưng không một ai có thể bị buộc tội rao giảng chủ nghĩa phân biệt chủng tộc công khai. Chính Carlyle, trong tiểu luận của ông về \"Vấn Đề Da Đen,\" quan tâm đến các phương tiện giúp Tây Ấn thuộc địa sản sinh ra những \"người hùng.\" Charles Dilke, người mà cuốn Greater Britain (1869) đôi khi được xem là khởi đầu của chủ nghĩa đế quốc,⁵⁹ là một nhà cấp tiến tiên tiến đã tôn vinh các thực dân Anh như là một phần của dân tộc Anh, chống lại những kẻ sẽ nhìn xuống họ và đất đai của họ như những thuộc địa đơn thuần. J. R. Seeley, người mà cuốn Expansion of England (1883) đã bán được 80.000 bản trong vòng chưa đầy hai năm, vẫn tôn trọng người Hindu như một dân tộc ngoại quốc và phân biệt họ rõ ràng với những kẻ \"man di.\" Ngay cả Froude, người mà sự ngưỡng mộ đối với người Boers, những người da trắng đầu tiên được cải hóa rõ ràng sang triết học bộ tộc của chủ nghĩa phân biệt chủng tộc, có thể có vẻ đáng ngờ, đã chống lại việc trao quá nhiều quyền cho Nam Phi bởi vì \"tự trị ở Nam Phi có nghĩa là sự cai trị dân bản xứ bởi các thực dân châu Âu và điều đó không phải là tự trị.\"⁶⁰ Rất giống như ở Đức, chủ nghĩa dân tộc Anh đã ra đời và được khích lệ bởi một giai cấp trung lưu chưa bao giờ hoàn toàn giải phóng mình khỏi giới quý tộc và do đó mang trong nó những mầm mống đầu tiên của tư duy chủng tộc. Nhưng khác với Đức, nơi mà sự thiếu vắng hợp nhất đã khiến một bức tường hệ tư tưởng trở nên cần thiết để thay thế cho các sự kiện lịch sử hay địa lý, thì Quần đảo Anh hoàn toàn được phân cách với thế giới xung quanh bởi các biên giới tự nhiên và nước Anh với tư cách một dân tộc đã phải nghĩ ra một học thuyết về sự hợp nhất giữa những con người sống trong các thuộc địa xa xăm bên kia biển, cách biệt với mẫu quốc hàng ngàn dặm. Mối dây duy nhất giữa họ là nguồn gốc chung, tổ tiên chung, ngôn ngữ chung. Sự ly khai của Hợp Chủng Quốc đã cho thấy rằng những mối dây nầy tự chúng không bảo đảm sự thống trị; và không những Mỹ, các thuộc địa khác nữa, tuy không với cùng bạo lực, cũng cho thấy những khuynh hướng mạnh mẽ nhằm phát triển theo những đường lối hiến định khác với mẫu quốc. Nhằm cứu vãn những công dân Anh cũ nầy, Dilke, chịu ảnh hưởng của Carlyle, đã nói đến \"Saxondom,\" một từ dường như có thể giành lại ngay cả dân chúng Hợp Chủng Quốc, những kẻ mà một phần ba quyển sách của ông dành cho họ. Là một nhà cấp tiến, Dilke có thể hành động như thể Chiến Tranh Độc Lập đã không phải là một cuộc chiến giữa hai dân tộc, mà là hình thức Anh của cuộc nội chiến thế kỷ mười tám, trong đó ông đã muộn màng đứng về phía những người Cộng Hòa. Bởi vì ở đây nằm một trong những lý do cho sự kiện đáng ngạc nhiên rằng các nhà cải cách xã hội và các nhà cấp tiến là những người cổ vũ chủ nghĩa dân tộc ở Anh: họ muốn giữ các thuộc địa không những bởi vì họ nghĩ chúng là những lối thoát cần thiết cho các giai cấp hạ lưu; họ thật ra muốn duy trì ảnh hưởng lên mẫu quốc mà những đứa con cấp tiến hơn nầy của Quần đảo Anh đã thi hành. Động cơ nầy mạnh mẽ ở Froude, kẻ đã mong muốn \"giữ các thuộc địa bởi vì ông nghĩ có thể tái tạo trong đó một trạng thái xã hội đơn giản hơn và một lối sống cao quý hơn so với những gì khả dĩ ở nước Anh kỹ nghệ,\"⁶¹ và nó đã có một": [
+          "V1C06-P025",
+          "V1C06-P026"
+        ]
+      },
+      "out_of_order": [],
+      "missing_paragraphs": [],
+      "extra_paragraphs": []
+    },
+    "translation_alignment": {
+      "para_count_match": true,
+      "id_order_match": true,
+      "fn_defs_count": 65,
+      "fn_defs_range": "1-65",
+      "body_markers_count": 72,
+      "body_markers_range": "1-65",
+      "missing_markers": [],
+      "orphan_markers": [],
+      "fn_defs_sequential": true
+    },
+    "vnch_quality": {
+      "orthography_issues": [
+        {
+          "rule": "được passive overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 116,
+          "positions": [
+            813,
+            874,
+            2202,
+            4635,
+            4970,
+            5170,
+            7521,
+            8059,
+            9313,
+            9654
+          ]
+        },
+        {
+          "rule": "cái classifier overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 49,
+          "positions": [
+            8274,
+            9522,
+            9855,
+            10240,
+            11822,
+            11912,
+            14024,
+            19526,
+            22491,
+            26256
+          ]
+        },
+        {
+          "rule": "rất vs quá (Northern prefers rất, VNCH prefers quá)",
+          "type": "vocabulary_northern",
+          "count": 10,
+          "positions": [
+            19193,
+            22158,
+            46460,
+            46828,
+            53918,
+            60938,
+            64081,
+            70035,
+            79416,
+            82287
+          ]
+        }
+      ],
+      "english_fragments": [
+        "tra",
+        "Josef",
+        "tha",
+        "nghe",
+        "Aryan",
+        "William",
+        "chi",
+        "Frederick",
+        "Ludwig",
+        "Louis",
+        "Decline",
+        "Gustav",
+        "politique",
+        "cung",
+        "armes",
+        "Haeckel",
+        "say",
+        "Carlyle",
+        "khung",
+        "truy",
+        "Hegel",
+        "Mussolini",
+        "Joseph",
+        "Guizot",
+        "danh",
+        "trai",
+        "nang",
+        "mong",
+        "khao",
+        "Augustin"
+      ],
+      "cyrillic_artifacts": false
+    },
+    "footnotes": {
+      "citation_patterns": {
+        "op_cit": 18,
+        "loc_cit": 0,
+        "ibid": 2,
+        "page_refs": 36
+      },
+      "placeholder_notes": "None",
+      "unintegrated_notes": []
+    },
+    "structural_elements": {
+      "block_quotes": 0,
+      "bibliography_entries": 0,
+      "index_entries": 0,
+      "tables": 0,
+      "figures": 0
+    },
+    "encoding": {
+      "has_bom": false,
+      "has_crlf": false,
+      "is_nfc": true
+    }
+  },
+  "ch07": {
+    "chapter": "ch07",
+    "status": "AUDITED",
+    "source_quality": {
+      "v1_ocr_vs_v2_clean": "Compare v1 OCR source vs v2 clean source - needs manual review per chapter",
+      "page_boundaries_preserved": true,
+      "paragraph_splits_merges": "Detected via cross-page continuity check below",
+      "ocr_artifacts": "PAGE artifacts in ch12 footnotes; Cyrillic artifacts in ch12"
+    },
+    "paragraph_reconstruction": {
+      "vi_paragraph_count": 39,
+      "src_paragraph_count": 39,
+      "aligned": true,
+      "id_mismatches": [],
+      "missing_in_vi": [],
+      "extra_in_vi": []
+    },
+    "chapter_structure": {
+      "headings": [],
+      "heading_count": 0,
+      "heading_issues": []
+    },
+    "cross_page_continuity": [],
+    "text_integrity": {
+      "duplicates": {
+        "CHỦ NGHĨA ĐẾ QUỐC của một xã hội chủng tộc.³⁹ Hôm nay, mọi tầng lớp dân số, Anh hay Afrikander, công nhân có tổ chức hay nhà tư bản, đều đồng thuận về vấn đề chủng tộc,⁴⁰ và trong khi sự trỗi dậy của nước Đức Quốc xã và nỗ lực có ý thức của nó nhằm biến dân tộc Đức thành một chủng tộc đã củng cố đáng kể vị thế chánh trị của người Boers, thì thất bại của Đức đã không làm suy yếu nó. Người Boers ghét và sợ các nhà tài chánh hơn những người ngoại quốc khác. Bằng cách nào đó họ hiểu rằng nhà tài chánh là một nhân vật then chốt trong sự kết hợp giữa của cải dư thừa và con người dư thừa, rằng chức năng của ông là biến cuộc săn vàng vốn dĩ chỉ nhất thời thành một công việc rộng lớn hơn và thường trực hơn.⁴¹ Hơn nữa, cuộc chiến với người Anh chẳng bao lâu đã phơi bày một khía cạnh còn quyết định hơn; hiển nhiên là nó đã được thúc đẩy bởi các nhà đầu tư ngoại quốc, những kẻ đòi hỏi sự bảo hộ của chánh phủ đối với những lợi nhuận khổng lồ của họ ở các xứ sở xa xôi như một lẽ đương nhiên — như thể những đạo quân tham chiến chống lại các dân tộc ngoại quốc chẳng qua chỉ là những lực lượng cảnh sát bản xứ dính vào một cuộc đụng độ với những tên tội phạm bản xứ. Đối với người Boers, việc những kẻ đã đưa loại bạo lực nầy vào những công việc mờ ám của việc sản xuất vàng và kim cương không còn là các nhà tài chánh nữa, mà là những kẻ bằng cách nào đó đã trỗi dậy từ chính đám đông và, như Cecil Rhodes, tin tưởng ít vào lợi nhuận hơn vào sự bành trướng vì bành trướng,⁴² chẳng có mấy khác biệt. Các nhà tài chánh, những kẻ phần lớn là người Do Thái và chỉ là những đại diện, chứ không phải chủ nhân, của tư bản dư thừa, đã không có ảnh hưởng chánh trị cần thiết cũng không đủ quyền lực kinh tế để đưa các mục đích chánh trị và việc sử dụng bạo lực vào đầu cơ và cờ bạc. Chắc chắn các nhà tài chánh, dẫu rốt cuộc không phải là yếu tố quyết định trong": [
+          "V1C07-P016",
+          "V1C07-P017"
+        ],
+        "CHỦ NGHĨA ĐẾ QUỐC ảo tưởng rằng tiến trình lịch sử tất yếu là \"tiến bộ,\" bởi vì nếu là con đường của việc khai thuộc địa cũ để di cư đến một cái gì đó, thì \"người Hòa Lan đã di cư ra khỏi mọi thứ,\"⁵⁸ và nếu \"lịch sử kinh tế một thời đã dạy rằng con người đã phát triển qua những bước tiệm tiến từ một đời sống săn bắn đến các nghề chăn nuôi và cuối cùng đến một đời sống định cư và nông nghiệp,\" thì câu chuyện của người Boers đã chứng minh rõ ràng rằng người ta cũng có thể đến \"từ một xứ sở đã đi tiên phong trong một sự canh tác cần kiệm và thâm canh . . . [và] dần dần trở thành một kẻ chăn nuôi và một thợ săn.\"⁵⁹ Những nhà lãnh đạo nầy hiểu rất rõ rằng chính bởi vì người Boers đã lún trở lại mức của các bộ tộc dã man mà họ vẫn là những ông chủ không thể tranh cãi của chúng. Họ hoàn toàn sẵn lòng trả cái giá đó, để lùi xuống mức của một tổ chức chủng tộc, nếu bằng cách ấy họ có thể mua được quyền làm lãnh chúa trên các \"chủng tộc\" khác. Và họ biết từ những kinh nghiệm của họ với những con người tụ tập từ bốn phương trời ở Nam Phi rằng toàn bộ đám đông của thế giới văn minh Tây phương sẽ đứng về phía họ.⁶⁰ Tính Cách Đế Quốc TRONG HAI thiết bị chánh trị chủ yếu của ách thống trị đế quốc, chủng tộc đã được khám phá ở Nam Phi và quan lại chế ở Algeria, Ai Cập, và Ấn Độ; cái trước thoạt đầu là phản ứng hầu như không ý thức được đối với các bộ tộc mà nhân tính của họ khiến con người Âu châu phải hổ thẹn và hoảng sợ, trong khi cái sau là một hệ quả của nền cai trị mà qua đó người Âu châu đã cố gắng thống trị các dân tộc ngoại quốc mà họ cảm thấy là những kẻ dưới mình một cách vô vọng và đồng thời lại cần đến sự bảo hộ đặc biệt của họ. Chủng tộc, nói cách khác, là một cuộc trốn chạy vào một sự vô trách nhiệm, nơi không còn gì thuộc về con người có thể tồn tại nữa, và quan lại chế là kết quả của một trách nhiệm mà không một người nào có thể gánh vác cho đồng loại của mình và không một dân tộc nào cho một dân tộc khác. Cảm thức phóng đại về trách nhiệm trong các viên quan cai trị Anh ở Ấn Độ, những kẻ kế tục \"những kẻ phá luật\" của Burke, có cơ sở vật chất của nó trong sự kiện rằng Đế quốc Anh thật ra đã bị chiếm được trong một \"cơn đãng trí.\" Do đó, những kẻ phải đối diện với sự thật đã hoàn thành và công việc duy trì cái đã trở thành của họ nhờ một sự tình cờ, đã phải tìm ra một cách diễn giải có thể biến sự tình cờ thành một thứ hành động có chủ ý. Những sự biến đổi lịch sử của sự thật như vậy đã được thực hiện qua các huyền thoại": [
+          "V1C07-P024",
+          "V1C07-P025"
+        ]
+      },
+      "out_of_order": [],
+      "missing_paragraphs": [],
+      "extra_paragraphs": []
+    },
+    "translation_alignment": {
+      "para_count_match": true,
+      "id_order_match": true,
+      "fn_defs_count": 103,
+      "fn_defs_range": "1-103",
+      "body_markers_count": 110,
+      "body_markers_range": "1-103",
+      "missing_markers": [],
+      "orphan_markers": [],
+      "fn_defs_sequential": true
+    },
+    "vnch_quality": {
+      "orthography_issues": [
+        {
+          "rule": "được passive overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 150,
+          "positions": [
+            147,
+            836,
+            2154,
+            2642,
+            3129,
+            3661,
+            3898,
+            4041,
+            4810,
+            4965
+          ]
+        },
+        {
+          "rule": "cái classifier overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 42,
+          "positions": [
+            490,
+            1175,
+            3449,
+            8099,
+            10274,
+            10432,
+            12042,
+            13164,
+            13838,
+            15587
+          ]
+        },
+        {
+          "rule": "rất vs quá (Northern prefers rất, VNCH prefers quá)",
+          "type": "vocabulary_northern",
+          "count": 5,
+          "positions": [
+            5147,
+            21127,
+            26210,
+            85534,
+            88034
+          ]
+        }
+      ],
+      "english_fragments": [
+        "kho",
+        "Kimberley",
+        "tha",
+        "chi",
+        "noblesse",
+        "rau",
+        "binh",
+        "Candia",
+        "Kurtz",
+        "Carl",
+        "tia",
+        "cung",
+        "Transvaal",
+        "Beers",
+        "say",
+        "Bantu",
+        "San",
+        "khung",
+        "truy",
+        "Joseph",
+        "danh",
+        "khao",
+        "Nha",
+        "mong",
+        "nhanh",
+        "trai",
+        "vay",
+        "nhen",
+        "Tuy",
+        "cai"
+      ],
+      "cyrillic_artifacts": false
+    },
+    "footnotes": {
+      "citation_patterns": {
+        "op_cit": 53,
+        "loc_cit": 0,
+        "ibid": 23,
+        "page_refs": 76
+      },
+      "placeholder_notes": "None",
+      "unintegrated_notes": []
+    },
+    "structural_elements": {
+      "block_quotes": 0,
+      "bibliography_entries": 0,
+      "index_entries": 0,
+      "tables": 0,
+      "figures": 0
+    },
+    "encoding": {
+      "has_bom": false,
+      "has_crlf": false,
+      "is_nfc": true
+    }
+  },
+  "ch08": {
+    "chapter": "ch08",
+    "status": "AUDITED",
+    "source_quality": {
+      "v1_ocr_vs_v2_clean": "Compare v1 OCR source vs v2 clean source - needs manual review per chapter",
+      "page_boundaries_preserved": true,
+      "paragraph_splits_merges": "Detected via cross-page continuity check below",
+      "ocr_artifacts": "PAGE artifacts in ch12 footnotes; Cyrillic artifacts in ch12"
+    },
+    "paragraph_reconstruction": {
+      "vi_paragraph_count": 44,
+      "src_paragraph_count": 44,
+      "aligned": true,
+      "id_mismatches": [],
+      "missing_in_vi": [],
+      "extra_in_vi": []
+    },
+    "chapter_structure": {
+      "headings": [],
+      "heading_count": 0,
+      "heading_issues": []
+    },
+    "cross_page_continuity": [],
+    "text_integrity": {
+      "duplicates": {},
+      "out_of_order": [],
+      "missing_paragraphs": [],
+      "extra_paragraphs": []
+    },
+    "translation_alignment": {
+      "para_count_match": true,
+      "id_order_match": true,
+      "fn_defs_count": 98,
+      "fn_defs_range": "1-98",
+      "body_markers_count": 121,
+      "body_markers_range": "1-98",
+      "missing_markers": [],
+      "orphan_markers": [],
+      "fn_defs_sequential": true
+    },
+    "vnch_quality": {
+      "orthography_issues": [
+        {
+          "rule": "được passive overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 174,
+          "positions": [
+            418,
+            1251,
+            1588,
+            2026,
+            2109,
+            2786,
+            2943,
+            5560,
+            6157,
+            6482
+          ]
+        },
+        {
+          "rule": "cái classifier overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 22,
+          "positions": [
+            10388,
+            10494,
+            37898,
+            41817,
+            48543,
+            56798,
+            59548,
+            64785,
+            64909,
+            66058
+          ]
+        },
+        {
+          "rule": "rất vs quá (Northern prefers rất, VNCH prefers quá)",
+          "type": "vocabulary_northern",
+          "count": 22,
+          "positions": [
+            377,
+            7402,
+            11754,
+            19719,
+            34344,
+            36068,
+            36354,
+            36371,
+            36494,
+            36572
+          ]
+        }
+      ],
+      "english_fragments": [
+        "corpus",
+        "nan",
+        "Bonaparte",
+        "Steinberg",
+        "tha",
+        "chi",
+        "Pogodin",
+        "Louis",
+        "Verband",
+        "cung",
+        "Heft",
+        "Rohan",
+        "ganh",
+        "Xlaven",
+        "PHONG",
+        "truy",
+        "Hegel",
+        "Mussolini",
+        "nhanh",
+        "danh",
+        "khao",
+        "mong",
+        "Nha",
+        "Empire",
+        "National",
+        "Tuy",
+        "cai",
+        "vinh",
+        "pha",
+        "suy"
+      ],
+      "cyrillic_artifacts": false
+    },
+    "footnotes": {
+      "citation_patterns": {
+        "op_cit": 54,
+        "loc_cit": 4,
+        "ibid": 3,
+        "page_refs": 58
+      },
+      "placeholder_notes": "None",
+      "unintegrated_notes": []
+    },
+    "structural_elements": {
+      "block_quotes": 0,
+      "bibliography_entries": 0,
+      "index_entries": 0,
+      "tables": 0,
+      "figures": 0
+    },
+    "encoding": {
+      "has_bom": false,
+      "has_crlf": false,
+      "is_nfc": true
+    }
+  },
+  "ch09": {
+    "chapter": "ch09",
+    "status": "AUDITED",
+    "source_quality": {
+      "v1_ocr_vs_v2_clean": "Compare v1 OCR source vs v2 clean source - needs manual review per chapter",
+      "page_boundaries_preserved": true,
+      "paragraph_splits_merges": "Detected via cross-page continuity check below",
+      "ocr_artifacts": "PAGE artifacts in ch12 footnotes; Cyrillic artifacts in ch12"
+    },
+    "paragraph_reconstruction": {
+      "vi_paragraph_count": 36,
+      "src_paragraph_count": 36,
+      "aligned": true,
+      "id_mismatches": [],
+      "missing_in_vi": [],
+      "extra_in_vi": []
+    },
+    "chapter_structure": {
+      "headings": [],
+      "heading_count": 0,
+      "heading_issues": []
+    },
+    "cross_page_continuity": [],
+    "text_integrity": {
+      "duplicates": {},
+      "out_of_order": [],
+      "missing_paragraphs": [],
+      "extra_paragraphs": []
+    },
+    "translation_alignment": {
+      "para_count_match": true,
+      "id_order_match": true,
+      "fn_defs_count": 54,
+      "fn_defs_range": "1-54",
+      "body_markers_count": 66,
+      "body_markers_range": "1-54",
+      "missing_markers": [],
+      "orphan_markers": [],
+      "fn_defs_sequential": true
+    },
+    "vnch_quality": {
+      "orthography_issues": [
+        {
+          "rule": "được passive overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 222,
+          "positions": [
+            1336,
+            1492,
+            1787,
+            1891,
+            4094,
+            4231,
+            5767,
+            5793,
+            5894,
+            6450
+          ]
+        },
+        {
+          "rule": "cái classifier overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 11,
+          "positions": [
+            7759,
+            10283,
+            16943,
+            35471,
+            49797,
+            57833,
+            66895,
+            66922,
+            84439,
+            90872
+          ]
+        },
+        {
+          "rule": "rất vs quá (Northern prefers rất, VNCH prefers quá)",
+          "type": "vocabulary_northern",
+          "count": 4,
+          "positions": [
+            26052,
+            53645,
+            56341,
+            62630
+          ]
+        }
+      ],
+      "english_fragments": [
+        "nan",
+        "nghe",
+        "tha",
+        "chi",
+        "Dame",
+        "SUY",
+        "cung",
+        "Augustine",
+        "Strindberg",
+        "khung",
+        "Reich",
+        "Plato",
+        "Mussolini",
+        "nhanh",
+        "khao",
+        "Nha",
+        "mong",
+        "danh",
+        "Tuy",
+        "cai",
+        "pha",
+        "suy",
+        "loa",
+        "Dannecker",
+        "khi",
+        "Heimatlosen",
+        "Chung",
+        "lem",
+        "sis",
+        "Gruppen"
+      ],
+      "cyrillic_artifacts": false
+    },
+    "footnotes": {
+      "citation_patterns": {
+        "op_cit": 27,
+        "loc_cit": 0,
+        "ibid": 1,
+        "page_refs": 29
+      },
+      "placeholder_notes": "None",
+      "unintegrated_notes": []
+    },
+    "structural_elements": {
+      "block_quotes": 0,
+      "bibliography_entries": 0,
+      "index_entries": 0,
+      "tables": 0,
+      "figures": 0
+    },
+    "encoding": {
+      "has_bom": false,
+      "has_crlf": false,
+      "is_nfc": true
+    }
+  },
+  "ch10": {
+    "chapter": "ch10",
+    "status": "AUDITED",
+    "source_quality": {
+      "v1_ocr_vs_v2_clean": "Compare v1 OCR source vs v2 clean source - needs manual review per chapter",
+      "page_boundaries_preserved": true,
+      "paragraph_splits_merges": "Detected via cross-page continuity check below",
+      "ocr_artifacts": "PAGE artifacts in ch12 footnotes; Cyrillic artifacts in ch12"
+    },
+    "paragraph_reconstruction": {
+      "vi_paragraph_count": 37,
+      "src_paragraph_count": 37,
+      "aligned": true,
+      "id_mismatches": [],
+      "missing_in_vi": [],
+      "extra_in_vi": []
+    },
+    "chapter_structure": {
+      "headings": [],
+      "heading_count": 0,
+      "heading_issues": []
+    },
+    "cross_page_continuity": [],
+    "text_integrity": {
+      "duplicates": {
+        "XÃ HỘI PHI GIAI CẤP ...sau các cuộc chinh phục ở phương Đông đã cung cấp những khối người to lớn và khiến các trại tiêu diệt khả thi, thì nước Đức mới có thể thiết lập một sự cai trị toàn trị thật sự. (trái lại, cơ hội cho sự cai trị toàn trị đáng sợ tốt ở các vùng đất của chế độ chuyên chế phương Đông truyền thống, ở Ấn Độ và Trung Quốc, nơi có gần như vật liệu không cạn kiệt để nuôi cỗ máy tích lũy quyền lực và hủy diệt con người của sự thống trị toàn trị, và nơi, vả lại, cảm giác điển hình của con người khối quần chúng về sự thừa thãi — một hiện tượng hoàn toàn mới ở Âu châu, hệ quả đi kèm của thất nghiệp hàng loạt và sự tăng trưởng dân số của 150 năm qua — đã phổ biến trong nhiều thế kỷ trong sự khinh thị giá trị của mạng sống con người.) Sự ôn hòa hay các phương pháp cai trị ít giết chóc hơn hầu như không thể quy cho nỗi sợ của các chánh phủ về sự nổi loạn của dân chúng; sự giảm dân số ở quốc gia riêng của họ đã là một mối đe dọa nghiêm trọng hơn nhiều. Chỉ nơi nào các khối người to lớn thừa thãi hoặc có thể được miễn trừ mà không có hậu quả thảm khốc của sự giảm dân số thì sự cai trị toàn trị, phân biệt với một phong trào toàn trị, mới hoàn toàn khả thi. Các phong trào toàn trị khả thi bất cứ nơi nào có những khối quần chúng mà vì một lý do nào đó đã có được sự thèm khát về tổ chức chánh trị. Khối quần chúng không được giữ gắn kết bởi ý thức về quyền lợi chung và chúng thiếu cái sự rõ ràng giai cấp đặc thù mà được diễn đạt trong những mục tiêu xác định, giới hạn, và có thể đạt được. Thuật ngữ khối quần chúng chỉ áp dụng khi chúng ta đối phó với những người mà hoặc vì số lượng đơn thuần, hoặc sự thờ ơ, hoặc sự kết hợp của cả hai, không thể được tích hợp vào bất kỳ tổ chức nào đặt nền trên quyền lợi chung, vào các đảng chánh trị hay chánh quyền thành phố hay các tổ chức nghề nghiệp hay nghiệp đoàn. Tiềm năng, chúng tồn tại ở mọi quốc gia và tạo thành đa số của những con số to lớn những người trung lập, thờ ơ về chánh trị mà không bao giờ tham gia một đảng và hầu như không bao giờ đi bầu. Đặc trưng cho sự trỗi dậy của phong trào Na-zi ở Đức và của các phong trào Cộng sản ở Âu châu sau năm 1930¹⁷ là chúng đã tuyển mộ thành viên từ khối người bề ngoài thờ ơ nầy mà tất cả các đảng khác đã từ bỏ như quá thờ ơ hay quá ngu ngốc để xứng đáng với sự chú ý của họ. Kết quả là đa số thành viên của họ bao gồm những người trước đây chưa bao giờ xuất hiện trên sân khấu chánh trị.": [
+          "V1C10-P005",
+          "V1C10-P006"
+        ]
+      },
+      "out_of_order": [],
+      "missing_paragraphs": [],
+      "extra_paragraphs": []
+    },
+    "translation_alignment": {
+      "para_count_match": true,
+      "id_order_match": true,
+      "fn_defs_count": 65,
+      "fn_defs_range": "1-65",
+      "body_markers_count": 70,
+      "body_markers_range": "1-65",
+      "missing_markers": [],
+      "orphan_markers": [],
+      "fn_defs_sequential": true
+    },
+    "vnch_quality": {
+      "orthography_issues": [
+        {
+          "rule": "được passive overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 101,
+          "positions": [
+            748,
+            912,
+            1997,
+            2042,
+            4136,
+            4547,
+            9463,
+            11302,
+            12495,
+            12808
+          ]
+        },
+        {
+          "rule": "cái classifier overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 31,
+          "positions": [
+            456,
+            628,
+            971,
+            1741,
+            2994,
+            4839,
+            16945,
+            31592,
+            50343,
+            51967
+          ]
+        },
+        {
+          "rule": "rất vs quá (Northern prefers rất, VNCH prefers quá)",
+          "type": "vocabulary_northern",
+          "count": 7,
+          "positions": [
+            4392,
+            22128,
+            23008,
+            36218,
+            69240,
+            75187,
+            87317
+          ]
+        }
+      ],
+      "english_fragments": [
+        "tra",
+        "nghe",
+        "chi",
+        "Revue",
+        "binh",
+        "Louis",
+        "Zweig",
+        "Molotov",
+        "cung",
+        "Rimbaud",
+        "say",
+        "truy",
+        "Mussolini",
+        "danh",
+        "Nha",
+        "khao",
+        "nhanh",
+        "Gide",
+        "bom",
+        "PHI",
+        "nhen",
+        "Russian",
+        "Tuy",
+        "cai",
+        "vinh",
+        "pha",
+        "suy",
+        "Alexander",
+        "Ukraine",
+        "khi"
+      ],
+      "cyrillic_artifacts": false
+    },
+    "footnotes": {
+      "citation_patterns": {
+        "op_cit": 24,
+        "loc_cit": 0,
+        "ibid": 1,
+        "page_refs": 51
+      },
+      "placeholder_notes": "None",
+      "unintegrated_notes": []
+    },
+    "structural_elements": {
+      "block_quotes": 0,
+      "bibliography_entries": 0,
+      "index_entries": 0,
+      "tables": 0,
+      "figures": 0
+    },
+    "encoding": {
+      "has_bom": false,
+      "has_crlf": false,
+      "is_nfc": true
+    }
+  },
+  "ch11": {
+    "chapter": "ch11",
+    "status": "AUDITED",
+    "source_quality": {
+      "v1_ocr_vs_v2_clean": "Compare v1 OCR source vs v2 clean source - needs manual review per chapter",
+      "page_boundaries_preserved": true,
+      "paragraph_splits_merges": "Detected via cross-page continuity check below",
+      "ocr_artifacts": "PAGE artifacts in ch12 footnotes; Cyrillic artifacts in ch12"
+    },
+    "paragraph_reconstruction": {
+      "vi_paragraph_count": 43,
+      "src_paragraph_count": 43,
+      "aligned": true,
+      "id_mismatches": [],
+      "missing_in_vi": [],
+      "extra_in_vi": []
+    },
+    "chapter_structure": {
+      "headings": [],
+      "heading_count": 0,
+      "heading_issues": []
+    },
+    "cross_page_continuity": [],
+    "text_integrity": {
+      "duplicates": {
+        "PHONG TRÀO TOÀN TRỊ ...Việc thay thế các chánh phủ quân chủ bằng các nền cộng hòa ở Trung Âu đã hoàn tất sự tan rã của Do Thái Trung Âu, cũng như việc thiết lập Cộng hòa thứ ba đã làm ở Pháp khoảng năm mươi năm trước. Người Do Thái đã mất nhiều ảnh hưởng của họ khi các chánh phủ mới thiết lập mình trong các điều kiện mà chúng thiếu cả quyền lực lẫn quyền lợi để bảo vệ người Do Thái của chúng. Trong các cuộc thương lượng hòa bình ở Versailles, người Do Thái được sử dụng chánh yếu như các chuyên gia, và ngay cả những người bài Do Thái cũng thừa nhận rằng những kẻ lừa đảo Do Thái nhỏ bé trong thời kỳ hậu chiến, phần lớn là những người mới đến (đằng sau các hoạt động gian lận của họ, mà phân biệt chúng gay gắt với những người đồng đạo bản địa của chúng, nằm một thái độ mà một cách kỳ lạ giống với sự thờ ơ cũ đối với các tiêu chuẩn của môi trường xung quanh), không có liên hệ với các đại diện của một quốc tế Do Thái được cho là tồn tại.²⁷ Giữa một loạt các nhóm bài Do Thái cạnh tranh nhau và trong một bầu không khí tràn ngập chủ nghĩa bài Do Thái, tuyên truyền Na-zi đã phát triển một phương pháp đối xử với đề tài nầy mà khác với và vượt trội hơn tất cả các phương pháp khác. Tuy vậy, không một khẩu hiệu Na-zi nào là mới — thậm chí không phải bức tranh sắc sảo của Hit-lê về một cuộc đấu tranh giai cấp gây ra bởi nhà doanh nhân Do Thái mà bóc lột công nhân của mình, trong khi cùng một lúc người anh em của ông ta trong sân nhà máy kích động họ đình công.²⁸ Yếu tố mới duy nhất là đảng Na-zi đòi hỏi bằng chứng về nguồn gốc phi Do Thái để làm thành viên và rằng, chương trình Feder bất chấp, cực kỳ mơ hồ về các biện pháp thật sự sẽ được thực hiện chống lại người Do Thái một khi đã lên nắm quyền.²⁹ Người Na-zi đặt vấn đề Do Thái vào trung tâm của tuyên truyền của chúng theo nghĩa rằng chủ nghĩa bài Do Thái không còn là một vấn đề về các ý kiến về những người khác với đa số, hay một mối quan tâm của chánh trị dân tộc, mà là mối quan tâm mật thiết của mỗi cá nhân trong sự tồn tại cá nhân của mình; không ai có thể là thành viên mà \"cây phả hệ\" của mình không ổn thỏa, và thứ hạng càng cao trong hệ thống thứ bậc Na-zi, cây phả hệ phải được truy nguyên càng xa về trước.³⁰ Theo cùng một cách, tuy ít nhất quán hơn, chủ nghĩa Bolshevik đã thay đổi học thuyết Marxist về chiến thắng chung quyết tất yếu của giai cấp vô sản bằng cách tổ chức các thành viên của nó như \"vô sản bẩm sinh\" và làm cho các nguồn gốc giai cấp khác trở nên đáng xấu hổ và tai tiếng.³¹": [
+          "V1C11-P011",
+          "V1C11-P012"
+        ]
+      },
+      "out_of_order": [],
+      "missing_paragraphs": [],
+      "extra_paragraphs": []
+    },
+    "translation_alignment": {
+      "para_count_match": true,
+      "id_order_match": true,
+      "fn_defs_count": 103,
+      "fn_defs_range": "1-103",
+      "body_markers_count": 112,
+      "body_markers_range": "1-103",
+      "missing_markers": [],
+      "orphan_markers": [],
+      "fn_defs_sequential": true
+    },
+    "vnch_quality": {
+      "orthography_issues": [
+        {
+          "rule": "được passive overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 218,
+          "positions": [
+            674,
+            1271,
+            1416,
+            1542,
+            2145,
+            2771,
+            3246,
+            4336,
+            4864,
+            5311
+          ]
+        },
+        {
+          "rule": "cái classifier overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 25,
+          "positions": [
+            3976,
+            15292,
+            19196,
+            27039,
+            27055,
+            27078,
+            27096,
+            27476,
+            30848,
+            41861
+          ]
+        },
+        {
+          "rule": "rất vs quá (Northern prefers rất, VNCH prefers quá)",
+          "type": "vocabulary_northern",
+          "count": 17,
+          "positions": [
+            4349,
+            4650,
+            13826,
+            27949,
+            45449,
+            45861,
+            57953,
+            59572,
+            66601,
+            71736
+          ]
+        }
+      ],
+      "english_fragments": [
+        "tra",
+        "nan",
+        "kho",
+        "Siedlungswesen",
+        "nghe",
+        "tha",
+        "chi",
+        "Zionist",
+        "Trang",
+        "cung",
+        "Rohan",
+        "Waffen",
+        "polyp",
+        "PHONG",
+        "truy",
+        "nang",
+        "danh",
+        "khao",
+        "Conspiracy",
+        "mong",
+        "nhanh",
+        "vay",
+        "Tuy",
+        "cai",
+        "pha",
+        "Bayer",
+        "suy",
+        "Qua",
+        "khi",
+        "Schleicher"
+      ],
+      "cyrillic_artifacts": false
+    },
+    "footnotes": {
+      "citation_patterns": {
+        "op_cit": 46,
+        "loc_cit": 7,
+        "ibid": 0,
+        "page_refs": 59
+      },
+      "placeholder_notes": "None",
+      "unintegrated_notes": []
+    },
+    "structural_elements": {
+      "block_quotes": 0,
+      "bibliography_entries": 0,
+      "index_entries": 0,
+      "tables": 0,
+      "figures": 0
+    },
+    "encoding": {
+      "has_bom": false,
+      "has_crlf": false,
+      "is_nfc": true
+    }
+  },
+  "ch12": {
+    "chapter": "ch12",
+    "status": "AUDITED",
+    "source_quality": {
+      "v1_ocr_vs_v2_clean": "Compare v1 OCR source vs v2 clean source - needs manual review per chapter",
+      "page_boundaries_preserved": true,
+      "paragraph_splits_merges": "Detected via cross-page continuity check below",
+      "ocr_artifacts": "PAGE artifacts in ch12 footnotes; Cyrillic artifacts in ch12"
+    },
+    "paragraph_reconstruction": {
+      "vi_paragraph_count": 71,
+      "src_paragraph_count": 71,
+      "aligned": true,
+      "id_mismatches": [],
+      "missing_in_vi": [],
+      "extra_in_vi": []
+    },
+    "chapter_structure": {
+      "headings": [
+        {
+          "type": "section_h3",
+          "text": "C H A P T E R T W E L V E :",
+          "para_id": "V1C12-P001",
+          "page": 434
+        },
+        {
+          "type": "section_h2",
+          "text": "390",
+          "para_id": "V1C12-P002",
+          "page": 435
+        },
+        {
+          "type": "section_h3",
+          "text": "TOTALITARIANISM IN POWER",
+          "para_id": "V1C12-P003",
+          "page": 436
+        },
+        {
+          "type": "section_h2",
+          "text": "391",
+          "para_id": "V1C12-P003",
+          "page": 436
+        },
+        {
+          "type": "section_h2",
+          "text": "1",
+          "para_id": "V1C12-P003",
+          "page": 436
+        },
+        {
+          "type": "section_h2",
+          "text": "392",
+          "para_id": "V1C12-P004",
+          "page": 437
+        },
+        {
+          "type": "section_h3",
+          "text": "TOTALITARIANISM IN POWER",
+          "para_id": "V1C12-P005",
+          "page": 438
+        },
+        {
+          "type": "section_h2",
+          "text": "393",
+          "para_id": "V1C12-P005",
+          "page": 438
+        },
+        {
+          "type": "section_h3",
+          "text": "TOTALITARIANISM IN POWER",
+          "para_id": "V1C12-P006",
+          "page": 439
+        },
+        {
+          "type": "section_h2",
+          "text": "394",
+          "para_id": "V1C12-P006",
+          "page": 439
+        },
+        {
+          "type": "section_h3",
+          "text": "TOTALITARIANISM IN POWER",
+          "para_id": "V1C12-P007",
+          "page": 440
+        },
+        {
+          "type": "section_h2",
+          "text": "395",
+          "para_id": "V1C12-P007",
+          "page": 440
+        },
+        {
+          "type": "section_h3",
+          "text": "TOTALITARIANISM IN POWER",
+          "para_id": "V1C12-P008",
+          "page": 441
+        },
+        {
+          "type": "section_h2",
+          "text": "396",
+          "para_id": "V1C12-P008",
+          "page": 441
+        },
+        {
+          "type": "section_h3",
+          "text": "TOTALITARIANISM IN POWER",
+          "para_id": "V1C12-P009",
+          "page": 442
+        },
+        {
+          "type": "section_h2",
+          "text": "397",
+          "para_id": "V1C12-P009",
+          "page": 442
+        },
+        {
+          "type": "section_h3",
+          "text": "TOTALITARIANISM IN POWER",
+          "para_id": "V1C12-P010",
+          "page": 443
+        },
+        {
+          "type": "section_h2",
+          "text": "398",
+          "para_id": "V1C12-P010",
+          "page": 443
+        },
+        {
+          "type": "section_h3",
+          "text": "TOTALITARIANISM IN POWER",
+          "para_id": "V1C12-P011",
+          "page": 444
+        },
+        {
+          "type": "section_h2",
+          "text": "399",
+          "para_id": "V1C12-P011",
+          "page": 444
+        },
+        {
+          "type": "section_h3",
+          "text": "TOTALITARIANISM",
+          "para_id": "V1C12-P012",
+          "page": 445
+        },
+        {
+          "type": "section_h2",
+          "text": "400",
+          "para_id": "V1C12-P012",
+          "page": 445
+        },
+        {
+          "type": "section_h3",
+          "text": "TOTALITARIANISM IN POWER",
+          "para_id": "V1C12-P013",
+          "page": 446
+        },
+        {
+          "type": "section_h2",
+          "text": "401",
+          "para_id": "V1C12-P013",
+          "page": 446
+        },
+        {
+          "type": "section_h3",
+          "text": "TOTALITARIANISM IN POWER",
+          "para_id": "V1C12-P014",
+          "page": 447
+        },
+        {
+          "type": "section_h2",
+          "text": "402",
+          "para_id": "V1C12-P014",
+          "page": 447
+        },
+        {
+          "type": "section_h3",
+          "text": "TOTALITARIANISM IN POWER",
+          "para_id": "V1C12-P015",
+          "page": 448
+        },
+        {
+          "type": "section_h2",
+          "text": "403",
+          "para_id": "V1C12-P015",
+          "page": 448
+        },
+        {
+          "type": "section_h3",
+          "text": "TOTALITARIANISM IN POWER",
+          "para_id": "V1C12-P016",
+          "page": 449
+        },
+        {
+          "type": "section_h2",
+          "text": "404",
+          "para_id": "V1C12-P016",
+          "page": 449
+        },
+        {
+          "type": "section_h3",
+          "text": "TOTALITARIANISM IN POWER",
+          "para_id": "V1C12-P017",
+          "page": 450
+        },
+        {
+          "type": "section_h2",
+          "text": "405",
+          "para_id": "V1C12-P017",
+          "page": 450
+        },
+        {
+          "type": "section_h3",
+          "text": "TOTALITARIANISM IN POWER",
+          "para_id": "V1C12-P018",
+          "page": 451
+        },
+        {
+          "type": "section_h2",
+          "text": "406",
+          "para_id": "V1C12-P018",
+          "page": 451
+        },
+        {
+          "type": "section_h3",
+          "text": "TOTALITARIANISM IN POWER",
+          "para_id": "V1C12-P019",
+          "page": 452
+        },
+        {
+          "type": "section_h2",
+          "text": "407",
+          "para_id": "V1C12-P019",
+          "page": 452
+        },
+        {
+          "type": "section_h3",
+          "text": "TOTALITARIANISM IN POWER",
+          "para_id": "V1C12-P020",
+          "page": 453
+        },
+        {
+          "type": "section_h2",
+          "text": "408",
+          "para_id": "V1C12-P020",
+          "page": 453
+        },
+        {
+          "type": "section_h3",
+          "text": "TOTALITARIANISM IN POWER",
+          "para_id": "V1C12-P021",
+          "page": 454
+        },
+        {
+          "type": "section_h2",
+          "text": "409",
+          "para_id": "V1C12-P021",
+          "page": 454
+        },
+        {
+          "type": "section_h3",
+          "text": "TOTALITARIANISM IN POWER",
+          "para_id": "V1C12-P022",
+          "page": 455
+        },
+        {
+          "type": "section_h2",
+          "text": "410",
+          "para_id": "V1C12-P022",
+          "page": 455
+        },
+        {
+          "type": "section_h3",
+          "text": "TOTALITARIANISM IN POWER",
+          "para_id": "V1C12-P023",
+          "page": 456
+        },
+        {
+          "type": "section_h3",
+          "text": "CÁC CẢNH SÁT BÍ MẬT",
+          "para_id": "V1C12-P031",
+          "page": 464
+        },
+        {
+          "type": "section_h3",
+          "text": "TOÀN TRỊ TOÀN BỘ",
+          "para_id": "V1C12-P048",
+          "page": 482
+        }
+      ],
+      "heading_count": 45,
+      "heading_issues": [
+        {
+          "type": "duplicate_headings",
+          "details": {
+            "TOTALITARIANISM IN POWER": 19
+          }
+        }
+      ]
+    },
+    "cross_page_continuity": [
+      {
+        "type": "heading_at_page_start",
+        "page_boundary": "434→435",
+        "para_ids": "V1C12-P001 → V1C12-P002",
+        "next_start": "390 TOÀN TRỊ CHỦ NGHĨA \"vĩnh viễn,\" với mọi hàm ý bán vô chính phủ của nó, và строго speaking là một",
+        "severity": "INFO"
+      },
+      {
+        "type": "heading_at_page_start",
+        "page_boundary": "436→437",
+        "para_ids": "V1C12-P003 → V1C12-P004",
+        "next_start": "392 TOÀN TRỊ CHỦ NGHĨA Nhiều sai lầm của thế giới phi totalitarian trong các giao dịch ngoại giao củ",
+        "severity": "INFO"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "457→458",
+        "para_ids": "V1C12-P024 → V1C12-P025",
+        "curr_end": "t tương lai xa lắc mịt mùng. Bởi vì chủ nghĩa toàn trị trong quyền lực vẫn trung thành với nguồn gốc",
+        "next_start": "của các tổ chức phong trào, nên các tổ chức nầy, trái với sự biến mất, lại dẫn đến việc \"đồng hóa\" t",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "458→459",
+        "para_ids": "V1C12-P025 → V1C12-P026",
+        "curr_end": "c phình to hàng ngũ những kẻ đồng hành, và một phần do sự kiện rằng những phát biểu khó chịu của một",
+        "next_start": "nhà nước không còn có thể được gạt bỏ như trước. Chừng nào việc tố cáo tên Trotsky còn được dùng làm",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "459→460",
+        "para_ids": "V1C12-P026 → V1C12-P027",
+        "curr_end": "Mein Kampf hơn là vào hùng biện của vị Thủ tướng Đệ tam Đế chế; cũng như đã hẳn phải nghi ngờ Stalin",
+        "next_start": "khi ông ta còn cầm quyền. Bằng cách có ý thức phát triển một phương pháp bao giờ cũng làm điều ngược",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "477→478",
+        "para_ids": "V1C12-P043 → V1C12-P044",
+        "curr_end": "những người mắc bệnh tâm thần hoặc những người mắc bệnh phổi và tim, hoặc ở Liên bang Xô-viết, những",
+        "next_start": "người tình cờ bị đưa vào cái tỷ lệ phần trăm ấy, mà thay đổi từ tỉnh nầy sang tỉnh khác, được lệnh p",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "482→483",
+        "para_ids": "V1C12-P048 → V1C12-P049",
+        "curr_end": "y, mọi thí nghiệm khác đều là thứ yếu về tầm quan trọng — bao gồm cả những thí nghiệm trong lĩnh vực",
+        "next_start": "y học mà những sự kinh hoàng của chúng được ghi lại chi tiết trong các vụ án chống lại các bác sĩ củ",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "486→487",
+        "para_ids": "V1C12-P053 → V1C12-P054",
+        "curr_end": "chương trình về sự thấu hiểu nội-Âu Châu dựa trên kinh nghiệm Châu Âu chung về các trại tập trung đã",
+        "next_start": "thất bại theo cùng một cách như những nỗ lực sau Thế chiến thứ Nhất nhằm rút ra các kết luận chính t",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "487→488",
+        "para_ids": "V1C12-P054 → V1C12-P055",
+        "curr_end": "ên ngoài. Do đó, vì lý do chủng tộc, các công dân Scandinavia trong thời chiến được người Đức đối xử",
+        "next_start": "khác hẳn với các thành viên của các dân tộc khác, dù những người trước đây là kẻ thù công khai của b",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "490→491",
+        "para_ids": "V1C12-P057 → V1C12-P058",
+        "curr_end": "à ở đó con người có thể bị tra tấn và tàn sát, thế mà cả kẻ hành hạ lẫn kẻ bị hành hạ, và ít nhất là",
+        "next_start": "người ngoài cuộc, có thể ý thức rằng điều đang diễn ra là bất cứ điều gì hơn một trò chơi tàn nhẫn h",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "499→500",
+        "para_ids": "V1C12-P066 → V1C12-P067",
+        "curr_end": "thù ghét và oán giận sâu sắc chống lại tất cả những kẻ khá hơn về mặt xã hội, trí tuệ, hoặc thể chất",
+        "next_start": "hơn chúng, và những kẻ nay, như thể trong sự hoàn thành những giấc mơ hoang dại nhất của chúng, ở tr",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "500→501",
+        "para_ids": "V1C12-P067 → V1C12-P068",
+        "curr_end": "nhân vị pháp lý-chính trị và sự tuyệt vọng của nhân vị đạo đức. Chính sự kinh hoàng nầy làm nảy sinh",
+        "next_start": "những khái quát hóa hư vô chủ nghĩa mà duy trì một cách hợp lý rằng về bản chất mọi con người đều gi",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "501→502",
+        "para_ids": "V1C12-P068 → V1C12-P069",
+        "curr_end": "đánh bại.\"¹⁶² Nếu chúng ta xem các khát vọng toàn trị một cách nghiêm túc và từ chối bị đánh lừa bởi",
+        "next_start": "lời khẳng định thông thường rằng chúng là không tưởng và không thể hiện thực hóa, thì hóa ra xã hội ",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "503→504",
+        "para_ids": "V1C12-P070 → V1C12-P071",
+        "curr_end": "ững kẻ hoang tưởng, mọi thứ tiếp theo một cách khả tri và thậm chí bắt buộc một khi tiền đề đầu tiên",
+        "next_start": "được chấp nhận. Sự điên rồ của các hệ thống như thế nằm không những ở tiền đề đầu tiên của chúng mà ",
+        "severity": "HIGH"
+      }
+    ],
+    "text_integrity": {
+      "duplicates": {},
+      "out_of_order": [],
+      "missing_paragraphs": [],
+      "extra_paragraphs": []
+    },
+    "translation_alignment": {
+      "para_count_match": true,
+      "id_order_match": true,
+      "fn_defs_count": 139,
+      "fn_defs_range": "1-162",
+      "body_markers_count": 323,
+      "body_markers_range": "1-162",
+      "missing_markers": [],
+      "orphan_markers": [],
+      "fn_defs_sequential": false
+    },
+    "vnch_quality": {
+      "orthography_issues": [
+        {
+          "rule": "chính phủ → chánh phủ",
+          "type": "orthography",
+          "count": 38,
+          "positions": [
+            2105,
+            3833,
+            18629,
+            30887,
+            42148,
+            51278,
+            54153,
+            160390,
+            165076,
+            166712
+          ]
+        },
+        {
+          "rule": "được passive overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 528,
+          "positions": [
+            319,
+            881,
+            1769,
+            4665,
+            4765,
+            5179,
+            5321,
+            5413,
+            5948,
+            6647
+          ]
+        },
+        {
+          "rule": "cái classifier overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 83,
+          "positions": [
+            5760,
+            21111,
+            25798,
+            35277,
+            37059,
+            46538,
+            56477,
+            60160,
+            70009,
+            72112
+          ]
+        },
+        {
+          "rule": "rất vs quá (Northern prefers rất, VNCH prefers quá)",
+          "type": "vocabulary_northern",
+          "count": 29,
+          "positions": [
+            7810,
+            14627,
+            15214,
+            18090,
+            26510,
+            28090,
+            37771,
+            39351,
+            46901,
+            48481
+          ]
+        }
+      ],
+      "english_fragments": [
+        "nan",
+        "Ebenstein",
+        "Trevor",
+        "nghe",
+        "tha",
+        "seriously",
+        "binh",
+        "consequently",
+        "Diels",
+        "utilitarian",
+        "performance",
+        "PHONG",
+        "watch",
+        "Mostly",
+        "alike",
+        "mong",
+        "checked",
+        "vay",
+        "Ribbentrop",
+        "repair",
+        "Harrison",
+        "ulterior",
+        "deutsche",
+        "outweigh",
+        "Avtorkhanov",
+        "Ukraine",
+        "disrupt",
+        "Chung",
+        "Stalingrad",
+        "Trung"
+      ],
+      "cyrillic_artifacts": true
+    },
+    "footnotes": {
+      "citation_patterns": {
+        "op_cit": 41,
+        "loc_cit": 2,
+        "ibid": 21,
+        "page_refs": 92
+      },
+      "placeholder_notes": "ch12 has 39 placeholders for unrecoverable OCR",
+      "unintegrated_notes": [
+        "72",
+        "154",
+        "158"
+      ]
+    },
+    "structural_elements": {
+      "block_quotes": 0,
+      "bibliography_entries": 0,
+      "index_entries": 0,
+      "tables": 0,
+      "figures": 0
+    },
+    "encoding": {
+      "has_bom": false,
+      "has_crlf": false,
+      "is_nfc": true
+    }
+  },
+  "ch13": {
+    "chapter": "ch13",
+    "status": "AUDITED",
+    "source_quality": {
+      "v1_ocr_vs_v2_clean": "Compare v1 OCR source vs v2 clean source - needs manual review per chapter",
+      "page_boundaries_preserved": true,
+      "paragraph_splits_merges": "Detected via cross-page continuity check below",
+      "ocr_artifacts": "PAGE artifacts in ch12 footnotes; Cyrillic artifacts in ch12"
+    },
+    "paragraph_reconstruction": {
+      "vi_paragraph_count": 61,
+      "src_paragraph_count": 61,
+      "aligned": true,
+      "id_mismatches": [],
+      "missing_in_vi": [],
+      "extra_in_vi": []
+    },
+    "chapter_structure": {
+      "headings": [],
+      "heading_count": 0,
+      "heading_issues": []
+    },
+    "cross_page_continuity": [
+      {
+        "type": "likely_continuation",
+        "page_boundary": "507→509",
+        "para_ids": "V1C13-P002 → V1C13-P003",
+        "curr_end": "h giai cấp của Marx, mặt khác, như động lực của lịch sử chỉ là biểu hiện bên ngoài của sự phát triển",
+        "next_start": "các lực lượng sản xuất mà đến lượt chúng lại có nguồn gốc từ \"sức lao động\" của con người. Lao động,",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "510→511",
+        "para_ids": "V1C13-P004 → V1C13-P005",
+        "curr_end": "giao tiếp giữa các cá nhân bằng một dải sắt mà giữ họ chặt chẽ đến nỗi như thể tính đa nguyên của họ",
+        "next_start": "đã biến mất vào Một Con Người khổng lồ. Việc thủ tiêu các hàng rào luật pháp giữa con người — như ch",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "511→512",
+        "para_ids": "V1C13-P005 → V1C13-P006",
+        "curr_end": "h giữa tính hợp pháp và công lý. Nếu bản chất của chính phủ được định nghĩa là tính hợp pháp, và nếu",
+        "next_start": "được hiểu rằng các luật là các lực lượng ổn định trong công việc công cộng của con người (như quả th",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "513→514",
+        "para_ids": "V1C13-P007 → V1C13-P008",
+        "curr_end": " bằng năm giác quan của mình, và khăng khăng về một thực tại \"thực hơn\" ẩn giấu sau mọi thứ khả tri,",
+        "next_start": "chi phối chúng từ nơi ẩn giấu nầy và đòi hỏi một giác quan thứ sáu cho phép chúng ta nhận biết nó. G",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "514→516",
+        "para_ids": "V1C13-P008 → V1C13-P009",
+        "curr_end": " người bị kết án tử hình; các chủng tộc \"không hợp để sống\" phải bị tiêu diệt. Bất kỳ ai đồng ý rằng",
+        "next_start": "có những thứ như \"giai cấp đang lụi tàn\" mà không rút ra hệ quả giết các thành viên của chúng, hoặc ",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "520→521",
+        "para_ids": "V1C13-P012 → V1C13-P013",
+        "curr_end": "của chúng ta mà điều hòa và kiểm soát mọi giác quan khác và mà không có nó thì mỗi người chúng ta sẽ",
+        "next_start": "bị bao bọc trong tính đặc thù riêng của các dữ kiện giác quan của mình mà tự thân là không đáng tin ",
+        "severity": "HIGH"
+      },
+      {
+        "type": "likely_continuation",
+        "page_boundary": "523→524",
+        "para_ids": "V1C13-P014 → V1C13-P015",
+        "curr_end": "trong lịch sử nhất thiết chứa một sự khởi đầu mới; sự khởi đầu nầy là lời hứa, \"thông điệp\" duy nhất",
+        "next_start": "mà hồi kết có thể tạo ra. Sự khởi đầu, trước khi nó trở thành một sự kiện lịch sử, là năng lực tối c",
+        "severity": "HIGH"
+      },
+      {
+        "type": "heading_at_page_start",
+        "page_boundary": "528→529",
+        "para_ids": "V1C13-P017 → V1C13-P018",
+        "next_start": "484 BIBLIOGRAPHY Botzenhart, Erich, \"Der politische Aufstieg des Judentums von der Emanzipation bis ",
+        "severity": "INFO"
+      },
+      {
+        "type": "heading_at_page_start",
+        "page_boundary": "530→531",
+        "para_ids": "V1C13-P019 → V1C13-P020",
+        "next_start": "486 BIBLIOGRAPHY Goldberg, lsidor, \"Finanz- und Bankwesen,\" in Encyclop%dia Judaica, 1930. Goldstein",
+        "severity": "INFO"
+      },
+      {
+        "type": "heading_at_page_start",
+        "page_boundary": "532→533",
+        "para_ids": "V1C13-P021 → V1C13-P022",
+        "next_start": "488 BIBLIOGRAPHY Maurras, Charles, Au Sign! d! Flore: Souv!nirs d! Ia vi! politiqu!: L'AOair! Dr!yfu",
+        "severity": "INFO"
+      },
+      {
+        "type": "heading_at_page_start",
+        "page_boundary": "534→535",
+        "para_ids": "V1C13-P023 → V1C13-P024",
+        "next_start": "490 BIBLIOGRAPHY Sonnenberg-Liebermann, Max von, Beitriige zur Geschichte der antisemitischen Be­ we",
+        "severity": "INFO"
+      },
+      {
+        "type": "heading_at_page_start",
+        "page_boundary": "536→537",
+        "para_ids": "V1C13-P025 → V1C13-P026",
+        "next_start": "492 BIBLIOGRAPHY Bonhard, Otto, Guchichte des alldeutschen Verbandes, 1920. Boulainvillien, Comte He",
+        "severity": "INFO"
+      },
+      {
+        "type": "heading_at_page_start",
+        "page_boundary": "538→539",
+        "para_ids": "V1C13-P027 → V1C13-P028",
+        "next_start": "494 BIBLIOGRAPHY Hancock, William K., Sun-ey of British Common,.·ealth Affairs, London, I937- 1 942;",
+        "severity": "INFO"
+      },
+      {
+        "type": "heading_at_page_start",
+        "page_boundary": "540→541",
+        "para_ids": "V1C13-P029 → V1C13-P030",
+        "next_start": "496 Montesquieu, C. L. de Secondat de, Esprit des Lois, 1748. Morrison, T., lmperial Rule in India, ",
+        "severity": "INFO"
+      },
+      {
+        "type": "heading_at_page_start",
+        "page_boundary": "542→543",
+        "para_ids": "V1C13-P031 → V1C13-P032",
+        "next_start": "498 BIBLIOGRAPHY Thompson, L. M., \"Afrikaner Nationalist Historiography and the Policy of Apartheid,",
+        "severity": "INFO"
+      },
+      {
+        "type": "heading_at_page_start",
+        "page_boundary": "544→545",
+        "para_ids": "V1C13-P033 → V1C13-P034",
+        "next_start": "500 BIBLIOGRAPHY Boucart, Robert. Les Dessous de /'Intelligence Service, 1937. Bracher, Karl Dietric",
+        "severity": "INFO"
+      },
+      {
+        "type": "heading_at_page_start",
+        "page_boundary": "546→547",
+        "para_ids": "V1C13-P035 → V1C13-P036",
+        "next_start": "502 BIBLIOGRAPHY Grauert, Wilhelm, \"Die Entwicklung des Polizeirechts in nationalsozialistischen Sta",
+        "severity": "INFO"
+      },
+      {
+        "type": "heading_at_page_start",
+        "page_boundary": "548→549",
+        "para_ids": "V1C13-P037 → V1C13-P038",
+        "next_start": "504 BIBLIOGRAPHY Martin, Alfred von, \"Zur Soziologie der Gegenwart,\" Zeitschrift fur Kulturgeschicht",
+        "severity": "INFO"
+      },
+      {
+        "type": "heading_at_page_start",
+        "page_boundary": "550→551",
+        "para_ids": "V1C13-P039 → V1C13-P040",
+        "next_start": "506 BIBLIOGRAPHY Scheuner, Ulrich, \"Die nationale Revolution. Eine staatsrechtliche Untersuchung,\" i",
+        "severity": "INFO"
+      },
+      {
+        "type": "heading_at_page_start",
+        "page_boundary": "556→557",
+        "para_ids": "V1C13-P043 → V1C13-P044",
+        "next_start": "510 antisemitism, explanations of (Cont.) I 02, I 04; and mob, I 07 fl.; and imperi­ alism, 1 16; an",
+        "severity": "INFO"
+      },
+      {
+        "type": "heading_at_page_start",
+        "page_boundary": "558→559",
+        "para_ids": "V1C13-P045 → V1C13-P046",
+        "next_start": "512 capitalism, and Jews (Cont.) 126, 1 32, 13S II., l43, 147, 148, 149 1I., 200- 1 ; laws of, 1 36 ",
+        "severity": "INFO"
+      },
+      {
+        "type": "heading_at_page_start",
+        "page_boundary": "560→561",
+        "para_ids": "V1C13-P047 → V1C13-P048",
+        "next_start": "514 Dreyfus Affair (Cont.) 132, 1 55, 190, 229, 248, 262, 3 14, 354; and French Jews, 86 f., 1 17 If",
+        "severity": "INFO"
+      },
+      {
+        "type": "heading_at_page_start",
+        "page_boundary": "562→563",
+        "para_ids": "V1C13-P049 → V1C13-P050",
+        "next_start": "516 Germanic peoples, 164, 226, 359, 412 Germanism, see Aryanism; Pan-German- ism German Liberal Par",
+        "severity": "INFO"
+      },
+      {
+        "type": "heading_at_page_start",
+        "page_boundary": "564→565",
+        "para_ids": "V1C13-P051 → V1C13-P052",
+        "next_start": "518 Ireland, 1 21 f. isms, see ideologies isolation, 414 f., 418 Israel, State of, 299 Istria, 226 I",
+        "severity": "INFO"
+      },
+      {
+        "type": "heading_at_page_start",
+        "page_boundary": "566→567",
+        "para_ids": "V1C13-P053 → V1C13-P054",
+        "next_start": "520 masses, xi, xxiii, 262, 306, 3 1 5, 329, 341 , 347-54, 355, 356, 358 f., 380 If .• 398, 446, 472",
+        "severity": "INFO"
+      },
+      {
+        "type": "heading_at_page_start",
+        "page_boundary": "568→569",
+        "para_ids": "V1C13-P055 → V1C13-P056",
+        "next_start": "522 Pan-German League (AI/deutscher Ver­ band), 39, 45, ISO, 1 97, 223, 224, 225, 227, 238, 239, 250",
+        "severity": "INFO"
+      },
+      {
+        "type": "heading_at_page_start",
+        "page_boundary": "570→571",
+        "para_ids": "V1C13-P057 → V1C13-P058",
+        "next_start": "524 SA (Sturmabteilung), 307, 309, 317, 318, 368-71, 372, 373, 374, 381, 384, 390, 399, 414; -Reichs",
+        "severity": "INFO"
+      },
+      {
+        "type": "heading_at_page_start",
+        "page_boundary": "572→573",
+        "para_ids": "V1C13-P059 → V1C13-P060",
+        "next_start": "526 totalitarianism, xv, :urlii, 278, 290; pol­ itics of, xv; literature on, JlXJlill; and racism, 2",
+        "severity": "INFO"
+      }
+    ],
+    "text_integrity": {
+      "duplicates": {},
+      "out_of_order": [],
+      "missing_paragraphs": [],
+      "extra_paragraphs": []
+    },
+    "translation_alignment": {
+      "para_count_match": true,
+      "id_order_match": true,
+      "fn_defs_count": 5,
+      "fn_defs_range": "1-5",
+      "body_markers_count": 7,
+      "body_markers_range": "1-5",
+      "missing_markers": [],
+      "orphan_markers": [],
+      "fn_defs_sequential": true
+    },
+    "vnch_quality": {
+      "orthography_issues": [
+        {
+          "rule": "chính phủ → chánh phủ",
+          "type": "orthography",
+          "count": 48,
+          "positions": [
+            632,
+            951,
+            2130,
+            2709,
+            2814,
+            3321,
+            3730,
+            4139,
+            4565,
+            4720
+          ]
+        },
+        {
+          "rule": "được passive overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 127,
+          "positions": [
+            3783,
+            3802,
+            4170,
+            4247,
+            5669,
+            6363,
+            6694,
+            6858,
+            7550,
+            9803
+          ]
+        },
+        {
+          "rule": "cái classifier overuse (Northern pattern)",
+          "type": "grammar_northern",
+          "count": 33,
+          "positions": [
+            1781,
+            2685,
+            4655,
+            5698,
+            8192,
+            13523,
+            16209,
+            23869,
+            29155,
+            36416
+          ]
+        },
+        {
+          "rule": "rất vs quá (Northern prefers rất, VNCH prefers quá)",
+          "type": "vocabulary_northern",
+          "count": 1,
+          "positions": [
+            29035
+          ]
+        }
+      ],
+      "english_fragments": [
+        "Mid",
+        "Austro",
+        "Poncins",
+        "lumanitat",
+        "missionaries",
+        "Gefiihrdung",
+        "year",
+        "tums",
+        "Katz",
+        "tcm",
+        "rassischer",
+        "Ribbentrop",
+        "French",
+        "Willi",
+        "popee",
+        "used",
+        "Pope",
+        "Laszlo",
+        "principles",
+        "Leon",
+        "Opinion",
+        "xxviii",
+        "man",
+        "nihilisme",
+        "grandes",
+        "Geist",
+        "Sonnenberg",
+        "juda",
+        "tiscben",
+        "Troisieme"
+      ],
+      "cyrillic_artifacts": true
+    },
+    "footnotes": {
+      "citation_patterns": {
+        "op_cit": 3,
+        "loc_cit": 0,
+        "ibid": 9,
+        "page_refs": 1
+      },
+      "placeholder_notes": "None",
+      "unintegrated_notes": []
+    },
+    "structural_elements": {
+      "block_quotes": 0,
+      "bibliography_entries": 0,
+      "index_entries": 5,
+      "tables": 0,
+      "figures": 0
+    },
+    "encoding": {
+      "has_bom": false,
+      "has_crlf": false,
+      "is_nfc": true
+    }
+  }
+}

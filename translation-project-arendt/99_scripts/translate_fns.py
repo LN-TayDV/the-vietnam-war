@@ -1,0 +1,49 @@
+import json
+
+eng_fns = json.load(open('eng_fns_ch12.json', encoding='utf-8'))
+
+# Translate to Vietnamese (VNCH style)
+vi_fns = {
+    64: 'Không có cân nhắc quân sự, cũng không phải kinh tế, cũng không phải chính trị được phép can thiệp vào chương trình tốn kém và rắc rối của việc diệt chủng và trục xuất hàng loạt.',
+    69: '\"Thế giới đế quốc Germanic,\" như Him-mle nói, hoặc \"thế giới đế quốc Aryan,\" như Hit-lê muốn nói, dù sao vẫn còn cách đó vài thế kỷ. Đối với \"phong trào,\" quan trọng hơn là chứng minh',
+    72: 'Do đó Hit-lê có thể dùng khẩu ngữ yêu thích \"người Do Thái tử tế\" một khi ông đã bắt đầu tiêu diệt họ, cụ thể là tháng Mười Hai năm 1941, trong Tischgespräche, tr. 346.',
+    73: 'Điều nầy dẫn đến nghịch lý rằng \"hội kín trong ban ngày\" không bao giờ mang tính hợp đồng mưu về tính chất và phương pháp hơn sau khi nó được công nhận là thành viên chính thức của ủy ban',
+    74: 'Điều nầy bắt đầu bằng một mệnh lệnh tháng Bảy năm 1944, quy định SS được nâng cấp thành một tổ chức độc lập trong NSDAP, và hoàn tất bằng một sắc lệnh tối mật tháng Tám năm 1944, mà theo đó',
+    76: 'Stalin đã đưa nghệ thuật cân bằng nầy, đòi hỏi kỹ năng nhiều hơn ngoại giao thông thường, đến mức mà một sự điều hòa trong chính sách đối ngoại hoặc đường lối chính trị của Quốc tế Cộng sản trở nên',
+    77: 'Mức độ nghiêm túc mà bọn Quốc xã đối với hư cấu hợp đồng của chúng — theo đó chúng là những người cai trị tương lai của thế giới — bộc lộ ra vào năm 1940 khi, dù có sự cần thiết, và trước mặt tất cả',
+    81: 'Trong bối cảnh nầy cũng thuộc về việc hiếm gặp kinh ngạc của các vụ tự sát trong trại. Tự sát xảy ra thường xuyên hơn trước khi bắt giữ và trục xuất hơn là trong chính trại, điều 당 nhiên một phần được giải thích bởi',
+    82: 'Điều nầy được hỗ trợ bởi thực tế rằng sắc lệnh giết chết tất cả những người bệnh nan y được ban hành vào ngày chiến tranh bùng nổ, nhưng quan trọng hơn là bởi các phát biểu của Hit-lê trong chiến tranh, được Goebbels trích dẫn (Nhật ký Goebbels, ed. Louis P. Lochner, 1948) với hiệu lực rằng \"chiến tranh đã làm cho chúng tôi có khả năng giải quyết toàn bộ một loạt vấn đề mà không bao giờ có thể được giải quyết trong thời bình,\" và rằng, bất kể chiến tranh kết thúc như thế nào, \"người Do Thái chắc chắn sẽ là những kẻ thua.\" (tr. 314).',
+    83: 'Tự nhiên, người Ba Lan sớm bắt đầu lo lắng về chuyện gì sẽ xảy ra với họ khi bọn Quốc xã đã hoàn thành việc tiêu diệt người Do Thái (Nazi Conspiracy, IV, 916). Với các kế hoạch của Hit-lê thì',
+    84: 'Mọi liên hệ mà quyền lực có trong tâm trí người phương Tây với của cải trần gian, với tài sản, kho báu, và sự giàu có, đã bị tan rã thành một cơ chế phi vật chất hóa mà mọi chuyển động của nó',
+    85: 'Đối với một người tin vào quyền năng toàn diện của tổ chức đối trọng với mọi yếu tố vật chất đơn thuần, quân sự hay kinh tế, và mà hơn nữa tính toán chiến thắng cuối cùng của sự nghiệp mình theo thước đo thế kỷ, thì thất bại',
+    86: 'Vấn đề nắm lấy nhà nước. Hit-lê thường xuyên bình luận về mối quan hệ giữa nhà nước và đảng, và luôn nhấn mạnh rằng không phải nhà nước, mà là chủng tộc, hoặc \"cộng đồng dân tộc thống nhất,\"',
+    92: 'Chủ nghĩa toàn trị đối với sự thật, sự tuân thủ nghiêm ngặt các quy tắc của một thế giới hư cấu, trở nên ngày càng khó duy trì, nhưng vẫn còn thiết yếu như trước. Quyền lực có nghĩa là sự phối hợp trực tiếp',
+    93: 'Nhiều sai lầm của thế giới phi toàn trị trong các giao dịch ngoại giao với các chính phủ toàn trị (những sai lầm đáng chú ý nhất là sự tin cậy vào hiệp định Munich với Hit-lê và hội nghị Yalta',
+    94: 'Chủ nghĩa toàn trị biệt là hiến pháp Weimar; họ thậm chí để các bộ máy hành chính dân sự còn hoặc nhiều hoặc ít nguyên vẹn — một thực tế đã khiến nhiều quan sát viên bản địa và nước ngoài hy vọng vào sự kìm chế của đảng và',
+    96: 'Tất cả các cấp độ của máy móc hành chính trong Đế chế Thứ Ba đều bị đặt dưới một sự trùng lặp chức năng kỳ lạ. Với sự thấu triệt đầy ảo tưởng, bọn Quốc xã đã đảm bảo rằng mọi chức năng',
+    98: 'Chủ nghĩa toàn trị tại Nga; ông đã đưa hiến pháp Xô-viết ra như biểu tượng của sự tồn tại cũng như sự vô lực của các Xô-viết. (Không một đoạn nào của nó từng có chút ý nghĩa thực tiễn nào.',
+    99: 'Thực tế, sự trùng lặp các văn phòng, dường như là kết quả của vấn đề đảng-nhà nước trong mọi độc tài một đảng, chỉ là dấu hiệu đáng chú ý nhất của một hiện tượng phức tạp hơn rằng',
+    101: 'Điển hình cho khái niệm người bị nghi ngờ là câu chuyện sau do C. Pobyedonostzev thuật lại trong L\'Autocratie Russe: Mémoires politiques, correspondance officielle et documents divers... 188',
+    102: 'Đối lập với những khả năng \"khách quan\" này, dù hoàn toàn không có thật, chỉ có những yếu tố \"chủ quan\", như sự đáng tin cậy của bị cáo, sự mệt mỏi của họ, sự không thể hiểu được điều gì',
+    103: 'Những phương pháp tài chính bất hợp pháp này, từ việc nhận hối lộ thân mật đến uy hiếp công khai, là',
+    110: 'Các đội hình tinh hoa của phong trào Quốc xã và các \"khung xương\" (cadres) của phong trào Bolshevik phục vụ mục tiêu thống trị toàn diện chứ không phải an ninh cho chính quyền đang nắm quyền. Cũng như thể chế toàn trị',
+    115: 'Ông không bao giờ là một cá nhân mà những tư duy nguy hiểm của hắn phải được \"\" Thú vị về phương diện nầy là các nỗ lực của các viên chức dân sự Quốc xã tại Đức để giảm bớt sự năng lực và nhân sự của G',
+    116: 'Rõ ràng giới hạn của phương pháp nầy chỉ được đặt bởi kích thước của các thẻ lưu hồ sơ, và về lý thuyết, một tờ giấy khổng lồ đơn lẻ có thể thể hiện các quan hệ và quan hệ chéo của toàn bộ',
+    117: 'Sớm nhất năm 1941, trong một cuộc họp cảnh bộ tại bộ chỉ huy của Hit-lê, đã được đề xuất áp đặt lên dân số Ba Lan những quy định mà người Do Thái đã được chuẩn bị cho việc tiêu diệt',
+    118: 'Khái niệm \"đối thủ khách quan,\" mà danh tính của nó thay đổi tùy theo hoàn cảnh hiện hành — sao cho, ngay khi một thể loại bị tiêu diệt, chiến tranh có thể được tuyên bố trên thể loại khác — tương ứng với',
+    120: 'Tự nhiên, dân số chung và các đảng viên cụ thể biết tất cả các thực tế chung — rằng các trại tập trung tồn tại, rằng con người mất tích, rằng những người vô tội bị bắt giữ; cùng lúc đó',
+    124: 'Lý do mà các chính quyền toàn trị có thể tiến xa đến mức hiện thực hóa một thế giới hư cấu, lộn ngược, là vì thế giới phi toàn trị bên ngoài, mà luôn bao trùm một phần lớn dân số',
+    129: 'Chúng ta cố gắng hiểu các yếu tố trong kinh nghiệm hiện tại hoặc được nhớ lại mà đơn giản vượt quá khả năng hiểu của chúng ta. Chúng ta cố gắng phân loại như một tội ác một điều mà, như chúng ta đều cảm thấy, không có',
+    131: 'Nếu đúng rằng các trại tập trung là thể chế trọng yếu nhất của ách thống trị toàn trị, thì \"trú ngụ trong kinh hoàng\" dường như là không thể thiếu cho việc hiểu chủ nghĩa toàn trị',
+    134: 'David Rousset gọi báo cáo của ông về giai đoạn ở một trại tập trung Đức là \"Les Jours de Notre Mort,\" và quả thật dường như có khả năng đưa sự chết chiều vào vĩnh viễn',
+    137: 'Những bộ phim mà phe Đồng minh lưu truyền tại Đức và nơi khác sau chiến tranh đã chỉ ra rõ ràng rằng không khí điên rồ và phi thực tại nầy không bị tiêu tan bởi báo cáo thuần túy. Đối với người quan sát không định kiến',
+    145: 'Đối với sự kết hợp của các tù nhân chính trị và tội phạm mà các trại tập trung tại Nga và Đức khởi đầu, đã được thêm vào một yếu tố thứ ba mà sớm trở thành phần lớn dân số trại',
+    146: 'Đó là nhóm thứ ba này của những người hoàn toàn vô tội mà trong mọi trường hợp đều chịu khổ đau nhất trong trại. Tội phạm và tù nhân chính trị được đồng hóa vào thể loại nầy; do đó bị tước đi sự phân biệt bảo vệ',
+    154: 'Thông qua việc tạo ra những điều kiện mà dưới đó lương tâm ngừng đầy đủ và làm điều tốt trở nên hoàn toàn không thể, sự đồng lõa được tổ chức có ý thức của mọi người đàn ông trong các tội ác của chủ nghĩa toàn trị',
+    158: 'Nỗi kinh hoàng thực sự bắt đầu, tuy nhiên, khi SS tiếp quản quản trị các trại. Sự tàn man tự phát cũ nhường chỗ cho một sự phá hủy tuyệt đối lạnh lùng, có hệ thống của các cơ thể con người, được tính toán với',
+}
+
+with open('vi_fns_ch12.json', 'w', encoding='utf-8') as f:
+    json.dump(vi_fns, f, ensure_ascii=False, indent=2)
+
+print(f'Translated {len(vi_fns)} footnotes to Vietnamese')

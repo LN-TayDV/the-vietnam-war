@@ -367,7 +367,7 @@ def parse_chapter(path):
 
 
 # ------------------------------------------------- footnote placement (A)
-def extract_inline_markers(items, notes):
+def extract_inline_markers(items, notes, allow_bare=True):
     """Use markers already present in the translation body. Returns
     {item_index: [(offset, note_number), ...]} and cleaned texts.
     Inline [N] markers are always accepted (gaps for unreferenced notes
@@ -376,7 +376,9 @@ def extract_inline_markers(items, notes):
     the guard against false positives from page numbers, years and other
     numbers embedded in the body text.  Chapters that still rely on bare
     markers are flagged by build() via the used/total count, which forces a
-    manual spot-check before the DOCX is considered done."""
+    manual spot-check before the DOCX is considered done.
+    If allow_bare=False, only inline [N] markers are processed (for chapters
+    that use exclusively bracketed format like V1C15)."""
     expect, marks = 1, {}
     texts = {}
     for idx, it in enumerate(items):
@@ -393,6 +395,8 @@ def extract_inline_markers(items, notes):
                     continue  # duplicate, already processed
                 # num >= expect: accept, skip any gap (unreferenced notes)
             else:
+                if not allow_bare:
+                    continue  # skip bare markers entirely
                 if num != expect:
                     continue  # bare marker must match expected sequence
             out.append(text[last:m.start()])
@@ -586,7 +590,9 @@ def source_placements(items, chap, notes):
 
 def plan_footnotes(chap):
     notes = chap["notes"]
-    inline = extract_inline_markers(chap["items"], notes)
+    # V1C15 uses exclusively bracketed [N] format; disable bare marker parsing
+    allow_bare = chap.get("id", "").startswith("V1C15") is False
+    inline = extract_inline_markers(chap["items"], notes, allow_bare=allow_bare)
     if inline:
         items, marks = inline
         return items, marks, "inline"

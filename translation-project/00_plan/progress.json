@@ -1,267 +1,39 @@
 {
-  "project": "The Cambridge History of the Vietnam War — Vietnamese translation",
+  "project": "The Origins of Totalitarianism — Hannah Arendt — Vietnamese translation",
+  "book": "The Origins of Totalitarianism (New Edition), Harcourt, Brace & Jovanovich, 1973",
+  "source_pdf": "books/Hannah-Arendt-The-Origins-of-Totalitarianism-Harcourt-Brace-Jovanovich-1973.pdf",
+  "total_pages": 574,
   "language_standard": "Southern Vietnamese (RVN pre-1975)",
-  "style_guide_version": "2.3 — 29 quy tắc (Giai đoạn 2, 2026-11-19)",
-  "grammar_engine_version": "2.1 — DONE (Giai đoạn 1, 2026-11-19)",
-  "terminology_table": "07_style_guide/TERMINOLOGY_TABLE_BY_DOMAIN.md (321 mục, 5 domain)",
-  "updated": "2026-11-23 (V1-C14 REVIEW_AUDIT HOAN_TAT: 52 đoạn + 1 hình + 76 cước chú, DOCX 11,171 từ 76/76, Quality Gate PASS, audit_docx_format PASS — xem 05_qa/REVIEW_AUDIT_CH14.md; V1-C13 HOÀN TAT sau audit–sửa: 64 đoạn + 8 đề mục + 61 cước chú, DOCX 9,290 từ 61/61; V1-C12 HOAN_TAT: 42 đoạn + 5 đề mục + 76 cước chú, DOCX 9,748 từ 76/76)",
+  "style_guide_version": "2.3 — 29 quy tắc (Giai đoạn 2)",
+  "grammar_engine_version": "2.1",
+  "workflow_skill": ".kilo/skills/translation-workflow/SKILL.md",
+  "updated": "2026-11-23",
   "phases": {
     "G0_setup": "done",
-    "G1_foundation": "done",
-    "G1_5_pilot": "PASS (Giai đoạn 3: 6 lỗi sửa, 2 vòng kiểm tra PASS)",
-    "Grammar_Engine": "done (Giai đoạn 1)",
-    "Style_Guide_Lexicon": "done (Giai đoạn 2: 6 terms added, 3 rules added, term table built)",
-    "Pilot_Fix_Reverify": "done (Giai đoạn 3: 6 fixes, P008-P012 restored, 2 rounds PASS)",
-    "Pilot_Acceptance": "PASS (Giai đoạn 4: người dùng phê duyệt 2026-11-18)"
+    "G1_foundation": "done"
   },
   "chapters": {
-    "V1-C01": {
-      "status": "HOAN_TAT"
+    "Ch01": {
+      "title": "Antisemitism as an Outrage to Common Sense",
+      "status": "translated",
+      "pages_pdf": "47-54",
+      "pages_printed": "3-10",
+      "file": "04_translation/v1/ch01/v1_ch01_vi.txt",
+      "qa_status": "pending"
     },
-    "V1-C02": {
-      "status": "HOAN_TAT"
-    },
-    "V1-C03": {
-      "status": "HOAN_TAT"
-    },
-    "V1-C04": {
-      "status": "HOAN_TAT"
-    },
-    "V1-C05": {
-      "status": "HOAN_TAT"
-    },
-    "V1-C06": {
-      "status": "HOAN_TAT"
-    },
-    "V1-C07": {
-      "status": "HOAN_TAT"
-    },
-    "V1-C08": {
-      "title_en": "China and the Vietnam War",
-      "title_vi": "Trung Quốc và Chiến tranh Đông Dương",
-      "author": "Chen Jian",
-      "status": "HOAN_TAT — 36 đoạn, trang 173-196, 68 cước chú; DOCX đã tạo (9,542 từ, 68/68 cước chú, nguồn: inline); VNCH orthography fixed (chánh trị, chánh phủ, dân biểu, trái lại, vả, độc lập, tuy vậy, bởi thế, cống sức, tên bắn, Pyrrhic, nút then, hành lang then, cơ sở cố định); alignment verified 36/36; footnotes 68/68. Language purity review + VLP-01 (2026-11-21): xóa từ Đức 'nässig' → 'này' (28 lần); xóa từ Anh 'rearment [tái vũ trang]' → 'tái vũ trang', 'diplomatic note' → 'tiêu sử', 'raid' → 'đột kích'; Pyrrhic thêm giải nghĩa; sửa cú pháp (chính quy quân đội→quân đội chính quy; Kế hoạch công chiến của mới→Kế hoạch công chiến mới); xóa thừa từ (căn cứ quân sự cơ sở cố định→căn cứ quân sự cố định); sửa chính tả (vàocơ sở→và cơ sở, cứu dòng→căn cứ); xóa running header artifact 'Trung Quốc và Chiến tranh Đông Dương' ở đầu mỗi đoạn; định dạng subheading standalone in đậm (Chiến dịch Biên giới, Thất thế tại Đồng Bằng Sông Hồng, Chuyển về Tây Bắc, Con đường đến Điện Biên Phủ, Sự sụp đổ của Điện Biên Phủ, Hội nghị tại Geneva, Hội nghị Chu Ân Lai – Hồ Chí Minh tại Liuzhou, Kết thúc Chiến tranh Đông Dương của Pháp, Mở đầu: 'Tôi là Hồ Chí Minh', Lập kế hoạch viện trợ cho người cộng sản Việt Nam). Chuẩn hóa tên Hán Việt (quy tắc mới): Chu En-lai → Chu Ân Lai (8 lần); Lưu Shao-khi → Lưu Thiếu Kỳ (3 lần); Giang Giai-thạch → Tịnh Giai Thạch (1 lần); Lin Biao → Lâm Bưu (2 lần). Chuẩn hóa địa danh Hán Việt (quy tắc mới): Liuzhou → Liễu Châu (8 lần). Giữ nguyên viết tắt tên tổ chức (PLA, CCP, ICP, PRC, DRVN, PAVN, CMAG, CCMC, VWP, SVN) — đã giải nghĩa lần đầu, quy tắc Style Guide 11.",
-      "pages": "173-196",
-      "paragraphs": 36,
-      "footnotes": 68,
-      "g2_progress": "V1-C08: 36 đoạn (P001-P036) + 68 cước chú [1]-[68], trang 173-196 — HOÀN TAT (văn phong G3 miền Nam VNCH, Style Guide v2.3 + Grammar Engine v2.1)",
-      "quality_gate": "Encoding PASS; Orthography: 32× 'này' (Rule VNCH-12 false positive - 'này' dùng đúng làm từ chỉ định, không phải 'nässig' từ Đức); 2× MAJOR ('Giải phóng' tên riêng, 'Đồng chí Ding' mã radio - không phải lỗi); Alignment PASS; Footnotes PASS; No fabricate PASS; Language purity PASS (từ Đức 'nässig' và từ Anh 'rearment'/'diplomatic note'/'raid' đã sửa); DOCX PASS; DOCX footnotes (Word COM) manual",
-      "encoding": "UTF-8/NFC/no-BOM/LF PASS",
-      "alignment": "36/36 đoạn src=vi; footnotes 68/68 inline 1..68",
-      "docx": "09_docx/V1-C08_Trung-Quoc-va-Chien-tranh-Dong-Duong.docx",
-      "docx_status": "DONE (rebuilt 2026-11-21 after Hán Việt geographical name conversion + language purity fixes; 9,542 từ, 68/68 cước chú; cần Word COM verify cước chú criterion 8)",
-      "vnch_fixes": "chính trị→chánh trị (9); chính phủ→chánh phủ; đại biểu→dân biểu (3); ngược lại→trái lại (2); hơn nữa→vả (1); này→nässig (26, ngoại lệ trong này/ngoài này/trước này/sau này); giải phóng→độc lập (giữ 'Quân đội Giải phóng Nhân dân'); tuy nhiên→tuy vậy (6); vì vậy→bởi thế (1); đọc sức→cống sức; súng ngư chuẩn→tên bắn; Py-rít→Pyrrhic; setting đồn cố→cơ sở cố định; nútthen→nút then; hành langthen→hành lang then; Chu En-laibiểu-xuất tuyên-bố→Chu Ân Lai đã công bố tuyên bố; LANGUAGE PURITY (2026-11-21): nässig→này (28 lần, từ Đức vô nghĩa nghĩa 'nhän/nặng' dùng nhầm làm từ chỉ định 'này'); rearment [tái vũ trang]→tái vũ trang; diplomatic note→tiêu sử; raid→đột kích; Pyrrhic→Pyrrhic (thắng lợi tốn kém, hiệu quả thấp); chính quy quân đội→quân đội chính quy; căn cứ quân sự cơ sở cố định→căn cứ quân sự cố định; vàocơ sở→và cơ sở; cứu dòng→căn cứ; Kế hoạch công chiến của mới→Kế hoạch công chiến mới; HÁN VIỆT (2026-11-21): Chu En-lai→Chu Ân Lai (8 lần); Lưu Shao-khi→Lưu Thiếu Kỳ (3 lần); Giang Giai-thạch→Tịnh Giai Thạch (1 lần); Lin Biao→Lâm Bưu (2 lần); Liuzhou→Liễu Châu (8 lần)",
-      "notes": "Quality Gate criterion 2 flags 32× 'này' (Rule VNCH-12 false positive - 'này' dùng đúng làm từ chỉ định sau khi thay 'nässig' từ Đức, không phải lỗi). 2× MAJOR ('Giải phóng' tên riêng, 'Đồng chí Ding' mã radio - không phải lỗi). Đây là false positive của script, không phải vi phạm Style Guide. Cần Word COM verify DOCX cước chú (criterion 8). Tất cả từ ngữ vô nghĩa (nässig từ Đức, rearment từ Anh) đã được sửa trực tiếp. VLP-01 đã áp dụng: xóa running header artifact, định dạng subheading standalone in đậm qua marker ' — đề mục ---' trên 10 đoạn. Chuẩn hóa tên Hán Việt đã áp dụng: Chu En-lai → Chu Ân Lai (8 lần), Lưu Shao-khi → Lưu Thiếu Kỳ (3 lần), Giang Giai-thạch → Tịnh Giai Thạch (1 lần), Lin Biao → Lâm Bưu (2 lần). Chuẩn hóa địa danh Hán Việt đã áp dụng: Liuzhou → Liễu Châu (8 lần)."
-    },
-    "V1-C09": {
-      "title_en": "The French Indochina War in the Central Highlands",
-      "title_vi": "Chiến tranh Đông Dương của Pháp ở Tây Nguyên",
-      "author": "Oscar Salemink",
-      "status": "HOAN_TAT — 37 đoạn, trang 195-217, 51 cước chú; DOCX đã tạo (9,557 từ, 51/51 cước chú, nguồn: inline); VNCH orthography fixed (chánh trị, chánh phủ, dân biểu, trái lại, tuy vậy, vả, Trung Kỳ, Bắc Kỳ, Nam Kỳ, Đông Dương); alignment verified 37/37 + 4 đề mục gộp vào nội dung; footnotes 51/51. Toàn bộ lỗi dịch đã sửa: sai nghĩa, thiếu, máy móc, câu không tự nhiên, thuật ngữ, nhân danh địa danh, ngoại ngữ còn sót. Bản dịch đã được rà soát toàn bộ theo SKILL.md: bổ sung đoạn P013 thiếu (In 1945...), bổ sung đoạn P034 đầu (In response, Navarre...), hoàn chỉnh kết thúc P029 (đã reuni lại PMS...), sửa footnote [3] (Trung ương→Tây Nguyên cho Central Highlander), sửa footnote [28] (Lọai→Năm Palabres), sửa câu cứng (khơi mào→khơi daddy, giải nhiệm vụ→miễn nhiệm, làm nghiên cứu địa phương→nghiên cứu thực địa, danh nghĩa sự thật→vì lý do sự thật, một người ấy→bỏ redundancy, định cư làm người định cư→định cư, đa dân tộc hoặc đa dân tộc→đa dân tộc, mở rộng cao nguyên vả cho→mở rộng thêm cao Nguyên cho), bỏ gloss (Annam) theo Quy tắc 15.",
-      "pages": "195-217",
-      "paragraphs": 37,
-      "footnotes": 51,
-      "g2_progress": "V1-C09: 37 đoạn (P001-P037) + 4 đoạn mục + 2 đoạn hình ảnh (PIMG1, PIMG2) + 51 cước chú [1]-[51], trang 195-217 — HOÀN TAT (văn phong G3 miền Nam VNCH, Style Guide v2.3 + Grammar Engine v2.1); HÌNH ẢNH: 2 ảnh raster từ PDF nguồn (Figure 9.1 p213/197, Figure 9.2 p226/210), image_manifest.json đã tạo, DOCX đã nhúng 2 hình ảnh | UPDATE 2026-11-21: Map 9.1 (p231/215, vector→rasterized 113 drawings) nay da trich xuat & nhung (ch09_p231_img2.png); DOCX co 3 hinh (Figure 9.1, 9.2, Map 9.1). Pipeline vector-figure fix ap dung chung cho ca ch9 & ch10.",
-      "quality_gate": "Encoding PASS; Orthography: 0× từ miền Bắc không phù hợp (các còn lại là false positive: giai phong trong trích dẫn/ten dung, sau này trong ngoai le, Annam trong ten duy tri); Alignment PASS (37/37 đoạn src=vi); Footnotes PASS (51/51 cước chú); No fabricate PASS; Language purity PASS; DOCX PASS (OK 51/51); DOCX footnotes: cần Word COM verify (criterion 8)",
-      "encoding": "UTF-8/NFC/no-BOM/LF PASS",
-      "alignment": "37/37 đoạn src=vi; 4 heading blocks (P013, P023, P028, P036) với marker '— đề mục —'; footnotes 51/51 inline 1..51",
-      "docx": "09_docx/V1-C09_The-French-Indochina-War-in-the-Central-Highlands.docx",
-      "docx_status": "DONE (rebuilt 2026-11-21 with 3 IMAGES; 9,621 từ, 51/51 cước chú inline; HÌNH ẢNH: Figure 9.1 (p213/197), Figure 9.2 (p226/210), Map 9.1 (p231/215, vector rasterized 113 drawings); audit_docx_format.py PASS — Images 3 | Captions 3, every caption preceded by image)",
-      "vnch_fixes": "P001: indígena→bản địa; is alleged→Có lời cho rằng. P003: thinly populated by→có dân cư thưa, gồm; Annam Cordillera→dãy Trường Sơn. P004: not in the name of verisimilitude→không phải vì lý do sự thật; unpack the agendas→khai mổ các ý đồ. P005: Legacies of Divide-and-Rule→Di sản của việc chia để trị; discursive ethnoscape→ethnoscape về mặt đàm luận. P006: boom years→năm thịnh vượng; khơi mào→khơi daddy; giải nhiệm vụ→miễn nhiệm. P008: résident-supérieur→cư trú thượng cấp; French resident→cư trú người Pháp; bỏ (Annam) gloss. P010: conservative nationalists→các nhà dân tộc chủ nghĩa bảo thủ; làm nghiên cứu địa phương→nghiên cứu thực địa; bỏ (Annam) gloss. P011: inspire much confidence→khiến các đồng nghiệp tin tưởng. P013: power vacuum→không vap quyền; grievances→khiếu nại; participants→người tham dự; BỔ SUNG toàn bộ đoạn dịch (bị thiếu trước đó). P015/017/024/026: PMSi→PMSI (typos). P017: kin analogies→mối liên hệ họ hàng; lãnh thổ người cao 너머→lãnh thổ người cao nguyên tự trị. P018: Cư dân→Cư trú (Resident). P023: military stalemate→sự đình đích quân sự. P027: cynical defeatism→sự thất bại mỉa mai; chủ đồn điển→chủ đồn điền. P028: crossroads→ngã đường; địa chính trị→địa chánh trị; indisputably belong→rõ ràng là một phần của. P029: Cochinchina→Nam Kỳ; BỔ SUNG kết thúc bị cắt (đã reuni lại PMS vào miền đất crown domain...); footnote [18]: không thể quyền→không vap quyền; German text→dịch. P030: cá chủ→cán bộ. P032: phần độc lập Hrê→phong trào độc lập Hrê; các đồn điển→các đồn điền; một người→một người ấy; BỔ SUNG kết thúc bị cắt (ghi nhận một cách thích hợp). P033: ca nguegos→ca ngợi. P034: BỔ SUNG đoạn đầu bị thiếu (Đáp lại, Navarre đã mệnh lệnh...); P035: closing quote added. Footnote [18]: không thể quyền→không vap quyền. Footnote [3]: Trung ương→Tây Nguyên (Central Highlander). Footnote [28]: Lọai→Năm Palabres. Footnote [31]: German→dịch tiếng Việt. Footnote [44]: 13 Tháng Ba→13 tháng Ba. Footnote [45]: Chánh đạo→Cơ quan chỉ đạo. Footnote [46]: Kế hoạch trú trú→Kế hoạch trú tạm. Này→nầy (bulk, ngoại lệ trong này/ngoài này/trước này/sau này). Mặc dù→Dẫu/dẫu. Bỏ gloss (Annam) ở P008, P009, P010 theo Quy tắc 15.",
-      "notes": "VLP-01 đã áp dụng: xóa artifacts từ Đức và Anh, chuẩn hóa tên địa danh Hán Việt, áp dụng 29 quy tắc Style Guide v2.3. Bản dịch đã được rà soát toàn bộ theo SKILL.md (7 bước dịch, S1-S20, P1-P10, C1-C10). Cần Word COM verify DOCX cước chú (criterion 8).",
-      "updated_note": "HOAN_TAT 2026-11-21 (sau rà soát lại toàn bộ chương, sửa lỗi dịch sai nghĩa CRITICAL: 'Korean War veterans'→'cựu chiến binh Chiến tranh Hàn Quốc', 'quân đạo'→'quân đội', 'liberation'→'độc lập'; chính tả: 'mỗi'→'Mọi', 'Ban Me Thuot'→'Ban Mê Thuột', 'Ta Xuan Linh'→'Tạ Xuân Linh'; VLP-01: xóa 'Figure'→'Hình', xóa 'être' dính liền; cú pháp: 'đảo chính'→'đảo chánh', 'đình địch'→'đình đậu', 'tuyên sinh'→'tuyển dụng', 'pháp quy'→'chính quy'; tên địa danh: 'Dalat'→'Đà Lạt', 'Banméthuot'→'Ban Mê Thuột', 'Kontum'→'Kon Tum'; KHÔI PHỤC HÌNH ẢNH: extract_chapters.py chỉ trích xuất text → đã bổ sung bước extract_images.py, trích xuất 2 ảnh raster từ PDF (Figure 9.1 p213/197, Figure 9.2 p226/210), tạo image_manifest.json, thêm caption paragraph vào TXT, rebuild DOCX có 2 hình ảnh + 51/51 footnotes)",
-      "format_audit": "PASS (2026-11-21): audit_docx_format.py ch09 — 3 hình ảnh nhúng (image1/2/3.png), every caption preceded by image, image count == caption count; footnotes 51/51; heading/quote/body OK",
-      "images_note": "3 images: v1-C09-IMG001 (Figure 9.1 raster), v1-C09-IMG002 (Figure 9.2 raster), v1-C09-IMG003 (Map 9.1 vector_figure_rasterized). Previously Map 9.1 was VECTOR_ONLY (never embedded) — fixed by extract_images.py render_vector_figure()."
-    },
-    "V1-C10": {
-      "title_en": "The French Indochina War in Northern Vietnam",
-      "title_vi": "Chiến tranh Đông Dương của Pháp ở Bắc Việt Nam",
-      "author": "Christopher Goscha",
-      "status": "HOAN_TAT — Dịch lại toàn bộ chương từ source (bản dịch cũ kém chất lượng đã được ghi đè hoàn toàn), 33 đoạn, trang 218-237, 19 cước chú; DOCX đã tạo (10,059 từ, 19/19 cước chú, nguồn: inline); VNCH orthography fixed (chánh trị, chánh phủ, dân biểu, trái lại, tuy vậy, vả, bởi thế, cống sức, tên bắn, Pyrrhic); alignment verified 33/33; footnotes 19/19. Toàn bộ từ ngoại ngữ đã được dịch hoặc giữ nguyên chỉ khi là tên riêng/thuật ngữ không có tương đương tiếng Việt. Không còn từ Đức, Anh, Pháp, Ý, Hán trong bản dịchMain (ngoài tên riêng, tên sách, mã số). VLP-01 áp dụng: không có running header artifacts, không có CRLF, tất cả đoạn có marker chuẩn, cước chú [1]-[19] đầy đủ inline và trong khối chú thích cuối trang. CÁC SỬA LỖI CUỐI CÙNG (2026-11-21): bổ sung đoạn P028 bị thiếu (source P028: Không quân tấn công trâu/bò, chợ, hệ thống vận tải, nhà máy); renumber P028→P033 khớp source; sửa P030 (xóa trích dẫn Chassin nhúng, thêm [18], 'than r'→'kinh hoàng', 'vật nặng'→'trâu bò', 'đê, đê'→'đê, đamb'); sửa P023 ('quan lý'→'quản lý'); sửa P015 ('chiến lược đánh giá cao'→'được tính toán cẩn thận', 'đưa ra'→'triển khai'); sửa P026 ('linh hồn'→'người', 'chu lip'→'không để lời lửng'); sửa P004 (thêm label 'đề mục' cho subheading 'Một loại chiến tranh mới đến miền trên Việt Nam'); sửa P009 (tách caption Figure 10.1 khỏi paragraph, để PIMG1 làm block riêng); sửa P029 ('đê, đê'→'đê, đamb'); sửa P032 ('đẻ'→'đê', 2 lần); DOCX rebuild với tất cả sửa lỗi.",
-      "pages": "218-237",
-      "pdf_pages": "234-253",
-      "paragraphs": 33,
-      "footnotes": 19,
-      "images": {
-        "count": 2,
-        "items": [
-          {
-            "id": "v1-C10-IMG001",
-            "type": "raster",
-            "pdf_page": 239,
-            "printed_page": 223,
-            "file": "ch10_p239_img0.png",
-            "caption": "Hình 10.1 — Đại tướng Jean de Lattre de Tassigny"
-          },
-          {
-            "id": "v1-C10-IMG002",
-            "type": "vector_figure_rasterized",
-            "pdf_page": 245,
-            "printed_page": 229,
-            "file": "ch10_p245_img1.png",
-            "source_drawings": 113,
-            "caption": "Bản đồ 10.1 — Các vùng chiến lược do DRVN quy định"
-          }
-        ]
-      },
-      "image_manifest": "00_plan/image_manifest.json (v1-C10-IMG001, v1-C10-IMG002, extraction_status=OK)",
-      "g2_progress": "V1-C10: 33 đoạn (P001-P033) + 3 heading blocks (P003 đề mục, P016 đề mục, P032 trích dẫn) + 2 hình (PIMG1 Figure 10.1, PIMG2 Map 10.1) + 19 cước chú [1]-[19], trang 218-237 — HOÀN TAT (văn phong G3 miền Nam VNCH, Style Guide v2.3 + Grammar Engine v2.1); HÌNH ẢNH: Figure 10.1 (p223 raster), Map 10.1 (p229 vector→rasterized 113 drawings); DOCX nhúng 2 hình ảnh; audit_docx_format.py PASS — Images 2 | every caption preceded by image; media integrity PASS; P028 đã bổ sung (source P028 về tấn công trâu/bò, chợ, vận tải, nhà máy); renumber P028-P033 khớp source P028-P033",
-      "quality_gate": "Encoding PASS (UTF-8/NFC/no-BOM/LF); Orthography PASS (không có từ miền Bắc, không có từ ngoại ngữ vô nghĩa); Alignment PASS (33/33 đoạn src=vi); Footnotes: source có 42 markers bị hỏng do trích xuất PDF (các con số trang 200, 219, 220, 300, 1946 - KHÔNG phải lỗi dịch), bản dịch có 19 cước chú đúng [1]-[19] khớp với danh sách chú thích; No fabricate PASS; Language purity PASS (đã dịch hết từ ngoại ngữ, không còn từ Đức/Anh/Pháp/Ý/Hán trong bản dịch chính); DOCX PASS; DOCX footnotes: cần Word COM verify (criterion 8).",
-      "encoding": "UTF-8/NFC/no-BOM/LF PASS",
-      "alignment": "33/33 đoạn src=vi; 3 heading blocks (P003, P016, P032) với marker '— đề mục —'/'— trích dẫn —'; footnotes 19/19 inline 1..19; source footnote alignment known issue: PDF extraction artifacts",
-      "docx": "09_docx/V1-C10_The-French-Indochina-War-Dong-Duong-in-Northern-Vietnam.docx",
-      "docx_status": "DONE (2026-11-22; 10,330 từ, 19/19 cước chú inline; 2 hình ảnh nhúng: image1.png=Figure 10.1, image2.png=Map 10.1 rendered; audit_docx_format.py PASS — tất cả định dạng heading/body/quote/footnote/image OK; media integrity PASS — DOCX bytes == source PNG; BỔ SUNG P028 thiếu + sửa lỗi P030/P023/P015/P026/P004/P009/P029/P032 + renumber P028-P033; PIMG blocks tách riêng image+caption, hình đúng vị trí)",
-      "format_audit": "PASS (2026-11-22): audit_docx_format.py ch10 — body 12pt Justify fi=0.9cm sa=6 line=1.3; image/caption count 2/2; every caption preceded by image; no block-header leaks; footnotes 19/19 sequential 1..19; footnote text 9pt; footnotes.xml present",
-      "vnch_fixes": "chính trị→chánh trị; chính phủ→chánh phủ; đại biểu→dân biểu; ngược lại→trái lại; hơn nữa→vả; tuy nhiên→tuy vậy; vì vậy→bởi thế; đọc sức→cống sức; sung ngư chuẩn→tên bắn; Py-rít→Pyrrhic; các từ Anh/Pháp/Duc/Ý/Hán đã được dịch hoặc giữ nguyên chỉ khi là tên riêng/thuật ngữ không có tương đương; CRLF→LF line endings; xóa running header artifacts; passive voice → active voice",
-      "notes": "Bản dịch hoàn toàn mới, ghi đè bản dịch cũ kém chất lượng (có artifacts: '[classifier] + danh từ', 'người ấy/ông ấy/bà ấy', 'xong/tiến hành', marker bị hỏng, tiếng Anh còn sót). Dịch theo SKILL.md (7 bước: phân tích ngữ cảnh → phân tách câu → ánh xạ thuật ngữ → nháp dịch → xác thực Grammar Engine → tuân thủ Style Guide → tự phê crítico sửa đổi). Tất cả 33 đoạn, 19 cước chú, 2 hình ảnh đã được dịch đầy đủ, không lược bỏ, không tóm tắt. Cần Word COM verify DOCX cước chú (criterion 8)."
-    },
-    "V1-C12": {
-      "title_en": "The Geneva Conference of 1954",
-      "title_vi": "Hội nghị Geneva năm 1954",
-      "author": "Martin Thomas",
-      "status": "HOAN_TAT — 42 đoạn nội dung (P001-P046, trừ 4 block chỉ có header/footer: P004, P008, P011, P014), trang 261-281, 76 cước chú [1]-[76]; DOCX đã tạo (9,748 từ, 76/76 cước chú, nguồn: inline); VNCH orthography fixed (chánh trị, chánh phủ, dân biểu, nầy, tuy vậy, vả, độc lập); alignment verified 42/42; CRLF→LF; UTF-8/NFC/no-BOM/LF; header V1-C12 · Hội nghị Geneva năm 1954 · Martin Thomas; DOCX: V1-C12_Hoi-nghi-Geneva-nam-1954.docx (9,748 từ, 76/76 cước chú, 1 hình ảnh Figure 12.1); all 76 footnotes translated from English/French source and placed inline; all VNCH terminology applied (chính phủ→chánh phủ, chính trị→chánh trị, đại biểu→dân biểu, này→nầy, tuy nhiên→tuy vậy, hơn nữa→vả, giải phóng→độc lập); personal names fixed (Mao Zedong→Mao Trạch Đông, Zhou Enlai→Chu Ân Lai).",
-      "pages": "261-281",
-      "paragraphs": 42,
-      "footnotes": 76,
-      "g2_progress": "V1-C12: 42 đoạn nội dung + 5 đề mục (Góc nhìn Việt Nam và Pháp, Giám sát Geneva: Ủy ban Kiểm soát Quốc tế và người tị nạn, Một thỏa thuận bị thất bại?, Hậu thực dân hóa và Geneva, Kết luận) + 1 hình ảnh (Figure 12.1, ch12_p290_img0.png) + 76 cước chú [1]-[76], trang 261-281 — HOÀN TAT (văn phong G3 miền Nam VNCH, Style Guide v2.3 + Grammar Engine v2.1)",
-      "quality_gate": "Encoding PASS (UTF-8/NFC/no-BOM/LF); Orthography PASS (VNCH terms applied); Alignment PASS (42/42 đoạn src=vi); Footnotes PASS (76/76 cước chú dịch và đặt inline; tất cả 76 footnotes [1]-[76] đã được đối chiếu từng một với PDF nguồn và khôi phục inline markers, mỗi footnote là Word Native Footnote độc lập, đúng số và đúng liên kết, đặt tại đúng đoạn văn); No fabricate PASS; Language purity PASS (không còn từ Đức/Anh/Pháp/Ý/Hán vô nghĩa trong bản dịch chính); DOCX PASS; DOCX footnotes: 76/76 placed as Word native footnotes; Header/footer stripping PASS (47 artifact lines removed, 4 empty blocks skipped); Subheading styles PASS (5× Heading 2 + 1× Heading 1 chapter title)",
-      "encoding": "UTF-8/NFC/no-BOM/LF PASS",
-      "alignment": "42/42 đoạn src=vi; footnotes 76/76 inline 1..76; 5 subheadings detected and styled; tất cả 76 footnote markers có trong body text, không còn unreferenced note",
-      "docx": "09_docx/V1-C12_Hoi-nghi-Geneva-nam-1954.docx",
-      "docx_status": "DONE (2026-11-22; 9,748 từ, 76/76 cước chú inline; 1 hình ảnh nhúng: Figure 12.1; DOCX rebuilt after source structure fixes: header/footer stripping, subheading Heading styles, footnote [46]-[50] shift fix, missing [73] added, ALL footnotes [1]-[76] restored with inline markers in body text including [15], [16], [24]-[26], [35]-[76], each footnote in separate paragraph as Word Native Footnote)",
-      "vnch_fixes": "chính trị→chánh trị; chính phủ→chánh phủ; đại biểu→dân biểu; này→nầy; tuy nhiên→tuy vậy; hơn nữa→vả; giải phóng→độc lập; Mao Zedong→Mao Trạch Đông; Zhou Enlai→Chu Ân Lai; CRLF→LF line endings",
-      "images": {
-        "count": 1,
-        "items": [
-          {
-            "id": "v1-C12-IMG001",
-            "type": "raster",
-            "pdf_page": 290,
-            "printed_page": null,
-            "file": "ch12_p290_img0.png",
-            "caption": "Hình 12.1 — Các cuộc đàm phán hòa bình dẫn đến việc ký kết Hiệp định Geneva (tháng Bảy năm 1954). Nguồn: Bettmann / Contributor / Bettmann / Getty Images.",
-            "extraction_status": "OK"
-          }
-        ]
-      },
-      "image_manifest": "00_plan/image_manifest.json (v1-C12-IMG001, extraction_status=OK)",
-      "notes": "HOÀN TẤT 2026-11-22: Tất cả 42 đoạn nội dung đã dịch (4 block header/footer-only đã loại), 76 cước chú đã dịch từ tiếng Anh/Pháp, 5 đề mục đã tách ra và định dạng Heading 2, chương tiêu đề Heading 1. DOCX rebuild với build_chapter_docx.py đã được sửa root-cause: strip header/footer trong parse_chapter(), detect subheading qua looks_like_subheading(), áp dụng Word Heading Styles (Heading 1 cho chương, Heading 2 cho đề mục). TẤT CẢ 76 CƯỚC CHÚ [1]-[76] ĐÃ ĐƯỢC ĐẶT ĐÚNG VỊ TRÍ: 42 inline markers [15], [16], [24]-[26], [35]-[76] đã được thêm vào body text tại đúng vị trí đối chiếu với source text (nguyên nhân lỗi: markers bị mất khâu dịch thuật từ source English sang bản dịch tiếng Việt, không phải lỗi PDF extraction/OCR). Footnote [46] trùng [45] đã sửa, [47]-[50] dịch lại, thêm [73] bị thiếu. DOCX verified: tất cả 76 cước chú là Word Native Footnotes, mỗi chú thích là đối tượng độc lập, đúng số và đúng liên kết, đặt tại đúng đoạn văn tương ứng (không còn gom vào đoạn cuối). Cần Word COM verify DOCX cước chú (criterion 8) nếu cần.",
-      "format_audit": "PASS (2026-11-22): DOCX built with 76/76 footnotes, 1 image embedded, no metadata leaks, all VNCH terms applied, 5 subheadings Heading 2, chapter title Heading 1"
-    },
-    "V1-C13": {
-      "title_en": "Eisenhower and Vietnam",
-      "title_vi": "Eisenhower và Việt Nam",
-      "author": "David L. Anderson",
-      "status": "HOAN_TAT — 64 đoạn nội dung (P001-P064) + Dẫn nhập, trang 282-301, 61 cước chú [1]-[61]; DOCX đã tạo (9,290 từ, 61/61 cước chú, nguồn: inline); audit_chapter.py PASS (English remnant=0, footnote leak=0, VNCH calque=0, tỉ lệ từ VN/EN=1.43); đã sửa: bổ sung Dẫn nhập (trước P001), thêm câu Logic của chế độ kìm chặn [60], thêm câu Once France had acceded [61], xóa trích dẫn cước chú bị lọt vào thân bài (P039, P058), chuẩn hóa VNCH (Nam Việt Nam, Nam Hàn, Á Châu, Âu Châu); alignment 64/64; UTF-8/NFC/no-BOM/LF; DOCX: V1-C13_Eisenhower-and-Vietnam.docx (9,290 từ, 61/61 cước chú, 1 hình ảnh Figure 13.1).",
-      "pages": "282-301",
-      "paragraphs": "64 đoạn nội dung (P001-P064) + 8 đề mục Heading 2 (gồm Dẫn nhập), trang 282-301",
-      "footnotes": "61 cước chú [1]-[61]",
-      "g2_progress": "V1-C13: 64 đoạn nội dung + 8 đề mục (Dẫn nhập: Việt Nam – quân domino trong Chiến Tranh Lạnh; Chế độ kìm chặn: Điểm mù của chiến lược lớn; Di sản của chủ nghĩa thực dân và đế quốc; Hợp tác 1953–5; Chủ nghĩa đơn phương 1956–7; Tự hài lòng và tự mãn 1957–61; Kết luận: Cam kết mà thiếu sáng tạo) + 1 hình ảnh (Figure 13.1) + 61 cước chú [1]-[61], trang 282-301 — HOÀN TAT (văn phong miền Nam VNCH, Style Guide v2.3 + Grammar Engine v2.1, audit_chapter.py PASS).",
-      "quality_gate": "Encoding PASS (UTF-8/NFC/no-BOM/LF); Orthography PASS (VNCH terms applied); Alignment PASS (59/59 đoạn src=vi); Footnotes PASS (61/61 cước chú dịch và đặt inline; tất cả 61 footnotes [1]-[61] đã được đối chiếu từng một với PDF nguồn và khôi phục inline markers, mỗi footnote là Word Native Footnote độc lập, đúng số và đúng liên kết, đặt tại đúng đoạn văn); No fabricate PASS; Language purity PASS (không còn từ Đức/Anh/Pháp/Ý/Hán vô nghĩa trong bản dịch chính); DOCX PASS; DOCX footnotes: 61/61 placed as Word native footnotes; Header/footer stripping PASS; Subheading styles PASS (5× Heading 2 + 1× Heading 1 chapter title)",
-      "encoding": "UTF-8/NFC/no-BOM/LF PASS",
-      "alignment": "59/59 đoạn src=vi; footnotes 61/61 inline 1..61; 5 subheadings detected and styled; tất cả 61 footnote markers có trong body text, không còn unreferenced note",
-      "docx": "09_docx/V1-C13_Eisenhower-and-Vietnam.docx",
-      "docx_status": "DONE (2026-11-22; 8,758 từ, 61/61 cước chú inline; 1 hình ảnh nhúng: Figure 13.1; DOCX built after footnote marker fix: P056 first sentence ending with period added to avoid subheading detection; all 61 footnotes [1]-[61] restored with inline markers in body text; each footnote in separate paragraph as Word Native Footnote)",
-      "vnch_fixes": "chính trị→chánh trị; chính phủ→chánh phủ; đại biểu→dân biểu; này→nầy; tuy nhiên→tuy vậy; hơn nữa→vả; giải phóng→độc lập; Mao Zedong→Mao Trạch Đông; Zhou Enlai→Chu Ân Lai; CRLF→LF line endings",
-      "images": {
-        "count": 1,
-        "items": [
-          {
-            "id": "v1-C13-IMG001",
-            "type": "raster",
-            "pdf_page": 315,
-            "printed_page": null,
-            "file": "ch13_p315_img0.png",
-            "caption": "Hình 13.1 Dwight D. Eisenhower bắt tay Ngô Đình Diệm (1957). Nguồn: Thư viện Dwight D. Eisenhower nhân tặng.",
-            "extraction_status": "OK"
-          }
-        ]
-      },
-      "image_manifest": "00_plan/image_manifest.json (v1-C13-IMG001, extraction_status=OK)",
-      "notes": "HOÀN TẤT 2026-11-22: Tất cả 59 đoạn nội dung đã dịch, 61 cước chú đã dịch từ tiếng Anh/Pháp, 5 đề mục đã tách ra và định dạng Heading 2, chương tiêu đề Heading 1. DOCX build với build_chapter_docx.py. Vấn đề giải quyết: footnote [59] bị mất do câu đầu P056 bị detect nhầm là subheading (ngắn < 90 ký tự, kết thúc bằng ']' thay vì '.') — đã sửa bằng cách thêm '.' sau [59]. TẤT CẢ 61 CƯỚC CHÚ [1]-[61] ĐÃ ĐƯỢC ĐẶT ĐÚNG VỊ TRÍ. Cần Word COM verify DOCX cước chú (criterion 8) nếu cần.",
-      "format_audit": "PASS (2026-11-22): DOCX built with 61/61 footnotes, 1 image embedded, no metadata leaks, all VNCH terms applied, 5 subheadings Heading 2, chapter title Heading 1"
-    },
-    "V1-C14": {
-      "title_en": "Ngô Đình Diệm and the Birth of the Republic of Vietnam",
-      "title_vi": "Ngô Đình Diệm và Sự Ra Đời của Cộng hòa Việt Nam",
-      "author": "Phi-Vân Nguyen",
-      "status": "REVIEW_AUDIT_2026-11-23: HOAN_TAT SAU SỬA LỖI — 52 đoạn nội dung (P001-P056) + 1 hình ảnh PIMG1 (Figure 14.1), trang 302-325 (PDF 318-341), 76 cước chú [1]-[76]; DOCX đã tạo lại (11,171 từ, 76/76 cước chú native, nguồn: inline); audit_docx_format.py PASS; Quality Gate 8 tiêu chí PASS; alignment PASS (52/52, 0 sentence mismatch); UTF-8/NFC/no-BOM/LF; DOCX: V1-C14_Ngo-Dinh-Diem-va-Su-Ra-Doi-cua-Cong-hoa-Viet-Nam.docx. Xem audit: 05_qa/REVIEW_AUDIT_CH14.md.",
-      "pages": "302-325",
-      "paragraphs": "52 đoạn nội dung (P001-P056) + 1 PIMG1 block (Figure 14.1), trang 302-325 (PDF 318-341)",
-      "footnotes": "76 cước chú [1]-[76]",
-      "g2_progress": "V1-C14: 52 đoạn nội dung (P001-P056) + 1 hình ảnh (PIMG1 Figure 14.1, ch14_p339_img0.png, trang in 323) + 76 cước chú [1]-[76], trang 302-325 (PDF 318-341) — REVIEW_AUDIT 2026-11-23: HOAN_TAT SAU SỬA LỖI (văn phong G3 miền Nam VNCH, Style Guide v2.3 + Grammar Engine v2.1)",
-      "quality_gate": "Quality Gate 8/8 PASS (2026-11-23 sau audit): Encoding PASS (UTF-8/NFC/no-BOM/LF); Orthography PASS (0 CRITICAL; 45 flag còn lại là FALSE POSITIVE — tựa sách Anh/Pháp trong cước chú theo Rule 11, và 'một người/đang+động từ' chính xác); Alignment PASS (52/52, 0 sentence mismatch); Footnotes PASS (76/76 native Word, ids 1..76 liên tục); No fabricate PASS; Văn phong (S1-S20,P1-P10) PASS; DOCX tồn tại PASS; audit_docx_format.py PASS",
-      "encoding": "UTF-8/NFC/no-BOM/LF PASS",
-      "alignment": "52/52 đoạn src=vi; footnotes 76/76 inline 1..76; 1 PIMG block; all footnote markers in body text",
-      "docx": "09_docx/V1-C14_Ngo-Dinh-Diem-va-Su-Ra-Doi-cua-Cong-hoa-Viet-Nam.docx",
-      "docx_status": "REBUILT (2026-11-23 sau audit độc lập; 11,171 từ, 76/76 cước chú native inline; 1 hình ảnh nhúng Figure 14.1; audit_docx_format.py PASS; Quality Gate 8/8 PASS)",
-      "vnch_fixes": "chính phủ→chánh phủ; Tuy nhiên→Tuy vậy (×3); ngược lại→trái lại; giải phóng→giải thoát (P016); đại từ câu đầu 'Nó'→danh từ rõ (×5); 177.000/60.000→177 000/60 000; thay toàn bộ placeholder ([classifier]+noun, đang...xong/tiến hành, người ấy/ông ấy/bà ấy, Tuy vậy/đã vậy, dầu/dẫu, Vả/lại, độc lập/kháng cự); dịch từ chưa dịch (feudō→lãnh địa fief, empujar→gạt ra ngoài lề, eminence grise/playboy/espousing/hiệu trung); xóa ký tự Ả Rập حكم→pháp quyền; khôi phục nguyên tựa 76 cước chú",
-      "images": {
-        "count": 1,
-        "items": [
-          {
-            "id": "v1-C14-IMG001",
-            "type": "raster",
-            "pdf_page": 339,
-            "printed_page": 323,
-            "file": "ch14_p339_img0.png",
-            "caption": "Hình 14.1 — Ngô Đình Diệm tại Sài Gòn (1954). Nguồn: Arhiv Đại sứ quán Mỹ tại Sài Gòn.",
-            "extraction_status": "OK"
-          }
-        ]
-      },
-      "image_manifest": "00_plan/image_manifest.json (v1-C14-IMG001, extraction_status=OK)",
-      "notes": "REVIEW & AUDIT ĐỘC LẬP 2026-11-23 (05_qa/REVIEW_AUDIT_CH14.md): Phát hiện bản gốc là bản nháp máy còn placeholder + đoạn vỡ + từ chưa dịch + ký tự Ả Rập + ~15 cước chú bị chèn sai tựa. ĐÃ SỬA TOÀN BỘ (viết lại 56 đoạn + khôi phục 76 cước chú) và rebuild DOCX. Tất cả 76 cước chú [1]-[76] là native Word footnotes, đặt đúng vị trí. Word COM verify (criterion 8) chưa chạy — đã thay bằng kiểm tra XML footnotes trực tiếp (76 native, id 1..76 đủ).",
-      "format_audit": "PASS (2026-11-23): audit_docx_format.py ch14 — body 12pt Justify fi=0.9cm sa=6 line=1.3; image/caption count 1/1; every caption preceded by image; no block-header leaks; footnotes 76/76 sequential 1..76 (native Word footnotes, ids 1..76 complete); footnote text 9pt",
-      "audit_2026_11_23": "REVIEW & AUDIT ĐỘC LẬP (05_qa/REVIEW_AUDIT_CH14.md): Phát hiện bản dịch gốc là bản nháp máy còn nguyên placeholder ([classifier] + noun ×7, 'đang... xong/tiến hành' ×10, 'người ấy/ông ấy/bà ấy' ×6, 'Tuy vậy/đã vậy' ×6, 'dầu/dẫu', 'Vả/lại', 'độc lập/kháng cự'), nhiều đoạn vỡ/thiếu nội dung (P006, P028, P031, P033, P039, P040, P047), từ chưa dịch (feudō, empujar[Spanish], eminence grise, playboy, espousing, hiệu trung), ký tự Ả Rập (حكم, P016), và ~15 cước chú bị chèn sai 'Đông Dương (Indochine)/(Indochina)'/'Trung Kỳ (Annam)' vào tựa sách Anh/Pháp. ĐÃ SỬA TOÀN BỘ: viết lại sạch 56 đoạn theo văn phong VNCH; khôi phục nguyên tựa 76 cước chú; sửa chính tả (chính phủ→chánh phủ, Tuy nhiên→Tuy vậy ×3, ngược lại→trái lại, giải phóng→giải thoát, đại từ 'Nó'×5, 177 000/60 000). Rebuild DOCX + QA lại: alignment 52/52 (0 mismatch), footnotes 76/76, Quality Gate PASS, audit_docx_format PASS, encoding PASS.Orthography còn 45 flag đều là FALSE POSITIVE (tựa sách Anh/Pháp trong cước chú — Rule 11 giữ nguyên; 'một người/đang+verb' chính xác). Ghi chú metadata: src ghi 'trang 302-330' nhưng thực tế in là 302-325 (PDF 318-341); không ảnh hưởng nội dung DOCX (marker chỉ là metadata, không render)."
-    },
-    "V1-C11": {
-      "title_en": "The Battle of Điện Biên Phủ",
-      "title_vi": "Trận chiến Điện Biên Phủ",
-      "author": "Christopher Goscha",
-      "status": "HOAN_TAT — 56 đoạn (V1C11-P001–P056), trang 238-258, 0 cước chú (CHƯA DỊCH: khối 'Cước chú' chưa được thêm vào TXT vì chú thích nguồn trộn lẫn với nội dung trích xuất PDF, không trích xuất được tin cậy; các dấu mốc chú thích 1..N trong bản dịch đã bị xóa khi build DOCX — xem Bug Register BUG-001); DOCX đã tạo (11,304 từ, 0/0 cước chú, nguồn: inline); VNCH orthography fixed (chánh trị, chánh phủ, nầy); alignment verified 56/56 (P016 diff=6, P042 diff=3, chấp nhận được); CRLF→LF; DOCX build OK; audit_docx_format.py PASS (heading/body/image OK, 0-note chapter OK). Hình ảnh: 1 (Map 11.1 vector rasterized 141 drawings, ch11_p258_img0.png). BUG-001 (chưa sửa): thiếu cước chú tiếng Việt — cần dịch 21 chú thích từ nguồn và thêm khối '--- [Cước chú ...] ---' vào TXT rồi rebuild.",
-      "pages": "238-258",
-      "paragraphs": 56,
-      "footnotes": 0,
-      "g2_progress": "V1-C11: 56 đoạn (P001-P056) + 1 PIMG1 block (Map 11.1) + 0 cước chú (CHƯA DỊCH), trang 238-258 — HOAN_TAT pipeline (build + audit PASS), lưu ý BUG-001 thiếu cước chú tiếng Việt (văn phong G3 miền Nam VNCH, Style Guide v2.3 + Grammar Engine v2.1)",
-      "quality_gate": "Encoding PASS (UTF-8/NFC/no-BOM/LF); Orthography PASS (chính trị→chánh trị, chính phủ→chánh phủ, này→nầy); Alignment PASS (56/56 đoạn src=vi, P016 diff=6, P042 diff=3 chấp nhận được); Footnotes: GAP (0/0 — khối Cước chú chưa có, chưa dịch, xem Bug Register BUG-001); No fabricate PASS; Language purity PASS (không có từ Đức/Anh/Pháp/Ý/Hán vô nghĩa trong bản dịch chính); DOCX PASS; DOCX footnotes: chưa verify (0 cước chú, criterion 8 không áp dụng khi 0)",
-      "encoding": "UTF-8/NFC/no-BOM/LF PASS",
-      "alignment": "56/56 đoạn src=vi; 1 heading PIMG block (trang 242); footnotes 0/0 (CHƯA DICH — xem BUG-001)",
-      "docx": "09_docx/V1-C11_Tran-chien-Dien-Bien-Phu.docx",
-      "docx_status": "DONE (2026-11-22; 11,304 từ, 0/0 cước chú do chưa dịch; 1 hình ảnh nhúng: Map 11.1 vector_figure_rasterized 141 drawings; audit_docx_format.py PASS — tất cả định dạng heading/body/image OK, không có block-header leaks, không có metadata leaks; ảnh trước caption OK)",
-      "format_audit": "PASS (2026-11-22): audit_docx_format.py ch11 — heading 13.5pt bold sb=14 sa=6; body 12pt Justify fi=0.9cm sa=6 line=1.3; image 1 | caption 1; every caption preceded by image; no block-header leaks; no source-path metadata; footnotes 0/0 (0-note chapter OK)",
-      "vnch_fixes": "chính trị→chánh trị (1); chính phủ→chánh phủ (1); này→nầy (false positive Rule VNCH-12 giữ 'này' là từ chỉ định); CRLF→LF line endings",
-      "images": {
-        "count": 1,
-        "items": [
-          {
-            "id": "v1-C11-IMG001",
-            "type": "vector_figure_rasterized",
-            "pdf_page": 258,
-            "printed_page": null,
-            "file": "ch11_p258_img0.png",
-            "caption": "Bản đồ 11.1 Đường cung cấp của Việt Nam qua Trung Quốc và Lào. Vẽ lại bởi Jeff Edwards.",
-            "caption_kind": "map",
-            "source_drawings": 141,
-            "extraction_status": "OK"
-          }
-        ]
-      },
-      "image_manifest": "00_plan/image_manifest.json (v1-C11-IMG001, extraction_status=OK)",
-      "notes": "HOAN_TAT pipeline 2026-11-22 (build DOCX OK + audit_docx_format.py PASS). BUG-001: thiếu 21 cước chú译文 chưa được thêm vào TXT (chú thích nguồn trộn lẫn với nội dung trích xuất PDF, không trích xuất được tin cậy); các dấu mốc Fußnote trong bản dịch đã bị xóa khi build. Cần dịch chú thích và thêm khối '--- [Cước chú ...] ---' rồi rebuild DOCX. Cần Word COM verify DOCX cước chú (criterion 8) sau khi BUG-001 sửa."
+    "Ch02": {
+      "title": "The Jews, the Nation-State, and the Birth of Antisemitism",
+      "status": "in_progress",
+      "pages_pdf": "56-98",
+      "pages_printed": "11-55",
+      "file": "04_translation/v1/ch02/v1_ch02_vi.txt",
+      "qa_status": "pending"
     }
   },
   "deliverables": {
-    "master_plan": "00_plan/MASTER_PLAN.md",
-    "chapter_inventory": "00_plan/chapter_inventory.csv",
-    "manifest": "00_plan/manifest.json",
-    "style_guide": "07_style_guide/STYLE_GUIDE.md",
-    "style_guide_phan_b": "07_style_guide/STYLE_GUIDE_PHAN_B.md",
+    "progress": "00_plan/progress.json",
+    "style_guide": "07_style_guide/STYLE_GUIDE_PHAN_B.md",
     "grammar_engine": "07_style_guide/TRANSLATION_GRAMMAR_ENGINE.md",
-    "master_lexicon": "07_style_guide/MASTER_LEXICON.csv",
-    "audit_report": "05_qa/AUDIT_REPORT_CH01-06.md",
-    "language_purity_review": "05_qa/LANGUAGE_PURITY_REVIEW_V1-C08.md",
-    "translation_workflow_skill": ".kilo/skills/translation-workflow/SKILL.md",
     "docx_builder": "99_scripts/build_chapter_docx.py",
     "common_scripts": ".kilo/scripts/common/"
   }

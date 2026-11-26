@@ -139,6 +139,20 @@
       "height": 1040,
       "caption": "",
       "extraction_status": "OK"
+    },
+    {
+      "image_id": "v1-C15-IMG001",
+      "source_pdf": "C:\\Users\\PC\\Documents\\AI_project\\the-vietnam-war\\books\\The_Cambridge_History_of_the_Vietnam_War.pdf",
+      "volume": "V1",
+      "chapter": 15,
+      "pdf_page": 347,
+      "printed_page": 331,
+      "filename": "ch15_p347_img0.png",
+      "image_type": "raster",
+      "width": 1300,
+      "height": 925,
+      "caption": "",
+      "extraction_status": "OK"
     }
   ]
 }

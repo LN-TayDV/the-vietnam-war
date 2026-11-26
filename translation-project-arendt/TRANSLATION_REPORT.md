@@ -1,0 +1,82 @@
+# Translation Report: Foreign Language Remnants
+
+Generated: 2026-11-26T10:45:28.347281
+
+- ch01: ch01: English 'con substitutions' (10 occurrences)
+- ch01: FILE UPDATED
+- ch02: ch02: Party name (1 occurrence)
+- ch02: ch02: Party name (1 occurrence)
+- ch02: ch02: Already has VNCH gloss (1 occurrence)
+- ch02: FILE UPDATED
+- ch03: ch03: French 'la capitale du dixneuvieme siecle' (2 occurrences)
+- ch03: ch03: French 'Sodome et Ghomorre' (2 occurrences)
+- ch03: ch03: French 'par excellence' (2 occurrences)
+- ch03: ch03: Latin 'apologia pro vita sua' (6 occurrences)
+- ch03: ch03: Book title - Proust (2 occurrences)
+- ch03: ch03: English 'pariah' (3 occurrences)
+- ch03: FILE UPDATED
+- ch04: ch04: French 'bordereau' (1 occurrence)
+- ch04: ch04: French 'Une erreur judiciaire' (1 occurrence)
+- ch04: ch04: French 'L'Accuse' (Zola's article) (3 occurrences)
+- ch04: ch04: Organization name (4 occurrences)
+- ch04: ch04: Book title (1 occurrence)
+- ch04: ch04: Newspaper (1 occurrence)
+- ch04: ch04: Newspaper (7 occurrences)
+- ch04: FILE UPDATED
+- ch05: ch05: French 'le plebiscite de tous les jours' (1 occurrence)
+- ch05: ch05: Latin 'ius' (1 occurrence)
+- ch05: ch05: Latin 'imperium' (1 occurrence)
+- ch05: ch05: French 'force noire' (2 occurrences)
+- ch05: ch05: English 'dominion' (1 occurrence)
+- ch05: ch05: German company name (1 occurrence)
+- ch05: ch05: Book title (7 occurrences)
+- ch05: FILE UPDATED
+- ch06: ch06: French 'La Philosophie' (1 occurrence)
+- ch06: ch06: French 'La raison est de tous les climats.' (1 occurrence)
+- ch06: ch06: French 'fortune des armes' (1 occurrence)
+- ch06: ch06: French 'Tiers Etat' (5 occurrences)
+- ch06: ch06: French 'Gallo-Romain' (1 occurrence)
+- ch06: ch06: French 'les neiges d'antan' (Villon) (1 occurrence)
+- ch06: ch06: Latin 'primus inter pares' (2 occurrences)
+- ch06: ch06: Book title - keep original (1 occurrence)
+- ch06: ch06: English 'Latinism' (2 occurrences)
+- ch06: ch06: English 'Germanism' (2 occurrences)
+- ch06: ch06: Mixed French/VNCH (1 occurrence)
+- ch06: FILE UPDATED
+- ch07: ch07: Book title (2 occurrences)
+- ch07: ch07: Character name (1 occurrence)
+- ch07: ch07: Character name (1 occurrence)
+- ch07: FILE UPDATED
+- ch08: ch08: OCR artifact Pan-Xlaven -> Pan-Xlavơ (29 occurrences)
+- ch08: ch08: OCR artifact Pan-Duc -> Pan-Dức (33 occurrences)
+- ch08: ch08: English 'Slavophile' (4 occurrences)
+- ch08: ch08: Dynasty name (4 occurrences)
+- ch08: ch08: Latin legal term (1 occurrence)
+- ch08: FILE UPDATED
+- ch09: ch09: French 'apatride' (3 occurrences)
+- ch09: ch09: French 'de nationalité indéterminée' (1 occurrence)
+- ch09: ch09: VNCH transliteration - keep (5 occurrences)
+- ch09: ch09: English abbreviation (1 occurrence)
+- ch09: ch09: German 'Heimatlosen' (1 occurrence)
+- ch09: FILE UPDATED
+- ch10: ch10: German 'Partei und Staat' (1 occurrence)
+- ch10: ch10: Proper name - keep (1 occurrence)
+- ch10: ch10: Book title (1 occurrence)
+- ch10: ch10: Book title (1 occurrence)
+- ch10: FILE UPDATED
+- ch11: ch11: German 'Fuehrer' -> Führer (keep original German spelling) (8 occurrences)
+- ch11: ch11: Newspaper name - keep original (1 occurrence)
+- ch11: ch11: Book title - keep original (1 occurrence)
+- ch11: ch11: Book title (1 occurrence)
+- ch11: ch11: Book title (1 occurrence)
+- ch11: FILE UPDATED
+- ch12: ch12: English 'totalitarian' -> VNCH 'toàn trị' (117 occurrences)
+- ch12: ch12: Running header - English (19 occurrences)
+- ch12: FILE UPDATED
+- ch13: ch13: Latin 'Initium ut esset homo creatus est' (Augustine) (1 occurrence)
+- ch13: ch13: Latin 'consensus iuris' (3 occurrences)
+- ch13: ch13: Section header (1 occurrence)
+- ch13: ch13: Section header (1 occurrence)
+- ch13: ch13: Section header (1 occurrence)
+- ch13: general: totalitarian -> toàn trị (35 occurrences)
+- ch13: FILE UPDATED

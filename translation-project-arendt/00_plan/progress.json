@@ -1,0 +1,148 @@
+{
+  "project": "The Origins of Totalitarianism - Hannah Arendt",
+  "target": "Vietnamese (VNCH pre-1975 Southern standard)",
+  "source_pdf": "books/Hannah-Arendt-The-Origins-of-Totalitarianism-Harcourt-Brace-Jovanovich-1973.pdf",
+  "updated": "2026-11-26T04:07:00Z",
+  "dashboard": "dashboard.html status reset — rebuild from source in progress",
+  "phase_status": "REBUILD_PHASE_B_SOURCE_EXTRACT_VERIFIED",
+  "qa_gate": "0/13 PASS",
+  "master_docx": "09_docx/V2-Origins-of-Totalitarianism-MASTER.docx",
+  "master_docx_note": "Master DOCX to be rebuilt after all 13 chapters HOAN_TAT",
+  "rebuild_note": "All previous HOAN_TAT statuses reset to not_started per REBUILD_MASTER_PLAN.md directive — rebuild from source, do not trust legacy status.",
+  "chapters": {
+    "front_matter": {
+      "pages": "1-7",
+      "status": "not_started",
+      "checkpoint": 0
+    },
+    "preface_first_edition": {
+      "pages": "8-10",
+      "status": "not_started",
+      "checkpoint": 0
+    },
+    "preface_part_one": {
+      "pages": "11-16",
+      "status": "not_started",
+      "checkpoint": 0
+    },
+    "preface_part_two": {
+      "pages": "17-22",
+      "status": "not_started",
+      "checkpoint": 0
+    },
+    "preface_part_three": {
+      "pages": "23-41",
+      "status": "not_started",
+      "checkpoint": 0
+    },
+    "part_one_intro": {
+      "pages": "42-47",
+      "status": "not_started",
+      "checkpoint": 0
+    },
+    "ch01": {
+      "pages": "48-55",
+      "status": "not_started",
+      "checkpoint": 0,
+      "output": "04_translation/v2/ch01/v1_ch01_vi.txt",
+      "docx": "09_docx/V2-01_ch01.docx",
+      "docx_status": "pending"
+    },
+    "ch02": {
+      "pages": "56-98",
+      "status": "not_started",
+      "checkpoint": 0,
+      "output": "04_translation/v2/ch02/v1_ch02_vi.txt",
+      "docx": "09_docx/V2-02_ch02.docx",
+      "docx_status": "pending"
+    },
+    "ch03": {
+      "pages": "99-133",
+      "status": "not_started",
+      "checkpoint": 0,
+      "output": "04_translation/v2/ch03/v1_ch03_vi.txt",
+      "docx": "09_docx/V2-03_ch03.docx",
+      "docx_status": "pending"
+    },
+    "ch04": {
+      "pages": "134-167",
+      "status": "not_started",
+      "checkpoint": 0,
+      "output": "04_translation/v2/ch04/v1_ch04_vi.txt",
+      "docx": "09_docx/V2-04_ch04.docx",
+      "docx_status": "pending"
+    },
+    "ch05": {
+      "pages": "168-202",
+      "status": "not_started",
+      "checkpoint": 0,
+      "output": "04_translation/v2/ch05/v1_ch05_vi.txt",
+      "docx": "09_docx/V2-05_ch05.docx",
+      "docx_status": "pending"
+    },
+    "ch06": {
+      "pages": "203-229",
+      "status": "not_started",
+      "checkpoint": 0,
+      "output": "04_translation/v2/ch06/v1_ch06_vi.txt",
+      "docx": "09_docx/V2-06_ch06.docx",
+      "docx_status": "pending"
+    },
+    "ch07": {
+      "pages": "230-266",
+      "status": "not_started",
+      "checkpoint": 0,
+      "output": "04_translation/v2/ch07/v1_ch07_vi.txt",
+      "docx": "09_docx/V2-07_ch07.docx",
+      "docx_status": "pending"
+    },
+    "ch08": {
+      "pages": "267-311",
+      "status": "not_started",
+      "checkpoint": 0,
+      "output": "04_translation/v2/ch08/v1_ch08_vi.txt",
+      "docx": "09_docx/V2-08_ch08.docx",
+      "docx_status": "pending"
+    },
+    "ch09": {
+      "pages": "312-349",
+      "status": "not_started",
+      "checkpoint": 0,
+      "output": "04_translation/v2/ch09/v1_ch09_vi.txt",
+      "docx": "09_docx/V2-09_ch09.docx",
+      "docx_status": "pending"
+    },
+    "ch10": {
+      "pages": "350-387",
+      "status": "not_started",
+      "checkpoint": 0,
+      "output": "04_translation/v2/ch10/v1_ch10_vi.txt",
+      "docx": "09_docx/V2-10_ch10.docx",
+      "docx_status": "pending"
+    },
+    "ch11": {
+      "pages": "388-433",
+      "status": "not_started",
+      "checkpoint": 0,
+      "output": "04_translation/v2/ch11/v1_ch11_vi.txt",
+      "docx": "09_docx/V2-11_ch11.docx",
+      "docx_status": "pending"
+    },
+    "ch12": {
+      "pages": "434-504",
+      "status": "not_started",
+      "checkpoint": 0,
+      "output": "04_translation/v2/ch12/v1_ch12_vi.txt",
+      "docx": "09_docx/V2-12_ch12.docx",
+      "docx_status": "pending"
+    },
+    "ch13": {
+      "pages": "505-574",
+      "status": "not_started",
+      "checkpoint": 0,
+      "output": "04_translation/v2/ch13/v1_ch13_vi.txt",
+      "docx": "09_docx/V2-13_ch13.docx",
+      "docx_status": "pending"
+    }
+  }
+}
