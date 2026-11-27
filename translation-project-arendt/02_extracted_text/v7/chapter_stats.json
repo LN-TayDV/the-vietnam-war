@@ -1,0 +1,114 @@
+{
+  "front_matter": {
+    "paragraphs": 74,
+    "body": 51,
+    "footnote": 15,
+    "chapter_heading": 8,
+    "start_page": 1,
+    "end_page": 21
+  },
+  "ch01": {
+    "paragraphs": 37,
+    "body": 26,
+    "footnote": 6,
+    "chapter_heading": 5,
+    "start_page": 23,
+    "end_page": 30
+  },
+  "ch02": {
+    "paragraphs": 181,
+    "body": 128,
+    "footnote": 48,
+    "chapter_heading": 5,
+    "start_page": 31,
+    "end_page": 74
+  },
+  "ch03": {
+    "paragraphs": 165,
+    "body": 116,
+    "footnote": 43,
+    "chapter_heading": 6,
+    "start_page": 75,
+    "end_page": 108
+  },
+  "ch04": {
+    "paragraphs": 155,
+    "body": 97,
+    "footnote": 54,
+    "chapter_heading": 4,
+    "start_page": 109,
+    "end_page": 141
+  },
+  "ch05": {
+    "paragraphs": 177,
+    "body": 124,
+    "footnote": 46,
+    "chapter_heading": 7,
+    "start_page": 143,
+    "end_page": 178
+  },
+  "ch06": {
+    "paragraphs": 110,
+    "body": 75,
+    "footnote": 33,
+    "chapter_heading": 2,
+    "start_page": 179,
+    "end_page": 204
+  },
+  "ch07": {
+    "paragraphs": 177,
+    "body": 135,
+    "footnote": 36,
+    "chapter_heading": 6,
+    "start_page": 205,
+    "end_page": 242
+  },
+  "ch08": {
+    "paragraphs": 188,
+    "body": 137,
+    "footnote": 44,
+    "chapter_heading": 7,
+    "start_page": 243,
+    "end_page": 286
+  },
+  "ch09": {
+    "paragraphs": 142,
+    "body": 109,
+    "footnote": 32,
+    "chapter_heading": 1,
+    "start_page": 287,
+    "end_page": 323
+  },
+  "ch10": {
+    "paragraphs": 148,
+    "body": 108,
+    "footnote": 31,
+    "chapter_heading": 9,
+    "start_page": 325,
+    "end_page": 360
+  },
+  "ch11": {
+    "paragraphs": 190,
+    "body": 134,
+    "footnote": 42,
+    "chapter_heading": 14,
+    "start_page": 361,
+    "end_page": 408
+  },
+  "ch12": {
+    "paragraphs": 279,
+    "body": 215,
+    "footnote": 61,
+    "chapter_heading": 3,
+    "start_page": 409,
+    "end_page": 480
+  },
+  "ch13": {
+    "paragraphs": 246,
+    "body": 173,
+    "footnote": 68,
+    "chapter_heading": 5,
+    "start_page": 481,
+    "end_page": 552
+  }
+}

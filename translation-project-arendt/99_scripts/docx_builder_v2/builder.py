@@ -39,11 +39,11 @@ TITLES = {
     "preface_part_two": ("Lời Nói Đầu Phần Hai", ""),
     "preface_part_three": ("Lời Nói Đầu Phần Ba", ""),
     "part_one_intro": ("Phần Một: Chủ Nghĩa Phân Biệt Chủng Tộc", "Giới Thiệu"),
-    "ch01": ("Chương Một", "Thuyết Trái Đất Bằng Phẳng"),
+    "ch01": ("Chương Một", "Chủ Nghĩa Chống Do Thái — Một Sự Lăng Mạ Đối Với Lẽ Thường"),
     "ch02": ("Chương Hai", "Chủ Nghĩa Phân Biệt Chủng Tộc Trước Chủ Nghĩa Quốc Gia"),
-    "ch03": ("Chương Ba", "Dân Tộc Do Thái và Xã Hội"),
+    "ch03": ("Chương Ba", "Người Do Thái Và Xã Hội"),
     "ch04": ("Chương Bốn", "Vụ Dreyfus"),
-    "ch05": ("Chương Năm", "Giải Phóng Chính Trị Của Tiểu Sản"),
+    "ch05": ("Chương Năm", "Giải Phóng Chánh Trị Của Giai Cấp Thị Dân"),
     "ch06": ("Chương Sáu", "Tư Duy Chủng Tộc Trước Chủ Nghĩa Phân Biệt Chủng Tộc"),
     "ch07": ("Chương Bảy", "Chủng Tộc và Quan Liêu"),
     "ch08": ("Chương Tám", "Chủ Nghĩa Đế Quốc Lục Địa: Các Phong Trào Pan"),
@@ -51,7 +51,7 @@ TITLES = {
     "ch10": ("Chương Mười", "Xã Hội Không Giai Cấp"),
     "ch11": ("Chương Mười Một", "Phong Trào Toàn Trị"),
     "ch12": ("Chương Mười Hai", "Toàn Trị Tại Quyền"),
-    "ch13": ("Chương Mười Ba", "Ý Thức Hệ và Khủng Bố · Một Hình Thức Chính Phủ Mới"),
+    "ch13": ("Chương Mười Ba", "Ý Thức Hệ và Khủng Bố · Một Hình Thức Chánh Phủ Mới"),
 }
 
 

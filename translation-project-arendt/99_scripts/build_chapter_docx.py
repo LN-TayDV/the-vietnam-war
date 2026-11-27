@@ -202,8 +202,17 @@ def parse(path):
         # Strip embedded page-header OCR artifacts from body text
         text = PAGE_ARTIFACT_RE.sub("", text).strip()
         text = re.sub(r"\s+", " ", text)
+        # Filter out running headers and standalone page numbers within paragraph text
+        lines = text.split("\n")
+        filtered_lines = [ln for ln in lines if not is_running_header_or_page(ln)]
+        text = " ".join(filtered_lines).strip()
+        text = re.sub(r"\s+", " ", text)
         items.append({"id": pid, "text": text})
-    return items, notes
+
+    # Detect chapter title from first paragraph
+    chapter_title, items = detect_chapter_title(items)
+
+    return chapter_title, items, notes
 
 
 def split_markers(text):
@@ -218,6 +227,80 @@ def split_markers(text):
     if pos < len(text):
         segs.append((text[pos:], None))
     return segs
+
+
+# ---------------------------------------------------------------- footnote leak detection
+CHAPTER_TITLE_RE = re.compile(r"^Chương\s+\w+[:]\s*", re.IGNORECASE)
+RUNNING_HEADER_RE = re.compile(
+    r"^(TOÀN TRỊ CHỦ NGHĨA|CHỦ NGHĨA PHÂN BIỆT CHỦNG TỘC|VỤ DREYFUS|"
+    r"TOTALITARIANISM IN POWER|ANTISEMITISM|THE DREYFUS AFFAIR|"
+    r"CHỦ NGHĨA ĐẾ QUỐC|TƯ DUY CHỦNG TỘC|XÃ HỘI KHÔNG GIAI CẤP|"
+    r"PHÒNG TRÀO TOÀN TRỊ|Ý THỨC HỆ VÀ KHÚNG BỐ|CHỦ NGHĨA PHÂN BIỆT CHỦNG TỘC)\s+\d+\s*$"
+)
+STANDALONE_PAGE_RE = re.compile(r"^\d{1,3}$")
+
+
+def normalize_text(text):
+    """Normalize text for comparison: lowercase, collapse whitespace, strip superscripts."""
+    text = re.sub(r"[" + SUP + r"]+", "", text)
+    text = re.sub(r"\s+", " ", text).strip().lower()
+    return text
+
+
+# Minimum length (after normalization) for footnote content to be considered
+# as "leaked" into body. Short citations (e.g. "Hadamovsky, op. cit.") appear
+# inline legitimately and should not trigger false positives.
+MIN_LEAK_LEN = 40
+
+
+def detect_footnote_content_in_body(items, notes):
+    """
+    Detect body paragraphs that contain footnote definition content.
+    Returns list of (paragraph_id, footnote_id, body_text) tuples.
+    """
+    leaked = []
+    # Normalize all footnote definition texts
+    note_texts = {}
+    for fid, ftext in notes.items():
+        note_texts[fid] = normalize_text(ftext)
+
+    for item in items:
+        body_norm = normalize_text(item["text"])
+        if not body_norm:
+            continue
+        for fid, note_norm in note_texts.items():
+            if not note_norm:
+                continue
+            # Skip short footnotes — likely inline citations, not leaked content
+            if len(note_norm) < MIN_LEAK_LEN:
+                continue
+            # Check if body paragraph contains footnote content (or vice versa)
+            if note_norm in body_norm or body_norm in note_norm:
+                leaked.append((item["id"], fid, item["text"]))
+    return leaked
+
+
+def detect_chapter_title(items):
+    """
+    Detect if the first body paragraph is a chapter title.
+    Returns (chapter_title_text, remaining_items) or (None, items).
+    """
+    if not items:
+        return None, items
+    first = items[0]
+    if CHAPTER_TITLE_RE.match(first["text"].strip()):
+        return first["text"], items[1:]
+    return None, items
+
+
+def is_running_header_or_page(text):
+    """Check if a line is a running header or standalone page number."""
+    t = text.strip()
+    if RUNNING_HEADER_RE.match(t):
+        return True
+    if STANDALONE_PAGE_RE.match(t):
+        return True
+    return False
 
 
 # ---------------------------------------------------------------- docx core
@@ -454,12 +537,30 @@ NOTES_GLOBAL = {}
 
 def build(ch):
     global NOTES_GLOBAL
-    items, notes = parse(V2 / ch / f"v1_{ch}_vi.txt")
+    chapter_title, items, notes = parse(V2 / ch / f"v1_{ch}_vi.txt")
     NOTES_GLOBAL = notes
     chap_label, vi_title = TITLES.get(ch, (ch, ch))
 
+    # Detect footnote content leaked into body — CRITICAL check before build
+    leaked = detect_footnote_content_in_body(items, notes)
+    if leaked:
+        detail = "; ".join(
+            f"PID={pid} contains FN[{fid}] content" for pid, fid, _ in leaked)
+        raise ValueError(
+            f"FOOTNOTE CONTENT IN BODY trong {ch}: {detail}. "
+            f"Xóa nội dung cước chú khỏi thân bài, giữ chỉ marker trước khi rebuild.")
+
     doc = setup_document()
     add_title_block(doc, chap_label, vi_title)
+
+    # Add detected chapter title as a separate heading block if present
+    if chapter_title:
+        ct = doc.add_paragraph()
+        ct.style = doc.styles["Heading 1"]
+        para_fmt(ct, align=WD_ALIGN_PARAGRAPH.CENTER, space_before=6, space_after=10, line=1.15)
+        run = ct.add_run(chapter_title)
+        set_run_font(run, size=16, bold=True, color=INK)
+
     ensure_footnote_styles(doc)
 
     next_id = [1]

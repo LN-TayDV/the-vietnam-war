@@ -1,0 +1,76 @@
+{
+  "1. Encoding UTF-8/NFC/LF": {
+    "pass": true,
+    "issues": []
+  },
+  "2. Orthography (soft hyphen, OCR artifacts)": {
+    "pass": false,
+    "issues": [
+      "v2_ch02_src.txt: 1 OCR artifact (letter-digit-hyphen-letter)",
+      "v2_ch13_src.txt: 2 OCR artifact (letter-digit-hyphen-letter)"
+    ]
+  },
+  "3. Cấu trúc đoạn (ID + page + type)": {
+    "pass": true,
+    "issues": []
+  },
+  "4. Footnote tách khỏi body": {
+    "pass": false,
+    "issues": [
+      "v2_ch02_src.txt dòng 25: footnote quá dài (1276 ký tự), khả năng bị gộp với body",
+      "v2_ch02_src.txt dòng 115: footnote quá dài (678 ký tự), khả năng bị gộp với body",
+      "v2_ch02_src.txt dòng 118: footnote quá dài (529 ký tự), khả năng bị gộp với body",
+      "v2_ch02_src.txt dòng 148: footnote quá dài (764 ký tự), khả năng bị gộp với body",
+      "v2_ch02_src.txt dòng 259: footnote quá dài (514 ký tự), khả năng bị gộp với body",
+      "v2_ch02_src.txt dòng 286: footnote quá dài (597 ký tự), khả năng bị gộp với body",
+      "v2_ch02_src.txt dòng 424: footnote quá dài (594 ký tự), khả năng bị gộp với body",
+      "v2_ch03_src.txt dòng 25: footnote quá dài (501 ký tự), khả năng bị gộp với body",
+      "v2_ch03_src.txt dòng 88: footnote quá dài (816 ký tự), khả năng bị gộp với body",
+      "v2_ch03_src.txt dòng 106: footnote quá dài (1079 ký tự), khả năng bị gộp với body",
+      "v2_ch03_src.txt dòng 172: footnote quá dài (676 ký tự), khả năng bị gộp với body",
+      "v2_ch03_src.txt dòng 394: footnote quá dài (608 ký tự), khả năng bị gộp với body",
+      "v2_ch04_src.txt dòng 43: footnote quá dài (567 ký tự), khả năng bị gộp với body",
+      "v2_ch04_src.txt dòng 70: footnote quá dài (919 ký tự), khả năng bị gộp với body",
+      "v2_ch04_src.txt dòng 118: footnote quá dài (505 ký tự), khả năng bị gộp với body",
+      "v2_ch04_src.txt dòng 238: footnote quá dài (868 ký tự), khả năng bị gộp với body",
+      "v2_ch04_src.txt dòng 247: footnote quá dài (584 ký tự), khả năng bị gộp với body",
+      "v2_ch04_src.txt dòng 304: footnote quá dài (529 ký tự), khả năng bị gộp với body",
+      "v2_ch04_src.txt dòng 307: footnote quá dài (624 ký tự), khả năng bị gộp với body",
+      "v2_ch05_src.txt dòng 94: footnote quá dài (627 ký tự), khả năng bị gộp với body",
+      "v2_ch05_src.txt dòng 106: footnote quá dài (686 ký tự), khả năng bị gộp với body",
+      "v2_ch05_src.txt dòng 166: footnote quá dài (1521 ký tự), khả năng bị gộp với body",
+      "v2_ch06_src.txt dòng 76: footnote quá dài (553 ký tự), khả năng bị gộp với body",
+      "v2_ch06_src.txt dòng 271: footnote quá dài (991 ký tự), khả năng bị gộp với body",
+      "v2_ch07_src.txt dòng 19: footnote quá dài (590 ký tự), khả năng bị gộp với body",
+      "v2_ch07_src.txt dòng 142: footnote quá dài (663 ký tự), khả năng bị gộp với body",
+      "v2_ch07_src.txt dòng 145: footnote quá dài (758 ký tự), khả năng bị gộp với body",
+      "v2_ch08_src.txt dòng 28: footnote quá dài (608 ký tự), khả năng bị gộp với body",
+      "v2_ch08_src.txt dòng 70: footnote quá dài (585 ký tự), khả năng bị gộp với body",
+      "v2_ch08_src.txt dòng 343: footnote quá dài (523 ký tự), khả năng bị gộp với body",
+      "v2_ch10_src.txt dòng 418: footnote quá dài (506 ký tự), khả năng bị gộp với body",
+      "v2_ch13_src.txt dòng 562: footnote quá dài (1219 ký tự), khả năng bị gộp với body",
+      "v2_ch13_src.txt dòng 577: footnote quá dài (1016 ký tự), khả năng bị gộp với body",
+      "v2_ch13_src.txt dòng 604: footnote quá dài (963 ký tự), khả năng bị gộp với body",
+      "v2_ch13_src.txt dòng 610: footnote quá dài (1218 ký tự), khả năng bị gộp với body",
+      "v2_ch13_src.txt dòng 655: footnote quá dài (882 ký tự), khả năng bị gộp với body"
+    ]
+  },
+  "5. Không fabricate / không header lọt (ch01-ch13)": {
+    "pass": false,
+    "issues": [
+      "v2_ch04_src.txt dòng 467: khả năng header lọt: 'Imperialism / would annex the planets if I could.'"
+    ]
+  },
+  "6. Văn phong (mỗi đoạn 1 dòng)": {
+    "pass": true,
+    "issues": []
+  },
+  "7. File tồn tại (14 source TXT)": {
+    "pass": true,
+    "issues": []
+  },
+  "8. Continuity manifest": {
+    "pass": true,
+    "issues": []
+  }
+}
