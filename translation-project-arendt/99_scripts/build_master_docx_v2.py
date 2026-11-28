@@ -67,6 +67,12 @@ FRONT = [
 ]
 
 SUP_RUN = re.compile(r"[" + SUP + r"]+")
+SUP_OR_GLOBAL = re.compile(r"(?:[" + SUP + r"]+|«\d+»)")
+
+
+def normalize_for_dedup(text: str) -> str:
+    """Normalize text for deduplication by removing footnote markers."""
+    return SUP_OR_GLOBAL.sub("", text)
 
 
 def remap_superscripts(text: str, offset: int) -> str:
@@ -78,24 +84,23 @@ def remap_superscripts(text: str, offset: int) -> str:
 
 
 def load_front_matter():
-    """Load v1 front matter/preface text files as body nodes."""
+    """Load v1 front matter/preface text files as body nodes using the parser."""
     nodes = []
     for key, label, title in FRONT:
         path = V1 / key / f"v1_{key}_vi.txt"
         if not path.exists():
             continue
+        # Use the parser to properly handle metadata headers and footnotes
         raw = path.read_text(encoding="utf-8").replace("\r\n", "\n")
-        # strip page artifacts / headers
-        lines = [ln.strip() for ln in raw.split("\n") if ln.strip()]
-        # first line often a title
+        model = parse(raw, chapter_label="", vi_title="")
+        # Add section heading
         nodes.append(DocNode(type="chapter", text=label, level=1,
                              metadata={"section": key}))
         if title:
             nodes.append(DocNode(type="section_h3", text=title, level=4,
                                  metadata={"section": key}))
-        for ln in lines:
-            nodes.append(DocNode(type="body", text=ln, level=0,
-                                 metadata={"section": key}))
+        # Add parsed nodes (they already have proper types from parser)
+        nodes.extend(model.nodes)
     return nodes
 
 
@@ -104,13 +109,15 @@ def build_master() -> tuple:
     layout = PageLayout()
 
     master = DocumentModel()
-    master.title = BOOK_TITLE
-    master.chapter_label = ""
+    master.title = "Nguồn Gốc Của Chủ Nghĩa Toàn Trị"  # Vietnamese book title
+    master.chapter_label = "PHẦN MỞ ĐẦU"  # Will be overridden per section
     global_footnotes: dict = {}
     offset = 0
 
     # Front matter first
     master.nodes.extend(load_front_matter())
+
+    seen_body_texts = set()
 
     for ch in CHAPTERS:
         src = V2 / ch / f"v1_{ch}_vi.txt"
@@ -127,11 +134,21 @@ def build_master() -> tuple:
         local_notes = dict(model.footnotes)
         for num, txt in local_notes.items():
             global_footnotes[num + offset] = txt
-        # remap body markers
+        # remap body markers and filter out duplicate chapter title nodes from parser
         for node in model.nodes:
             if node.type in ("body", "block_quote"):
+                # Check if paragraph has footnote markers
+                has_fn_markers = bool(SUP_RUN.search(node.text))
+                # Deduplicate: skip if normalized text already added AND no footnote markers
+                norm_text = normalize_for_dedup(node.text)
+                if norm_text in seen_body_texts and not has_fn_markers:
+                    continue
+                seen_body_texts.add(norm_text)
                 node.text = remap_superscripts(node.text, offset)
-        master.nodes.extend(model.nodes)
+            # Skip chapter/part title nodes from parser - we add explicit ones above
+            if node.type in ("chapter", "chapter_number", "part", "book_title", "author"):
+                continue
+            master.nodes.extend([node])
         offset += (max(local_notes.keys()) if local_notes else 0)
 
     master.footnotes = global_footnotes

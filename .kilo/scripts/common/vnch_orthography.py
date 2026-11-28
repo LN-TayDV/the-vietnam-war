@@ -17,7 +17,7 @@ from pathlib import Path
 def find_root() -> Path:
     here = Path(__file__).resolve()
     for parent in here.parents:
-        if (parent / "translation-project").is_dir():
+        if (parent / "translation-project-arendt").is_dir():
             return parent
     return Path.cwd()
 
@@ -194,7 +194,7 @@ def main():
     if args.file:
         file_path = Path(args.file)
     else:
-        ch_dir = root / "translation-project" / "04_translation" / args.volume.lower() / f"ch{args.chapter:02d}"
+        ch_dir = root / "translation-project-arendt" / "04_translation" / args.volume.lower() / f"ch{args.chapter:02d}"
         file_path = ch_dir / f"{args.volume.lower()}_ch{args.chapter:02d}_vi.txt"
     
     if not file_path.exists():
@@ -272,7 +272,7 @@ def main():
 def find_root() -> Path:
     here = Path(__file__).resolve()
     for parent in here.parents:
-        if (parent / "translation-project").is_dir():
+        if (parent / "translation-project-arendt").is_dir():
             return parent
     return Path.cwd()
 

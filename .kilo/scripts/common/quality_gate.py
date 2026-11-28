@@ -18,7 +18,7 @@ from pathlib import Path
 def find_root() -> Path:
     here = Path(__file__).resolve()
     for parent in here.parents:
-        if (parent / "translation-project").is_dir():
+        if (parent / "translation-project-arendt-arendt").is_dir():
             return parent
     return Path.cwd()
 
@@ -34,8 +34,8 @@ def run_cmd(cmd, cwd=None):
 
 def check_encoding(root: Path, volume: str, chapter: int) -> dict:
     """Tiêu chí 1: Encoding UTF-8, NFC, no BOM, LF."""
-    ch_dir = root / "translation-project" / "04_translation" / volume.lower() / f"ch{chapter:02d}"
-    vi_file = ch_dir / f"{volume.lower()}_ch{chapter:02d}_vi.txt"
+    ch_dir = root / "translation-project-arendt-arendt" / "04_translation" / volume.lower() / f"ch{chapter:02d}"
+    vi_file = ch_dir / f"{volume.lower()}_ch{chapter:02d}_vi_fixed.txt"
     src_file = ch_dir / f"{volume.lower()}_ch{chapter:02d}_src.txt"
     
     issues = []
@@ -86,11 +86,11 @@ def check_encoding(root: Path, volume: str, chapter: int) -> dict:
 
 def check_orthography(root: Path, volume: str, chapter: int) -> dict:
     """Tiêu chí 2: Orthography - 0x 'chính trị', 0x từ miền Bắc."""
-    ch_dir = root / "translation-project" / "04_translation" / volume.lower() / f"ch{chapter:02d}"
-    vi_file = ch_dir / f"{volume.lower()}_ch{chapter:02d}_vi.txt"
+    ch_dir = root / "translation-project-arendt" / "04_translation" / volume.lower() / f"ch{chapter:02d}"
+    vi_file = ch_dir / f"{volume.lower()}_ch{chapter:02d}_vi_fixed.txt"
     
     if not vi_file.exists():
-        return {"criterion": 2, "name": "Orthography", "pass": False, "issues": ["VI file not found"]}
+        return {"criterion": 2, "name": "Orthography", "pass": False, "issues": ["VI fixed file not found"]}
     
     with open(vi_file, 'r', encoding='utf-8') as f:
         text = f.read()
@@ -206,8 +206,8 @@ def check_orthography(root: Path, volume: str, chapter: int) -> dict:
 
 def check_alignment(root: Path, volume: str, chapter: int) -> dict:
     """Tiêu chí 3: Đồng bộ đoạn src = vi."""
-    ch_dir = root / "translation-project" / "04_translation" / volume.lower() / f"ch{chapter:02d}"
-    vi_file = ch_dir / f"{volume.lower()}_ch{chapter:02d}_vi.txt"
+    ch_dir = root / "translation-project-arendt" / "04_translation" / volume.lower() / f"ch{chapter:02d}"
+    vi_file = ch_dir / f"{volume.lower()}_ch{chapter:02d}_vi_fixed.txt"
     src_file = ch_dir / f"{volume.lower()}_ch{chapter:02d}_src.txt"
     
     if not vi_file.exists() or not src_file.exists():
@@ -246,8 +246,8 @@ def check_alignment(root: Path, volume: str, chapter: int) -> dict:
 
 def check_footnotes_alignment(root: Path, volume: str, chapter: int) -> dict:
     """Tiêu chí 4: Đồng bộ cước chú."""
-    ch_dir = root / "translation-project" / "04_translation" / volume.lower() / f"ch{chapter:02d}"
-    vi_file = ch_dir / f"{volume.lower()}_ch{chapter:02d}_vi.txt"
+    ch_dir = root / "translation-project-arendt" / "04_translation" / volume.lower() / f"ch{chapter:02d}"
+    vi_file = ch_dir / f"{volume.lower()}_ch{chapter:02d}_vi_fixed.txt"
     src_file = ch_dir / f"{volume.lower()}_ch{chapter:02d}_src.txt"
     
     if not vi_file.exists() or not src_file.exists():
@@ -293,8 +293,8 @@ def check_footnotes_alignment(root: Path, volume: str, chapter: int) -> dict:
 def check_fabricate(root: Path, volume: str, chapter: int) -> dict:
     """Tiêu chí 5: Không fabricate."""
     # This is mostly manual, but we can check for obvious patterns
-    ch_dir = root / "translation-project" / "04_translation" / volume.lower() / f"ch{chapter:02d}"
-    vi_file = ch_dir / f"{volume.lower()}_ch{chapter:02d}_vi.txt"
+    ch_dir = root / "translation-project-arendt" / "04_translation" / volume.lower() / f"ch{chapter:02d}"
+    vi_file = ch_dir / f"{volume.lower()}_ch{chapter:02d}_vi_fixed.txt"
     
     if not vi_file.exists():
         return {"criterion": 5, "name": "Không fabricate", "pass": False, "issues": ["VI file not found"]}
@@ -323,8 +323,8 @@ def check_fabricate(root: Path, volume: str, chapter: int) -> dict:
 
 def check_writing_style(root: Path, volume: str, chapter: int) -> dict:
     """Tiêu chí 6: Văn phong tự nhiên (S1-S20, P1-P10)."""
-    ch_dir = root / "translation-project" / "04_translation" / volume.lower() / f"ch{chapter:02d}"
-    vi_file = ch_dir / f"{volume.lower()}_ch{chapter:02d}_vi.txt"
+    ch_dir = root / "translation-project-arendt" / "04_translation" / volume.lower() / f"ch{chapter:02d}"
+    vi_file = ch_dir / f"{volume.lower()}_ch{chapter:02d}_vi_fixed.txt"
     
     if not vi_file.exists():
         return {"criterion": 6, "name": "Văn phong tự nhiên", "pass": False, "issues": ["VI file not found"]}
@@ -424,8 +424,8 @@ def check_writing_style(root: Path, volume: str, chapter: int) -> dict:
 
 def check_docx_exists(root: Path, volume: str, chapter: int) -> dict:
     """Tiêu chí 7: DOCX tồn tại."""
-    docx_dir = root / "translation-project" / "09_docx"
-    pattern = f"V{volume[-1]}-C{chapter:02d}_*.docx"
+    docx_dir = root / "translation-project-arendt" / "09_docx"
+    pattern = f"V{volume[-1]}-{chapter:02d}_*.docx"
     files = list(docx_dir.glob(pattern))
     
     return {
@@ -440,8 +440,8 @@ def check_docx_exists(root: Path, volume: str, chapter: int) -> dict:
 def check_docx_footnotes(root: Path, volume: str, chapter: int) -> dict:
     """Tiêu chí 8: DOCX cước chú & bố cục - cần Word COM."""
     # This requires Word COM, return info for manual check
-    ch_dir = root / "translation-project" / "04_translation" / volume.lower() / f"ch{chapter:02d}"
-    vi_file = ch_dir / f"{volume.lower()}_ch{chapter:02d}_vi.txt"
+    ch_dir = root / "translation-project-arendt" / "04_translation" / volume.lower() / f"ch{chapter:02d}"
+    vi_file = ch_dir / f"{volume.lower()}_ch{chapter:02d}_vi_fixed.txt"
     
     if not vi_file.exists():
         return {"criterion": 8, "name": "DOCX cước chú & bố cục", "pass": False, "issues": ["VI file not found"]}
@@ -483,7 +483,7 @@ def main():
     
     chapters = []
     if args.all:
-        trans_dir = root / "translation-project" / "04_translation" / args.volume.lower()
+        trans_dir = root / "translation-project-arendt" / "04_translation" / args.volume.lower()
         for d in sorted(trans_dir.iterdir()):
             if d.is_dir() and d.name.startswith("ch"):
                 try:
@@ -557,7 +557,7 @@ def main():
 def find_root() -> Path:
     here = Path(__file__).resolve()
     for parent in here.parents:
-        if (parent / "translation-project").is_dir():
+        if (parent / "translation-project-arendt").is_dir():
             return parent
     return Path.cwd()
 

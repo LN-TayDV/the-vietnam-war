@@ -205,7 +205,20 @@ def check_master():
         return
     doc = Document(str(p))
     fn_refs = len(re.findall(r"footnoteReference", doc.element.xml))
-    rec("3 Footnotes", "MASTER", fn_refs == 892, f"refs={fn_refs}/892")
+    # Expected total = sum of chapter footnotes (from chapter source files)
+    expected_total = 0
+    for i in range(1, 14):
+        ch = f"ch{i:02d}"
+        txt_path = V2 / ch / f"v1_{ch}_vi.txt"
+        if txt_path.exists():
+            raw = txt_path.read_text(encoding="utf-8")
+            parts = raw.split("=== FOOTNOTES ===")
+            if len(parts) > 1:
+                fn_section = parts[1]
+                # Count footnote definition lines (each starts with superscript)
+                fn_count = len(re.findall(r'^[¹²³⁴⁵⁶⁷⁸⁹]', fn_section, re.MULTILINE))
+                expected_total += fn_count
+    rec("3 Footnotes", "MASTER", fn_refs == expected_total, f"refs={fn_refs}/{expected_total}")
     # structure
     has_fn = any("footnotes" in r.reltype for r in doc.part.rels.values())
     rec("2 DOCX structure", "MASTER", has_fn, f"fn_part={has_fn}")

@@ -117,23 +117,29 @@
     },
     "ch08": {
       "pages": "267-311",
-      "status": "structure_verified",
+      "status": "translating",
       "checkpoint": 1,
       "output": "04_translation/v2/ch08/v1_ch08_vi.txt",
       "docx": "09_docx/V2-08_Chu-Nghia-De-Quoc-Luc-Dia-Cac-Phong-Trao-Pan.docx",
       "docx_status": "DONE",
       "footnotes": 0,
-      "words": 0
+      "words": 28194,
+      "translated_paragraphs": 218,
+      "total_paragraphs": 219,
+      "updated": "2026-11-28"
     },
     "ch09": {
       "pages": "312-349",
-      "status": "structure_verified",
+      "status": "translating",
       "checkpoint": 1,
       "output": "04_translation/v2/ch09/v1_ch09_vi.txt",
       "docx": "09_docx/V2-09_Su-Suy-Tan-Cua-Quoc-Gia-Quoc-Dan-va-Het-Han-Quyen-Con-Nguoi.docx",
       "docx_status": "DONE",
       "footnotes": 0,
-      "words": 0
+      "words": 26864,
+      "translated_paragraphs": 176,
+      "total_paragraphs": 176,
+      "updated": "2026-11-28"
     },
     "ch10": {
       "pages": "350-387",

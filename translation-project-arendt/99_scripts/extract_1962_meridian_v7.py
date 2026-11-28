@@ -27,9 +27,9 @@ from collections import OrderedDict
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-PDF_PATH = r"C:\Users\PC\Documents\AI_project\the-vietnam-war\books\hannah-arendt-the-origins-of-totalitarianism-meridian-1962.pdf"
+PDF_PATH = "/workspaces/the-vietnam-war/books/hannah-arendt-the-origins-of-totalitarianism-meridian-1962.pdf"
 
-BASE = r"C:\Users\PC\Documents\AI_project\the-vietnam-war\translation-project-arendt"
+BASE = "/workspaces/the-vietnam-war/translation-project-arendt"
 RAW_DIR = os.path.join(BASE, "01_raw_text", "meridian_1962")
 V7_DIR = os.path.join(BASE, "02_extracted_text", "v7")
 os.makedirs(V7_DIR, exist_ok=True)

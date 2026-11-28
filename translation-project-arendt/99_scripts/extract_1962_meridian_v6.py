@@ -17,9 +17,9 @@ import re
 import json
 import unicodedata
 
-PDF_PATH = r"C:\Users\PC\Documents\AI_project\the-vietnam-war\books\hannah-arendt-the-origins-of-totalitarianism-meridian-1962.pdf"
+PDF_PATH = r"/workspaces/the-vietnam-war/books/hannah-arendt-the-origins-of-totalitarianism-meridian-1962.pdf"
 
-BASE = r"C:\Users\PC\Documents\AI_project\the-vietnam-war\translation-project-arendt"
+BASE = r"/workspaces/the-vietnam-war/translation-project-arendt"
 RAW_DIR = os.path.join(BASE, "01_raw_text", "meridian_1962")
 V2_DIR = os.path.join(BASE, "02_extracted_text", "v2")
 os.makedirs(RAW_DIR, exist_ok=True)

@@ -18,25 +18,31 @@ from difflib import SequenceMatcher
 def find_root() -> Path:
     here = Path(__file__).resolve()
     for parent in here.parents:
-        if (parent / "translation-project").is_dir():
+        if (parent / "translation-project-arendt").is_dir():
             return parent
     return Path.cwd()
 
 
 def extract_paragraphs(text: str) -> list:
     """Trích xuất các đoạn với marker và nội dung."""
-    # Pattern: --- [V1C02-P001] (trang 44) --- hoặc --- [V1C02-P001] (trang 44) — đề mục ---
-    pattern = r'(--- \[(V\d+C\d{2}-P\d{3})\] \([^)]+\) (?:—[^—]*— )?---)(.*?)(?=--- \[V\d+C\d{2}-P\d{3}\]|--- \[Cước chú|$)'
+    # Format: [V1C01-P001] (trang 1)\ncontent\n\n[V1C01-P002] (trang 2)\ncontent
+    # Or English: [V1-CH-P001] (trang 23)\ncontent\n\n[V1-CH-P002] (trang 23)\ncontent
+    # Match any [V1...] (trang ...) pattern
+    pattern = r'(\[V1[^\]]+\] \(trang \d+\))\n(.*?)(?=\n\[V1[^\]]+\] \(trang \d+\)|\n=== FOOTNOTES ===|$)'
     matches = re.findall(pattern, text, re.DOTALL)
     
     paragraphs = []
-    for match in matches:
-        full_marker = match[0]
-        para_id = match[1]
-        content = match[2].strip()
+    for i, (marker, content) in enumerate(matches):
+        # Extract paragraph ID from marker
+        para_id_match = re.search(r'\[(V1[^\]]+)\]', marker)
+        if para_id_match:
+            pid = para_id_match.group(1)
+        else:
+            pid = f"P{i+1:03d}"
+        content = content.strip()
         paragraphs.append({
-            "id": para_id,
-            "marker": full_marker.strip(),
+            "id": pid,
+            "marker": marker.strip(),
             "content": content,
             "char_count": len(content),
             "sentence_count": len([s for s in re.split(r'[.!?]+', content) if s.strip()])
@@ -47,19 +53,27 @@ def extract_paragraphs(text: str) -> list:
 def extract_footnotes(text: str) -> list:
     """Trích xuất cước chú."""
     # Find footnote section
-    fn_match = re.search(r'--- \[Cước chú trang [^\]]+\] ---\n(.*)', text, re.DOTALL)
+    fn_match = re.search(r'=== FOOTNOTES ===\n(.*)', text, re.DOTALL)
     if not fn_match:
         return []
     
     fn_text = fn_match.group(1)
-    # Pattern: [1] text or 1 text
-    fn_pattern = r'(?:^|\n)(\[?\d+\]?)\s*(.*?)(?=\n\[?\d+\]?\s*|\Z)'
+    # Pattern: superscript numbers like ¹, ², ³ or [1], 1., etc.
+    SUP = "⁰¹²³⁴⁵⁶⁷⁸⁹"
+    fn_pattern = r'(?:^|\n)([' + SUP + r']+|\d+)\.?\s*(.*?)(?=\n[' + SUP + r']+|\n\d+\.?\s|\Z)'
     matches = re.findall(fn_pattern, fn_text, re.DOTALL)
     
     footnotes = []
     for num, text in matches:
+        # Convert superscript to number
+        if num[0] in SUP:
+            n = ""
+            for c in num:
+                if c in SUP:
+                    n += str(SUP.index(c))
+            num = n
         footnotes.append({
-            "number": num.strip('[]'),
+            "number": num.strip(),
             "text": text.strip()
         })
     return footnotes
@@ -155,17 +169,32 @@ def compare_footnotes(src_fns: list, vi_fns: list) -> dict:
 
 
 def check_markers_inline(vi_text: str) -> dict:
-    """Kiểm tra marker cước chú [N] trong thân bài."""
+    """Kiểm tra marker cước chú [N] hoặc superscript trong thân bài."""
+    SUP = "⁰¹²³⁴⁵⁶⁷⁸⁹"
+    # Only search body text (before === FOOTNOTES ===)
+    body = vi_text.split("=== FOOTNOTES ===")[0]
     # Find all [N] patterns in text
-    markers = re.findall(r'\[(\d+)\]', vi_text)
-    marker_nums = [int(m) for m in markers]
+    bracket_markers = re.findall(r'\[(\d+)\]', body)
+    # Find all superscript runs
+    sup_runs = re.findall(r'[' + SUP + r']+', body)
+    sup_markers = []
+    for run in sup_runs:
+        n = ""
+        for c in run:
+            if c in SUP:
+                n += str(SUP.index(c))
+        if n:
+            sup_markers.append(int(n))
+    
+    bracket_nums = [int(m) for m in bracket_markers]
+    all_markers = bracket_nums + sup_markers
     
     return {
-        "total_markers": len(marker_nums),
-        "unique_markers": len(set(marker_nums)),
-        "sequence": marker_nums,
-        "has_duplicates": len(marker_nums) != len(set(marker_nums)),
-        "max_marker": max(marker_nums) if marker_nums else 0
+        "total_markers": len(all_markers),
+        "unique_markers": len(set(all_markers)),
+        "sequence": all_markers,
+        "has_duplicates": len(all_markers) != len(set(all_markers)),
+        "max_marker": max(all_markers) if all_markers else 0
     }
 
 
@@ -184,7 +213,7 @@ def main():
     args = parser.parse_args()
     root = Path(args.root) if args.root else find_root()
     
-    ch_dir = root / "translation-project" / "04_translation" / args.volume.lower() / f"ch{args.chapter:02d}"
+    ch_dir = root / "translation-project-arendt" / "04_translation" / args.volume.lower() / f"ch{args.chapter:02d}"
     vi_file = ch_dir / f"{args.volume.lower()}_ch{args.chapter:02d}_vi.txt"
     src_file = ch_dir / f"{args.volume.lower()}_ch{args.chapter:02d}_src.txt"
     
@@ -263,7 +292,7 @@ def main():
 def find_root() -> Path:
     here = Path(__file__).resolve()
     for parent in here.parents:
-        if (parent / "translation-project").is_dir():
+        if (parent / "translation-project-arendt").is_dir():
             return parent
     return Path.cwd()
 

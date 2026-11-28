@@ -24,7 +24,8 @@ SUP = "⁰¹²³⁴⁵⁶⁷⁸⁹"
 
 
 def parse_paras(text):
-    parts = re.split(r"(?m)^\[(V1\w*-?C\d+-P\d{3})\] \(trang (\d+)\)\s*$", text)
+    # Match both English source format [V1-CH-P001] and Vietnamese format [V1C01-P001]
+    parts = re.split(r"(?m)^\[(V1[\w-]*C\d+-P\d{3})\] \(trang (\d+)\)\s*$", text)
     out = []
     i = 1
     while i < len(parts):
@@ -50,7 +51,7 @@ def fn_num(s):
 
 
 def check(ch):
-    src_p = SRC / f"{ch}_src.txt"
+    src_p = SRC / f"v2_{ch}_src.txt"
     vi_candidates = list((V2 / ch).glob("*.txt")) if (V2 / ch).exists() else []
     if not src_p.exists() or not vi_candidates:
         print(f"SKIP {ch}: missing src or vi")
